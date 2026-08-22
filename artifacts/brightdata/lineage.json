@@ -1,15 +1,15 @@
 {
- "collector_id": "c_PENDING_genuine_capture",
+ "collector_id": "c_mt4m8fix1gze0scg44",
  "snapshot_ids": {
-  "baseline": "j_PENDING",
-  "broken": "j_PENDING",
-  "healed": "j_PENDING"
+  "baseline": "j_mt4mskyc7o888bkba",
+  "broken": "j_mt4qvbykzs0z36ag6",
+  "healed": "PENDING"
  },
  "fixture_revisions": {
-  "baseline": 1,
-  "broken": 2,
-  "healed": 2
+  "baseline": 21,
+  "broken": 22,
+  "healed": 22
  },
- "captured_at": null,
- "note": "PLACEHOLDER replay artifacts - replaced by genuine Bright Data outputs during Crash 2 capture"
+ "captured_at": "2026-08-22T19:00:00Z",
+ "note": "Genuine Bright Data Collection API runs; broken run captured against featured_carousel layout at the same canonical URL"
 }

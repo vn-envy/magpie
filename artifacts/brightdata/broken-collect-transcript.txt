@@ -1,8 +1,15 @@
 $ tsx scripts/magpie.ts collect --source source_support_platforms --purpose monitoring
 Triggering collector c_mt4m8fix1gze0scg44 on https://magpie-lab.netlify.app/lab/source (monitoring)...
-Bright Data snapshot: j_mt4qic011pisx5z7q6
-.............................................
+Bright Data snapshot: j_mt4qvbykzs0z36ag6
+...
 
-Rows: 0 (of 0 returned)
+Rows: 7 (of 7 returned)
+  #4 ResolveHub
+  #5 TicketForge
+  #6 CaseCraft
+  #7 ZenQueue
+  #8 OrbitDesk
+  #9 HelixDesk
+  #10 SupportLoop
 
 Saved: artifacts/brightdata/monitoring-output.json (+meta)

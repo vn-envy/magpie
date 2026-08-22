@@ -1,0 +1,43 @@
+{
+ "classification": "UNTRUSTED_OBSERVATION",
+ "publish_allowed": false,
+ "structural_valid": true,
+ "signals": [
+  {
+   "name": "record_count",
+   "severity": "blocking",
+   "expected": 10,
+   "observed": 7,
+   "message": "Record count 7 below hard minimum 10 (ratio 70%)."
+  },
+  {
+   "name": "rank_start",
+   "severity": "blocking",
+   "expected": 1,
+   "observed": 4,
+   "message": "Ordered source begins at rank 4 instead of 1."
+  },
+  {
+   "name": "missing_ranks",
+   "severity": "blocking",
+   "expected": 0,
+   "observed": "1, 2, 3",
+   "message": "Ranks missing from the expected sequence: 1, 2, 3."
+  }
+ ],
+ "failed_checks": [
+  "record_count",
+  "rank_start",
+  "missing_ranks"
+ ],
+ "record_count": 7,
+ "ranks": [
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ]
+}

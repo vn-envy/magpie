@@ -7,7 +7,7 @@ const HEAL_TIMELINE = [
   { status: "done", label: "OPEN — semantic failure detected" },
   { status: "done", label: "DIAGNOSING — page inspection confirms extraction drift" },
   { status: "done", label: "READY_TO_HEAL — repair prompt generated" },
-  { status: "done", label: "HEALING — Codex runs bdata scraper heal" },
+  { status: "done", label: "HEALING — coding agent runs bdata scraper heal" },
   { status: "done", label: "AWAITING_APPROVAL — human reviews the proposed diff" },
   { status: "done", label: "APPLYING_REPAIR — approved, auto-saved to production" },
   { status: "done", label: "VERIFYING — same Collector ID rerun against the changed page" },

@@ -3,7 +3,7 @@
  "snapshot_ids": {
   "baseline": "j_mt4mskyc7o888bkba",
   "broken": "j_mt4qvbykzs0z36ag6",
-  "healed": "PENDING"
+  "healed": "j_mt4s453e2aktj9woky"
  },
  "fixture_revisions": {
   "baseline": 21,
@@ -11,5 +11,10 @@
   "healed": 22
  },
  "captured_at": "2026-08-22T19:00:00Z",
- "note": "Genuine Bright Data Collection API runs; broken run captured against featured_carousel layout at the same canonical URL"
+ "note": "Complete genuine loop: 10 -> 7 (blocked) -> heal v3 -> 10 (verified) -> regression caught -> heal v4 -> robust on both layouts and changed facts",
+ "heal_rounds": {
+  "v1": "verbose prompt, weak preview (legacy rows only) - human rejected",
+  "v3": "terse carousel fix - verified 10 rows hash-identical on Layout B, but regressed to 0 rows on Layout A (caught by trust gate)",
+  "v4": "both-layouts repair - human approved; 10 rows hash-identical on Layout A AND Layout B; new facts correctly extracted"
+ }
 }

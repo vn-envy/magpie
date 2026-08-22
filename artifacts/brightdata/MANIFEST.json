@@ -1,8 +1,16 @@
 {
- "generated_at": "2026-08-22T19:06:52.408Z",
+ "generated_at": "2026-08-22T19:38:41.981Z",
  "note": "SHA-256 of every genuine Bright Data artifact in this directory",
  "artifacts": {
   "approve-envelope-creation.json": {
+   "sha256": "3e73f6179541ed497e021bb3322765116f9910d87289c4841f0ef6ed76aaab17",
+   "bytes": 404
+  },
+  "approve-envelope-v4.json": {
+   "sha256": "3e73f6179541ed497e021bb3322765116f9910d87289c4841f0ef6ed76aaab17",
+   "bytes": 404
+  },
+  "approve-envelope.json": {
    "sha256": "3e73f6179541ed497e021bb3322765116f9910d87289c4841f0ef6ed76aaab17",
    "bytes": 404
   },
@@ -54,6 +62,10 @@
    "sha256": "08cae3eebbcbd4520bbb7c1760868d5a9b9c5d21d20001052f66c219bf88eb49",
    "bytes": 2962
   },
+  "competitor-move-output.json": {
+   "sha256": "6d4f7240f832e113ee271c3f8ef9ec65d75cab29d8075fc5d32dcaa1f5a56dd0",
+   "bytes": 6677
+  },
   "create-transcript-attempt2.txt": {
    "sha256": "6f8f8456730487cce83f6669f94ce0ab9f464ee1470430e503c285e12dcc43bd",
    "bytes": 24289
@@ -78,6 +90,22 @@
    "sha256": "492712912ce5cd67e5ae9a250fc6fc24f4c51972c831d9a835db4cf0fe12fcbd",
    "bytes": 1823
   },
+  "heal-envelope-v1.json": {
+   "sha256": "747fca4ea8ed3e618f66b03a375c72bf382212a544508d389bd9c2f72b0115db",
+   "bytes": 1814
+  },
+  "heal-envelope-v2.json": {
+   "sha256": "9c6c408fc75a8ad8c0e6ac1a6f653a30a3d3ab2b2727099aa763cfbf5c34a598",
+   "bytes": 1860
+  },
+  "heal-envelope-v3.json": {
+   "sha256": "dc69e07216e845282e12249eaab7c7a8a2e369b5177cf43228c4cc36316b2e14",
+   "bytes": 1815
+  },
+  "heal-envelope-v4.json": {
+   "sha256": "c7ee65eae287fd11038939b907c7126c54e7a0fbbb9649a6b4337a001c2b7b08",
+   "bytes": 2013
+  },
   "heal-envelope.json": {
    "sha256": "747fca4ea8ed3e618f66b03a375c72bf382212a544508d389bd9c2f72b0115db",
    "bytes": 1814
@@ -90,25 +118,45 @@
    "sha256": "8c8e17edccbebc754376bf3ecc3fd02df0642f4f0b66e483cdfe5a3286f09d4b",
    "bytes": 2311
   },
+  "healed-assessment.json": {
+   "sha256": "3b55828f962741346f87185adfb627c28b756175bbbf899440e749defce66af0",
+   "bytes": 212
+  },
   "healed-output.json": {
-   "sha256": "74c3e47fb1fd3129d160ba4ab6eb95d7e64d4f14ab058943eff0581a11890995",
-   "bytes": 5742
+   "sha256": "41ffe673d58ccca420a2f06dd5906aab411660aadb01caa767bede1f1f4f5943",
+   "bytes": 6651
+  },
+  "layout-a-regression-output.json": {
+   "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+   "bytes": 2
   },
   "lineage.json": {
-   "sha256": "08dd789afeae5a6123505a1da744db00b2e9bf00bd7c5556235ce2fa4d0e2129",
-   "bytes": 409
+   "sha256": "efe1052e3044c9b604e3a2d4923d9ba944f35150efbdb2b92be4542123bec2f9",
+   "bytes": 808
   },
   "monitoring-meta.json": {
-   "sha256": "24492b61949f1d4e560d2f3b94177b3674e1ff8f86632142690cb148cbdfd5dc",
-   "bytes": 751
+   "sha256": "2ae3b2fa5d90868c00d99b06e4be1286df46d251e75efd3beaa3f460a62a14aa",
+   "bytes": 754
   },
   "monitoring-output.json": {
-   "sha256": "c0b78b2baeab0ae5861dc0cf773b206602f0b0c8796cdbccddb7d466657c5bfa",
-   "bytes": 4602
+   "sha256": "6d4f7240f832e113ee271c3f8ef9ec65d75cab29d8075fc5d32dcaa1f5a56dd0",
+   "bytes": 6677
   },
   "post-heal-verify.json": {
    "sha256": "284f4f6fed2891510e524c1c097fc34f496ac5d5d49e3e48f9babb2541a28bd0",
    "bytes": 5849
+  },
+  "verification-collect-transcript.txt": {
+   "sha256": "24b173dd6ccd023fb18663c97b4ff2e7c1a18a4fdc6bfa9c3828d2d5c5f8f2ae",
+   "bytes": 517
+  },
+  "verification-inc_001-meta.json": {
+   "sha256": "5ea73e97e5d83430570356ec9393bbb8b2311b276ef01ef30800d1b1ca29abaa",
+   "bytes": 761
+  },
+  "verification-inc_001-output.json": {
+   "sha256": "41ffe673d58ccca420a2f06dd5906aab411660aadb01caa767bede1f1f4f5943",
+   "bytes": 6651
   }
  }
 }

@@ -1,12 +1,12 @@
 {
- "purpose": "monitoring",
- "incident": null,
+ "purpose": "verification",
+ "incident": "inc_001",
  "collector_id": "c_mt4m8fix1gze0scg44",
- "brightdata_snapshot_id": "j_mt4s5hnk2bnitrl3bv",
+ "brightdata_snapshot_id": "j_mt4s453e2aktj9woky",
  "target_url": "https://magpie-lab.netlify.app/lab/source",
- "captured_at": "2026-08-22T19:37:46.512Z",
+ "captured_at": "2026-08-22T19:36:49.180Z",
  "brightdata_log": {
-  "id": "j_mt4s5hnk2bnitrl3bv",
+  "id": "j_mt4s453e2aktj9woky",
   "status": "done",
   "collector": "c_mt4m8fix1gze0scg44",
   "template": "t_mt4mh31stspteyntg.4",
@@ -18,12 +18,12 @@
   "pages_left": 0,
   "success": 1,
   "navigations": 1,
-  "created": "2026-08-22T19:37:28.036Z",
-  "started": "2026-08-22T19:37:28.106Z",
-  "finished": "2026-08-22T19:37:43.428Z",
+  "created": "2026-08-22T19:36:25.104Z",
+  "started": "2026-08-22T19:36:25.190Z",
+  "finished": "2026-08-22T19:36:42.593Z",
   "trigger": "vatsaneekhil@gmail.com",
   "success_rate": 1,
-  "job_time": 15322,
-  "queue_time": 70
+  "job_time": 17403,
+  "queue_time": 86
  }
 }

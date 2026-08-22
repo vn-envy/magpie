@@ -20,11 +20,23 @@ A Bright Data Scraper Studio collector extracts ranked B2B vendor evidence from 
 |---|---|---|---:|---|---|
 | Baseline | success (`j_mt4mskyc7o888bkba`) | valid | 10 | 1–10 | ✅ |
 | Source redesigns; **same collector** | success (`j_mt4qvbykzs0z36ag6`) | **valid** | **7** | **4–10** | ❌ blocked |
-| After Self-Healing (same Collector ID) | success (see artifacts) | valid | 10 | 1–10 | ✅ |
+| After Self-Healing (same Collector ID) | success (`j_mt4s453e2aktj9woky`) | valid | 10 | 1–10 | ✅ |
 
 The broken run is the dangerous one: transport-successful, schema-valid, and semantically incomplete. A naive product would publish it and tell the growth team that **NimbusDesk — the tracked brand, previously #2 — disappeared from the source**. Nothing actually changed in the market; the top three vendors had merely moved into a JavaScript carousel the collector no longer understood.
 
 Magpie's deterministic trust engine blocks that conclusion, quarantines the run, keeps serving the last trusted snapshot, and hands the coding agent a precise repair instruction. Bright Data Self-Healing rewrites the collector behind a **human approval gate**, and the same Collector ID is rerun — verified against the unchanged contract before anything reaches the dashboard.
+
+## Multi-round healing: the trust gate catches overfit repairs too
+
+The healing story genuinely iterated, with a human deciding at every gate:
+
+| Round | Prompt approach | Outcome |
+|---|---|---|
+| V1 | Verbose, prescriptive | Preview showed only legacy rows — **human rejected** |
+| V3 | Terse carousel fix | Restored 10 rows on the redesigned page, **business-facts hash identical to baseline** — human approved, verified. But on the *original* layout it regressed to 0 rows — **caught by Magpie's trust gate** (empty result = quarantined, never published) |
+| V4 | Handle **both** layouts | Human approved. Verified on three genuine runs: original layout → 10 rows hash-identical; redesigned layout → 10 rows hash-identical; changed facts (competitor moves #3→#2 with new evidence) → 10 rows, correctly classified `TRUSTED_SOURCE_CHANGE` and published |
+
+The last row also demonstrates the scope boundary: **Magpie does not heal every unfavorable result.** A genuine market change (HelioSupport overtaking NimbusDesk with stronger evidence) passes every check, publishes, and produces a "close the evidence gap" insight — not a repair.
 
 ## Genuine Bright Data artifacts
 

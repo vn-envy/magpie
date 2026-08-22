@@ -3,6 +3,7 @@ import {
   getFixtureState,
   updateFixtureState,
   isLocked,
+  blobHealth,
   type LayoutMode,
   type FactsMode,
 } from "@/lib/fixture/state";
@@ -22,7 +23,16 @@ function stateResponse(state: Awaited<ReturnType<typeof getFixtureState>>) {
 }
 
 export async function GET() {
-  return stateResponse(await getFixtureState());
+  const [state, health] = await Promise.all([getFixtureState(), blobHealth()]);
+  return NextResponse.json(
+    { ...state, ...health },
+    {
+      headers: {
+        "Cache-Control": "no-store",
+        "X-Fixture-Revision": String(state.revision),
+      },
+    },
+  );
 }
 
 export async function POST(request: NextRequest) {

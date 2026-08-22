@@ -1,4 +1,5 @@
 import "server-only";
+import { getStore } from "@netlify/blobs";
 
 export type LayoutMode = "legacy_cards" | "featured_carousel";
 export type FactsMode = "baseline" | "competitor_move";
@@ -26,17 +27,12 @@ export const DEFAULT_STATE: FixtureState = {
 };
 
 // Memory fallback so `next dev` without the Netlify runtime still works;
-// production always goes through Netlify Blobs so all function instances agree.
+// production goes through Netlify Blobs so all function instances agree.
 let memoryState: FixtureState = DEFAULT_STATE;
-
-async function blobStore() {
-  const { getStore } = await import("@netlify/blobs");
-  return getStore("magpie_fixture");
-}
 
 export async function getFixtureState(): Promise<FixtureState> {
   try {
-    const store = await blobStore();
+    const store = await getStore("magpie_fixture");
     const raw = await store.get("state", { type: "json" });
     return raw ? { ...DEFAULT_STATE, ...raw } : DEFAULT_STATE;
   } catch {
@@ -59,7 +55,7 @@ export async function updateFixtureState(
     updated_by: actor,
   };
   try {
-    const store = await blobStore();
+    const store = await getStore("magpie_fixture");
     await store.setJSON("state", next);
   } catch {
     memoryState = next;
@@ -70,4 +66,16 @@ export async function updateFixtureState(
 export function isLocked(state: FixtureState): boolean {
   if (state.locked_by_run_id || state.locked_by_incident_id) return true;
   return Boolean(state.locked_until && new Date(state.locked_until) > new Date());
+}
+
+// Temporary production diagnostic: reports whether Netlify Blobs is reachable
+// from this function instance so the control API can surface storage health.
+export async function blobHealth(): Promise<{ blob_ok: boolean; error?: string }> {
+  try {
+    const store = await getStore("magpie_fixture");
+    await store.setJSON("health", { at: new Date().toISOString() });
+    return { blob_ok: true };
+  } catch (error) {
+    return { blob_ok: false, error: error instanceof Error ? error.message : String(error) };
+  }
 }

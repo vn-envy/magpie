@@ -1,0 +1,9 @@
+Creating scraper template...
+Template created: c_mt47ospko9mrznrwx
+Triggering AI generation...
+Failed to start AI generation for collector c_mt47ospko9mrznrwx: Error: Invalid description
+  Status: 400
+{"collector_id":"c_mt47ospko9mrznrwx","name":"cli-scraper-1787393076","status":"ai_trigger_failed","completed_steps":[],"view_url":"https://brightdata.com/cp/scrapers/c_mt47ospko9mrznrwx","created_at":"2026-08-22T10:04:36.824Z","error":"Invalid description"}
+Note: a half-built collector was created at c_mt47ospko9mrznrwx.
+Open https://brightdata.com/cp/scrapers/c_mt47ospko9mrznrwx to inspect or delete it manually in the web UI.
+(Bright Data does not yet expose programmatic deletion.)

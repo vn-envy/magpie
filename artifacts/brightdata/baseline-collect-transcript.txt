@@ -1,0 +1,18 @@
+$ tsx scripts/magpie.ts collect --source source_support_platforms --purpose baseline
+Triggering collector c_mt4m8fix1gze0scg44 on https://magpie-lab.netlify.app/lab/source (baseline)...
+Bright Data snapshot: j_mt4mskyc7o888bkba
+....
+
+Rows: 10 (of 10 returned)
+  #1 AtlasSupport
+  #2 NimbusDesk
+  #3 HelioSupport
+  #4 ResolveHub
+  #5 TicketForge
+  #6 CaseCraft
+  #7 ZenQueue
+  #8 OrbitDesk
+  #9 HelixDesk
+  #10 SupportLoop
+
+Saved: artifacts/brightdata/baseline-output.json (+meta)

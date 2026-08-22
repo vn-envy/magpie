@@ -26,8 +26,8 @@ function vendorCard(vendor: Vendor): string {
       </article>`;
 }
 
-function loadMoreScript(vendors: Vendor[]): string {
-  const hidden = vendors.slice(5).map((v) => ({
+function loadMoreScript(vendors: Vendor[], fromIndex: number): string {
+  const hidden = vendors.slice(fromIndex).map((v) => ({
     rank: v.rank,
     brand: v.brand,
     claim: v.claim,
@@ -116,7 +116,7 @@ export function renderFixtureHtml(state: FixtureState): string {
       </div>
       <button type="button" id="load-more" class="load-more">Load more vendors</button>
     </section>
-    ${loadMoreScript(vendors)}`
+    ${loadMoreScript(vendors, 5)}`
       : `
     <section id="featured-carousel" class="featured-carousel">
       <h2>Editor&rsquo;s featured platforms</h2>
@@ -145,10 +145,12 @@ export function renderFixtureHtml(state: FixtureState): string {
     <section id="ranked-vendors" class="ranked-vendors">
       <h2>More ranked vendors</h2>
       <div class="vendor-list">
-        ${vendors.slice(3).map(vendorCard).join("\n")}
+        ${vendors.slice(3, 7).map(vendorCard).join("\n")}
       </div>
+      <button type="button" id="load-more" class="load-more">Load more vendors</button>
     </section>
-    ${carouselScript()}`;
+    ${carouselScript()}
+    ${loadMoreScript(vendors, 7)}`;
 
   return `<!DOCTYPE html>
 <html lang="en">

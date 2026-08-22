@@ -106,13 +106,15 @@ The layout is switched server-side via a token-protected control API; a revision
 
 ## Repository
 
-- `app/` — Next.js App Router: Signal Overview (`/`), Incident Room (`/incidents/inc_001`), fixture (`/lab/source`), control API (`/api/lab/control`)
+- `app/` — Next.js App Router: Signal Overview with live-run trigger (`/`), Run Ledger of every genuine collection (`/runs`), Incident Room (`/incidents/inc_001`), fixture (`/lab/source`), control API (`/api/lab/control`), live-run APIs (`/api/runs`)
 - `lib/contracts/` — `SourceEvidenceRowV1` contract + canonical hashes (business facts, observed shape)
 - `lib/drift/` — the deterministic trust engine (checks, thresholds)
 - `lib/fixture/` — fixture state (Netlify Blobs), rendering, vendor facts
 - `scripts/magpie.ts` — `pnpm magpie collect` authoritative Collection API runner
 - `artifacts/brightdata/` — genuine outputs, transcripts, envelopes, manifest
 - `tests/unit/trust.test.ts` — the 10→7 case and hash gates
+
+The dashboard's **INITIATE LIVE COLLECTION** button triggers a genuine Bright Data collection from the deployed app (labelled LIVE, not replay): the `j_*` snapshot appears, rows stream in, and the deterministic verdict — TRUSTED / QUARANTINED — is computed in the product the moment the dataset lands. The Run Ledger shows the complete history of nine genuine runs, including the quarantined 7-row lie and the caught overfit repair.
 
 Push to `main` auto-deploys via GitHub Actions → Netlify.
 

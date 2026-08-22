@@ -1,0 +1,16 @@
+Triggering scrape...
+Triggered (response_id: d2t1787394460535rkrdel4lsrq)
+Waiting for results...
+Polling (attempt 1/600)
+Polling (attempt 2/600)
+Polling (attempt 3/600)
+Polling (attempt 4/600)
+Polling (attempt 5/600)
+Polling (attempt 6/600)
+Polling (attempt 7/600)
+Polling (attempt 8/600)
+Polling (attempt 9/600)
+Polling (attempt 10/600)
+Polling (attempt 11/600)
+Polling (attempt 12/600)
+Output written to artifacts/brightdata/cli-preview-output.json

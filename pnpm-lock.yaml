@@ -24,6 +24,9 @@ importers:
         specifier: ^0.0.1
         version: 0.0.1
     devDependencies:
+      '@netlify/plugin-nextjs':
+        specifier: ^5.15.13
+        version: 5.15.13
       '@tailwindcss/postcss':
         specifier: ^4
         version: 4.3.3
@@ -401,6 +404,10 @@ packages:
   '@netlify/otel@7.0.1':
     resolution: {integrity: sha512-9GVV5b/Fb1nfXbooy46YcR6YrzTV0wjTC70y4Em6xgcckpvgi5F9hWQssl7UGIMp0abx9WxTAz2LPITTCnarKQ==}
     engines: {node: '>=22.12.0'}
+
+  '@netlify/plugin-nextjs@5.15.13':
+    resolution: {integrity: sha512-gBmWtgG13ZW4ytNMCvacfwZemtdtV/Ekc+6RBYvI5fndjmDvKxgFHylsw7oli+PHMGAtNqaJrN8QccGnDReu6A==}
+    engines: {node: '>=18.0.0'}
 
   '@netlify/runtime-utils@3.0.0':
     resolution: {integrity: sha512-OHo40+V3QZkR+UrDjqhN+LekrAby/dSSJxsvyYs9i88E/mSl3goB/ysoL+VYROm190egxmQyRYlHK7vL4GeHBQ==}
@@ -2556,6 +2563,8 @@ snapshots:
       '@opentelemetry/sdk-trace-node': 2.9.0(@opentelemetry/api@1.9.1)
     transitivePeerDependencies:
       - supports-color
+
+  '@netlify/plugin-nextjs@5.15.13': {}
 
   '@netlify/runtime-utils@3.0.0': {}
 

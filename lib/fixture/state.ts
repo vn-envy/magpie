@@ -37,7 +37,7 @@ async function blobStore() {
 export async function getFixtureState(): Promise<FixtureState> {
   try {
     const store = await blobStore();
-    const raw = await store.getJSON<FixtureState>("state");
+    const raw = await store.get("state", { type: "json" });
     return raw ? { ...DEFAULT_STATE, ...raw } : DEFAULT_STATE;
   } catch {
     return memoryState;

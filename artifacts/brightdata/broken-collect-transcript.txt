@@ -1,7 +1,7 @@
 $ tsx scripts/magpie.ts collect --source source_support_platforms --purpose monitoring
 Triggering collector c_mt4m8fix1gze0scg44 on https://magpie-lab.netlify.app/lab/source (monitoring)...
-Bright Data snapshot: j_mt4mw9qqfffiyex5d
-..........................................
+Bright Data snapshot: j_mt4qic011pisx5z7q6
+.............................................
 
 Rows: 0 (of 0 returned)
 

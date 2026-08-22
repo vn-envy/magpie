@@ -143,8 +143,8 @@ export function renderFixtureHtml(state: FixtureState): string {
       </div>
     </section>
     <section id="ranked-vendors" class="ranked-vendors">
-      <h2>More ranked vendors</h2>
-      <div class="vendor-list">
+      <h2>Ranked vendors</h2>
+      <div id="vendor-list" class="vendor-list">
         ${vendors.slice(3, 7).map(vendorCard).join("\n")}
       </div>
       <button type="button" id="load-more" class="load-more">Load more vendors</button>

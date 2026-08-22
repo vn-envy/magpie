@@ -9,7 +9,8 @@
     "lint": "eslint",
     "test": "vitest run",
     "test:watch": "vitest",
-    "magpie": "tsx scripts/magpie.ts"
+    "magpie": "tsx scripts/magpie.ts",
+    "manifest": "tsx scripts/manifest.ts"
   },
   "dependencies": {
     "@netlify/blobs": "^11.0.1",

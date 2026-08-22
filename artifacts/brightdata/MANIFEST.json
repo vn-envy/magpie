@@ -1,0 +1,114 @@
+{
+ "generated_at": "2026-08-22T19:06:52.408Z",
+ "note": "SHA-256 of every genuine Bright Data artifact in this directory",
+ "artifacts": {
+  "approve-envelope-creation.json": {
+   "sha256": "3e73f6179541ed497e021bb3322765116f9910d87289c4841f0ef6ed76aaab17",
+   "bytes": 404
+  },
+  "baseline-collect-transcript.txt": {
+   "sha256": "edde6fd8fe7738fab69943f30625967c158d902091a1a597cf4a1aeb46f026b6",
+   "bytes": 480
+  },
+  "baseline-meta.json": {
+   "sha256": "28ea75184657413940bfcccb752146839459268e81c207084a809f1438ba7de3",
+   "bytes": 751
+  },
+  "baseline-output.json": {
+   "sha256": "335b2b97ab50961726d21ebd78d0bad3a60b3f89a9be0a6ae390d1ede636840c",
+   "bytes": 6612
+  },
+  "broken-assessment.json": {
+   "sha256": "ae7b2e28e7fbbd97e34f0ee34ac354a814289f0b1e24223e8870e5c7b9bb92bb",
+   "bytes": 764
+  },
+  "broken-collect-transcript.txt": {
+   "sha256": "b93fb29359f4825573466c5c6f27bd09bf3fc728b9238bbc3f1939fe8f464488",
+   "bytes": 431
+  },
+  "broken-meta.json": {
+   "sha256": "24492b61949f1d4e560d2f3b94177b3674e1ff8f86632142690cb148cbdfd5dc",
+   "bytes": 751
+  },
+  "broken-output.json": {
+   "sha256": "c0b78b2baeab0ae5861dc0cf773b206602f0b0c8796cdbccddb7d466657c5bfa",
+   "bytes": 4602
+  },
+  "cli-preview-output-2.json": {
+   "sha256": "be606c1c75d760e0a5844bcbd791c7293fbdfbfc86cf09af9e7e8ae9d0253c54",
+   "bytes": 1541
+  },
+  "cli-preview-output.json": {
+   "sha256": "be606c1c75d760e0a5844bcbd791c7293fbdfbfc86cf09af9e7e8ae9d0253c54",
+   "bytes": 1541
+  },
+  "cli-preview-transcript.txt": {
+   "sha256": "410cfa3598b28261a3ef25c2efac33e768b9cbaa70aceb2a0ac89d90aec6ba77",
+   "bytes": 451
+  },
+  "collector3-output.json": {
+   "sha256": "5679ae7c0213bde6f2b180b469e649a90e07e0ccf6ad2ba95f8d0436b3ecfe1c",
+   "bytes": 691
+  },
+  "collector5-output.json": {
+   "sha256": "08cae3eebbcbd4520bbb7c1760868d5a9b9c5d21d20001052f66c219bf88eb49",
+   "bytes": 2962
+  },
+  "create-transcript-attempt2.txt": {
+   "sha256": "6f8f8456730487cce83f6669f94ce0ab9f464ee1470430e503c285e12dcc43bd",
+   "bytes": 24289
+  },
+  "create-transcript-attempt3.txt": {
+   "sha256": "810a59c9f943463c70cff21650b53c223a8b73e78991bc07032759d8debac787",
+   "bytes": 32795
+  },
+  "create-transcript-attempt4.txt": {
+   "sha256": "192edb0e3cee2d4b1161a647e68c54511de4b0a91d9a8fce02255315f96726c6",
+   "bytes": 32952
+  },
+  "create-transcript-attempt5.txt": {
+   "sha256": "915f209f737dc5a7d4f5c361f24b3c6ea4e4f1b5fd1c5b53c8d33c60436478da",
+   "bytes": 18643
+  },
+  "create-transcript.txt": {
+   "sha256": "e9f1e990e73c367fa6f9a4c23535340e732c960adecfab828796277ddc9d718a",
+   "bytes": 690
+  },
+  "heal-envelope-creation.json": {
+   "sha256": "492712912ce5cd67e5ae9a250fc6fc24f4c51972c831d9a835db4cf0fe12fcbd",
+   "bytes": 1823
+  },
+  "heal-envelope.json": {
+   "sha256": "747fca4ea8ed3e618f66b03a375c72bf382212a544508d389bd9c2f72b0115db",
+   "bytes": 1814
+  },
+  "heal-transcript-creation.txt": {
+   "sha256": "b1a6ef33ca74df80a61d04729818b0a7412c2d2d9e3b412ff841dbacac802d98",
+   "bytes": 6934
+  },
+  "heal-transcript.txt": {
+   "sha256": "8c8e17edccbebc754376bf3ecc3fd02df0642f4f0b66e483cdfe5a3286f09d4b",
+   "bytes": 2311
+  },
+  "healed-output.json": {
+   "sha256": "74c3e47fb1fd3129d160ba4ab6eb95d7e64d4f14ab058943eff0581a11890995",
+   "bytes": 5742
+  },
+  "lineage.json": {
+   "sha256": "08dd789afeae5a6123505a1da744db00b2e9bf00bd7c5556235ce2fa4d0e2129",
+   "bytes": 409
+  },
+  "monitoring-meta.json": {
+   "sha256": "24492b61949f1d4e560d2f3b94177b3674e1ff8f86632142690cb148cbdfd5dc",
+   "bytes": 751
+  },
+  "monitoring-output.json": {
+   "sha256": "c0b78b2baeab0ae5861dc0cf773b206602f0b0c8796cdbccddb7d466657c5bfa",
+   "bytes": 4602
+  },
+  "post-heal-verify.json": {
+   "sha256": "284f4f6fed2891510e524c1c097fc34f496ac5d5d49e3e48f9babb2541a28bd0",
+   "bytes": 5849
+  }
+ }
+}

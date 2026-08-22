@@ -1,131 +1,232 @@
 import Link from "next/link";
-import { replaySession, incidentStory } from "@/lib/replay/session";
+import { ArrowDownRight, ArrowUpRight, Minus, ShieldCheck } from "lucide-react";
+import { Badge } from "@/components/ui/badge";
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table";
+import { RUNS, brandPositions, runSummaries } from "@/lib/replay/runs";
+import { lineage, incidentStory } from "@/lib/replay/session";
+import { LiveRun } from "@/components/live-run";
 
 export const dynamic = "force-dynamic";
 
-export default function SignalOverview() {
-  const { source, snapshots, collector_id } = replaySession;
-  const trustedRows = [...snapshots.healed.rows].sort((a, b) => a.rank - b.rank);
-  const tracked = trustedRows.find((r) => r.brand === source.tracked_brand);
+function VerdictBadge({ verdict }: { verdict: string }) {
+  if (verdict === "TRUSTED") return <Badge variant="trusted">TRUSTED</Badge>;
+  if (verdict === "QUARANTINED") return <Badge variant="quarantined">QUARANTINED</Badge>;
+  if (verdict === "TRUSTED_CHANGE") return <Badge variant="recovered">TRUSTED CHANGE</Badge>;
+  if (verdict === "EMPTY") return <Badge variant="quarantined">EMPTY</Badge>;
+  return <Badge variant="outline">DIAGNOSTIC</Badge>;
+}
+
+export default function Overview() {
+  const trustedRows = [...runSummaries.healed.rows].sort((a, b) => a.rank - b.rank);
+  const tracked = trustedRows.find((r) => r.brand === "NimbusDesk");
+  const recentRuns = [...RUNS].reverse().slice(0, 5);
+  const movers = brandPositions.filter((b) => b.after !== null && b.after !== b.before);
 
   return (
-    <main className="min-h-screen bg-slate-950 text-slate-100">
-      <div className="mx-auto max-w-5xl px-6 py-10">
-        <header className="mb-8 flex items-end justify-between">
+    <main className="mx-auto max-w-6xl px-6 py-8">
+      {/* HERO */}
+      <section className="dot-grid mb-8 rounded-[4px] border border-zinc-800 bg-black p-8">
+        <div className="flex flex-wrap items-start justify-between gap-8">
           <div>
-            <p className="text-xs font-semibold uppercase tracking-[0.25em] text-teal-300">
-              Magpie · Evidence integrity for GEO
+            <p className="font-dot text-[10px] font-bold uppercase tracking-[0.25em] text-zinc-500">
+              TRACKED BRAND
             </p>
-            <h1 className="mt-2 text-3xl font-bold">Signal Overview</h1>
+            <h1 className="mt-2 font-dot text-4xl font-bold tracking-wider text-zinc-50">
+              NIMBUSDESK
+            </h1>
+            <p className="mt-3 max-w-md text-sm leading-6 text-zinc-400">
+              Position on <span className="text-zinc-200">Enterprise Support Platforms 2026</span> —
+              enterprise customer support. Every number below is backed by a verified Bright Data
+              snapshot.
+            </p>
           </div>
-          <span className="rounded-full border border-amber-400/40 bg-amber-400/10 px-3 py-1 font-mono text-xs text-amber-300">
-            REPLAY · genuine artifacts
-          </span>
-        </header>
-
-        <section className="mb-6 rounded-2xl border border-violet-400/30 bg-violet-400/10 p-6">
-          <div className="flex flex-wrap items-center gap-3">
-            <span className="rounded-full bg-violet-400/20 px-3 py-1 text-xs font-bold uppercase tracking-wider text-violet-300">
-              Recovered
-            </span>
-            <span className="text-sm text-slate-300">
-              Incident resolved · sensor repaired · serving verified data again
-            </span>
+          <div className="text-right">
+            <p className="font-dot text-[10px] font-bold uppercase tracking-[0.25em] text-zinc-500">
+              VERIFIED POSITION
+            </p>
+            <p className="font-dot text-7xl font-bold leading-none text-zinc-50">
+              #{tracked?.rank}
+              <span className="text-[#D71921]">.</span>
+            </p>
+            <p className="mt-2 font-mono text-xs text-zinc-500">
+              snapshot {lineage.snapshot_ids.healed}
+            </p>
           </div>
-          <p className="mt-3 text-sm leading-6 text-slate-300">
-            <span className="font-semibold text-violet-300">False conclusion prevented:</span>{" "}
-            {incidentStory.prevented_conclusion} {incidentStory.containment}
-          </p>
-          <Link
-            href="/incidents/inc_001"
-            className="mt-3 inline-block font-mono text-sm text-teal-300 underline decoration-dotted"
-          >
-            View incident inc_001 →
-          </Link>
-        </section>
+        </div>
+        <div className="mt-8 border-t border-zinc-800 pt-5">
+          <LiveRun />
+        </div>
+      </section>
 
-        <section className="mb-8 rounded-2xl border border-teal-400/20 bg-slate-900 p-6">
-          <div className="flex flex-wrap items-baseline justify-between gap-3">
-            <div>
-              <h2 className="text-xl font-semibold">{source.name}</h2>
-              <p className="mt-1 text-sm text-slate-400">
-                {source.category} · tracked brand:{" "}
-                <span className="font-semibold text-teal-300">{source.tracked_brand}</span>
+      {/* STAT STRIP */}
+      <section className="mb-8 grid grid-cols-2 gap-3 md:grid-cols-4">
+        {[
+          { label: "EVIDENCE ROWS", value: "10/10", sub: "complete + verified" },
+          { label: "EVIDENCE COVERAGE", value: "100%", sub: "every claim sourced" },
+          { label: "FALSE CONCLUSIONS BLOCKED", value: "2", sub: "incl. 1 overfit repair" },
+          { label: "INCIDENTS", value: "1", sub: "resolved via self-healing" },
+        ].map((stat) => (
+          <Card key={stat.label}>
+            <CardContent className="py-4">
+              <p className="font-dot text-[9px] font-bold uppercase tracking-[0.2em] text-zinc-500">
+                {stat.label}
               </p>
-            </div>
-            <div className="text-right">
-              <p className="font-mono text-xs text-slate-400">current position</p>
-              <p className="text-2xl font-bold text-teal-300">#{tracked?.rank}</p>
-            </div>
-          </div>
-          <dl className="mt-5 grid grid-cols-2 gap-3 font-mono text-xs text-slate-400 sm:grid-cols-4">
-            <div>
-              <dt className="text-slate-500">collector_id</dt>
-              <dd className="mt-1 truncate text-slate-200">{collector_id}</dd>
-            </div>
-            <div>
-              <dt className="text-slate-500">snapshot_id</dt>
-              <dd className="mt-1 truncate text-slate-200">{snapshots.healed.snapshot_id}</dd>
-            </div>
-            <div>
-              <dt className="text-slate-500">rows</dt>
-              <dd className="mt-1 text-emerald-400">
-                {snapshots.healed.assessment.record_count} / 10
-              </dd>
-            </div>
-            <div>
-              <dt className="text-slate-500">business_facts_hash</dt>
-              <dd className="mt-1 truncate text-slate-200">
-                {snapshots.healed.facts_hash.slice(0, 16)}…
-              </dd>
-            </div>
-          </dl>
-        </section>
+              <p className="mt-2 font-dot text-2xl font-bold text-zinc-50">{stat.value}</p>
+              <p className="mt-1 text-xs text-zinc-500">{stat.sub}</p>
+            </CardContent>
+          </Card>
+        ))}
+      </section>
 
-        <section>
-          <h2 className="mb-3 text-sm font-semibold uppercase tracking-wider text-slate-400">
-            Trusted source evidence
-          </h2>
-          <div className="overflow-hidden rounded-2xl border border-slate-800">
-            <table className="w-full text-left text-sm">
-              <thead className="bg-slate-900 text-xs uppercase tracking-wider text-slate-500">
-                <tr>
-                  <th className="px-4 py-3">Rank</th>
-                  <th className="px-4 py-3">Brand</th>
-                  <th className="px-4 py-3">Evidence</th>
-                  <th className="px-4 py-3">Link</th>
-                </tr>
-              </thead>
-              <tbody className="divide-y divide-slate-800/70 bg-slate-900/40">
-                {trustedRows.map((row) => (
-                  <tr
-                    key={row.rank}
-                    className={row.brand === source.tracked_brand ? "bg-teal-400/5" : ""}
-                  >
-                    <td className="px-4 py-3 font-mono">{row.rank}</td>
-                    <td className="px-4 py-3 font-medium">
-                      {row.brand}
-                      {row.brand === source.tracked_brand && (
-                        <span className="ml-2 rounded-full bg-teal-400/10 px-2 py-0.5 text-[10px] font-bold text-teal-300">
-                          YOU
+      {/* INCIDENT + COMPETITOR MOVEMENT */}
+      <section className="mb-8 grid gap-4 lg:grid-cols-2">
+        <Card>
+          <CardHeader>
+            <CardTitle className="flex items-center justify-between">
+              INCIDENT inc_001
+              <Badge variant="recovered">RESOLVED</Badge>
+            </CardTitle>
+          </CardHeader>
+          <CardContent>
+            <p className="font-dot text-[11px] font-bold uppercase leading-5 tracking-wider text-[#ff5252]">
+              RUN SUCCEEDED. JSON VALID.
+              <br />
+              BUSINESS CONCLUSION WRONG.
+            </p>
+            <p className="mt-3 text-sm leading-6 text-zinc-400">
+              {incidentStory.prevented_conclusion} {incidentStory.actual_cause}
+            </p>
+            <Link
+              href="/incidents/inc_001"
+              className="mt-4 inline-block font-dot text-[10px] font-bold uppercase tracking-[0.2em] text-zinc-300 underline decoration-zinc-700 underline-offset-4 hover:text-zinc-50"
+            >
+              OPEN INCIDENT ROOM →
+            </Link>
+          </CardContent>
+        </Card>
+
+        <Card>
+          <CardHeader>
+            <CardTitle className="flex items-center justify-between">
+              COMPETITOR MOVEMENT — TRUSTED
+              <Badge variant="trusted">
+                <ShieldCheck className="h-3 w-3" /> VERIFIED MARKET CHANGE
+              </Badge>
+            </CardTitle>
+          </CardHeader>
+          <CardContent>
+            <p className="mb-3 text-xs leading-5 text-zinc-500">
+              From the facts-change run: HelioSupport published stronger benchmark evidence and
+              moved up. Magpie classified it TRUSTED_SOURCE_CHANGE and published — no repair
+              triggered.
+            </p>
+            <Table>
+              <TableHeader>
+                <TableRow>
+                  <TableHead>Brand</TableHead>
+                  <TableHead>Before</TableHead>
+                  <TableHead>After</TableHead>
+                  <TableHead>Move</TableHead>
+                </TableRow>
+              </TableHeader>
+              <TableBody>
+                {movers.map((brand) => {
+                  const up = (brand.after ?? 0) < brand.before;
+                  return (
+                    <TableRow key={brand.brand}>
+                      <TableCell className="font-medium">
+                        {brand.brand}
+                        {brand.tracked && (
+                          <span className="ml-2 font-dot text-[9px] font-bold text-[#ff5252]">
+                            YOU
+                          </span>
+                        )}
+                      </TableCell>
+                      <TableCell className="font-mono text-zinc-500">#{brand.before}</TableCell>
+                      <TableCell className="font-mono">#{brand.after}</TableCell>
+                      <TableCell>
+                        {up ? (
+                          <span className="flex items-center gap-1 font-dot text-[10px] font-bold text-emerald-400">
+                            <ArrowUpRight className="h-3.5 w-3.5" /> UP
+                          </span>
+                        ) : (
+                          <span className="flex items-center gap-1 font-dot text-[10px] font-bold text-red-400">
+                            <ArrowDownRight className="h-3.5 w-3.5" /> DOWN
+                          </span>
+                        )}
+                      </TableCell>
+                    </TableRow>
+                  );
+                })}
+                {brandPositions
+                  .filter((b) => b.after === b.before)
+                  .slice(0, 2)
+                  .map((brand) => (
+                    <TableRow key={brand.brand} className="opacity-50">
+                      <TableCell className="font-medium">{brand.brand}</TableCell>
+                      <TableCell className="font-mono text-zinc-500">#{brand.before}</TableCell>
+                      <TableCell className="font-mono">#{brand.after}</TableCell>
+                      <TableCell>
+                        <span className="flex items-center gap-1 font-dot text-[10px] font-bold text-zinc-500">
+                          <Minus className="h-3.5 w-3.5" /> HELD
                         </span>
-                      )}
-                    </td>
-                    <td className="max-w-md px-4 py-3 text-slate-400">{row.evidence_text}</td>
-                    <td className="px-4 py-3 font-mono text-xs text-slate-500">
-                      {row.outbound_url?.replace("https://", "")}
-                    </td>
-                  </tr>
-                ))}
-              </tbody>
-            </table>
-          </div>
-          <p className="mt-3 font-mono text-xs text-slate-500">
-            Every claim above links to the verified evidence snapshot {snapshots.healed.snapshot_id}{" "}
-            collected by Bright Data collector {collector_id}.
-          </p>
-        </section>
-      </div>
+                      </TableCell>
+                    </TableRow>
+                  ))}
+              </TableBody>
+            </Table>
+          </CardContent>
+        </Card>
+      </section>
+
+      {/* RECENT RUNS */}
+      <Card>
+        <CardHeader>
+          <CardTitle className="flex items-center justify-between">
+            RECENT COLLECTIONS
+            <Link
+              href="/runs"
+              className="font-dot text-[10px] font-bold uppercase tracking-[0.2em] text-zinc-400 hover:text-zinc-50"
+            >
+              FULL LEDGER →
+            </Link>
+          </CardTitle>
+        </CardHeader>
+        <CardContent className="px-0 py-0">
+          <Table>
+            <TableHeader>
+              <TableRow>
+                <TableHead>Snapshot</TableHead>
+                <TableHead>Purpose</TableHead>
+                <TableHead>Fixture</TableHead>
+                <TableHead>Rows</TableHead>
+                <TableHead>Verdict</TableHead>
+              </TableRow>
+            </TableHeader>
+            <TableBody>
+              {recentRuns.map((run) => (
+                <TableRow key={run.snapshot_id}>
+                  <TableCell className="font-mono text-xs text-zinc-300">
+                    {run.snapshot_id}
+                  </TableCell>
+                  <TableCell className="font-dot text-[10px] font-bold uppercase tracking-wider text-zinc-400">
+                    {run.purpose}
+                  </TableCell>
+                  <TableCell className="font-mono text-xs text-zinc-500">
+                    {run.layout_mode === "featured_carousel" ? "carousel" : "cards"} ·{" "}
+                    {run.facts_mode === "baseline" ? "base" : "moved"}
+                  </TableCell>
+                  <TableCell className="font-mono text-xs">{run.rows}</TableCell>
+                  <TableCell>
+                    <VerdictBadge verdict={run.verdict} />
+                  </TableCell>
+                </TableRow>
+              ))}
+            </TableBody>
+          </Table>
+        </CardContent>
+      </Card>
     </main>
   );
 }

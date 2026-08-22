@@ -1,20 +1,24 @@
 import { notFound } from "next/navigation";
+import { ShieldAlert, ShieldCheck } from "lucide-react";
+import { Badge } from "@/components/ui/badge";
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table";
 import { replaySession, incidentStory } from "@/lib/replay/session";
 
 export const dynamic = "force-dynamic";
 
 const HEAL_TIMELINE = [
-  { status: "done", label: "OPEN — semantic failure detected" },
-  { status: "done", label: "DIAGNOSING — page inspection confirms extraction drift" },
-  { status: "done", label: "READY_TO_HEAL — repair prompt generated" },
-  { status: "done", label: "HEALING — coding agent runs bdata scraper heal" },
-  { status: "done", label: "AWAITING_APPROVAL — human reviews the proposed diff" },
-  { status: "done", label: "APPLYING_REPAIR — approved, auto-saved to production" },
-  { status: "done", label: "VERIFYING — same Collector ID rerun against the changed page" },
-  { status: "done", label: "RESOLVED — contract verified, data released downstream" },
+  { label: "OPEN — semantic failure detected" },
+  { label: "DIAGNOSING — page inspection confirms extraction drift" },
+  { label: "READY_TO_HEAL — repair prompt generated" },
+  { label: "HEALING — coding agent runs bdata scraper heal" },
+  { label: "AWAITING_APPROVAL — human reviews the proposed diff" },
+  { label: "APPLYING_REPAIR — approved, auto-saved to production" },
+  { label: "VERIFYING — same Collector ID rerun against the changed page" },
+  { label: "RESOLVED — contract verified, data released downstream" },
 ];
 
-function RankList({
+function RankColumn({
   rows,
   tone,
 }: {
@@ -28,10 +32,10 @@ function RankList({
         ? "text-red-400"
         : "text-violet-300";
   return (
-    <ul className={`font-mono text-xs leading-6 ${color}`}>
+    <ul className={`space-y-0.5 font-mono text-xs leading-6 ${color}`}>
       {rows.map((row) => (
         <li key={row.rank}>
-          #{row.rank} {row.brand}
+          <span className="text-zinc-600">#{String(row.rank).padStart(2, "0")}</span> {row.brand}
         </li>
       ))}
     </ul>
@@ -47,185 +51,192 @@ export default async function IncidentRoom({
   if (incidentId !== "inc_001") notFound();
 
   const { snapshots, collector_id } = replaySession;
-  const broken = snapshots.broken;
-  const baseline = snapshots.baseline;
-  const healed = snapshots.healed;
+  const { baseline, broken, healed } = snapshots;
   const blocking = broken.assessment.signals.filter((s) => s.severity === "blocking");
 
   return (
-    <main className="min-h-screen bg-slate-950 text-slate-100">
-      <div className="mx-auto max-w-6xl px-6 py-10">
-        <header className="mb-6">
-          <p className="font-mono text-xs uppercase tracking-[0.25em] text-teal-300">
-            Magpie · Incident Room
-          </p>
-          <div className="mt-2 flex flex-wrap items-center gap-3">
-            <h1 className="text-3xl font-bold">inc_001</h1>
-            <span className="rounded-full bg-red-400/10 px-3 py-1 text-xs font-bold uppercase tracking-wider text-red-400">
-              Extraction drift
-            </span>
-            <span className="rounded-full bg-violet-400/10 px-3 py-1 text-xs font-bold uppercase tracking-wider text-violet-300">
-              Resolved
-            </span>
-          </div>
-          <p className="mt-2 font-mono text-xs text-slate-500">
-            source_support_platforms · collector {collector_id}
-          </p>
-        </header>
+    <main className="mx-auto max-w-6xl px-6 py-8">
+      <header className="mb-6">
+        <p className="font-dot text-[10px] font-bold uppercase tracking-[0.25em] text-zinc-500">
+          MAGPIE // INCIDENT ROOM
+        </p>
+        <div className="mt-2 flex flex-wrap items-center gap-3">
+          <h1 className="font-dot text-3xl font-bold tracking-wider">INC_001</h1>
+          <Badge variant="quarantined">EXTRACTION DRIFT</Badge>
+          <Badge variant="recovered">RESOLVED</Badge>
+        </div>
+        <p className="mt-2 font-mono text-xs text-zinc-500">
+          source_support_platforms · collector {collector_id}
+        </p>
+      </header>
 
-        <section className="mb-8 rounded-2xl border border-red-400/30 bg-red-400/5 p-6">
-          <p className="text-lg font-bold tracking-wide text-red-300">
-            RUN SUCCEEDED. JSON VALID. BUSINESS CONCLUSION WRONG.
+      <Card className="mb-6">
+        <CardHeader>
+          <CardTitle className="flex items-center gap-2 text-[#ff5252]">
+            <ShieldAlert className="h-4 w-4" /> THE FAILURE MODE
+          </CardTitle>
+        </CardHeader>
+        <CardContent>
+          <p className="font-dot text-sm font-bold uppercase leading-7 tracking-wider text-[#ff5252]">
+            RUN SUCCEEDED. JSON VALID.
+            <br />
+            BUSINESS CONCLUSION WRONG.
           </p>
-          <p className="mt-3 text-sm leading-6 text-slate-300">
+          <p className="mt-4 max-w-3xl text-sm leading-6 text-zinc-400">
             The page redesigned: the top three vendors moved into a JavaScript featured carousel
             and their evidence behind expandable panels. The collector still succeeded and returned
-            schema-valid JSON — but only seven of ten vendors.
+            schema-valid JSON — but only seven of ten vendors.{" "}
+            <span className="text-zinc-200">
+              A naive product would report: {incidentStory.prevented_conclusion}
+            </span>
           </p>
-          <div className="mt-4 rounded-xl border border-slate-700/60 bg-slate-900/70 p-4 text-sm leading-6">
-            <p className="font-semibold text-slate-200">Latest run quarantined</p>
-            <p className="mt-1 text-slate-400">
+          <div className="mt-4 max-w-3xl rounded-[4px] border border-zinc-800 bg-black p-4">
+            <p className="font-dot text-[10px] font-bold uppercase tracking-[0.2em] text-zinc-400">
+              Latest run quarantined
+            </p>
+            <p className="mt-2 text-sm leading-6 text-zinc-500">
               The collector returned ranks 4–10 while the last trusted observation contained ranks
               1–10. Publishing this run could falsely report a source-evidence loss. The last
               trusted snapshot kept powering the dashboard while the collector was reviewed.
             </p>
           </div>
-          <p className="mt-4 text-sm text-slate-300">
-            <span className="font-semibold text-red-300">Prevented false conclusion:</span>{" "}
-            {incidentStory.prevented_conclusion}
-            <span className="font-semibold text-violet-300"> Actual cause:</span>{" "}
-            {incidentStory.actual_cause}
-          </p>
-        </section>
+        </CardContent>
+      </Card>
 
-        <section className="mb-8 grid gap-4 md:grid-cols-3">
-          <div className="rounded-2xl border border-emerald-400/20 bg-slate-900 p-5">
-            <div className="mb-2 flex items-center justify-between">
-              <h2 className="font-semibold text-emerald-400">TRUSTED BASELINE</h2>
-              <span className="font-mono text-[10px] text-slate-500">
-                {baseline.snapshot_id}
-              </span>
-            </div>
-            <p className="font-mono text-3xl font-bold text-emerald-400">
+      <section className="mb-6 grid gap-3 md:grid-cols-3">
+        <Card>
+          <CardHeader>
+            <CardTitle className="flex items-center justify-between">
+              TRUSTED BASELINE
+              <Badge variant="trusted">PUBLISHED</Badge>
+            </CardTitle>
+          </CardHeader>
+          <CardContent>
+            <p className="font-dot text-3xl font-bold text-emerald-400">
               {baseline.assessment.record_count}
-              <span className="text-base text-slate-500"> /10 rows</span>
+              <span className="text-sm text-zinc-600"> /10</span>
             </p>
-            <p className="mt-1 font-mono text-xs text-slate-500">
-              ranks 1–10 · facts {baseline.facts_hash.slice(0, 12)}…
+            <p className="mb-3 font-mono text-[11px] text-zinc-500">
+              {baseline.snapshot_id} · facts {baseline.facts_hash.slice(0, 12)}…
             </p>
-            <div className="mt-3">
-              <RankList rows={[...baseline.rows].sort((a, b) => a.rank - b.rank)} tone="trusted" />
-            </div>
-          </div>
+            <RankColumn rows={[...baseline.rows].sort((a, b) => a.rank - b.rank)} tone="trusted" />
+          </CardContent>
+        </Card>
 
-          <div className="rounded-2xl border border-red-400/30 bg-slate-900 p-5">
-            <div className="mb-2 flex items-center justify-between">
-              <h2 className="font-semibold text-red-400">QUARANTINED RUN</h2>
-              <span className="font-mono text-[10px] text-slate-500">{broken.snapshot_id}</span>
-            </div>
-            <p className="font-mono text-3xl font-bold text-red-400">
+        <Card>
+          <CardHeader>
+            <CardTitle className="flex items-center justify-between">
+              QUARANTINED RUN
+              <Badge variant="quarantined">BLOCKED</Badge>
+            </CardTitle>
+          </CardHeader>
+          <CardContent>
+            <p className="font-dot text-3xl font-bold text-red-400">
               {broken.assessment.record_count}
-              <span className="text-base text-slate-500"> /10 rows</span>
+              <span className="text-sm text-zinc-600"> /10</span>
             </p>
-            <p className="mt-1 font-mono text-xs text-slate-500">
-              schema-valid · ranks 4–10 · publish denied
+            <p className="mb-3 font-mono text-[11px] text-zinc-500">
+              {broken.snapshot_id} · schema-valid
             </p>
-            <div className="mt-3">
-              <RankList rows={[...broken.rows].sort((a, b) => a.rank - b.rank)} tone="broken" />
-            </div>
-          </div>
+            <RankColumn rows={[...broken.rows].sort((a, b) => a.rank - b.rank)} tone="broken" />
+          </CardContent>
+        </Card>
 
-          <div className="rounded-2xl border border-violet-400/30 bg-slate-900 p-5">
-            <div className="mb-2 flex items-center justify-between">
-              <h2 className="font-semibold text-violet-300">RECOVERED</h2>
-              <span className="font-mono text-[10px] text-slate-500">{healed.snapshot_id}</span>
-            </div>
-            <p className="font-mono text-3xl font-bold text-violet-300">
+        <Card>
+          <CardHeader>
+            <CardTitle className="flex items-center justify-between">
+              RECOVERED
+              <Badge variant="recovered">PUBLISHED</Badge>
+            </CardTitle>
+          </CardHeader>
+          <CardContent>
+            <p className="font-dot text-3xl font-bold text-violet-300">
               {healed.assessment.record_count}
-              <span className="text-base text-slate-500"> /10 rows</span>
+              <span className="text-sm text-zinc-600"> /10</span>
             </p>
-            <p className="mt-1 font-mono text-xs text-slate-500">
-              ranks 1–10 · facts {healed.facts_hash.slice(0, 12)}…
+            <p className="mb-3 font-mono text-[11px] text-zinc-500">
+              {healed.snapshot_id} · facts {healed.facts_hash.slice(0, 12)}…
             </p>
-            <div className="mt-3">
-              <RankList rows={[...healed.rows].sort((a, b) => a.rank - b.rank)} tone="healed" />
-            </div>
-          </div>
-        </section>
+            <RankColumn rows={[...healed.rows].sort((a, b) => a.rank - b.rank)} tone="healed" />
+          </CardContent>
+        </Card>
+      </section>
 
-        <section className="mb-8 grid gap-4 md:grid-cols-2">
-          <div className="rounded-2xl border border-slate-800 bg-slate-900 p-5">
-            <h2 className="mb-3 text-sm font-semibold uppercase tracking-wider text-slate-400">
-              Failed checks (deterministic, no LLM)
-            </h2>
-            <ul className="space-y-2">
-              {blocking.map((signal) => (
-                <li key={signal.name} className="rounded-lg bg-red-400/5 p-3 font-mono text-xs">
-                  <div className="flex justify-between">
-                    <span className="font-bold text-red-400">{signal.name}</span>
-                    <span className="text-slate-500">
-                      expected {signal.expected} · observed {signal.observed}
-                    </span>
-                  </div>
-                  <p className="mt-1 text-slate-400">{signal.message}</p>
-                </li>
-              ))}
-            </ul>
-          </div>
+      <section className="mb-6 grid gap-3 md:grid-cols-2">
+        <Card>
+          <CardHeader>
+            <CardTitle>FAILED CHECKS — DETERMINISTIC, NO LLM</CardTitle>
+          </CardHeader>
+          <CardContent className="space-y-2">
+            {blocking.map((signal) => (
+              <div key={signal.name} className="rounded-[4px] border border-zinc-800 bg-black p-3">
+                <div className="flex items-center justify-between font-dot text-[10px] font-bold uppercase tracking-[0.15em]">
+                  <span className="text-red-400">{signal.name}</span>
+                  <span className="text-zinc-500">
+                    expected {String(signal.expected)} · observed {String(signal.observed)}
+                  </span>
+                </div>
+                <p className="mt-1.5 font-mono text-xs text-zinc-500">{signal.message}</p>
+              </div>
+            ))}
+            <p className="pt-1 font-mono text-xs text-zinc-600">
+              structural validation: PASS — the lie was schema-valid
+            </p>
+          </CardContent>
+        </Card>
 
-          <div className="rounded-2xl border border-slate-800 bg-slate-900 p-5">
-            <h2 className="mb-3 text-sm font-semibold uppercase tracking-wider text-slate-400">
-              Post-heal verification gate
-            </h2>
-            <table className="w-full font-mono text-xs">
-              <tbody className="divide-y divide-slate-800">
-                <tr>
-                  <td className="py-2 text-slate-400">collector_id</td>
-                  <td className="py-2 text-emerald-400">unchanged ✓</td>
-                </tr>
-                <tr>
-                  <td className="py-2 text-slate-400">app contract (SourceEvidenceRowV1)</td>
-                  <td className="py-2 text-emerald-400">unchanged ✓</td>
-                </tr>
-                <tr>
-                  <td className="py-2 text-slate-400">business_facts_hash</td>
-                  <td className="py-2 text-emerald-400">
-                    {baseline.facts_hash === healed.facts_hash ? "identical ✓" : "MISMATCH ✗"}
-                  </td>
-                </tr>
-                <tr>
-                  <td className="py-2 text-slate-400">rows restored</td>
-                  <td className="py-2 text-emerald-400">7 → 10 ✓</td>
-                </tr>
-                <tr>
-                  <td className="py-2 text-slate-400">downstream app changes</td>
-                  <td className="py-2 text-emerald-400">0</td>
-                </tr>
-                <tr>
-                  <td className="py-2 text-slate-400">human approval</td>
-                  <td className="py-2 text-emerald-400">recorded ✓</td>
-                </tr>
-              </tbody>
-            </table>
-          </div>
-        </section>
+        <Card>
+          <CardHeader>
+            <CardTitle className="flex items-center gap-2">
+              <ShieldCheck className="h-4 w-4 text-emerald-400" /> POST-HEAL VERIFICATION GATE
+            </CardTitle>
+          </CardHeader>
+          <CardContent className="px-0 py-0">
+            <Table>
+              <TableBody>
+                {[
+                  ["collector_id", "unchanged ✓"],
+                  ["app contract (SourceEvidenceRowV1)", "unchanged ✓"],
+                  [
+                    "business_facts_hash",
+                    baseline.facts_hash === healed.facts_hash ? "identical ✓" : "MISMATCH ✗",
+                  ],
+                  ["rows restored", "7 → 10 ✓"],
+                  ["downstream app changes", "0"],
+                  ["human approval", "recorded ✓"],
+                ].map(([label, value]) => (
+                  <TableRow key={label}>
+                    <TableCell className="font-mono text-xs text-zinc-500">{label}</TableCell>
+                    <TableCell className="font-dot text-[10px] font-bold uppercase tracking-wider text-emerald-400">
+                      {value}
+                    </TableCell>
+                  </TableRow>
+                ))}
+              </TableBody>
+            </Table>
+          </CardContent>
+        </Card>
+      </section>
 
-        <section className="rounded-2xl border border-slate-800 bg-slate-900 p-5">
-          <h2 className="mb-4 text-sm font-semibold uppercase tracking-wider text-slate-400">
-            Healing timeline — Codex + Bright Data Self-Healing, human-gated
-          </h2>
-          <ol className="space-y-2">
+      <Card>
+        <CardHeader>
+          <CardTitle>HEALING TIMELINE — BRIGHT DATA SELF-HEALING, HUMAN-GATED</CardTitle>
+        </CardHeader>
+        <CardContent>
+          <ol className="space-y-1.5">
             {HEAL_TIMELINE.map((step, i) => (
-              <li key={i} className="flex items-center gap-3 text-sm">
-                <span className="flex h-5 w-5 items-center justify-center rounded-full bg-violet-400/20 text-[10px] font-bold text-violet-300">
+              <li key={i} className="flex items-center gap-3">
+                <span className="flex h-5 w-5 items-center justify-center rounded-[3px] bg-zinc-900 font-dot text-[9px] font-bold text-zinc-400">
                   {i + 1}
                 </span>
-                <span className="font-mono text-xs text-slate-300">{step.label}</span>
+                <span className="font-dot text-[10px] font-bold uppercase tracking-[0.15em] text-zinc-300">
+                  {step.label}
+                </span>
               </li>
             ))}
           </ol>
-        </section>
-      </div>
+        </CardContent>
+      </Card>
     </main>
   );
 }

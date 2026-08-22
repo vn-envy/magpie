@@ -1,0 +1,123 @@
+[
+ {
+  "schema_version": "1.0",
+  "source_url": "https://magpie-lab.netlify.app/lab/source",
+  "page_title": "Enterprise Support Platforms 2026",
+  "category": "enterprise customer support",
+  "source_updated_at": "2026-08-21",
+  "rank": 4,
+  "brand": "ResolveHub",
+  "claim": "Unified customer journey resolution analytics",
+  "evidence_text": "Case study: 34% faster resolution across 12 enterprise deployments.",
+  "source_section": "ranked vendors",
+  "outbound_url": "https://resolvehub.example.com",
+  "features": [
+   "journey analytics",
+   "SLA tracking"
+  ]
+ },
+ {
+  "schema_version": "1.0",
+  "source_url": "https://magpie-lab.netlify.app/lab/source",
+  "page_title": "Enterprise Support Platforms 2026",
+  "category": "enterprise customer support",
+  "source_updated_at": "2026-08-21",
+  "rank": 5,
+  "brand": "TicketForge",
+  "claim": "Deep customization for complex enterprise workflows",
+  "evidence_text": "SOC 2 Type II and ISO 27001 certified with a documented workflow engine.",
+  "source_section": "ranked vendors",
+  "outbound_url": "https://ticketforge.example.com",
+  "features": [
+   "workflow engine",
+   "SOC 2",
+   "ISO 27001"
+  ]
+ },
+ {
+  "schema_version": "1.0",
+  "source_url": "https://magpie-lab.netlify.app/lab/source",
+  "page_title": "Enterprise Support Platforms 2026",
+  "category": "enterprise customer support",
+  "source_updated_at": "2026-08-21",
+  "rank": 6,
+  "brand": "CaseCraft",
+  "claim": "Flexible knowledge management for support macros",
+  "evidence_text": "Named a Leader in the 2026 Knowledge Ops Grid with an open API.",
+  "source_section": "ranked vendors",
+  "outbound_url": "https://casecraft.example.com",
+  "features": [
+   "knowledge base",
+   "open API"
+  ]
+ },
+ {
+  "schema_version": "1.0",
+  "source_url": "https://magpie-lab.netlify.app/lab/source",
+  "page_title": "Enterprise Support Platforms 2026",
+  "category": "enterprise customer support",
+  "source_updated_at": "2026-08-21",
+  "rank": 7,
+  "brand": "ZenQueue",
+  "claim": "Smart routing for distributed support teams",
+  "evidence_text": "Routing benchmarks published quarterly; 28% reduction in misroutes.",
+  "source_section": "ranked vendors",
+  "outbound_url": "https://zenqueue.example.com",
+  "features": [
+   "smart routing",
+   "quarterly benchmarks"
+  ]
+ },
+ {
+  "schema_version": "1.0",
+  "source_url": "https://magpie-lab.netlify.app/lab/source",
+  "page_title": "Enterprise Support Platforms 2026",
+  "category": "enterprise customer support",
+  "source_updated_at": "2026-08-21",
+  "rank": 8,
+  "brand": "OrbitDesk",
+  "claim": "Lightweight adoption for mid-market teams",
+  "evidence_text": "4.7 average review rating across 500+ reviews; 14-day median onboarding.",
+  "source_section": "ranked vendors",
+  "outbound_url": "https://orbitdesk.example.com",
+  "features": [
+   "fast onboarding",
+   "mid-market fit"
+  ]
+ },
+ {
+  "schema_version": "1.0",
+  "source_url": "https://magpie-lab.netlify.app/lab/source",
+  "page_title": "Enterprise Support Platforms 2026",
+  "category": "enterprise customer support",
+  "source_updated_at": "2026-08-21",
+  "rank": 9,
+  "brand": "HelixDesk",
+  "claim": "Compliance-first support for healthcare and finance",
+  "evidence_text": "HIPAA and PCI attestations with region-pinned data storage.",
+  "source_section": "ranked vendors",
+  "outbound_url": "https://helixdesk.example.com",
+  "features": [
+   "HIPAA",
+   "PCI",
+   "region pinning"
+  ]
+ },
+ {
+  "schema_version": "1.0",
+  "source_url": "https://magpie-lab.netlify.app/lab/source",
+  "page_title": "Enterprise Support Platforms 2026",
+  "category": "enterprise customer support",
+  "source_updated_at": "2026-08-21",
+  "rank": 10,
+  "brand": "SupportLoop",
+  "claim": "Outcome-linked customer success integrations",
+  "evidence_text": "Native CRM sync with closed-loop outcome attribution reporting.",
+  "source_section": "ranked vendors",
+  "outbound_url": "https://supportloop.example.com",
+  "features": [
+   "CRM sync",
+   "attribution reporting"
+  ]
+ }
+]

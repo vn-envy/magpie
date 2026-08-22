@@ -1,0 +1,15 @@
+{
+ "collector_id": "c_PENDING_genuine_capture",
+ "snapshot_ids": {
+  "baseline": "j_PENDING",
+  "broken": "j_PENDING",
+  "healed": "j_PENDING"
+ },
+ "fixture_revisions": {
+  "baseline": 1,
+  "broken": 2,
+  "healed": 2
+ },
+ "captured_at": null,
+ "note": "PLACEHOLDER replay artifacts - replaced by genuine Bright Data outputs during Crash 2 capture"
+}

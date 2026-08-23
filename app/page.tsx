@@ -1,6 +1,7 @@
 import { BusinessFlow } from "@/components/business-flow";
 import { MirrorScene } from "@/components/mirror-scene";
 import { UrlScanner } from "@/components/url-scanner";
+import { LiveRun } from "@/components/live-run";
 import { Badge } from "@/components/ui/badge";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { liveFeed, b2bLiveAssessment } from "@/lib/replay/live-feed";
@@ -58,6 +59,36 @@ function LiveSensors() {
         <div className="border-t border-[#1c1c1f] pt-3">
           <div className="flex flex-wrap items-baseline justify-between gap-2">
             <p className="text-sm font-semibold text-zinc-100">
+              Real competitive landscape — live from Wikipedia
+            </p>
+            <p className="font-mono text-[11px] text-zinc-500">
+              {liveFeed.realCompetition.snapshot_id
+                ? `${liveFeed.realCompetition.row_count} real products · ${liveFeed.realCompetition.verdict}`
+                : "collector generating — first run soon"}
+            </p>
+          </div>
+          <div className="mt-2 flex flex-wrap gap-1.5">
+            {(liveFeed.realCompetition.rows ?? [])
+              .filter((row) => row && typeof row === "object" && "product" in row)
+              .slice(0, 8)
+              .map((row, i) => (
+                <span
+                  key={i}
+                  className="rounded-[3px] border border-[#222] bg-[#111315] px-2 py-1 text-xs text-zinc-300"
+                >
+                  {String(row.product)}
+                </span>
+              ))}
+            {(liveFeed.realCompetition.rows ?? []).length === 0 && (
+              <p className="font-mono text-xs text-zinc-600">
+                real vendor comparison — extracted from the public Wikipedia table hourly
+              </p>
+            )}
+          </div>
+        </div>
+        <div className="border-t border-[#1c1c1f] pt-3">
+          <div className="flex flex-wrap items-baseline justify-between gap-2">
+            <p className="text-sm font-semibold text-zinc-100">
               Enterprise Support Platforms 2026
             </p>
             <p className="font-mono text-[11px] text-zinc-500">
@@ -98,6 +129,17 @@ export default function BusinessTab() {
         <MirrorScene />
       </section>
 
+      {/* DEMO PATH — deterministic replay of the genuine captured incident */}
+      <section className="mb-3 flex items-center gap-3">
+        <span className="rounded-[3px] border border-amber-400/40 bg-amber-400/10 px-3 py-1 font-dot text-[11px] font-bold uppercase tracking-[0.16em] text-amber-300">
+          Demo path
+        </span>
+        <span className="font-mono text-[11px] text-zinc-500">
+          replay of genuine captured artifacts — baseline → lie → repair → verified recovery
+        </span>
+        <div className="h-px flex-1 bg-[#1c1c1f]" />
+      </section>
+
       <BusinessFlow
         collectorId={lineage.collector_id}
         snapshotIds={lineage.snapshot_ids}
@@ -118,9 +160,40 @@ export default function BusinessTab() {
         recommendations={recommendations}
       />
 
-      <section className="mt-8 grid gap-4 md:grid-cols-2">
+      {/* LIVE PATH — real runs, real web, real competition */}
+      <section className="mt-10 mb-3 flex items-center gap-3">
+        <span className="flex items-center gap-2 rounded-[3px] border border-emerald-500/40 bg-emerald-500/10 px-3 py-1">
+          <span className="live-dot h-1.5 w-1.5 rounded-full bg-emerald-400" />
+          <span className="font-dot text-[11px] font-bold uppercase tracking-[0.16em] text-emerald-300">
+            Live path
+          </span>
+        </span>
+        <span className="font-mono text-[11px] text-zinc-500">
+          real runs against the real web — hourly cron, on-demand triggers, open-ended scans
+        </span>
+        <div className="h-px flex-1 bg-[#1c1c1f]" />
+      </section>
+
+      <section className="grid gap-4 md:grid-cols-2">
         <LiveSensors />
-        <UrlScanner />
+        <div className="space-y-4">
+          <Card>
+            <CardHeader>
+              <CardTitle>
+                <span className="flex-1">RUN THE SENSOR NOW</span>
+                <Badge variant="accent" className="shrink-0">● LIVE</Badge>
+              </CardTitle>
+              <p className="text-xs leading-5 text-zinc-500">
+                Trigger the production collector from the dashboard — a genuine Bright Data
+                collection, validated by the trust engine on arrival. Not a replay.
+              </p>
+            </CardHeader>
+            <CardContent>
+              <LiveRun />
+            </CardContent>
+          </Card>
+          <UrlScanner />
+        </div>
       </section>
     </main>
   );

@@ -24,6 +24,13 @@ const SOURCES = [
     kind: "hn",
   },
   {
+    key: "real_competition",
+    label: "Comparison of help desk software — Wikipedia",
+    url: "https://en.wikipedia.org/wiki/Comparison_of_help_desk_software",
+    collector: process.env.WIKI_COLLECTOR_ID ?? "c_PENDING_WIKI",
+    kind: "wiki",
+  },
+  {
     key: "b2b_source",
     label: "Enterprise Support Platforms 2026",
     url: "https://magpie-lab.netlify.app/lab/source",

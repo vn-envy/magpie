@@ -1,0 +1,12 @@
+{
+ "source": "real_competition",
+ "label": "Comparison of help desk software \u2014 Wikipedia",
+ "kind": "wiki",
+ "collector_id": null,
+ "snapshot_id": null,
+ "target_url": "https://en.wikipedia.org/wiki/Comparison_of_help_desk_software",
+ "captured_at": null,
+ "verdict": "PENDING",
+ "row_count": 0,
+ "rows": []
+}

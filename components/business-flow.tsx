@@ -27,15 +27,6 @@ type TopRow = {
   outbound_url: string | null;
 };
 
-type LiveResult = {
-  snapshot_id: string;
-  verdict: string;
-  publish_allowed: boolean;
-  record_count: number;
-  ranks: number[];
-  failed_checks: string[];
-};
-
 export type BusinessFlowProps = {
   collectorId: string;
   snapshotIds: { baseline: string; broken: string; healed: string };
@@ -133,11 +124,8 @@ export function BusinessFlow(props: BusinessFlowProps) {
   const tracked = topTen.find((row) => row.brand === "NimbusDesk");
 
   const [phase, setPhase] = useState<Phase>("enter");
-  const [mode, setMode] = useState<"replay" | "live">("replay");
   const [url, setUrl] = useState("https://nimbusdesk.example.com");
   const [lines, setLines] = useState<string[]>([]);
-  const [live1, setLive1] = useState<LiveResult | null>(null);
-  const [busy, setBusy] = useState(false);
 
   const pushLines = useCallback(async (newLines: string[], step = 800) => {
     for (const line of newLines) {
@@ -146,11 +134,11 @@ export function BusinessFlow(props: BusinessFlowProps) {
     }
   }, []);
 
-  // First research beat: replay choreography, or a genuine live run. The
-  // deviation beat always replays the genuine captured incident — today's
-  // collector is the post-repair template and handles the carousel correctly.
+  // DEMO PATH — every beat is a deterministic replay of genuine captured
+  // artifacts (baseline j_*, broken j_*, healed j_*). Live runs live in the
+  // LIVE zone below the flow, never inside the guided story.
   useEffect(() => {
-    if (phase === "research1" && mode === "replay") {
+    if (phase === "research1") {
       setLines([]);
       (async () => {
         await pushLines([`TRIGGERING COLLECTOR ${collectorId}`, `COLLECTING — SNAPSHOT ${snapshotIds.baseline}`], 1000);
@@ -171,9 +159,6 @@ export function BusinessFlow(props: BusinessFlowProps) {
     if (phase === "research2") {
       setLines([]);
       (async () => {
-        if (mode === "live") {
-          await pushLines(["LIVE MODE — DEVIATION REPLAYED FROM THE GENUINE CAPTURED INCIDENT"], 700);
-        }
         await pushLines([`TRIGGERING COLLECTOR ${collectorId} (UNCHANGED)`, `COLLECTING — SNAPSHOT ${snapshotIds.broken}`], 1000);
         await sleep(1500);
         await pushLines(["7/10 ROWS RETURNED · STRUCTURAL PASS"], 600);
@@ -183,54 +168,18 @@ export function BusinessFlow(props: BusinessFlowProps) {
         setPhase("deviation");
       })();
     }
-  }, [phase, mode, collectorId, snapshotIds, pushLines]);
+  }, [phase, collectorId, snapshotIds, pushLines]);
 
-  const triggerAndPoll = useCallback(async (): Promise<LiveResult> => {
-    const trigger = await fetch("/api/runs", { method: "POST" }).then((r) => r.json());
-    const snapshotId: string = trigger.snapshot_id;
-    setLines((prev) => [...prev, `COLLECTING — SNAPSHOT ${snapshotId}`]);
-    for (;;) {
-      await sleep(4000);
-      const status = await fetch(`/api/runs/${snapshotId}`).then((r) => r.json());
-      if (status.phase === "collecting") continue;
-      if (status.phase === "error") throw new Error(status.error ?? "collection failed");
-      return {
-        snapshot_id: snapshotId,
-        verdict: status.verdict,
-        publish_allowed: status.publish_allowed,
-        record_count: status.record_count,
-        ranks: status.ranks ?? [],
-        failed_checks: status.failed_checks ?? [],
-      };
-    }
-  }, []);
-
-  const startResearch = async () => {
-    setPhase("research1");
-    if (mode === "replay") return;
-    setBusy(true);
-    setLines([]);
-    try {
-      const result = await triggerAndPoll();
-      setLive1(result);
-      await pushLines([`${result.record_count}/10 ROWS · ${result.publish_allowed ? "TRUSTED" : "QUARANTINED"}`], 400);
-      setPhase("position");
-    } catch {
-      setLines((prev) => [...prev, "LIVE COLLECTION FAILED — SWITCH TO REPLAY"]);
-    } finally {
-      setBusy(false);
-    }
-  };
+  const startResearch = () => setPhase("research1");
 
   const restart = () => {
     setPhase("enter");
     setLines([]);
-    setLive1(null);
   };
 
   return (
     <div className="space-y-5">
-      {/* header: step progress + mode */}
+      {/* header: step progress + replay badge */}
       <div className="flex flex-wrap items-center justify-between gap-3 border-y border-[#1c1c1f] py-3">
         <div className="flex flex-wrap items-center gap-x-4 gap-y-2">
           <span className="font-mono text-[11px] uppercase tracking-[0.14em] text-zinc-600">
@@ -238,21 +187,12 @@ export function BusinessFlow(props: BusinessFlowProps) {
           </span>
           <Stepper phase={phase} />
         </div>
-        <div className="flex gap-1 rounded-[3px] border border-[#222] p-1">
-          {(["replay", "live"] as const).map((m) => (
-            <button
-              key={m}
-              type="button"
-              onClick={() => setMode(m)}
-              className={cn(
-                "rounded-[2px] px-3 py-1 font-dot text-[11px] font-bold uppercase tracking-[0.14em] transition-colors",
-                mode === m ? "bg-[#D71921] text-white" : "text-zinc-500 hover:text-zinc-200",
-              )}
-            >
-              {m === "live" ? "● LIVE" : "REPLAY"}
-            </button>
-          ))}
-        </div>
+        <span className="flex items-center gap-2 rounded-[3px] border border-amber-400/40 bg-amber-400/10 px-3 py-1.5">
+          <span className="live-dot h-1.5 w-1.5 rounded-full bg-amber-300" />
+          <span className="font-dot text-[11px] font-bold uppercase tracking-[0.14em] text-amber-300">
+            Replay · genuine captured incident inc_001
+          </span>
+        </span>
       </div>
 
       {/* STEP 1 — ENTER */}
@@ -279,7 +219,7 @@ export function BusinessFlow(props: BusinessFlowProps) {
                 className="min-w-72 flex-1 rounded-[3px] border border-[#222] bg-[#111315] px-4 py-2.5 font-mono text-sm text-zinc-100 outline-none focus:border-zinc-500"
                 placeholder="https://your-product.com"
               />
-              <PrimaryCta onClick={startResearch} disabled={busy}>
+              <PrimaryCta onClick={startResearch}>
                 <Search className="h-3.5 w-3.5" /> Research my market
               </PrimaryCta>
             </div>
@@ -314,8 +254,7 @@ export function BusinessFlow(props: BusinessFlowProps) {
               </Badge>
             </CardTitle>
             <p className="font-mono text-[11px] text-zinc-500">
-              snapshot {mode === "live" && live1 ? live1.snapshot_id : snapshotIds.healed} ·
-              evidence coverage 100%
+              snapshot {snapshotIds.healed} · evidence coverage 100%
             </p>
           </CardHeader>
           <CardContent className="px-0 py-0">

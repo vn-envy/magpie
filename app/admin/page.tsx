@@ -487,7 +487,40 @@ function LiveApiTab() {
         </CardContent>
       </Card>
 
-      <div className="grid gap-3 md:grid-cols-2">
+      <Card>
+        <CardHeader>
+          <CardTitle>
+            <span className="flex-1">REAL COMPETITION — WIKIPEDIA HELP-DESK LANDSCAPE (PUBLIC WEB)</span>
+            <Badge variant={liveFeed.realCompetition.verdict === "TRUSTED" ? "trusted" : "outline"} className="shrink-0">
+              {liveFeed.realCompetition.verdict}
+            </Badge>
+          </CardTitle>
+          <p className="font-mono text-[11px] text-zinc-500">
+            {liveFeed.realCompetition.snapshot_id
+              ? `snapshot ${liveFeed.realCompetition.snapshot_id} · ${liveFeed.realCompetition.row_count} real products`
+              : "collector generating — first cron run pending"}
+          </p>
+        </CardHeader>
+        <CardContent>
+          <p className="mb-3 text-xs leading-5 text-zinc-500">
+            Genuine competitive intelligence beyond the simulated source: real B2B vendors
+            (Zendesk, Freshdesk, Zammad…) extracted hourly from the public Wikipedia comparison
+            table by a dedicated custom collector.
+          </p>
+          <div className="flex flex-wrap gap-1.5">
+            {(liveFeed.realCompetition.rows ?? [])
+              .filter((row) => row && typeof row === "object" && "product" in row)
+              .slice(0, 12)
+              .map((row, i) => (
+                <span key={i} className="rounded-[3px] border border-[#222] bg-[#111315] px-2 py-1 font-mono text-[11px] text-zinc-300">
+                  {String(row.product)}
+                </span>
+              ))}
+          </div>
+        </CardContent>
+      </Card>
+
+      <div className="mt-4 grid gap-3 md:grid-cols-2">
         <Card>
           <CardHeader>
             <CardTitle>

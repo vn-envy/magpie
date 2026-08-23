@@ -2,6 +2,7 @@ import "server-only";
 import latest from "@/artifacts/live/latest.json";
 import hnLatest from "@/artifacts/live/hn_front_page-latest.json";
 import b2bLatest from "@/artifacts/live/b2b_source-latest.json";
+import wikiLatest from "@/artifacts/live/real_competition-latest.json";
 import { assessRun } from "@/lib/drift/checks";
 import { SOURCE_SUPPORT_PLATFORMS_PROFILE as profile } from "@/lib/drift/thresholds";
 import type { SourceEvidenceRowV1 } from "@/lib/contracts/source-evidence-v1";
@@ -28,6 +29,7 @@ export const liveFeed = {
   updatedAt: (latest as { updatedAt: string | null }).updatedAt,
   hn: hnLatest as unknown as LiveRun,
   b2b: b2bLatest as unknown as LiveRun,
+  realCompetition: wikiLatest as unknown as LiveRun,
 };
 
 export const b2bLiveAssessment = assessRun({

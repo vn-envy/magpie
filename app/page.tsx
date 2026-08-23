@@ -69,14 +69,14 @@ function LiveSensors() {
           </div>
           <div className="mt-2 flex flex-wrap gap-1.5">
             {(liveFeed.realCompetition.rows ?? [])
-              .filter((row) => row && typeof row === "object" && "product" in row)
+              .filter((row) => row && typeof row === "object" && "name" in row)
               .slice(0, 8)
               .map((row, i) => (
                 <span
                   key={i}
                   className="rounded-[3px] border border-[#222] bg-[#111315] px-2 py-1 text-xs text-zinc-300"
                 >
-                  {String(row.product)}
+                  {String(row.name)}
                 </span>
               ))}
             {(liveFeed.realCompetition.rows ?? []).length === 0 && (

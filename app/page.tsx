@@ -1,10 +1,81 @@
 import { BusinessFlow } from "@/components/business-flow";
 import { MirrorScene } from "@/components/mirror-scene";
+import { UrlScanner } from "@/components/url-scanner";
+import { Badge } from "@/components/ui/badge";
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { liveFeed, b2bLiveAssessment } from "@/lib/replay/live-feed";
 import { runSummaries } from "@/lib/replay/runs";
 import { lineage, replaySession } from "@/lib/replay/session";
 import { buildRecommendations } from "@/lib/insights/recommend";
 
 export const dynamic = "force-dynamic";
+
+function LiveSensors() {
+  const hn = liveFeed.hn;
+  const hnTop = [...(hn.rows ?? [])]
+    .filter((row) => typeof row === "object" && row !== null && "title" in row)
+    .sort((a, b) => (Number(a.rank) || 99) - (Number(b.rank) || 99))
+    .slice(0, 3);
+  return (
+    <Card>
+      <CardHeader>
+        <CardTitle>
+          <span className="flex-1">LIVE SENSORS — UPDATED HOURLY BY CRON</span>
+          <Badge variant="trusted" className="shrink-0">
+            <span className="live-dot mr-1 inline-block h-1.5 w-1.5 rounded-full bg-emerald-400" />
+            ONLINE
+          </Badge>
+        </CardTitle>
+        <p className="text-xs leading-5 text-zinc-500">
+          A GitHub Actions cron triggers these collectors with plain Node every hour — the
+          Collector ID is the production API. No deployment step.
+        </p>
+      </CardHeader>
+      <CardContent className="space-y-4">
+        <div>
+          <div className="flex flex-wrap items-baseline justify-between gap-2">
+            <p className="text-sm font-semibold text-zinc-100">Hacker News front page</p>
+            <p className="font-mono text-[11px] text-zinc-500">
+              {hn.snapshot_id ? `${hn.snapshot_id} · public web` : "awaiting first cron"}
+            </p>
+          </div>
+          <div className="mt-2 space-y-1">
+            {hnTop.length > 0 ? (
+              hnTop.map((row, i) => (
+                <p key={i} className="truncate text-xs text-zinc-400">
+                  <span className="mr-2 font-mono text-zinc-600">
+                    {String(row.rank).padStart(2, "0")}
+                  </span>
+                  {String(row.title)}
+                  <span className="ml-2 font-mono text-zinc-600">{String(row.points ?? "—")} pts</span>
+                </p>
+              ))
+            ) : (
+              <p className="font-mono text-xs text-zinc-600">first hourly run in progress…</p>
+            )}
+          </div>
+        </div>
+        <div className="border-t border-[#1c1c1f] pt-3">
+          <div className="flex flex-wrap items-baseline justify-between gap-2">
+            <p className="text-sm font-semibold text-zinc-100">
+              Enterprise Support Platforms 2026
+            </p>
+            <p className="font-mono text-[11px] text-zinc-500">
+              {b2bLiveAssessment.publish_allowed ? "TRUSTED · PUBLISHED" : "BLOCKED"} ·{" "}
+              {b2bLiveAssessment.record_count}/10 rows
+            </p>
+          </div>
+          <p className="mt-1.5 text-xs text-zinc-500">
+            The hourly result re-runs the deterministic trust engine on every deploy.
+          </p>
+        </div>
+        <p className="font-mono text-[10px] uppercase tracking-[0.12em] text-zinc-600">
+          feed updated {liveFeed.updatedAt ? liveFeed.updatedAt.replace("T", " ").slice(0, 16) : "—"} UTC
+        </p>
+      </CardContent>
+    </Card>
+  );
+}
 
 export default function BusinessTab() {
   const verifiedRows = [...runSummaries.healed.rows].sort((a, b) => a.rank - b.rank);
@@ -46,6 +117,11 @@ export default function BusinessTab() {
         }}
         recommendations={recommendations}
       />
+
+      <section className="mt-8 grid gap-4 md:grid-cols-2">
+        <LiveSensors />
+        <UrlScanner />
+      </section>
     </main>
   );
 }

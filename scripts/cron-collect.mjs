@@ -25,10 +25,10 @@ const SOURCES = [
   },
   {
     key: "real_competition",
-    label: "Comparison of help desk software — Wikipedia",
-    url: "https://en.wikipedia.org/wiki/Comparison_of_help_desk_software",
-    collector: process.env.WIKI_COLLECTOR_ID ?? "c_PENDING_WIKI",
-    kind: "wiki",
+    label: "awesome-selfhosted — the real open-source software market",
+    url: "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    collector: process.env.COMPETITION_COLLECTOR_ID ?? "c_mt5z86yu2jvo2kv0yf",
+    kind: "catalog",
   },
   {
     key: "b2b_source",
@@ -88,7 +88,16 @@ async function collect(source) {
   console.log(`${source.key}: ${withData.length} records (${misses} empty wrappers dropped)`);
   const ranks = withData.map((row) => row.rank).filter((rank) => Number.isFinite(rank)).sort((a, b) => a - b);
   const sequential = ranks.length > 0 && ranks[0] === 1 && ranks.every((rank, i) => i === 0 || rank === ranks[i - 1] + 1);
-  const verdict = sequential && withData.length >= 10 ? "TRUSTED" : "SUSPECT";
+  // Ranked sources must return sequential ranks; catalog sources are judged
+  // on volume alone.
+  const verdict =
+    source.kind === "b2b"
+      ? sequential && withData.length >= 10
+        ? "TRUSTED"
+        : "SUSPECT"
+      : withData.length >= 20
+        ? "TRUSTED"
+        : "SUSPECT";
 
   return {
     source: source.key,

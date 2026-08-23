@@ -490,7 +490,7 @@ function LiveApiTab() {
       <Card>
         <CardHeader>
           <CardTitle>
-            <span className="flex-1">REAL COMPETITION — WIKIPEDIA HELP-DESK LANDSCAPE (PUBLIC WEB)</span>
+            <span className="flex-1">REAL COMPETITION — OPEN-SOURCE SOFTWARE MARKET (PUBLIC WEB)</span>
             <Badge variant={liveFeed.realCompetition.verdict === "TRUSTED" ? "trusted" : "outline"} className="shrink-0">
               {liveFeed.realCompetition.verdict}
             </Badge>
@@ -503,9 +503,9 @@ function LiveApiTab() {
         </CardHeader>
         <CardContent>
           <p className="mb-3 text-xs leading-5 text-zinc-500">
-            Genuine competitive intelligence beyond the simulated source: real B2B vendors
-            (Zendesk, Freshdesk, Zammad…) extracted hourly from the public Wikipedia comparison
-            table by a dedicated custom collector.
+            Genuine competitive intelligence beyond the simulated source: real products with
+            descriptions and licenses, extracted hourly from the public awesome-selfhosted
+            catalog by a dedicated custom collector.
           </p>
           <div className="flex flex-wrap gap-1.5">
             {(liveFeed.realCompetition.rows ?? [])

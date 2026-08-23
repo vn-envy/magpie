@@ -59,7 +59,7 @@ function LiveSensors() {
         <div className="border-t border-[#1c1c1f] pt-3">
           <div className="flex flex-wrap items-baseline justify-between gap-2">
             <p className="text-sm font-semibold text-zinc-100">
-              Real competitive landscape — live from Wikipedia
+              Real competitive landscape — live from the open-source market
             </p>
             <p className="font-mono text-[11px] text-zinc-500">
               {liveFeed.realCompetition.snapshot_id
@@ -81,7 +81,7 @@ function LiveSensors() {
               ))}
             {(liveFeed.realCompetition.rows ?? []).length === 0 && (
               <p className="font-mono text-xs text-zinc-600">
-                real vendor comparison — extracted from the public Wikipedia table hourly
+                real products with licenses — extracted hourly from the public awesome-selfhosted catalog
               </p>
             )}
           </div>

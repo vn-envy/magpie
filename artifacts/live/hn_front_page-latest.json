@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mt67pdek2erayvwwhq",
+ "snapshot_id": "j_mt69yb2e2cdilpm88o",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-08-23T19:40:46.655Z",
+ "captured_at": "2026-08-23T20:43:42.320Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,16 +14,16 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-08-23T19:40:36.146Z",
-  "finished": "2026-08-23T19:40:39.269Z"
+  "started": "2026-08-23T20:43:32.240Z",
+  "finished": "2026-08-23T20:43:34.975Z"
  },
  "rows": [
   {
    "rank": 1,
-   "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-   "url": "https://ericpardee.github.io/fire-hd-ownership/",
-   "points": 463,
-   "comment_count": 208,
+   "title": "How I Find Problems to Solve as a Staff Engineer",
+   "url": "https://lalitm.com/post/find-problems-staff-engineer/",
+   "points": 69,
+   "comment_count": 28,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -32,58 +32,58 @@
    "rank": 2,
    "title": "A website for debloated open source alternatives",
    "url": "https://debloat.dev/",
-   "points": 99,
-   "comment_count": 46,
+   "points": 159,
+   "comment_count": 64,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 3,
-   "title": "Why Sal Khan't: On Learning by Making but Teaching by Telling",
-   "url": "https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/",
-   "points": 68,
-   "comment_count": 36,
+   "title": "Fable and the End of the Free Lunch",
+   "url": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
+   "points": 44,
+   "comment_count": 28,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 4,
-   "title": "How Complex Systems Fail (1998)",
-   "url": "https://how.complexsystems.fail/",
-   "points": 146,
-   "comment_count": 38,
+   "title": "The Vibe Tax",
+   "url": "https://insufferable.dev/posts/vibe-tax/",
+   "points": 30,
+   "comment_count": 12,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 5,
-   "title": "Malware infects Android-based automotive head unit firmware",
-   "url": "https://securelist.com/android-head-unit-malware/121106/",
-   "points": 173,
-   "comment_count": 83,
+   "title": "How Complex Systems Fail (1998)",
+   "url": "https://how.complexsystems.fail/",
+   "points": 167,
+   "comment_count": 46,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 6,
-   "title": "My favorite nonfiction books about cults, scams, and schemes",
-   "url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
-   "points": 139,
-   "comment_count": 42,
+   "title": "Why Sal Khan't: On Learning by Making but Teaching by Telling",
+   "url": "https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/",
+   "points": 83,
+   "comment_count": 55,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 7,
-   "title": "Coconut Oil Jet Fuel Matches Kerosene's Efficiency in Engine Tests",
-   "url": "https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/",
-   "points": 89,
-   "comment_count": 80,
+   "title": "Malware infects Android-based automotive head unit firmware",
+   "url": "https://securelist.com/android-head-unit-malware/121106/",
+   "points": 182,
+   "comment_count": 85,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -92,228 +92,228 @@
    "rank": 8,
    "title": "What Is a Harness?",
    "url": "https://earendil.com/posts/what-is-a-harness/",
-   "points": 175,
-   "comment_count": 100,
+   "points": 199,
+   "comment_count": 103,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 9,
-   "title": "Explain it to me like I'm ten",
-   "url": "https://timharford.com/2026/08/explain-it-to-me-like-im-ten/",
-   "points": 15,
-   "comment_count": 8,
+   "title": "My favorite nonfiction books about cults, scams, and schemes",
+   "url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
+   "points": 157,
+   "comment_count": 58,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 10,
-   "title": "Slovakia finds Russian backdoor in traffic speed cameras",
-   "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
-   "points": 263,
-   "comment_count": 101,
+   "title": "Coconut Oil Jet Fuel Matches Kerosene's Efficiency in Engine Tests",
+   "url": "https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/",
+   "points": 106,
+   "comment_count": 93,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 11,
-   "title": "To become a better writer, read as much as you can",
-   "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
-   "points": 392,
-   "comment_count": 244,
+   "title": "My agent.md to improve LLM-assisted code quality",
+   "url": "https://fabiensanglard.net/agent.md/index.html",
+   "points": 27,
+   "comment_count": 14,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 12,
-   "title": "Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?",
-   "url": "https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html",
-   "points": 27,
-   "comment_count": 7,
+   "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+   "url": "https://ericpardee.github.io/fire-hd-ownership/",
+   "points": 539,
+   "comment_count": 234,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 13,
-   "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
-   "url": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
-   "points": 232,
-   "comment_count": 178,
+   "title": "Explain it to me like I'm ten",
+   "url": "https://timharford.com/2026/08/explain-it-to-me-like-im-ten/",
+   "points": 28,
+   "comment_count": 16,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 14,
-   "title": "The End of an Athlon",
-   "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
-   "points": 168,
-   "comment_count": 76,
+   "title": "Slovakia finds Russian backdoor in traffic speed cameras",
+   "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
+   "points": 292,
+   "comment_count": 118,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 15,
-   "title": "Things I want in a modern relational query language",
-   "url": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
-   "points": 62,
-   "comment_count": 49,
+   "title": "Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?",
+   "url": "https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html",
+   "points": 57,
+   "comment_count": 20,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 16,
-   "title": "Reaganomics Didn't Trickle Down – It Just Broke Unions",
-   "url": "https://comuniq.xyz/Politics/post?t=1612",
-   "points": 6,
-   "comment_count": 0,
+   "title": "Phoenix tried a reflective coating on black asphalt; noon surface heat fell 12°F",
+   "url": "https://economictimes.indiatimes.com/news/international/us/phoenix-swapped-black-asphalt-for-a-reflective-road-coating-noon-surface-heat-fell-12f-but-pedestrians-faced-higher-radiant-heat/articleshow/133421891.cms?from=mdr",
+   "points": 17,
+   "comment_count": 18,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 17,
-   "title": "Why your local LLM feels dumber than it is",
-   "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-   "points": 463,
-   "comment_count": 186,
+   "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
+   "url": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
+   "points": 253,
+   "comment_count": 192,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 18,
-   "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
-   "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
-   "points": 266,
-   "comment_count": 115,
+   "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
+   "url": "https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference/",
+   "points": 7,
+   "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 19,
-   "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
-   "url": "https://martypc.net/",
-   "points": 189,
-   "comment_count": 68,
+   "title": "The End of an Athlon",
+   "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
+   "points": 171,
+   "comment_count": 76,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 20,
-   "title": "JIT Compiling Code in 5μs",
-   "url": "https://malisper.me/jit-compiling-code-in-5-us/",
-   "points": 148,
-   "comment_count": 92,
+   "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+   "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+   "points": 39,
+   "comment_count": 33,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 21,
-   "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-   "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-   "points": 11,
-   "comment_count": 4,
+   "title": "Predicting AI model release dates with stats",
+   "url": "https://releaseoracle.xyz/",
+   "points": 8,
+   "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 22,
-   "title": "I Dream of Quieter Computing",
-   "url": "https://henry.codes/writing/i-dream-of-quieter-computing/",
-   "points": 104,
-   "comment_count": 107,
+   "title": "I turned Unix talk from 1983 into the interface for my AI",
+   "url": "https://en.andros.dev/blog/09a21bdd/i-turned-unix-talk-from-1983-into-the-interface-for-my-ai/",
+   "points": 7,
+   "comment_count": 2,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 23,
-   "title": "We must not grant AI agents legal personhood",
-   "url": "https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473",
-   "points": 50,
-   "comment_count": 60,
+   "title": "The Remote Work Challenge: Lessons from 5 Cities",
+   "url": "https://www.pew.org/en/research-and-analysis/reports/2026/05/the-remote-work-challenge-lessons-from-5-cities",
+   "points": 8,
+   "comment_count": 2,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 24,
-   "title": "Hister – A private, full content search index that you control",
-   "url": "https://hister.org/",
-   "points": 464,
-   "comment_count": 98,
+   "title": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
+   "url": "https://wpintelligence.washingtonpost.com/topics/ai-tech/2026/08/19/wpi-conversation-why-an-ai-job-apocalypse-is-unlikely/",
+   "points": 10,
+   "comment_count": 4,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 25,
-   "title": "The Art and Beauty of Blade Runner (2015)",
-   "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
-   "points": 165,
-   "comment_count": 101,
+   "title": "Things I want in a modern relational query language",
+   "url": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
+   "points": 71,
+   "comment_count": 60,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 26,
-   "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
-   "url": "https://skylens.yantraai.app/",
-   "points": 58,
-   "comment_count": 30,
+   "title": "AI and Infrastructure Engineering",
+   "url": "https://omegion.dev/2026/08/ai-and-infrastructure-engineering/",
+   "points": 10,
+   "comment_count": 1,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 27,
-   "title": "I set a trap for a book-marketing scammer (2025)",
-   "url": "https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing",
-   "points": 76,
-   "comment_count": 50,
+   "title": "From Front Panel to Program: Thinking Like a PDP-8",
+   "url": "https://pikuma.com/blog/pdp-8-minicomputer",
+   "points": 7,
+   "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 28,
-   "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-   "url": "https://quantumi.sh/public/labs.html",
-   "points": 473,
-   "comment_count": 143,
+   "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
+   "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
+   "points": 282,
+   "comment_count": 122,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 29,
-   "title": "Amiga-Inspired AROS Goes Bare Metal on Raspberry Pi",
-   "url": "https://hackaday.com/2026/08/23/amiga-inspired-aros-goes-bare-metal-on-raspberry-pi/",
-   "points": 45,
-   "comment_count": 6,
+   "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+   "url": "https://martypc.net/",
+   "points": 195,
+   "comment_count": 73,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 30,
-   "title": "typ.ing",
-   "url": "https://typ.ing/",
-   "points": 350,
-   "comment_count": 114,
+   "title": "To become a better writer, read as much as you can",
+   "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+   "points": 399,
+   "comment_count": 245,
    "input": {
     "url": "https://news.ycombinator.com"
    }

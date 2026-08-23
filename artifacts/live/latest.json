@@ -1,19 +1,19 @@
 {
- "updatedAt": "2026-08-23T13:27:38.870Z",
+ "updatedAt": "2026-08-23T13:39:51.994Z",
  "sources": {
   "hn_front_page": {
    "label": "Hacker News front page",
    "collector_id": "c_mt5t6oj816r5d7yvfy",
-   "snapshot_id": "j_mt5udrmd50khycngf",
-   "captured_at": "2026-08-23T13:27:51.409Z",
+   "snapshot_id": "j_mt5utgzt3bhn4wmpc",
+   "captured_at": "2026-08-23T13:40:02.944Z",
    "verdict": "TRUSTED",
    "row_count": 30
   },
   "b2b_source": {
    "label": "Enterprise Support Platforms 2026",
    "collector_id": "c_mt4m8fix1gze0scg44",
-   "snapshot_id": "j_mt5ue0xa2d88wqomvm",
-   "captured_at": "2026-08-23T13:28:13.962Z",
+   "snapshot_id": "j_mt5utp9p11srsitg4j",
+   "captured_at": "2026-08-23T13:40:23.681Z",
    "verdict": "TRUSTED",
    "row_count": 10
   }

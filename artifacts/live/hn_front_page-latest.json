@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mt5x4fvz23ml5ru0hi",
+ "snapshot_id": "j_mt5z6c8b25pqtgx6ps",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-08-23T14:44:33.653Z",
+ "captured_at": "2026-08-23T15:42:01.688Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,16 +14,16 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-08-23T14:44:23.516Z",
-  "finished": "2026-08-23T14:44:25.899Z"
+  "started": "2026-08-23T15:41:51.218Z",
+  "finished": "2026-08-23T15:41:53.906Z"
  },
  "rows": [
   {
    "rank": 1,
    "title": "Malware infects Android-based automotive head unit firmware",
    "url": "https://securelist.com/android-head-unit-malware/121106/",
-   "points": 75,
-   "comment_count": 26,
+   "points": 107,
+   "comment_count": 48,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -32,88 +32,88 @@
    "rank": 2,
    "title": "My favorite nonfiction books about cults, scams, and schemes",
    "url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
-   "points": 23,
-   "comment_count": 1,
+   "points": 57,
+   "comment_count": 19,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 3,
-   "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
-   "url": "https://www.bbc.com/news/articles/cvg92y1wzn8o",
-   "points": 79,
-   "comment_count": 49,
+   "title": "What Is a Harness?",
+   "url": "https://earendil.com/posts/what-is-a-harness/",
+   "points": 48,
+   "comment_count": 36,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 4,
-   "title": "To become a better writer, read as much as you can",
-   "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
-   "points": 299,
-   "comment_count": 194,
+   "title": "Slovakia finds Russian backdoor in traffic speed cameras",
+   "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
+   "points": 57,
+   "comment_count": 15,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 5,
-   "title": "The End of an Athlon",
-   "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
-   "points": 139,
-   "comment_count": 53,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 6,
    "title": "Things I want in a modern relational query language",
    "url": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
-   "points": 6,
-   "comment_count": 0,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 7,
-   "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
-   "url": "https://skylens.yantraai.app/",
-   "points": 35,
+   "points": 24,
    "comment_count": 13,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
+   "rank": 6,
+   "title": "To become a better writer, read as much as you can",
+   "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+   "points": 329,
+   "comment_count": 211,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 7,
+   "title": "The End of an Athlon",
+   "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
+   "points": 146,
+   "comment_count": 58,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
    "rank": 8,
-   "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
-   "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
-   "points": 141,
-   "comment_count": 72,
+   "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
+   "url": "https://skylens.yantraai.app/",
+   "points": 39,
+   "comment_count": 20,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 9,
-   "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
-   "url": "https://martypc.net/",
-   "points": 154,
-   "comment_count": 56,
+   "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
+   "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
+   "points": 174,
+   "comment_count": 86,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 10,
-   "title": "JIT Compiling Code in 5μs",
-   "url": "https://malisper.me/jit-compiling-code-in-5-us/",
-   "points": 118,
-   "comment_count": 71,
+   "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+   "url": "https://martypc.net/",
+   "points": 157,
+   "comment_count": 55,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -122,198 +122,198 @@
    "rank": 11,
    "title": "Why your local LLM feels dumber than it is",
    "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-   "points": 410,
-   "comment_count": 167,
+   "points": 421,
+   "comment_count": 172,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 12,
-   "title": "Death to px, long live ch",
-   "url": "https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/",
-   "points": 15,
-   "comment_count": 5,
+   "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
+   "url": "https://www.bbc.com/news/articles/cvg92y1wzn8o",
+   "points": 97,
+   "comment_count": 64,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 13,
-   "title": "The Art and Beauty of Blade Runner (2015)",
-   "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
-   "points": 132,
-   "comment_count": 65,
+   "title": "Death to px, long live ch",
+   "url": "https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/",
+   "points": 27,
+   "comment_count": 18,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 14,
-   "title": "Fast and Hard Code",
-   "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
-   "points": 77,
-   "comment_count": 40,
+   "title": "JIT Compiling Code in 5μs",
+   "url": "https://malisper.me/jit-compiling-code-in-5-us/",
+   "points": 125,
+   "comment_count": 82,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 15,
-   "title": "Hister – A private, full content search index that you control",
-   "url": "https://hister.org/",
-   "points": 415,
-   "comment_count": 92,
+   "title": "Fast and Hard Code",
+   "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
+   "points": 83,
+   "comment_count": 48,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 16,
-   "title": "Thinking in Python",
-   "url": "https://thinkinginpython.com/",
-   "points": 240,
-   "comment_count": 46,
+   "title": "The Art and Beauty of Blade Runner (2015)",
+   "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
+   "points": 137,
+   "comment_count": 73,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 17,
-   "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-   "url": "https://quantumi.sh/public/labs.html",
-   "points": 433,
-   "comment_count": 129,
+   "title": "Hister – A private, full content search index that you control",
+   "url": "https://hister.org/",
+   "points": 428,
+   "comment_count": 95,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 18,
-   "title": "typ.ing",
-   "url": "https://typ.ing/",
-   "points": 317,
-   "comment_count": 100,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 19,
-   "title": "Scrap (2006)",
-   "url": "https://twitter.com/moxie/status/2091218652133732491",
-   "points": 385,
-   "comment_count": 208,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 20,
-   "title": "RF Cafe",
-   "url": "https://www.rfcafe.com/",
-   "points": 225,
-   "comment_count": 44,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 21,
-   "title": "NanoGPT Speedrun Frontier",
-   "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-   "points": 125,
-   "comment_count": 31,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 22,
-   "title": "New MCP Roadmap",
-   "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
-   "points": 239,
-   "comment_count": 141,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 23,
-   "title": "Risk of transmission of amyloid β pathology via transfused blood products",
-   "url": "https://doi.org/10.1016/S0140-6736(26)00767-1",
-   "points": 18,
+   "title": "Amiga-Inspired AROS Goes Bare Metal on Raspberry Pi",
+   "url": "https://hackaday.com/2026/08/23/amiga-inspired-aros-goes-bare-metal-on-raspberry-pi/",
+   "points": 7,
    "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
+   "rank": 19,
+   "title": "Authoritarianism of Code",
+   "url": "https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/",
+   "points": 12,
+   "comment_count": 6,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 20,
+   "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+   "url": "https://quantumi.sh/public/labs.html",
+   "points": 442,
+   "comment_count": 133,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 21,
+   "title": "typ.ing",
+   "url": "https://typ.ing/",
+   "points": 324,
+   "comment_count": 102,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 22,
+   "title": "Scrap (2006)",
+   "url": "https://twitter.com/moxie/status/2091218652133732491",
+   "points": 388,
+   "comment_count": 212,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 23,
+   "title": "Thinking in Python",
+   "url": "https://thinkinginpython.com/",
+   "points": 252,
+   "comment_count": 51,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
    "rank": 24,
-   "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
-   "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
-   "points": 184,
-   "comment_count": 93,
+   "title": "RF Cafe",
+   "url": "https://www.rfcafe.com/",
+   "points": 227,
+   "comment_count": 44,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 25,
-   "title": "Iranian hackers shut down UK power plant for 4 days",
-   "url": "https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/",
-   "points": 46,
-   "comment_count": 27,
+   "title": "New MCP Roadmap",
+   "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+   "points": 243,
+   "comment_count": 146,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 26,
-   "title": "ATProto spaces: A new extension to ATProto that enables non-public data",
-   "url": "https://atproto.com/blog/atproto-spaces-alpha",
-   "points": 158,
-   "comment_count": 25,
+   "title": "Risk of transmission of amyloid β pathology via transfused blood products",
+   "url": "https://doi.org/10.1016/S0140-6736(26)00767-1",
+   "points": 26,
+   "comment_count": 9,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 27,
-   "title": "A Friendly Introduction to Racket",
-   "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
-   "points": 252,
-   "comment_count": 134,
+   "title": "NanoGPT Speedrun Frontier",
+   "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+   "points": 128,
+   "comment_count": 32,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 28,
-   "title": "NetBSD and my life (2005)",
-   "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
-   "points": 138,
-   "comment_count": 30,
+   "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
+   "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
+   "points": 190,
+   "comment_count": 100,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 29,
-   "title": "Munder Difflin – Agent harness to run an office of your clones",
-   "url": "https://munderdiffl.in/",
-   "points": 294,
-   "comment_count": 131,
+   "title": "Rust 1.98 got a P-critical miscompilation",
+   "url": "https://github.com/rust-lang/rust/issues/161441",
+   "points": 10,
+   "comment_count": 1,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 30,
-   "title": "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers",
-   "url": "https://marcua.net/minitools/figmimic/",
-   "points": 118,
-   "comment_count": 17,
+   "title": "ATProto spaces: A new extension to ATProto that enables non-public data",
+   "url": "https://atproto.com/blog/atproto-spaces-alpha",
+   "points": 164,
+   "comment_count": 29,
    "input": {
     "url": "https://news.ycombinator.com"
    }

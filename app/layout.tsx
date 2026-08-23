@@ -35,8 +35,9 @@ function TopBar() {
 
 function Nav() {
   const items = [
-    { href: "/", label: "OVERVIEW" },
-    { href: "/runs", label: "RUN LEDGER" },
+    { href: "/", label: "STORY" },
+    { href: "/business", label: "BUSINESS" },
+    { href: "/engineering", label: "ENGINEERING" },
     { href: "/incidents/inc_001", label: "INCIDENT" },
     { href: "/lab/source", label: "SOURCE" },
   ];

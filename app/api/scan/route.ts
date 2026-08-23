@@ -64,7 +64,8 @@ export async function POST(request: NextRequest) {
     body: JSON.stringify({
       zone: process.env.BRIGHTDATA_UNLOCKER_ZONE ?? "cli_unlocker",
       url: parsed.toString(),
-      format: "markdown",
+      format: "json",
+      data_format: "markdown",
     }),
   });
   if (!response.ok) {
@@ -76,12 +77,12 @@ export async function POST(request: NextRequest) {
 
   const payload = await response.text();
   let content = payload;
+  let httpStatus: number | null = null;
   try {
-    const asJson = JSON.parse(payload) as { body?: string; status?: number };
+    const asJson = JSON.parse(payload) as { body?: string; status_code?: number };
     if (typeof asJson.body === "string") {
       content = asJson.body;
-    } else if (typeof payload !== "string") {
-      content = String(payload);
+      httpStatus = asJson.status_code ?? null;
     }
   } catch {
     // plain markdown response
@@ -99,6 +100,7 @@ export async function POST(request: NextRequest) {
   return NextResponse.json({
     url: parsed.toString(),
     title: titleLine,
+    http_status: httpStatus,
     stats: {
       words,
       headings,

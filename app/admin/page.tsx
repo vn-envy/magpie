@@ -82,7 +82,7 @@ function RunTimeline() {
                 {run.rows}
               </span>
               <div
-                className="w-full max-w-12 rounded-t-[2px]"
+                className="block-fill w-full max-w-12 rounded-t-[2px]"
                 style={{
                   height: `${Math.max(run.rows, 1) * 9}%`,
                   background: VERDICT_COLOR[run.verdict] ?? "#52525b",
@@ -124,12 +124,12 @@ function VerdictDistribution() {
         <CardTitle>VERDICT DISTRIBUTION — WHAT THE TRUST ENGINE DID</CardTitle>
       </CardHeader>
       <CardContent>
-        <div className="flex h-10 w-full overflow-hidden rounded-[3px]">
+        <div className="flex h-12 w-full overflow-hidden rounded-[3px] border border-[#222]">
           {segments.map((seg) => (
             <div
               key={seg.label}
               style={{ width: `${(seg.value / RUNS.length) * 100}%`, background: seg.color }}
-              className="flex items-center justify-center"
+              className="block-fill flex items-center justify-center"
             >
               <span className="font-mono text-sm font-bold tabular-nums text-black/70">
                 {seg.value > 0 ? seg.value : ""}
@@ -460,7 +460,13 @@ export default async function AdminConsole({
   return (
     <main className="mx-auto max-w-6xl px-6 py-8">
       <header className="mb-6">
-        <p className="font-dot text-[10px] font-bold uppercase tracking-[0.25em] text-zinc-500">
+        <div className="mb-3 flex flex-wrap items-center justify-between gap-2 border-y border-[#1c1c1f] py-2">
+          <p className="font-mono text-[11px] uppercase tracking-[0.14em] text-zinc-500">
+            SCREEN 02 · SENSOR ONLINE · FIXTURE REV 27
+          </p>
+          <p className="font-mono text-[11px] text-zinc-600">{lineage.collector_id}</p>
+        </div>
+        <p className="font-dot text-[11px] font-bold uppercase tracking-[0.22em] text-zinc-500">
           ADMIN · MARKET INTELLIGENCE OPERATIONS
         </p>
         <h1 className="mt-1 font-dot text-3xl font-bold tracking-wider text-zinc-50">

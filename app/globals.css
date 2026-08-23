@@ -182,3 +182,13 @@ body {
   from { opacity: 0; transform: translateY(14px); }
   to { opacity: 1; transform: translateY(0); }
 }
+
+/* ---- TRMNL-style e-ink blocks: segmented fills for bars ---- */
+.block-fill {
+  mask-image: repeating-linear-gradient(to right, #000 0 6px, transparent 6px 9px);
+  -webkit-mask-image: repeating-linear-gradient(to right, #000 0 6px, transparent 6px 9px);
+}
+
+.dashed-sep {
+  border-bottom: 1px dashed #2a2a2d;
+}

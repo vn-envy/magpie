@@ -232,7 +232,12 @@ export function BusinessFlow(props: BusinessFlowProps) {
     <div className="space-y-5">
       {/* header: step progress + mode */}
       <div className="flex flex-wrap items-center justify-between gap-3 border-y border-[#1c1c1f] py-3">
-        <Stepper phase={phase} />
+        <div className="flex flex-wrap items-center gap-x-4 gap-y-2">
+          <span className="font-mono text-[11px] uppercase tracking-[0.14em] text-zinc-600">
+            SCREEN 01
+          </span>
+          <Stepper phase={phase} />
+        </div>
         <div className="flex gap-1 rounded-[3px] border border-[#222] p-1">
           {(["replay", "live"] as const).map((m) => (
             <button
@@ -314,7 +319,7 @@ export function BusinessFlow(props: BusinessFlowProps) {
             </p>
           </CardHeader>
           <CardContent className="px-0 py-0">
-            <div className="space-y-3 px-5 py-5">
+            <div className="space-y-3.5 px-5 py-5">
               {topTen.map((row) => {
                 const width = 100 - (row.rank - 1) * 7.5;
                 const you = row.brand === "NimbusDesk";
@@ -337,11 +342,13 @@ export function BusinessFlow(props: BusinessFlowProps) {
                           {row.evidence_text}
                         </span>
                       </div>
-                      <div className="mt-1.5 h-2.5 overflow-hidden rounded-[2px] bg-[#111315]">
-                        <div
-                          className={`h-full rounded-[2px] ${you ? "bg-[#D71921]" : "bg-zinc-600"}`}
-                          style={{ width: `${width}%` }}
-                        />
+                      <div className="dashed-sep mt-1.5 pb-3">
+                        <div className="h-3 overflow-hidden rounded-[2px] bg-[#111315]">
+                          <div
+                            className={`block-fill h-full rounded-[2px] ${you ? "bg-[#D71921]" : "bg-zinc-500"}`}
+                            style={{ width: `${width}%` }}
+                          />
+                        </div>
                       </div>
                     </div>
                   </div>

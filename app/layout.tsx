@@ -36,7 +36,7 @@ function TopBar() {
 function Nav() {
   const items = [
     { href: "/", label: "BUSINESS" },
-    { href: "/engineering", label: "ADMIN" },
+    { href: "/admin", label: "ADMIN" },
     { href: "/lab/source", label: "SOURCE" },
   ];
   return (

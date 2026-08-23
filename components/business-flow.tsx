@@ -235,7 +235,7 @@ export function BusinessFlow(props: BusinessFlowProps) {
                 value={url}
                 onChange={(e) => setUrl(e.target.value)}
                 spellCheck={false}
-                className="min-w-72 flex-1 rounded-[3px] border border-zinc-800 bg-black px-4 py-2.5 font-mono text-sm text-zinc-100 outline-none focus:border-zinc-500"
+                className="min-w-72 flex-1 rounded-[3px] border border-[#222] bg-[#111315] px-4 py-2.5 font-mono text-sm text-zinc-100 outline-none focus:border-zinc-500"
                 placeholder="https://your-product.com"
               />
               <PrimaryCta onClick={startResearch} disabled={busy}>
@@ -320,7 +320,7 @@ export function BusinessFlow(props: BusinessFlowProps) {
           </CardHeader>
           <CardContent className="space-y-3">
             {recommendations.map((rec) => (
-              <div key={rec.id} className="rounded-[4px] border border-zinc-800 bg-black p-4">
+              <div key={rec.id} className="rounded-[4px] border border-zinc-800 bg-[#111315] p-4">
                 <div className="flex items-center justify-between">
                   <p className="font-dot text-[10px] font-bold uppercase tracking-[0.2em] text-[#ff5252]">
                     PRIORITY {rec.priority}
@@ -449,7 +449,7 @@ export function BusinessFlow(props: BusinessFlowProps) {
                 </li>
               ))}
             </ol>
-            <div className="mt-4 rounded-[4px] border border-zinc-800 bg-black p-4 font-mono text-xs leading-6 text-zinc-400">
+            <div className="mt-4 rounded-[4px] border border-zinc-800 bg-[#111315] p-4 font-mono text-xs leading-6 text-zinc-400">
               rows 7 → 10 · collector {collectorId} unchanged · facts hash {factsHashPrefix}…
               identical · downstream changes 0 · recommendation: PRIORITY 1 plan stands
             </div>

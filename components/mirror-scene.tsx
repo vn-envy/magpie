@@ -130,11 +130,11 @@ export function MirrorScene() {
         {/* scan line during detect */}
         {phase === "detect" && <line x1="390" y1="36" x2="390" y2="216" stroke="#D71921" strokeWidth="2" className="mirror-scan" />}
 
-        {/* verdict stamp */}
+        {/* verdict stamp — inside the glass, clear of the frame */}
         {past("verdict") && (
           <g className="mirror-stamp">
-            <rect x="452" y="8" width="150" height="26" rx="3" fill="none" stroke="#D71921" strokeWidth="1.5" />
-            <text x="527" y="26" textAnchor="middle" fill="#D71921" fontSize="13" fontFamily="monospace" letterSpacing="3">
+            <rect x="452" y="46" width="150" height="26" rx="3" fill="none" stroke="#D71921" strokeWidth="1.5" />
+            <text x="527" y="64" textAnchor="middle" fill="#D71921" fontSize="13" fontFamily="monospace" letterSpacing="3">
               7/10 — NOT REAL
             </text>
           </g>

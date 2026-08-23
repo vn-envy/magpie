@@ -82,7 +82,7 @@ export default async function IncidentRoom({
             <br />
             BUSINESS CONCLUSION WRONG.
           </p>
-          <p className="mt-4 max-w-3xl text-sm leading-6 text-zinc-400">
+          <p className="mt-4 max-w-3xl font-sans text-sm leading-6 text-zinc-400">
             The page redesigned: the top three vendors moved into a JavaScript featured carousel
             and their evidence behind expandable panels. The collector still succeeded and returned
             schema-valid JSON — but only seven of ten vendors.{" "}
@@ -90,11 +90,11 @@ export default async function IncidentRoom({
               A naive product would report: {incidentStory.prevented_conclusion}
             </span>
           </p>
-          <div className="mt-4 max-w-3xl rounded-[4px] border border-zinc-800 bg-black p-4">
+          <div className="mt-4 max-w-3xl rounded-[4px] border border-zinc-800 bg-[#111315] p-4">
             <p className="font-dot text-[10px] font-bold uppercase tracking-[0.2em] text-zinc-400">
               Latest run quarantined
             </p>
-            <p className="mt-2 text-sm leading-6 text-zinc-500">
+            <p className="mt-2 font-sans text-sm leading-6 text-zinc-500">
               The collector returned ranks 4–10 while the last trusted observation contained ranks
               1–10. Publishing this run could falsely report a source-evidence loss. The last
               trusted snapshot kept powering the dashboard while the collector was reviewed.

@@ -165,7 +165,7 @@ body {
 
 .mirror-stamp {
   animation: stamp-pop 0.35s cubic-bezier(0.2, 1.6, 0.4, 1) both;
-  transform-origin: 527px 21px;
+  transform-origin: 527px 59px;
 }
 
 @keyframes stamp-pop {

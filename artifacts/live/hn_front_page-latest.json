@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mt6bzxvc1dw83pjynq",
+ "snapshot_id": "j_mt6e7o5jlpfkehzg6",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-08-23T21:40:57.756Z",
+ "captured_at": "2026-08-23T22:43:07.991Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,156 +14,156 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-08-23T21:40:47.697Z",
-  "finished": "2026-08-23T21:40:50.192Z"
+  "started": "2026-08-23T22:42:47.644Z",
+  "finished": "2026-08-23T22:43:03.473Z"
  },
  "rows": [
   {
    "rank": 1,
    "title": "How I find problems to solve as a staff engineer",
    "url": "https://lalitm.com/post/find-problems-staff-engineer/",
-   "points": 136,
-   "comment_count": 54,
+   "points": 180,
+   "comment_count": 65,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 2,
-   "title": "How Complex Systems Fail (1998)",
-   "url": "https://how.complexsystems.fail/",
-   "points": 180,
-   "comment_count": 50,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 3,
-   "title": "Why Sal Khan't: On Learning by Making but Teaching by Telling",
-   "url": "https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/",
-   "points": 98,
-   "comment_count": 60,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 4,
-   "title": "The Vibe Tax",
-   "url": "https://insufferable.dev/posts/vibe-tax/",
-   "points": 55,
-   "comment_count": 38,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 5,
-   "title": "Malware infects Android-based automotive head unit firmware",
-   "url": "https://securelist.com/android-head-unit-malware/121106/",
-   "points": 191,
-   "comment_count": 90,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 6,
-   "title": "Coconut Oil Jet Fuel Matches Kerosene's Efficiency in Engine Tests",
-   "url": "https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/",
-   "points": 119,
-   "comment_count": 105,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 7,
-   "title": "What Is a Harness?",
-   "url": "https://earendil.com/posts/what-is-a-harness/",
-   "points": 208,
-   "comment_count": 111,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 8,
-   "title": "A website for debloated open source alternatives",
-   "url": "https://debloat.dev/",
-   "points": 199,
-   "comment_count": 74,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 9,
-   "title": "My favorite nonfiction books about cults, scams, and schemes",
-   "url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
-   "points": 166,
-   "comment_count": 58,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 10,
-   "title": "My agent.md to improve LLM-assisted code quality",
-   "url": "https://fabiensanglard.net/agent.md/index.html",
-   "points": 58,
-   "comment_count": 22,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 11,
    "title": "Google Workspace thinks my domain is an email provider",
    "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
-   "points": 21,
-   "comment_count": 4,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 12,
-   "title": "Explain it to me like I'm ten",
-   "url": "https://timharford.com/2026/08/explain-it-to-me-like-im-ten/",
-   "points": 39,
+   "points": 79,
    "comment_count": 21,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
+   "rank": 3,
+   "title": "How Complex Systems Fail (1998)",
+   "url": "https://how.complexsystems.fail/",
+   "points": 209,
+   "comment_count": 58,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 4,
+   "title": "My agent.md to improve LLM-assisted code quality",
+   "url": "https://fabiensanglard.net/agent.md/index.html",
+   "points": 96,
+   "comment_count": 41,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 5,
+   "title": "What Is a Harness?",
+   "url": "https://earendil.com/posts/what-is-a-harness/",
+   "points": 234,
+   "comment_count": 118,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 6,
+   "title": "Why Sal Khan't: On Learning by Making but Teaching by Telling",
+   "url": "https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/",
+   "points": 110,
+   "comment_count": 71,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 7,
+   "title": "Malware infects Android-based automotive head unit firmware",
+   "url": "https://securelist.com/android-head-unit-malware/121106/",
+   "points": 194,
+   "comment_count": 94,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 8,
+   "title": "My favorite nonfiction books about cults, scams, and schemes",
+   "url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
+   "points": 178,
+   "comment_count": 62,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 9,
+   "title": "A website for debloated open source alternatives",
+   "url": "https://debloat.dev/",
+   "points": 219,
+   "comment_count": 74,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 10,
+   "title": "Explain it to me like I'm ten",
+   "url": "https://timharford.com/2026/08/explain-it-to-me-like-im-ten/",
+   "points": 51,
+   "comment_count": 24,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 11,
+   "title": "Decoding silent reading from non-invasive EEG",
+   "url": "https://arxiv.org/abs/2608.20186",
+   "points": 12,
+   "comment_count": 5,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 12,
+   "title": "A complex structure on S^6 [pdf]",
+   "url": "https://alpo.ge/s6.pdf",
+   "points": 25,
+   "comment_count": 13,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
    "rank": 13,
-   "title": "Fable and the End of the Free Lunch",
-   "url": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
-   "points": 71,
-   "comment_count": 61,
+   "title": "The Vibe Tax",
+   "url": "https://insufferable.dev/posts/vibe-tax/",
+   "points": 80,
+   "comment_count": 63,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 14,
-   "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-   "url": "https://ericpardee.github.io/fire-hd-ownership/",
-   "points": 560,
-   "comment_count": 243,
+   "title": "Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?",
+   "url": "https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html",
+   "points": 106,
+   "comment_count": 36,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 15,
-   "title": "Decoding silent reading from non-invasive EEG",
-   "url": "https://arxiv.org/abs/2608.20186",
-   "points": 7,
-   "comment_count": 1,
+   "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+   "url": "https://ericpardee.github.io/fire-hd-ownership/",
+   "points": 585,
+   "comment_count": 260,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -172,28 +172,28 @@
    "rank": 16,
    "title": "Slovakia finds Russian backdoor in traffic speed cameras",
    "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
-   "points": 318,
-   "comment_count": 124,
+   "points": 343,
+   "comment_count": 130,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 17,
-   "title": "Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?",
-   "url": "https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html",
-   "points": 79,
-   "comment_count": 27,
+   "title": "Fable and the End of the Free Lunch",
+   "url": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
+   "points": 84,
+   "comment_count": 71,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 18,
-   "title": "Predicting AI model release dates with stats",
-   "url": "https://releaseoracle.xyz/",
-   "points": 16,
-   "comment_count": 2,
+   "title": "The Planet Now Has More Trees Than It Did 35 Years Ago (2018)",
+   "url": "https://psmag.com/environment/the-planet-now-has-more-trees-than-it-did-35-years-ago/",
+   "points": 20,
+   "comment_count": 5,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -202,38 +202,38 @@
    "rank": 19,
    "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
    "url": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
-   "points": 263,
-   "comment_count": 202,
+   "points": 274,
+   "comment_count": 217,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 20,
-   "title": "The Remote Work Challenge: Lessons from 5 Cities",
-   "url": "https://www.pew.org/en/research-and-analysis/reports/2026/05/the-remote-work-challenge-lessons-from-5-cities",
-   "points": 15,
-   "comment_count": 4,
+   "title": "Coconut Oil Jet Fuel Matches Kerosene's Efficiency in Engine Tests",
+   "url": "https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/",
+   "points": 124,
+   "comment_count": 133,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 21,
-   "title": "The End of an Athlon",
-   "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
-   "points": 173,
-   "comment_count": 82,
+   "title": "Predicting AI model release dates with stats",
+   "url": "https://releaseoracle.xyz/",
+   "points": 18,
+   "comment_count": 3,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 22,
-   "title": "AI and Infrastructure Engineering",
-   "url": "https://omegion.dev/2026/08/ai-and-infrastructure-engineering/",
-   "points": 14,
-   "comment_count": 3,
+   "title": "Kodak DC50 now usable on the Apple II",
+   "url": "https://www.colino.net/wordpress/archives/2026/08/23/kodak-dc50-now-usable-on-the-apple-ii/",
+   "points": 18,
+   "comment_count": 2,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -242,78 +242,78 @@
    "rank": 23,
    "title": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
    "url": "https://wpintelligence.washingtonpost.com/topics/ai-tech/2026/08/19/wpi-conversation-why-an-ai-job-apocalypse-is-unlikely/",
-   "points": 16,
-   "comment_count": 16,
+   "points": 29,
+   "comment_count": 39,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 24,
-   "title": "Kodak DC50 now usable on the Apple II",
-   "url": "https://www.colino.net/wordpress/archives/2026/08/23/kodak-dc50-now-usable-on-the-apple-ii/",
-   "points": 9,
-   "comment_count": 0,
+   "title": "The Remote Work Challenge: Lessons from 5 Cities",
+   "url": "https://www.pew.org/en/research-and-analysis/reports/2026/05/the-remote-work-challenge-lessons-from-5-cities",
+   "points": 20,
+   "comment_count": 6,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 25,
-   "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
-   "url": "https://martypc.net/",
-   "points": 200,
-   "comment_count": 80,
+   "title": "Training AI to Paint with Code",
+   "url": "https://surya.website/rling-qwen-to-paint-with-code",
+   "points": 8,
+   "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 26,
-   "title": "To become a better writer, read as much as you can",
-   "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
-   "points": 404,
-   "comment_count": 245,
+   "title": "AI and Infrastructure Engineering",
+   "url": "https://omegion.dev/2026/08/ai-and-infrastructure-engineering/",
+   "points": 20,
+   "comment_count": 4,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 27,
-   "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
-   "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
-   "points": 291,
-   "comment_count": 129,
+   "title": "To become a better writer, read as much as you can",
+   "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+   "points": 413,
+   "comment_count": 245,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 28,
-   "title": "I Dream of Quieter Computing",
-   "url": "https://henry.codes/writing/i-dream-of-quieter-computing/",
-   "points": 106,
-   "comment_count": 107,
+   "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+   "url": "https://martypc.net/",
+   "points": 206,
+   "comment_count": 87,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 29,
-   "title": "JIT Compiling Code in 5μs",
-   "url": "https://malisper.me/jit-compiling-code-in-5-us/",
-   "points": 150,
-   "comment_count": 95,
+   "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
+   "url": "https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference/",
+   "points": 16,
+   "comment_count": 4,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 30,
-   "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
-   "url": "https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference/",
-   "points": 14,
-   "comment_count": 2,
+   "title": "I Dream of Quieter Computing",
+   "url": "https://henry.codes/writing/i-dream-of-quieter-computing/",
+   "points": 108,
+   "comment_count": 109,
    "input": {
     "url": "https://news.ycombinator.com"
    }

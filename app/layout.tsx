@@ -74,7 +74,7 @@ export default function RootLayout({
         {children}
         <footer className="border-t border-zinc-900">
           <div className="mx-auto max-w-6xl px-6 py-4">
-            <p className="font-dot text-[10px] uppercase tracking-[0.2em] text-zinc-600">
+            <p className="font-mono text-[10px] uppercase tracking-[0.15em] text-zinc-600">
               MAGPIE · CONTROLLED DEMONSTRATION · BRIGHT DATA COLLECTOR c_mt4m8fix1gze0scg44 ·
               REPLAY OF GENUINE SNAPSHOTS
             </p>

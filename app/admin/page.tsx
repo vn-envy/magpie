@@ -44,7 +44,7 @@ function Kpis() {
             <p className="font-dot text-[9px] font-bold uppercase tracking-[0.18em] text-zinc-500">
               {stat.label}
             </p>
-            <p className="mt-2 font-dot text-xl font-bold text-zinc-50">{stat.value}</p>
+            <p className="mt-2 font-sans text-2xl font-bold tabular-nums tracking-tight text-zinc-50">{stat.value}</p>
             <p className="mt-1 truncate font-sans text-xs text-zinc-500" title={stat.sub}>
               {stat.sub}
             </p>

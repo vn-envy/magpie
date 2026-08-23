@@ -112,7 +112,7 @@ export default async function IncidentRoom({
             </CardTitle>
           </CardHeader>
           <CardContent>
-            <p className="font-dot text-3xl font-bold text-emerald-400">
+            <p className="font-mono text-3xl font-bold tabular-nums text-emerald-400">
               {baseline.assessment.record_count}
               <span className="text-sm text-zinc-600"> /10</span>
             </p>
@@ -131,7 +131,7 @@ export default async function IncidentRoom({
             </CardTitle>
           </CardHeader>
           <CardContent>
-            <p className="font-dot text-3xl font-bold text-red-400">
+            <p className="font-mono text-3xl font-bold tabular-nums text-red-400">
               {broken.assessment.record_count}
               <span className="text-sm text-zinc-600"> /10</span>
             </p>
@@ -150,7 +150,7 @@ export default async function IncidentRoom({
             </CardTitle>
           </CardHeader>
           <CardContent>
-            <p className="font-dot text-3xl font-bold text-violet-300">
+            <p className="font-mono text-3xl font-bold tabular-nums text-violet-300">
               {healed.assessment.record_count}
               <span className="text-sm text-zinc-600"> /10</span>
             </p>

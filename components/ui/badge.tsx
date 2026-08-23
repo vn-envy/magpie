@@ -20,7 +20,7 @@ function Badge({
   return (
     <span
       className={cn(
-        "inline-flex items-center gap-1.5 rounded-[3px] border px-2 py-0.5 font-dot text-[10px] font-bold uppercase tracking-[0.15em]",
+        "inline-flex items-center gap-1.5 rounded-[3px] border px-2 py-0.5 font-dot text-[11px] font-bold uppercase tracking-[0.12em]",
         styles[variant],
         className,
       )}

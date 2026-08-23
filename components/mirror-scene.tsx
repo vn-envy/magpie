@@ -130,18 +130,18 @@ export function MirrorScene() {
         {/* scan line during detect */}
         {phase === "detect" && <line x1="390" y1="36" x2="390" y2="216" stroke="#D71921" strokeWidth="2" className="mirror-scan" />}
 
-        {/* verdict stamp — inside the glass, clear of the frame */}
+        {/* verdict stamp — inside the glass, box sized to the text */}
         {past("verdict") && (
           <g className="mirror-stamp">
-            <rect x="452" y="46" width="150" height="26" rx="3" fill="none" stroke="#D71921" strokeWidth="1.5" />
-            <text x="527" y="64" textAnchor="middle" fill="#D71921" fontSize="13" fontFamily="monospace" letterSpacing="3">
+            <rect x="417" y="46" width="220" height="28" rx="3" fill="none" stroke="#D71921" strokeWidth="1.5" />
+            <text x="527" y="65" textAnchor="middle" fill="#D71921" fontSize="12" fontFamily="monospace" letterSpacing="2.5">
               7/10 — NOT REAL
             </text>
           </g>
         )}
       </svg>
       <p
-        className={`px-2 pt-2 text-center font-dot text-[11px] font-bold uppercase leading-5 tracking-[0.2em] ${
+        className={`px-2 pt-3 text-center font-dot text-[12px] font-bold uppercase leading-5 tracking-[0.18em] ${
           phase === "verdict" ? "text-[#ff5252]" : "text-zinc-400"
         }`}
       >

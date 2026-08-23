@@ -20,10 +20,10 @@ function TopBar() {
   return (
     <div className="border-b border-zinc-800 bg-black">
       <div className="mx-auto flex max-w-6xl items-center justify-between px-6 py-2">
-        <p className="font-dot text-[10px] font-bold uppercase tracking-[0.25em] text-zinc-500">
+        <p className="font-dot text-[11px] font-bold uppercase tracking-[0.22em] text-zinc-500">
           MAGPIE // EVIDENCE INTELLIGENCE
         </p>
-        <p className="hidden items-center gap-2 font-dot text-[10px] font-bold uppercase tracking-[0.25em] text-zinc-500 sm:flex">
+        <p className="hidden items-center gap-2 font-dot text-[11px] font-bold uppercase tracking-[0.22em] text-zinc-500 sm:flex">
           <span className="live-dot inline-block h-1.5 w-1.5 rounded-full bg-emerald-500" />
           SENSOR ONLINE
         </p>
@@ -50,7 +50,7 @@ function Nav() {
             <Link
               key={item.href}
               href={item.href}
-              className="font-dot text-[10px] font-bold uppercase tracking-[0.2em] text-zinc-500 transition-colors hover:text-zinc-50"
+              className="font-dot text-[11px] font-bold uppercase tracking-[0.18em] text-zinc-500 transition-colors hover:text-zinc-50"
             >
               {item.label}
             </Link>
@@ -74,7 +74,7 @@ export default function RootLayout({
         {children}
         <footer className="border-t border-zinc-900">
           <div className="mx-auto max-w-6xl px-6 py-4">
-            <p className="font-mono text-[10px] uppercase tracking-[0.15em] text-zinc-600">
+            <p className="font-mono text-[11px] uppercase tracking-[0.12em] text-zinc-600">
               MAGPIE · CONTROLLED DEMONSTRATION · BRIGHT DATA COLLECTOR c_mt4m8fix1gze0scg44 ·
               REPLAY OF GENUINE SNAPSHOTS
             </p>

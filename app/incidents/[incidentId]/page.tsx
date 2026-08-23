@@ -116,7 +116,7 @@ export default async function IncidentRoom({
               {baseline.assessment.record_count}
               <span className="text-sm text-zinc-600"> /10</span>
             </p>
-            <p className="mb-3 font-mono text-[11px] text-zinc-500">
+            <p className="mb-3 font-mono text-xs text-zinc-500">
               {baseline.snapshot_id} · facts {baseline.facts_hash.slice(0, 12)}…
             </p>
             <RankColumn rows={[...baseline.rows].sort((a, b) => a.rank - b.rank)} tone="trusted" />
@@ -135,7 +135,7 @@ export default async function IncidentRoom({
               {broken.assessment.record_count}
               <span className="text-sm text-zinc-600"> /10</span>
             </p>
-            <p className="mb-3 font-mono text-[11px] text-zinc-500">
+            <p className="mb-3 font-mono text-xs text-zinc-500">
               {broken.snapshot_id} · schema-valid
             </p>
             <RankColumn rows={[...broken.rows].sort((a, b) => a.rank - b.rank)} tone="broken" />
@@ -154,7 +154,7 @@ export default async function IncidentRoom({
               {healed.assessment.record_count}
               <span className="text-sm text-zinc-600"> /10</span>
             </p>
-            <p className="mb-3 font-mono text-[11px] text-zinc-500">
+            <p className="mb-3 font-mono text-xs text-zinc-500">
               {healed.snapshot_id} · facts {healed.facts_hash.slice(0, 12)}…
             </p>
             <RankColumn rows={[...healed.rows].sort((a, b) => a.rank - b.rank)} tone="healed" />

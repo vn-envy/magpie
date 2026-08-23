@@ -41,13 +41,138 @@ function Kpis() {
       {stats.map((stat) => (
         <Card key={stat.label}>
           <CardContent className="py-4">
-            <p className="font-dot text-[9px] font-bold uppercase tracking-[0.18em] text-zinc-500">
+            <p className="font-dot text-[11px] font-bold uppercase tracking-[0.14em] text-zinc-500">
               {stat.label}
             </p>
             <p className="mt-2 font-sans text-2xl font-bold tabular-nums tracking-tight text-zinc-50">{stat.value}</p>
             <p className="mt-1 truncate font-sans text-xs text-zinc-500" title={stat.sub}>
               {stat.sub}
             </p>
+          </CardContent>
+        </Card>
+      ))}
+    </section>
+  );
+}
+
+
+const VERDICT_COLOR: Record<string, string> = {
+  TRUSTED: "#22c55e",
+  TRUSTED_CHANGE: "#a78bfa",
+  QUARANTINED: "#ef4444",
+  EMPTY: "#7f1d1d",
+  DIAGNOSTIC: "#52525b",
+};
+
+function RunTimeline() {
+  return (
+    <Card>
+      <CardHeader>
+        <CardTitle>ROW COUNT ACROSS NINE GENUINE RUNS — SAME COLLECTOR, CHANGING SOURCE</CardTitle>
+      </CardHeader>
+      <CardContent>
+        <div className="flex items-end gap-2.5 md:gap-3" style={{ height: 170 }}>
+          {RUNS.map((run) => (
+            <div
+              key={run.snapshot_id}
+              className="flex h-full flex-1 flex-col items-center justify-end gap-1.5"
+              title={`Run ${run.sequence} · ${run.rows} rows · ${run.verdict}`}
+            >
+              <span className="font-mono text-sm font-bold tabular-nums text-zinc-300">
+                {run.rows}
+              </span>
+              <div
+                className="w-full max-w-12 rounded-t-[2px]"
+                style={{
+                  height: `${Math.max(run.rows, 1) * 9}%`,
+                  background: VERDICT_COLOR[run.verdict] ?? "#52525b",
+                  opacity: run.rows === 0 ? 0.5 : 1,
+                }}
+              />
+              <span className="font-mono text-[11px] tabular-nums text-zinc-500">
+                {String(run.sequence).padStart(2, "0")}
+              </span>
+            </div>
+          ))}
+        </div>
+        <div className="mt-4 flex flex-wrap gap-x-5 gap-y-1.5 text-xs text-zinc-500">
+          <span className="flex items-center gap-1.5"><span className="h-2.5 w-2.5 rounded-[1px] bg-emerald-500" /> published</span>
+          <span className="flex items-center gap-1.5"><span className="h-2.5 w-2.5 rounded-[1px] bg-red-500" /> blocked</span>
+          <span className="flex items-center gap-1.5"><span className="h-2.5 w-2.5 rounded-[1px] bg-violet-400" /> trusted change</span>
+          <span className="flex items-center gap-1.5"><span className="h-2.5 w-2.5 rounded-[1px] bg-zinc-600" /> diagnostic</span>
+          <span className="ml-auto hidden text-zinc-600 md:block">
+            run 05 — the believable lie · run 07 — the caught overfit repair
+          </span>
+        </div>
+      </CardContent>
+    </Card>
+  );
+}
+
+function VerdictDistribution() {
+  const trusted = RUNS.filter((r) => r.verdict === "TRUSTED" || r.verdict === "TRUSTED_CHANGE").length;
+  const blocked = RUNS.filter((r) => r.verdict === "QUARANTINED" || r.verdict === "EMPTY").length;
+  const diagnostic = RUNS.length - trusted - blocked;
+  const segments = [
+    { label: "PUBLISHED", value: trusted, color: "#22c55e" },
+    { label: "BLOCKED", value: blocked, color: "#ef4444" },
+    { label: "DIAGNOSTIC", value: diagnostic, color: "#52525b" },
+  ];
+  return (
+    <Card>
+      <CardHeader>
+        <CardTitle>VERDICT DISTRIBUTION — WHAT THE TRUST ENGINE DID</CardTitle>
+      </CardHeader>
+      <CardContent>
+        <div className="flex h-10 w-full overflow-hidden rounded-[3px]">
+          {segments.map((seg) => (
+            <div
+              key={seg.label}
+              style={{ width: `${(seg.value / RUNS.length) * 100}%`, background: seg.color }}
+              className="flex items-center justify-center"
+            >
+              <span className="font-mono text-sm font-bold tabular-nums text-black/70">
+                {seg.value > 0 ? seg.value : ""}
+              </span>
+            </div>
+          ))}
+        </div>
+        <div className="mt-3 flex flex-wrap gap-x-5 gap-y-1.5 text-xs text-zinc-400">
+          {segments.map((seg) => (
+            <span key={seg.label} className="flex items-center gap-1.5">
+              <span className="h-2.5 w-2.5 rounded-[1px]" style={{ background: seg.color }} />
+              {seg.label} · {seg.value}
+            </span>
+          ))}
+        </div>
+        <p className="mt-3 text-xs leading-5 text-zinc-500">
+          Half of all genuine runs were unsafe to publish — every one caught before it could reach
+          a customer dashboard.
+        </p>
+      </CardContent>
+    </Card>
+  );
+}
+
+function EvidenceSummary() {
+  const artifacts = Object.entries(
+    (manifest as { artifacts: Record<string, { sha256: string; bytes: number }> }).artifacts,
+  );
+  const totalBytes = artifacts.reduce((sum, [, meta]) => sum + meta.bytes, 0);
+  return (
+    <section className="mb-4 grid grid-cols-2 gap-3 md:grid-cols-4">
+      {[
+        { label: "ARTIFACT FILES", value: String(artifacts.length) },
+        { label: "TOTAL SIZE", value: `${(totalBytes / 1024).toFixed(0)} KB` },
+        { label: "HASH ALGORITHM", value: "SHA-256" },
+        { label: "TAMPER-VERIFIABLE", value: "YES" },
+      ].map((stat) => (
+        <Card key={stat.label}>
+          <CardContent className="py-4">
+            <p className="font-dot text-[10px] font-bold uppercase tracking-[0.16em] text-zinc-500">
+              {stat.label}
+            </p>
+            <p className="mt-2 font-mono text-xl font-bold tabular-nums text-zinc-50">{stat.value}</p>
           </CardContent>
         </Card>
       ))}
@@ -353,7 +478,7 @@ export default async function AdminConsole({
           <Link
             key={t.id}
             href={`/admin?tab=${t.id}`}
-            className={`rounded-[2px] border px-4 py-2 font-dot text-[10px] font-bold uppercase tracking-[0.2em] transition-colors ${
+            className={`rounded-[2px] border px-4 py-2 font-dot text-[11px] font-bold uppercase tracking-[0.16em] transition-colors ${
               active === t.id
                 ? "border-[#D71921] bg-[#D71921]/10 text-[#ff5252]"
                 : "border-[#222] text-zinc-500 hover:border-zinc-600 hover:text-zinc-200"
@@ -366,13 +491,20 @@ export default async function AdminConsole({
 
       {active === "overview" && (
         <div className="space-y-4">
+          <RunTimeline />
+          <VerdictDistribution />
           <DriftMatrix />
           <DriftEvents />
         </div>
       )}
       {active === "runs" && <RunCards />}
       {active === "incidents" && <IncidentSummary />}
-      {active === "evidence" && <ArtifactTable />}
+      {active === "evidence" && (
+        <div className="space-y-4">
+          <EvidenceSummary />
+          <ArtifactTable />
+        </div>
+      )}
       {active === "brightdata" && <BrightDataJourney />}
     </main>
   );

@@ -80,7 +80,7 @@ function Stepper({ phase }: { phase: Phase }) {
           />
           <span
             className={cn(
-              "font-dot text-[9px] font-bold uppercase tracking-[0.18em]",
+              "font-dot text-[11px] font-bold uppercase tracking-[0.14em]",
               i === active ? "text-zinc-200" : "text-zinc-600",
             )}
           >
@@ -240,7 +240,7 @@ export function BusinessFlow(props: BusinessFlowProps) {
               type="button"
               onClick={() => setMode(m)}
               className={cn(
-                "rounded-[2px] px-3 py-1 font-dot text-[9px] font-bold uppercase tracking-[0.18em] transition-colors",
+                "rounded-[2px] px-3 py-1 font-dot text-[11px] font-bold uppercase tracking-[0.14em] transition-colors",
                 mode === m ? "bg-[#D71921] text-white" : "text-zinc-500 hover:text-zinc-200",
               )}
             >
@@ -314,34 +314,52 @@ export function BusinessFlow(props: BusinessFlowProps) {
             </p>
           </CardHeader>
           <CardContent className="px-0 py-0">
-            <table className="w-full text-sm">
-              <tbody>
-                {topTen.map((row) => (
-                  <tr
-                    key={row.rank}
-                    className={cn("border-b border-[#1c1c1f]", row.brand === "NimbusDesk" && "bg-zinc-900/70")}
-                  >
-                    <td className="w-14 px-5 py-2.5 font-mono text-sm tabular-nums text-zinc-500">
+            <div className="space-y-3 px-5 py-5">
+              {topTen.map((row) => {
+                const width = 100 - (row.rank - 1) * 7.5;
+                const you = row.brand === "NimbusDesk";
+                return (
+                  <div key={row.rank} className="flex items-center gap-4">
+                    <span className="w-9 shrink-0 font-mono text-sm font-bold tabular-nums text-zinc-500">
                       #{row.rank}
-                    </td>
-                    <td className="py-2.5 pr-4 font-medium">
-                      {row.brand}
-                      {row.brand === "NimbusDesk" && (
-                        <span className="ml-2 font-dot text-[9px] font-bold text-[#ff5252]">YOU</span>
-                      )}
-                    </td>
-                    <td className="py-2.5 pr-5 text-[13px] text-zinc-500">{row.evidence_text}</td>
-                  </tr>
-                ))}
-              </tbody>
-            </table>
+                    </span>
+                    <div className="min-w-0 flex-1">
+                      <div className="flex items-baseline justify-between gap-3">
+                        <span className={`text-sm ${you ? "font-bold text-zinc-50" : "font-medium text-zinc-200"}`}>
+                          {row.brand}
+                          {you && (
+                            <span className="ml-2 rounded-[2px] bg-[#D71921] px-1.5 py-0.5 font-dot text-[10px] font-bold tracking-wide text-white">
+                              YOU
+                            </span>
+                          )}
+                        </span>
+                        <span className="hidden truncate text-xs text-zinc-500 md:block md:max-w-[45%]">
+                          {row.evidence_text}
+                        </span>
+                      </div>
+                      <div className="mt-1.5 h-2.5 overflow-hidden rounded-[2px] bg-[#111315]">
+                        <div
+                          className={`h-full rounded-[2px] ${you ? "bg-[#D71921]" : "bg-zinc-600"}`}
+                          style={{ width: `${width}%` }}
+                        />
+                      </div>
+                    </div>
+                  </div>
+                );
+              })}
+            </div>
             <div className="flex flex-wrap items-center justify-between gap-3 border-t border-[#1c1c1f] px-5 py-4">
+              <p className="text-xs text-zinc-500">
+                Bar = verified rank position · every row backed by a genuine Bright Data snapshot
+              </p>
               <p className="text-sm text-zinc-300">
                 Your verified position:{" "}
                 <span className="font-mono text-base font-bold tabular-nums text-zinc-50">
                   #{tracked?.rank}
                 </span>
               </p>
+            </div>
+            <div className="flex justify-end border-t border-[#1c1c1f] px-5 py-4">
               <PrimaryCta onClick={() => setPhase("plan")}>
                 Get my improvement plan <ArrowRight className="h-3.5 w-3.5" />
               </PrimaryCta>
@@ -364,7 +382,7 @@ export function BusinessFlow(props: BusinessFlowProps) {
             {recommendations.map((rec) => (
               <div key={rec.id} className="rounded-[3px] border border-[#222] bg-[#111315] p-4">
                 <div className="flex flex-wrap items-center justify-between gap-2">
-                  <p className="font-dot text-[10px] font-bold uppercase tracking-[0.18em] text-[#ff5252]">
+                  <p className="font-dot text-[11px] font-bold uppercase tracking-[0.14em] text-[#ff5252]">
                     Priority {rec.priority}
                   </p>
                   {rec.evidence && (
@@ -434,22 +452,22 @@ export function BusinessFlow(props: BusinessFlowProps) {
           </CardHeader>
           <CardContent className="grid gap-3 md:grid-cols-2">
             <div className="rounded-[3px] border border-red-500/30 bg-red-500/5 p-4">
-              <p className="font-dot text-[10px] font-bold uppercase tracking-[0.16em] text-red-400">
+              <p className="font-dot text-[11px] font-bold uppercase tracking-[0.14em] text-red-400">
                 WHAT A NAIVE DASHBOARD WOULD TELL YOU
               </p>
               <p className="mt-2.5 text-sm leading-6 text-zinc-300">
                 &ldquo;NimbusDesk disappeared from the top three — reset your content and PR
                 strategy immediately.&rdquo;
               </p>
-              <p className="mt-3 inline-block rounded-[3px] border border-red-500/50 px-2 py-1 font-dot text-[9px] font-bold uppercase tracking-[0.14em] text-red-400">
+              <p className="mt-3 inline-block rounded-[3px] border border-red-500/50 px-2 py-1 font-dot text-[11px] font-bold uppercase tracking-[0.12em] text-red-400">
                 ✕ BLOCKED BY MAGPIE — TRUST ENGINE
               </p>
-              <p className="mt-2.5 font-mono text-[11px] leading-5 text-zinc-600">
+              <p className="mt-2.5 font-mono text-xs leading-5 text-zinc-500">
                 failed checks: {brokenSummary.failedChecks.join(" · ")}
               </p>
             </div>
             <div className="rounded-[3px] border border-emerald-500/30 bg-emerald-500/5 p-4">
-              <p className="font-dot text-[10px] font-bold uppercase tracking-[0.16em] text-emerald-400">
+              <p className="font-dot text-[11px] font-bold uppercase tracking-[0.14em] text-emerald-400">
                 WHAT MAGPIE DETERMINED
               </p>
               <p className="mt-2.5 text-sm leading-6 text-zinc-300">
@@ -457,7 +475,7 @@ export function BusinessFlow(props: BusinessFlowProps) {
                 when the page redesigned. Your verified position is unchanged and your plan still
                 stands.
               </p>
-              <p className="mt-3 inline-block rounded-[3px] border border-emerald-500/50 px-2 py-1 font-dot text-[9px] font-bold uppercase tracking-[0.14em] text-emerald-400">
+              <p className="mt-3 inline-block rounded-[3px] border border-emerald-500/50 px-2 py-1 font-dot text-[11px] font-bold uppercase tracking-[0.12em] text-emerald-400">
                 ✓ LAST VERIFIED SNAPSHOT STILL SERVING · REPAIR READY
               </p>
             </div>

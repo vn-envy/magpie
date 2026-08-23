@@ -90,7 +90,6 @@ export function BusinessFlow(props: BusinessFlowProps) {
   const [live1, setLive1] = useState<LiveResult | null>(null);
   const [live2, setLive2] = useState<LiveResult | null>(null);
   const [busy, setBusy] = useState(false);
-  const guard = useRef("");
 
   const pushLines = useCallback(async (newLines: string[], step = 800) => {
     for (const line of newLines) {
@@ -99,11 +98,11 @@ export function BusinessFlow(props: BusinessFlowProps) {
     }
   }, []);
 
-  // REPLAY auto-advance choreography
+  // REPLAY auto-advance choreography. The first research beat is live-driven
+  // when LIVE is on (handled in startResearch); the deviation beat always
+  // replays the genuine captured incident in both modes.
   useEffect(() => {
-    if (mode !== "replay") return;
-    if (phase === "research1") {
-      guard.current = "research1";
+    if (phase === "research1" && mode === "replay") {
       setLines([]);
       (async () => {
         await pushLines([`TRIGGERING COLLECTOR ${collectorId}`, `COLLECTING — SNAPSHOT ${snapshotIds.baseline}`], 1000);
@@ -124,6 +123,9 @@ export function BusinessFlow(props: BusinessFlowProps) {
     if (phase === "research2") {
       setLines([]);
       (async () => {
+        if (mode === "live") {
+          await pushLines(["LIVE MODE — DEVIATION REPLAYED FROM THE GENUINE CAPTURED INCIDENT"], 700);
+        }
         await pushLines([`TRIGGERING COLLECTOR ${collectorId} (UNCHANGED)`, `COLLECTING — SNAPSHOT ${snapshotIds.broken}`], 1000);
         await sleep(1500);
         await pushLines(["7/10 ROWS RETURNED · STRUCTURAL PASS"], 600);
@@ -160,7 +162,6 @@ export function BusinessFlow(props: BusinessFlowProps) {
     if (mode === "replay") return;
     setBusy(true);
     setLines([]);
-    guard.current = "research1-live";
     try {
       const result = await triggerAndPoll();
       setLive1(result);
@@ -175,40 +176,11 @@ export function BusinessFlow(props: BusinessFlowProps) {
 
   const startMonitoring = () => setPhase("monitoring");
 
-  const runSecond = async () => {
-    setPhase("research2");
-    if (mode === "replay") return;
-    setBusy(true);
-    setLines([]);
-    try {
-      await fetch("/api/demo/shift-source", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ layout_mode: "featured_carousel" }),
-      });
-      setLines((prev) => [...prev, "SOURCE UPDATED — REDESIGN DETECTED (REV +1)"]);
-      await sleep(6000);
-      const result = await triggerAndPoll();
-      setLive2(result);
-      await pushLines([`${result.record_count}/10 ROWS · ${result.publish_allowed ? "TRUSTED" : "QUARANTINED — " + result.failed_checks.join(", ")}`], 400);
-      setPhase("deviation");
-    } catch {
-      setLines((prev) => [...prev, "LIVE COLLECTION FAILED — SWITCH TO REPLAY"]);
-    } finally {
-      setBusy(false);
-    }
-  };
-
-  const finish = () => {
-    setPhase("resolution");
-    if (mode === "live") {
-      void fetch("/api/demo/shift-source", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ layout_mode: "legacy_cards" }),
-      });
-    }
-  };
+  // The live collector is the post-repair (V4) template — it correctly
+  // handles the carousel, so a live second run cannot reproduce the original
+  // 7-row break. The deviation beat therefore always replays the genuine
+  // captured incident; live mode powers the first research run.
+  const finish = () => setPhase("resolution");
 
   const restart = () => {
     setPhase("enter");

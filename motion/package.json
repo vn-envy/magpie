@@ -1,0 +1,19 @@
+{
+  "name": "magpie-launch",
+  "private": true,
+  "scripts": {
+    "render": "remotion render src/index.ts Launch out/magpie-launch.mp4"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.515",
+    "@remotion/google-fonts": "^4.0.515",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "remotion": "^4.0.515"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.18",
+    "@types/web": "^0.0.354",
+    "typescript": "^7.0.2"
+  }
+}

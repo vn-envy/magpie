@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mt64cegx25kmtn8yq0",
+ "snapshot_id": "j_mt65z5lq1ird371uim",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-08-23T18:06:43.774Z",
+ "captured_at": "2026-08-23T18:52:23.719Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,26 +14,26 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-08-23T18:06:32.285Z",
-  "finished": "2026-08-23T18:06:39.767Z"
+  "started": "2026-08-23T18:52:13.583Z",
+  "finished": "2026-08-23T18:52:14.908Z"
  },
  "rows": [
   {
    "rank": 1,
    "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
    "url": "https://ericpardee.github.io/fire-hd-ownership/",
-   "points": 278,
-   "comment_count": 111,
+   "points": 369,
+   "comment_count": 153,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 2,
-   "title": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
-   "url": "https://reinvently.co.uk/tools/ed-o-meter/",
-   "points": 152,
-   "comment_count": 57,
+   "title": "A website for debloated open source alternatives",
+   "url": "https://debloat.dev/",
+   "points": 65,
+   "comment_count": 26,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -42,38 +42,38 @@
    "rank": 3,
    "title": "How Complex Systems Fail (1998)",
    "url": "https://how.complexsystems.fail/",
-   "points": 99,
-   "comment_count": 23,
+   "points": 123,
+   "comment_count": 35,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 4,
-   "title": "Malware infects Android-based automotive head unit firmware",
-   "url": "https://securelist.com/android-head-unit-malware/121106/",
-   "points": 159,
-   "comment_count": 74,
+   "title": "Why Sal Khan't: On Learning by Making but Teaching by Telling",
+   "url": "https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/",
+   "points": 51,
+   "comment_count": 17,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 5,
-   "title": "A website for debloated open source alternatives",
-   "url": "https://debloat.dev/",
-   "points": 36,
-   "comment_count": 13,
+   "title": "Malware infects Android-based automotive head unit firmware",
+   "url": "https://securelist.com/android-head-unit-malware/121106/",
+   "points": 168,
+   "comment_count": 77,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 6,
-   "title": "Why Sal Khan't: On Learning by Making but Teaching by Telling",
-   "url": "https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/",
-   "points": 35,
-   "comment_count": 8,
+   "title": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
+   "url": "https://reinvently.co.uk/tools/ed-o-meter/",
+   "points": 201,
+   "comment_count": 86,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -82,237 +82,237 @@
    "rank": 7,
    "title": "My favorite nonfiction books about cults, scams, and schemes",
    "url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
-   "points": 114,
-   "comment_count": 29,
+   "points": 121,
+   "comment_count": 33,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 8,
-   "title": "Slovakia finds Russian backdoor in traffic speed cameras",
-   "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
-   "points": 194,
-   "comment_count": 79,
+   "title": "Coconut Oil Jet Fuel Matches Kerosene's Efficiency in Engine Tests",
+   "url": "https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/",
+   "points": 71,
+   "comment_count": 61,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 9,
-   "title": "Coconut Oil Jet Fuel Matches Kerosene's Efficiency in Engine Tests",
-   "url": "https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/",
-   "points": 55,
-   "comment_count": 51,
+   "title": "Slovakia finds Russian backdoor in traffic speed cameras",
+   "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
+   "points": 234,
+   "comment_count": 90,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 10,
-   "title": "To become a better writer, read as much as you can",
-   "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
-   "points": 372,
-   "comment_count": 236,
+   "title": "What Is a Harness?",
+   "url": "https://earendil.com/posts/what-is-a-harness/",
+   "points": 146,
+   "comment_count": 92,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 11,
-   "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
-   "url": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
-   "points": 196,
-   "comment_count": 152,
+   "title": "To become a better writer, read as much as you can",
+   "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+   "points": 382,
+   "comment_count": 240,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 12,
-   "title": "The End of an Athlon",
-   "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
-   "points": 161,
-   "comment_count": 74,
+   "title": "Things I want in a modern relational query language",
+   "url": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
+   "points": 58,
+   "comment_count": 43,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 13,
-   "title": "What Is a Harness?",
-   "url": "https://earendil.com/posts/what-is-a-harness/",
-   "points": 124,
-   "comment_count": 83,
+   "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
+   "url": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
+   "points": 215,
+   "comment_count": 159,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 14,
-   "title": "Things I want in a modern relational query language",
-   "url": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
-   "points": 51,
-   "comment_count": 40,
+   "title": "We must not grant AI agents legal personhood",
+   "url": "https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473",
+   "points": 30,
+   "comment_count": 32,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 15,
-   "title": "Why your local LLM feels dumber than it is",
-   "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-   "points": 450,
-   "comment_count": 183,
+   "title": "The End of an Athlon",
+   "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
+   "points": 165,
+   "comment_count": 74,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 16,
-   "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
-   "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
-   "points": 235,
-   "comment_count": 106,
+   "title": "Why your local LLM feels dumber than it is",
+   "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+   "points": 456,
+   "comment_count": 184,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 17,
-   "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
-   "url": "https://martypc.net/",
-   "points": 178,
-   "comment_count": 58,
+   "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
+   "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
+   "points": 247,
+   "comment_count": 113,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 18,
-   "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
-   "url": "https://skylens.yantraai.app/",
-   "points": 53,
-   "comment_count": 27,
+   "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+   "url": "https://martypc.net/",
+   "points": 184,
+   "comment_count": 63,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 19,
-   "title": "We must not grant AI agents legal personhood",
-   "url": "https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473",
-   "points": 8,
-   "comment_count": 7,
+   "title": "JIT Compiling Code in 5μs",
+   "url": "https://malisper.me/jit-compiling-code-in-5-us/",
+   "points": 140,
+   "comment_count": 90,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 20,
-   "title": "JIT Compiling Code in 5μs",
-   "url": "https://malisper.me/jit-compiling-code-in-5-us/",
-   "points": 136,
-   "comment_count": 89,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 21,
-   "title": "Amiga-Inspired AROS Goes Bare Metal on Raspberry Pi",
-   "url": "https://hackaday.com/2026/08/23/amiga-inspired-aros-goes-bare-metal-on-raspberry-pi/",
-   "points": 34,
-   "comment_count": 3,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 22,
-   "title": "I Dream of Quieter Computing",
-   "url": "https://henry.codes/writing/i-dream-of-quieter-computing/",
-   "points": 98,
-   "comment_count": 105,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 23,
    "title": "The Art and Beauty of Blade Runner (2015)",
    "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
-   "points": 159,
-   "comment_count": 97,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 24,
-   "title": "Hister – A private, full content search index that you control",
-   "url": "https://hister.org/",
-   "points": 453,
+   "points": 164,
    "comment_count": 98,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 25,
+   "rank": 21,
+   "title": "I Dream of Quieter Computing",
+   "url": "https://henry.codes/writing/i-dream-of-quieter-computing/",
+   "points": 103,
+   "comment_count": 107,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 22,
+   "title": "Hister – A private, full content search index that you control",
+   "url": "https://hister.org/",
+   "points": 458,
+   "comment_count": 98,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 23,
+   "title": "Amiga-Inspired AROS Goes Bare Metal on Raspberry Pi",
+   "url": "https://hackaday.com/2026/08/23/amiga-inspired-aros-goes-bare-metal-on-raspberry-pi/",
+   "points": 38,
+   "comment_count": 6,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 24,
    "title": "I set a trap for a book-marketing scammer (2025)",
    "url": "https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing",
-   "points": 71,
-   "comment_count": 45,
+   "points": 72,
+   "comment_count": 48,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 25,
+   "title": "Scrap (2006)",
+   "url": "https://twitter.com/moxie/status/2091218652133732491",
+   "points": 403,
+   "comment_count": 218,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 26,
-   "title": "Fast and Hard Code",
-   "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
-   "points": 99,
-   "comment_count": 65,
+   "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+   "url": "https://quantumi.sh/public/labs.html",
+   "points": 466,
+   "comment_count": 139,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 27,
-   "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-   "url": "https://quantumi.sh/public/labs.html",
-   "points": 463,
-   "comment_count": 138,
+   "title": "typ.ing",
+   "url": "https://typ.ing/",
+   "points": 346,
+   "comment_count": 111,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 28,
-   "title": "Scrap (2006)",
-   "url": "https://twitter.com/moxie/status/2091218652133732491",
-   "points": 399,
-   "comment_count": 217,
+   "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
+   "url": "https://skylens.yantraai.app/",
+   "points": 56,
+   "comment_count": 28,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 29,
-   "title": "typ.ing",
-   "url": "https://typ.ing/",
-   "points": 339,
-   "comment_count": 108,
+   "title": "Thinking in Python",
+   "url": "https://thinkinginpython.com/",
+   "points": 276,
+   "comment_count": 59,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 30,
-   "title": "I wrote a BASIC interpreter that boots on UEFI machines and ported it to Windows",
-   "url": "https://tarjan.itch.io/thoreaubasic",
-   "points": 4,
+   "title": "Dutch regulator fines Uber $966M for automating driver suspensions",
+   "url": "https://www.theguardian.com/technology/2026/aug/21/netherlands-fines-uber-automated-driver-suspensions",
+   "points": 10,
    "comment_count": 1,
    "input": {
     "url": "https://news.ycombinator.com"

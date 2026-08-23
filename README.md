@@ -55,7 +55,9 @@ Every number in the demo comes from real Bright Data Collection API runs against
 1. **Custom collector creation** — `bdata scraper create` against the live fixture URL; Bright Data AI generates the schema + Browser Worker code (including a Load-more interaction). Verified in Scraper Studio.
 2. **Collection API for authoritative runs** — `POST /dca/trigger` + `GET /dca/dataset` + `GET /dca/log` via `pnpm magpie collect` (see `scripts/magpie.ts`). Every run gets a stable `j_*` snapshot displayed in the product.
 3. **Self-Healing with a human gate** — after diagnosis, `bdata scraper heal` produces a reviewable diff (`awaiting_approval`); a human reviews in Scraper Studio and authorizes `bdata scraper approve --auto-save`. The repair restores all ten rows **without changing the output schema or the Collector ID**.
-4. **Structured output powering a real product** — the typed `SourceEvidenceRowV1` contract feeds the Signal Overview and Incident Room, with evidence lineage, hashes, and last-known-good protection.
+4. **Structured output powering a real product** — the typed `SourceEvidenceRowV1` contract feeds the dashboard, with evidence lineage, hashes, and last-known-good protection.
+5. **The Collector ID as a live production API** — an hourly GitHub Actions cron triggers both collectors with plain zero-dependency Node (`scripts/cron-collect.mjs`), commits results to the repo, and the push auto-deploys the dashboard. Cron → Bright Data → trust engine → git → live site, with no deployment step anywhere.
+6. **Beyond the controlled fixture** — a second custom collector runs against a genuinely public, constantly changing page (the Hacker News front page), proving the pipeline on the open web outside our simulated source. Results land in the Admin console's LIVE API tab alongside the hourly trust-engine verdict on the B2B source.
 
 ## Architecture
 

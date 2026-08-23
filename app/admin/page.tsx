@@ -4,6 +4,7 @@ import { Badge } from "@/components/ui/badge";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table";
 import { LiveRun } from "@/components/live-run";
+import { liveFeed, b2bLiveAssessment } from "@/lib/replay/live-feed";
 import { RUNS } from "@/lib/replay/runs";
 import { lineage } from "@/lib/replay/session";
 
@@ -15,6 +16,7 @@ const TABS = [
   { id: "incidents", label: "INCIDENTS" },
   { id: "evidence", label: "EVIDENCE" },
   { id: "brightdata", label: "BRIGHT DATA" },
+  { id: "liveapi", label: "LIVE API" },
 ] as const;
 
 function VerdictBadge({ verdict }: { verdict: string }) {
@@ -449,6 +451,125 @@ function BrightDataJourney() {
   );
 }
 
+
+function LiveApiTab() {
+  const hn = liveFeed.hn;
+  const b2b = liveFeed.b2b;
+  const hnTop = [...(hn.rows ?? [])]
+    .filter((row) => typeof row === "object" && row !== null && "title" in row)
+    .sort((a, b) => (Number(a.rank) || 99) - (Number(b.rank) || 99))
+    .slice(0, 5);
+  const curl = `curl -X POST "https://api.brightdata.com/dca/trigger?collector=c_mt4m8fix1gze0scg44&queue_next=1" \
+  -H "Authorization: Bearer $BRIGHTDATA_API_TOKEN" \
+  -H "Content-Type: application/json" \
+  -d '[{"url":"https://magpie-lab.netlify.app/lab/source"}]'`;
+  return (
+    <div className="space-y-4">
+      <Card>
+        <CardHeader>
+          <CardTitle>THE COLLECTOR ID IS YOUR PRODUCTION API</CardTitle>
+        </CardHeader>
+        <CardContent>
+          <p className="mb-4 text-sm leading-6 text-zinc-400">
+            Every scraper returns a stable <span className="font-mono text-zinc-200">c_*</span>{" "}
+            Collector ID triggerable with <span className="font-mono text-zinc-200">POST /dca/trigger</span>{" "}
+            from any language or scheduler — no deployment step. An hourly GitHub Actions cron runs
+            plain Node against it, commits the results to this repo, and the push auto-deploys this
+            dashboard. Cron → Bright Data → trust engine → git → live site.
+          </p>
+          <pre className="overflow-x-auto rounded-[3px] border border-[#222] bg-[#111315] p-4 font-mono text-xs leading-6 text-zinc-300">
+{curl}
+          </pre>
+          <p className="mt-3 font-mono text-[11px] text-zinc-500">
+            feed last updated: {liveFeed.updatedAt ?? "pending first cron"} · workflow:
+            .github/workflows/live-cron.yml
+          </p>
+        </CardContent>
+      </Card>
+
+      <div className="grid gap-3 md:grid-cols-2">
+        <Card>
+          <CardHeader>
+            <CardTitle>
+              <span className="flex-1">LIVE SOURCE — HACKER NEWS (PUBLIC WEB)</span>
+              <Badge variant={hn.verdict === "TRUSTED" ? "trusted" : "outline"} className="shrink-0">
+                {hn.verdict}
+              </Badge>
+            </CardTitle>
+            <p className="font-mono text-[11px] text-zinc-500">
+              {hn.captured_at ? `snapshot ${hn.snapshot_id} · ${hn.row_count} rows` : "awaiting first cron run"}
+            </p>
+          </CardHeader>
+          <CardContent>
+            <p className="mb-3 text-xs leading-5 text-zinc-500">
+              Outside the simulated seed entirely: a second custom collector on a real, public,
+              constantly changing ranked list — proof the pipeline works on the open web.
+            </p>
+            {hnTop.length > 0 ? (
+              <div className="space-y-1.5">
+                {hnTop.map((row, i) => (
+                  <div key={i} className="flex items-baseline justify-between gap-3 text-sm">
+                    <span className="truncate text-zinc-300">
+                      <span className="mr-2 font-mono text-zinc-500">{String(row.rank).padStart(2, "0")}</span>
+                      {String(row.title)}
+                    </span>
+                    <span className="shrink-0 font-mono text-xs text-zinc-500">{String(row.points ?? "—")} pts</span>
+                  </div>
+                ))}
+              </div>
+            ) : (
+              <p className="font-mono text-xs text-zinc-600">
+                first hourly run lands in artifacts/live/hn_front_page-latest.json
+              </p>
+            )}
+          </CardContent>
+        </Card>
+
+        <Card>
+          <CardHeader>
+            <CardTitle>
+              <span className="flex-1">B2B SOURCE — TRUST ENGINE VERDICT</span>
+              <Badge
+                variant={b2bLiveAssessment.publish_allowed ? "trusted" : "quarantined"}
+                className="shrink-0"
+              >
+                {b2bLiveAssessment.publish_allowed ? "PUBLISHED" : "BLOCKED"}
+              </Badge>
+            </CardTitle>
+            <p className="font-mono text-[11px] text-zinc-500">
+              {b2b.captured_at
+                ? `snapshot ${b2b.snapshot_id} · ${b2bLiveAssessment.record_count}/10 rows`
+                : "awaiting first cron run"}
+            </p>
+          </CardHeader>
+          <CardContent>
+            <p className="mb-3 text-xs leading-5 text-zinc-500">
+              The same cron hits the award-hero collector every hour; the dashboard re-runs the
+              deterministic trust engine on every result at deploy time.
+            </p>
+            {b2bLiveAssessment.signals.length > 0 ? (
+              <div className="space-y-1.5">
+                {b2bLiveAssessment.signals.map((signal) => (
+                  <div key={signal.name} className="flex items-center justify-between font-mono text-xs">
+                    <span className={signal.severity === "blocking" ? "text-red-400" : "text-zinc-400"}>
+                      {signal.name}
+                    </span>
+                    <span className="text-zinc-500">{String(signal.observed)}</span>
+                  </div>
+                ))}
+              </div>
+            ) : (
+              <p className="font-mono text-xs text-emerald-400">
+                all checks passing · {b2bLiveAssessment.record_count}/10 rows verified
+              </p>
+            )}
+          </CardContent>
+        </Card>
+      </div>
+    </div>
+  );
+}
+
 export default async function AdminConsole({
   searchParams,
 }: {
@@ -512,6 +633,7 @@ export default async function AdminConsole({
         </div>
       )}
       {active === "brightdata" && <BrightDataJourney />}
+      {active === "liveapi" && <LiveApiTab />}
     </main>
   );
 }

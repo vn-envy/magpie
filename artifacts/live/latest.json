@@ -1,0 +1,21 @@
+{
+ "updatedAt": "2026-08-23T13:27:38.870Z",
+ "sources": {
+  "hn_front_page": {
+   "label": "Hacker News front page",
+   "collector_id": "c_mt5t6oj816r5d7yvfy",
+   "snapshot_id": "j_mt5udrmd50khycngf",
+   "captured_at": "2026-08-23T13:27:51.409Z",
+   "verdict": "TRUSTED",
+   "row_count": 30
+  },
+  "b2b_source": {
+   "label": "Enterprise Support Platforms 2026",
+   "collector_id": "c_mt4m8fix1gze0scg44",
+   "snapshot_id": "j_mt5ue0xa2d88wqomvm",
+   "captured_at": "2026-08-23T13:28:13.962Z",
+   "verdict": "TRUSTED",
+   "row_count": 10
+  }
+ }
+}

@@ -1,0 +1,37 @@
+name: Live collection cron
+
+# The Collector ID is the production API: this scheduled job triggers the
+# Bright Data collectors with plain Node (no deployment step), stores the
+# results in the repo, and the push auto-deploys the public dashboard.
+
+on:
+  schedule:
+    - cron: "23 * * * *" # hourly at :23
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Trigger collectors via POST /dca/trigger
+        env:
+          BRIGHTDATA_API_TOKEN: ${{ secrets.BRIGHTDATA_API_TOKEN }}
+          HN_COLLECTOR_ID: ${{ vars.HN_COLLECTOR_ID }}
+        run: node scripts/cron-collect.mjs
+
+      - name: Commit live results (auto-deploys the dashboard)
+        run: |
+          git config user.name "magpie-cron"
+          git config user.email "cron@magpie.local"
+          git add artifacts/live
+          git commit -m "live collection: $(date -u +%Y-%m-%dT%H:%MZ)" || echo "nothing to commit"
+          git push

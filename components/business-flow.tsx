@@ -83,9 +83,9 @@ function Stepper({ phase }: { phase: Phase }) {
   );
 }
 
-function ConsoleLine({ children }: { children: React.ReactNode }) {
+function ConsoleLine({ children, style }: { children: React.ReactNode; style?: React.CSSProperties }) {
   return (
-    <p className="font-mono text-xs leading-7 text-zinc-300">
+    <p className="line-in font-mono text-xs leading-7 text-zinc-300" style={style}>
       <span className="mr-2 text-[#D71921]">›</span>
       {children}
       <span className="live-dot ml-1.5 inline-block h-2.5 w-1.5 bg-zinc-500 align-middle" />
@@ -108,7 +108,7 @@ function PrimaryCta({
       onClick={onClick}
       disabled={disabled}
       className={cn(
-        "flex items-center gap-2 rounded-[3px] border px-5 py-2.5 text-xs font-semibold uppercase tracking-[0.14em] transition-all",
+        "press flex items-center gap-2 rounded-[3px] border px-5 py-2.5 text-xs font-semibold uppercase tracking-[0.14em] transition-transform",
         disabled
           ? "cursor-wait border-zinc-800 bg-zinc-900 text-zinc-500"
           : "border-[#D71921] bg-[#D71921] text-white hover:bg-[#f0252e]",
@@ -197,7 +197,7 @@ export function BusinessFlow(props: BusinessFlowProps) {
 
       {/* STEP 1 — ENTER */}
       {phase === "enter" && (
-        <Card>
+        <Card className="card-in">
           <CardHeader>
             <CardTitle>STEP 1 — WHERE DO YOU COMPETE?</CardTitle>
           </CardHeader>
@@ -237,7 +237,7 @@ export function BusinessFlow(props: BusinessFlowProps) {
           </CardHeader>
           <CardContent className="space-y-1">
             {lines.map((line, i) => (
-              <ConsoleLine key={i}>{line}</ConsoleLine>
+              <ConsoleLine key={i} style={{ animationDelay: `${i * 60}ms` }}>{line}</ConsoleLine>
             ))}
           </CardContent>
         </Card>
@@ -245,7 +245,7 @@ export function BusinessFlow(props: BusinessFlowProps) {
 
       {/* STEP 2 — POSITION */}
       {phase === "position" && (
-        <Card>
+        <Card className="card-in">
           <CardHeader>
             <CardTitle>
               <span className="flex-1">STEP 2 — VERIFIED LANDSCAPE, TOP 10</span>
@@ -316,7 +316,7 @@ export function BusinessFlow(props: BusinessFlowProps) {
 
       {/* STEP 3 — PLAN */}
       {phase === "plan" && (
-        <Card>
+        <Card className="card-in">
           <CardHeader>
             <CardTitle>STEP 3 — YOUR IMPROVEMENT PLAN</CardTitle>
             <p className="text-xs text-zinc-500">
@@ -324,9 +324,9 @@ export function BusinessFlow(props: BusinessFlowProps) {
               each move.
             </p>
           </CardHeader>
-          <CardContent className="space-y-3">
+          <CardContent className="stagger space-y-3">
             {recommendations.map((rec) => (
-              <div key={rec.id} className="rounded-[3px] border border-[#222] bg-[#111315] p-4">
+              <div key={rec.id} className="card-in rounded-[3px] border border-[#222] bg-[#111315] p-4">
                 <div className="flex flex-wrap items-center justify-between gap-2">
                   <p className="font-dot text-[11px] font-bold uppercase tracking-[0.14em] text-[#ff5252]">
                     Priority {rec.priority}
@@ -359,7 +359,7 @@ export function BusinessFlow(props: BusinessFlowProps) {
 
       {/* MONITORING */}
       {phase === "monitoring" && (
-        <Card>
+        <Card className="card-in">
           <CardContent className="flex items-center gap-3 py-6">
             <span className="live-dot inline-block h-2.5 w-2.5 rounded-full bg-emerald-500" />
             <p className="font-dot text-[11px] font-bold uppercase tracking-[0.18em] text-zinc-400">
@@ -371,7 +371,7 @@ export function BusinessFlow(props: BusinessFlowProps) {
 
       {/* SHIFT BANNER */}
       {phase === "shift" && (
-        <Card className="border-[#D71921]/60">
+        <Card className="card-in border-[#D71921]/60">
           <CardContent className="flex items-start gap-3 py-5">
             <TriangleAlert className="mt-0.5 h-5 w-5 shrink-0 text-[#ff5252]" />
             <div>
@@ -389,7 +389,7 @@ export function BusinessFlow(props: BusinessFlowProps) {
 
       {/* STEP 4 — DEVIATION */}
       {phase === "deviation" && (
-        <Card className="border-[#D71921]/60">
+        <Card className="card-in border-[#D71921]/60">
           <CardHeader>
             <CardTitle className="text-[#ff5252]">STEP 4 — DEVIATION DETECTED</CardTitle>
             <p className="font-mono text-[11px] leading-5 text-zinc-500">
@@ -434,7 +434,7 @@ export function BusinessFlow(props: BusinessFlowProps) {
 
       {/* RESOLUTION */}
       {phase === "resolution" && (
-        <Card className="border-emerald-500/30">
+        <Card className="card-in border-emerald-500/30">
           <CardHeader>
             <CardTitle className="text-emerald-400">
               <span className="flex-1">RECOVERED — SENSOR REPAIRED, CONTRACT VERIFIED</span>

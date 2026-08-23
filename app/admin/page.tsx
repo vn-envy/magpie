@@ -266,9 +266,9 @@ function DriftMatrix() {
 
 function RunCards() {
   return (
-    <div className="space-y-3">
+    <div className="stagger space-y-3">
       {[...RUNS].reverse().map((run) => (
-        <Card key={run.snapshot_id}>
+        <Card key={run.snapshot_id} className="card-in">
           <CardHeader>
             <div className="flex flex-wrap items-center justify-between gap-2">
               <div className="flex flex-wrap items-center gap-3">
@@ -657,7 +657,11 @@ export default async function AdminConsole({
           <DriftEvents />
         </div>
       )}
-      {active === "runs" && <RunCards />}
+      {active === "runs" && (
+        <div key="runs" className="card-in">
+          <RunCards />
+        </div>
+      )}
       {active === "incidents" && <IncidentSummary />}
       {active === "evidence" && (
         <div className="space-y-4">
@@ -665,7 +669,11 @@ export default async function AdminConsole({
           <ArtifactTable />
         </div>
       )}
-      {active === "brightdata" && <BrightDataJourney />}
+      {active === "brightdata" && (
+        <div key="bd" className="card-in">
+          <BrightDataJourney />
+        </div>
+      )}
       {active === "liveapi" && <LiveApiTab />}
     </main>
   );

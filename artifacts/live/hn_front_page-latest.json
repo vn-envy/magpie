@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mt79q50c2ftvleiwvr",
+ "snapshot_id": "j_mt7db49h9p4vsqbwd",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-08-24T13:25:07.776Z",
+ "captured_at": "2026-08-24T15:05:25.255Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,56 +14,56 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-08-24T13:24:57.352Z",
-  "finished": "2026-08-24T13:25:04.781Z"
+  "started": "2026-08-24T15:05:15.298Z",
+  "finished": "2026-08-24T15:05:18.662Z"
  },
  "rows": [
   {
    "rank": 1,
-   "title": "SeL4 security proofs now complete on AArch64",
-   "url": "https://proofcraft.systems/news-2026/#2026-08-21",
-   "points": 58,
-   "comment_count": 13,
+   "title": "How Europe is killing makers and micro-entrepreneurs",
+   "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
+   "points": 389,
+   "comment_count": 257,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 2,
-   "title": "I were 17, I'd learn how to build LLMs from scratch",
-   "url": "https://twitter.com/paulg/status/2091544343589060625",
-   "points": 262,
-   "comment_count": 379,
+   "title": "SeL4 security proofs now complete on AArch64",
+   "url": "https://proofcraft.systems/news-2026/#2026-08-21",
+   "points": 96,
+   "comment_count": 21,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 3,
-   "title": "Everything I own, owned",
-   "url": "https://schlarp.com/posts/everything-i-own-owned/",
-   "points": 1107,
-   "comment_count": 296,
+   "title": "I were 17, I'd learn how to build LLMs from scratch",
+   "url": "https://twitter.com/paulg/status/2091544343589060625",
+   "points": 334,
+   "comment_count": 442,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 4,
-   "title": "Ask HN: Why do corporate failures always seem to punish the wrong people?",
-   "url": "https://news.ycombinator.com/item?id=49418675",
-   "points": 55,
-   "comment_count": 30,
+   "title": "Everything I own, owned",
+   "url": "https://schlarp.com/posts/everything-i-own-owned/",
+   "points": 1205,
+   "comment_count": 309,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 5,
-   "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
-   "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
-   "points": 91,
-   "comment_count": 29,
+   "title": "Why older tech is sometimes safer from hackers",
+   "url": "https://www.bbc.com/future/article/20260821-why-older-tech-is-sometimes-safer-from-hackers",
+   "points": 41,
+   "comment_count": 27,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -72,58 +72,58 @@
    "rank": 6,
    "title": "Executable Is a SQLite Database",
    "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
-   "points": 198,
-   "comment_count": 26,
+   "points": 273,
+   "comment_count": 55,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 7,
-   "title": "The Future Belongs to the Weird",
-   "url": "https://essays.georgestrakhov.com/weird/",
-   "points": 54,
-   "comment_count": 27,
+   "title": "Hot Chips 2026: Applying High Bandwidth Flash (HBF)",
+   "url": "https://chipsandcheese.com/p/hot-chips-2026-applying-high-bandwidth",
+   "points": 3,
+   "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 8,
-   "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-   "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-   "points": 614,
-   "comment_count": 543,
+   "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
+   "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
+   "points": 114,
+   "comment_count": 44,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 9,
-   "title": "How I find problems to solve as a staff engineer",
-   "url": "https://lalitm.com/post/find-problems-staff-engineer/",
-   "points": 457,
-   "comment_count": 136,
+   "title": "Show HN: A techno machine in one HTML file, with verifiable renders",
+   "url": "https://ssx360.github.io/rack-02/?src=hn",
+   "points": 24,
+   "comment_count": 6,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 10,
-   "title": "Fast drilldown dashboards from a single Parquet file",
-   "url": "https://www.hamiltonulmer.com/customer-dashboards-r2-hyparquet/",
-   "points": 61,
-   "comment_count": 1,
+   "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+   "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+   "points": 673,
+   "comment_count": 587,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 11,
-   "title": "OCR It – pull text out of un-copyable documents for your LLM",
-   "url": "https://github.com/thiagotigaz/ocr-it",
-   "points": 74,
-   "comment_count": 15,
+   "title": "Fast drilldown dashboards from a single Parquet file",
+   "url": "https://www.hamiltonulmer.com/customer-dashboards-r2-hyparquet/",
+   "points": 107,
+   "comment_count": 7,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -132,108 +132,108 @@
    "rank": 12,
    "title": "Agent Is Not the Model",
    "url": "https://code.joejag.com/2026/your-agent-is-not-the-model.html",
-   "points": 24,
-   "comment_count": 3,
+   "points": 40,
+   "comment_count": 18,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 13,
-   "title": "Andreessen Horowitz is investing billions into a bleak future",
-   "url": "https://www.modelrepublic.org/articles/a16z-portfolio",
-   "points": 333,
-   "comment_count": 115,
+   "title": "How I find problems to solve as a staff engineer",
+   "url": "https://lalitm.com/post/find-problems-staff-engineer/",
+   "points": 492,
+   "comment_count": 141,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 14,
-   "title": "I built a low-latency AI companion that plays Skyrim with me",
-   "url": "https://pantel.is/projects/ai-gaming-companion/",
-   "points": 230,
-   "comment_count": 42,
+   "title": "Andreessen Horowitz is investing billions into a bleak future",
+   "url": "https://www.modelrepublic.org/articles/a16z-portfolio",
+   "points": 452,
+   "comment_count": 187,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 15,
-   "title": "Why older tech is sometimes safer from hackers",
-   "url": "https://www.bbc.com/future/article/20260821-why-older-tech-is-sometimes-safer-from-hackers",
-   "points": 5,
-   "comment_count": 1,
+   "title": "OCR It – pull text out of un-copyable documents for your LLM",
+   "url": "https://github.com/thiagotigaz/ocr-it",
+   "points": 92,
+   "comment_count": 20,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 16,
-   "title": "Anthropic candidates face blunt money question",
-   "url": "https://www.axios.com/2026/08/24/scoop-anthropic-candidates-face-blunt-money-question",
-   "points": 23,
-   "comment_count": 28,
+   "title": "I built a low-latency AI companion that plays Skyrim with me",
+   "url": "https://pantel.is/projects/ai-gaming-companion/",
+   "points": 267,
+   "comment_count": 52,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 17,
-   "title": "Google Workspace thinks my domain is an email provider (2025)",
-   "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
-   "points": 340,
-   "comment_count": 119,
+   "title": "Show HN: Vanilla OS 3 Reunion – Immutable and Reproducible Operating System",
+   "url": "https://vanillaos.org/blog/article/2026-08-24/vanilla-os-3-reunion---stable-release",
+   "points": 18,
+   "comment_count": 5,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 18,
-   "title": "What Is a Harness?",
-   "url": "https://earendil.com/posts/what-is-a-harness/",
-   "points": 489,
-   "comment_count": 157,
+   "title": "Woman stranded in Spain after UK's eVisa system mistakes her for twin sister",
+   "url": "https://www.theguardian.com/uk-news/2026/aug/24/woman-stranded-spain-uk-evisa-system-mistakes-twin-sister",
+   "points": 134,
+   "comment_count": 92,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 19,
-   "title": "My agent.md to improve LLM-assisted code quality",
-   "url": "https://fabiensanglard.net/agent.md/index.html",
-   "points": 340,
-   "comment_count": 145,
+   "title": "What Is a Harness?",
+   "url": "https://earendil.com/posts/what-is-a-harness/",
+   "points": 512,
+   "comment_count": 163,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 20,
-   "title": "Woman stranded in Spain after UK's eVisa system mistakes her for twin sister",
-   "url": "https://www.theguardian.com/uk-news/2026/aug/24/woman-stranded-spain-uk-evisa-system-mistakes-twin-sister",
-   "points": 93,
-   "comment_count": 72,
+   "title": "Google Workspace thinks my domain is an email provider (2025)",
+   "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
+   "points": 359,
+   "comment_count": 129,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 21,
-   "title": "The treasury bond mess: is this the demise of the US as a safe haven?",
-   "url": "https://www.theguardian.com/business/2026/aug/24/treasury-bonds-trump-administration-debt",
-   "points": 60,
-   "comment_count": 34,
+   "title": "My agent.md to improve LLM-assisted code quality",
+   "url": "https://fabiensanglard.net/agent.md/index.html",
+   "points": 355,
+   "comment_count": 152,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 22,
-   "title": "New EU-wide product repair rules come into force",
-   "url": "https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/",
-   "points": 173,
-   "comment_count": 104,
+   "title": "The Future Belongs to the Weird",
+   "url": "https://essays.georgestrakhov.com/weird/",
+   "points": 87,
+   "comment_count": 51,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -242,28 +242,28 @@
    "rank": 23,
    "title": "Mourning Steve French",
    "url": "https://lwn.net/Articles/1090098/",
-   "points": 36,
-   "comment_count": 0,
+   "points": 50,
+   "comment_count": 1,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 24,
-   "title": "How Complex Systems Fail (1998)",
-   "url": "https://how.complexsystems.fail/",
-   "points": 339,
-   "comment_count": 72,
+   "title": "New EU-wide product repair rules come into force",
+   "url": "https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/",
+   "points": 201,
+   "comment_count": 112,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 25,
-   "title": "Malware infects Android-based automotive head unit firmware",
-   "url": "https://securelist.com/android-head-unit-malware/121106/",
-   "points": 251,
-   "comment_count": 127,
+   "title": "How Complex Systems Fail (1998)",
+   "url": "https://how.complexsystems.fail/",
+   "points": 351,
+   "comment_count": 74,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -272,28 +272,28 @@
    "rank": 26,
    "title": "AI Chip Architectures",
    "url": "https://www.jepeake.com/ai-chip-architectures",
-   "points": 102,
-   "comment_count": 36,
+   "points": 118,
+   "comment_count": 37,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 27,
-   "title": "Fable and the end of the free lunch",
-   "url": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
-   "points": 184,
-   "comment_count": 170,
+   "title": "Malware infects Android-based automotive head unit firmware",
+   "url": "https://securelist.com/android-head-unit-malware/121106/",
+   "points": 254,
+   "comment_count": 135,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 28,
-   "title": "Over 5,200 Ebola cases recorded in Congo",
-   "url": "https://www.afro.who.int/countries/democratic-republic-of-congo/news/over-5200-cases-recorded-democratic-republic-congocrosses100-days-ebola-outbreak-declaration",
-   "points": 85,
-   "comment_count": 36,
+   "title": "Fable and the end of the free lunch",
+   "url": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
+   "points": 201,
+   "comment_count": 194,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -302,8 +302,8 @@
    "rank": 29,
    "title": "My favorite nonfiction books about cults, scams, and schemes",
    "url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
-   "points": 252,
-   "comment_count": 100,
+   "points": 262,
+   "comment_count": 108,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -312,8 +312,8 @@
    "rank": 30,
    "title": "Explain it to me like I'm ten",
    "url": "https://timharford.com/2026/08/explain-it-to-me-like-im-ten/",
-   "points": 159,
-   "comment_count": 58,
+   "points": 175,
+   "comment_count": 64,
    "input": {
     "url": "https://news.ycombinator.com"
    }

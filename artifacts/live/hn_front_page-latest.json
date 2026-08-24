@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mt6laxow1gpyv9u04x",
+ "snapshot_id": "j_mt6odzs323xj4watbw",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-08-24T02:01:27.490Z",
+ "captured_at": "2026-08-24T03:27:58.909Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,16 +14,16 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-08-24T02:01:17.227Z",
-  "finished": "2026-08-24T02:01:21.002Z"
+  "started": "2026-08-24T03:27:38.761Z",
+  "finished": "2026-08-24T03:27:51.278Z"
  },
  "rows": [
   {
    "rank": 1,
    "title": "Everything I own, owned",
    "url": "https://schlarp.com/posts/everything-i-own-owned/",
-   "points": 287,
-   "comment_count": 85,
+   "points": 375,
+   "comment_count": 112,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -32,8 +32,8 @@
    "rank": 2,
    "title": "How I find problems to solve as a staff engineer",
    "url": "https://lalitm.com/post/find-problems-staff-engineer/",
-   "points": 273,
-   "comment_count": 106,
+   "points": 306,
+   "comment_count": 110,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -42,68 +42,68 @@
    "rank": 3,
    "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
    "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-   "points": 229,
-   "comment_count": 193,
+   "points": 277,
+   "comment_count": 242,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 4,
-   "title": "Google Workspace thinks my domain is an email provider (2025)",
-   "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
-   "points": 187,
-   "comment_count": 45,
+   "title": "Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel",
+   "url": "https://www.hanselman.com/blog/migrating-a-synology-nas-to-a-unifi-unas-pro-8-with-robocopy-smb-multichannel-and-surprising-performance-traps",
+   "points": 18,
+   "comment_count": 14,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 5,
-   "title": "My agent.md to improve LLM-assisted code quality",
-   "url": "https://fabiensanglard.net/agent.md/index.html",
-   "points": 168,
-   "comment_count": 82,
+   "title": "Google Workspace thinks my domain is an email provider (2025)",
+   "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
+   "points": 199,
+   "comment_count": 51,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 6,
-   "title": "What Is a Harness?",
-   "url": "https://earendil.com/posts/what-is-a-harness/",
-   "points": 310,
-   "comment_count": 135,
+   "title": "My agent.md to improve LLM-assisted code quality",
+   "url": "https://fabiensanglard.net/agent.md/index.html",
+   "points": 193,
+   "comment_count": 86,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 7,
-   "title": "How Complex Systems Fail (1998)",
-   "url": "https://how.complexsystems.fail/",
-   "points": 243,
-   "comment_count": 63,
+   "title": "What Is a Harness?",
+   "url": "https://earendil.com/posts/what-is-a-harness/",
+   "points": 333,
+   "comment_count": 139,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 8,
-   "title": "Malware infects Android-based automotive head unit firmware",
-   "url": "https://securelist.com/android-head-unit-malware/121106/",
-   "points": 215,
-   "comment_count": 106,
+   "title": "How Complex Systems Fail (1998)",
+   "url": "https://how.complexsystems.fail/",
+   "points": 256,
+   "comment_count": 63,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 9,
-   "title": "Implementation of GPT-2 in pure CMake",
-   "url": "https://github.com/AlpinDale/gpt2.cmake",
-   "points": 34,
-   "comment_count": 11,
+   "title": "Malware infects Android-based automotive head unit firmware",
+   "url": "https://securelist.com/android-head-unit-malware/121106/",
+   "points": 221,
+   "comment_count": 108,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -112,88 +112,88 @@
    "rank": 10,
    "title": "My favorite nonfiction books about cults, scams, and schemes",
    "url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
-   "points": 198,
-   "comment_count": 68,
+   "points": 204,
+   "comment_count": 75,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 11,
-   "title": "Why Sal Khan't: On Learning by Making but Teaching by Telling",
-   "url": "https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/",
-   "points": 138,
-   "comment_count": 85,
+   "title": "Implementation of GPT-2 in pure CMake",
+   "url": "https://github.com/AlpinDale/gpt2.cmake",
+   "points": 42,
+   "comment_count": 11,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 12,
-   "title": "A website for debloated open source alternatives",
-   "url": "https://debloat.dev/",
-   "points": 267,
-   "comment_count": 91,
+   "title": "Why Sal Khan't: On Learning by Making but Teaching by Telling",
+   "url": "https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/",
+   "points": 145,
+   "comment_count": 90,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 13,
-   "title": "Explain it to me like I'm ten",
-   "url": "https://timharford.com/2026/08/explain-it-to-me-like-im-ten/",
-   "points": 82,
-   "comment_count": 41,
+   "title": "Rural Village in Spain Is Welcoming Digital Nomads with Open Arms",
+   "url": "https://www.cntraveler.com/story/this-rural-village-in-spain-is-welcoming-digital-nomads-with-open-arms",
+   "points": 38,
+   "comment_count": 23,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 14,
-   "title": "Decoding silent reading from non-invasive EEG",
-   "url": "https://arxiv.org/abs/2608.20186",
-   "points": 32,
-   "comment_count": 12,
+   "title": "Explain it to me like I'm ten",
+   "url": "https://timharford.com/2026/08/explain-it-to-me-like-im-ten/",
+   "points": 88,
+   "comment_count": 42,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 15,
-   "title": "AI Chip Architectures",
-   "url": "https://www.jepeake.com/ai-chip-architectures",
-   "points": 50,
-   "comment_count": 12,
+   "title": "A website for debloated open source alternatives",
+   "url": "https://debloat.dev/",
+   "points": 276,
+   "comment_count": 92,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 16,
-   "title": "Rural Village in Spain Is Welcoming Digital Nomads with Open Arms",
-   "url": "https://www.cntraveler.com/story/this-rural-village-in-spain-is-welcoming-digital-nomads-with-open-arms",
-   "points": 27,
-   "comment_count": 15,
+   "title": "The first search engine for Internet-connected devices",
+   "url": "https://www.shodan.io/",
+   "points": 4,
+   "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 17,
-   "title": "Declarative WebGPU with S-Expressions",
-   "url": "https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions/",
-   "points": 20,
-   "comment_count": 2,
+   "title": "Kodak DC50 now usable on the Apple II",
+   "url": "https://www.colino.net/wordpress/archives/2026/08/23/kodak-dc50-now-usable-on-the-apple-ii/",
+   "points": 47,
+   "comment_count": 8,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 18,
-   "title": "Kodak DC50 now usable on the Apple II",
-   "url": "https://www.colino.net/wordpress/archives/2026/08/23/kodak-dc50-now-usable-on-the-apple-ii/",
-   "points": 38,
-   "comment_count": 7,
+   "title": "Decoding silent reading from non-invasive EEG",
+   "url": "https://arxiv.org/abs/2608.20186",
+   "points": 35,
+   "comment_count": 14,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -202,28 +202,28 @@
    "rank": 19,
    "title": "AI and Infrastructure Engineering",
    "url": "https://omegion.dev/2026/08/ai-and-infrastructure-engineering/",
-   "points": 44,
-   "comment_count": 12,
+   "points": 51,
+   "comment_count": 18,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 20,
-   "title": "Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?",
-   "url": "https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html",
-   "points": 174,
-   "comment_count": 73,
+   "title": "Declarative WebGPU with S-Expressions",
+   "url": "https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions/",
+   "points": 25,
+   "comment_count": 3,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 21,
-   "title": "Parallel development without the headaches using Git worktree",
-   "url": "https://barrd.dev/article/parallel-development-without-the-headaches-using-git-worktree/",
-   "points": 19,
-   "comment_count": 13,
+   "title": "Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?",
+   "url": "https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html",
+   "points": 194,
+   "comment_count": 84,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -232,28 +232,28 @@
    "rank": 22,
    "title": "The Remote Work Challenge: Lessons from 5 Cities",
    "url": "https://www.pew.org/en/research-and-analysis/reports/2026/05/the-remote-work-challenge-lessons-from-5-cities",
-   "points": 36,
-   "comment_count": 16,
+   "points": 43,
+   "comment_count": 17,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 23,
-   "title": "The Vibe Tax",
-   "url": "https://insufferable.dev/posts/vibe-tax/",
-   "points": 105,
-   "comment_count": 82,
+   "title": "Parallel development without the headaches using Git worktree",
+   "url": "https://barrd.dev/article/parallel-development-without-the-headaches-using-git-worktree/",
+   "points": 26,
+   "comment_count": 22,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 24,
-   "title": "Fable and the end of the free lunch",
-   "url": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
-   "points": 116,
-   "comment_count": 95,
+   "title": "The Vibe Tax",
+   "url": "https://insufferable.dev/posts/vibe-tax/",
+   "points": 114,
+   "comment_count": 94,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -262,28 +262,28 @@
    "rank": 25,
    "title": "Things I want in a modern relational query language",
    "url": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
-   "points": 87,
-   "comment_count": 84,
+   "points": 91,
+   "comment_count": 90,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 26,
-   "title": "The planet now has more trees than it did 35 years ago (2018)",
-   "url": "https://psmag.com/environment/the-planet-now-has-more-trees-than-it-did-35-years-ago/",
-   "points": 56,
-   "comment_count": 30,
+   "title": "The Sloppification of Peptides",
+   "url": "https://henryaj.substack.com/p/the-sloppification-of-peptides",
+   "points": 107,
+   "comment_count": 88,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 27,
-   "title": "Coconut oil jet fuel matches kerosene's efficiency in engine tests",
-   "url": "https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/",
-   "points": 149,
-   "comment_count": 179,
+   "title": "Former OC actor Ben McKenzie on crusade to take down 'stupid' cryptocurrency",
+   "url": "https://www.rnz.co.nz/life/people/celebrity/former-oc-actor-ben-mckenzie-on-crusade-to-take-down-stupid-cryptocurrency",
+   "points": 9,
+   "comment_count": 4,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -292,28 +292,28 @@
    "rank": 28,
    "title": "Death to px, long live ch",
    "url": "https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/",
-   "points": 60,
-   "comment_count": 42,
+   "points": 67,
+   "comment_count": 47,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 29,
-   "title": "The Sloppification of Peptides",
-   "url": "https://henryaj.substack.com/p/the-sloppification-of-peptides",
-   "points": 97,
-   "comment_count": 78,
+   "title": "Coconut oil jet fuel matches kerosene's efficiency in engine tests",
+   "url": "https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/",
+   "points": 155,
+   "comment_count": 185,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 30,
-   "title": "A complex structure on S^6 [pdf]",
-   "url": "https://alpo.ge/s6.pdf",
-   "points": 47,
-   "comment_count": 16,
+   "title": "The planet now has more trees than it did 35 years ago (2018)",
+   "url": "https://psmag.com/environment/the-planet-now-has-more-trees-than-it-did-35-years-ago/",
+   "points": 66,
+   "comment_count": 40,
    "input": {
     "url": "https://news.ycombinator.com"
    }

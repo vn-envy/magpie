@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mt70kftz10bam3axp6",
+ "snapshot_id": "j_mt72oxjv1nv38t2jih",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-08-24T09:08:45.366Z",
+ "captured_at": "2026-08-24T10:08:13.981Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,16 +14,16 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-08-24T09:08:34.900Z",
-  "finished": "2026-08-24T09:08:38.824Z"
+  "started": "2026-08-24T10:08:03.695Z",
+  "finished": "2026-08-24T10:08:06.926Z"
  },
  "rows": [
   {
    "rank": 1,
    "title": "Everything I own, owned",
    "url": "https://schlarp.com/posts/everything-i-own-owned/",
-   "points": 848,
-   "comment_count": 248,
+   "points": 924,
+   "comment_count": 260,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -32,28 +32,28 @@
    "rank": 2,
    "title": "I were 17, I'd learn how to build LLMs from scratch",
    "url": "https://twitter.com/paulg/status/2091544343589060625",
-   "points": 80,
-   "comment_count": 164,
+   "points": 117,
+   "comment_count": 205,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 3,
-   "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
-   "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
-   "points": 34,
-   "comment_count": 8,
+   "title": "We never use AI. For anything",
+   "url": "https://corkmac.app/our-ai-stance/",
+   "points": 39,
+   "comment_count": 24,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 4,
-   "title": "OCR It – pull text out of un-copyable documents for your LLM",
-   "url": "https://github.com/thiagotigaz/ocr-it",
-   "points": 22,
-   "comment_count": 6,
+   "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
+   "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
+   "points": 45,
+   "comment_count": 13,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -62,18 +62,18 @@
    "rank": 5,
    "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
    "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-   "points": 489,
-   "comment_count": 444,
+   "points": 520,
+   "comment_count": 460,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 6,
-   "title": "The Work Number: credit score but for your employment history – by Equifax",
-   "url": "https://employees.theworknumber.com/",
-   "points": 24,
-   "comment_count": 39,
+   "title": "OCR It – pull text out of un-copyable documents for your LLM",
+   "url": "https://github.com/thiagotigaz/ocr-it",
+   "points": 36,
+   "comment_count": 8,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -82,18 +82,18 @@
    "rank": 7,
    "title": "How I find problems to solve as a staff engineer",
    "url": "https://lalitm.com/post/find-problems-staff-engineer/",
-   "points": 404,
-   "comment_count": 129,
+   "points": 415,
+   "comment_count": 132,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 8,
-   "title": "New EU-wide product repair rules come into force",
-   "url": "https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/",
-   "points": 104,
-   "comment_count": 24,
+   "title": "Executable Is a SQLite Database",
+   "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
+   "points": 73,
+   "comment_count": 8,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -102,78 +102,78 @@
    "rank": 9,
    "title": "Andreessen Horowitz is investing billions into a bleak future",
    "url": "https://www.modelrepublic.org/articles/a16z-portfolio",
-   "points": 97,
-   "comment_count": 20,
+   "points": 148,
+   "comment_count": 37,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 10,
-   "title": "I built a low-latency AI companion that plays Skyrim with me",
-   "url": "https://pantel.is/projects/ai-gaming-companion/",
-   "points": 145,
-   "comment_count": 27,
+   "title": "The Future Belongs to the Weird",
+   "url": "https://essays.georgestrakhov.com/weird/",
+   "points": 5,
+   "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 11,
-   "title": "Executable Is a SQLite Database",
-   "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
-   "points": 33,
-   "comment_count": 1,
+   "title": "I built a low-latency AI companion that plays Skyrim with me",
+   "url": "https://pantel.is/projects/ai-gaming-companion/",
+   "points": 162,
+   "comment_count": 30,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 12,
-   "title": "Google Workspace thinks my domain is an email provider (2025)",
-   "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
-   "points": 291,
-   "comment_count": 88,
+   "title": "Woman stranded in Spain after UK's eVisa system mistakes her for twin sister",
+   "url": "https://www.theguardian.com/uk-news/2026/aug/24/woman-stranded-spain-uk-evisa-system-mistakes-twin-sister",
+   "points": 15,
+   "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 13,
-   "title": "My agent.md to improve LLM-assisted code quality",
-   "url": "https://fabiensanglard.net/agent.md/index.html",
-   "points": 303,
-   "comment_count": 132,
+   "title": "New EU-wide product repair rules come into force",
+   "url": "https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/",
+   "points": 127,
+   "comment_count": 45,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 14,
-   "title": "What Is a Harness?",
-   "url": "https://earendil.com/posts/what-is-a-harness/",
-   "points": 439,
-   "comment_count": 151,
+   "title": "Google Workspace thinks my domain is an email provider (2025)",
+   "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
+   "points": 307,
+   "comment_count": 101,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 15,
-   "title": "Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel",
-   "url": "https://www.hanselman.com/blog/migrating-a-synology-nas-to-a-unifi-unas-pro-8-with-robocopy-smb-multichannel-and-surprising-performance-traps",
-   "points": 54,
-   "comment_count": 42,
+   "title": "My agent.md to improve LLM-assisted code quality",
+   "url": "https://fabiensanglard.net/agent.md/index.html",
+   "points": 315,
+   "comment_count": 134,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 16,
-   "title": "Over 5,200 Ebola cases recorded in Congo",
-   "url": "https://www.afro.who.int/countries/democratic-republic-of-congo/news/over-5200-cases-recorded-democratic-republic-congocrosses100-days-ebola-outbreak-declaration",
-   "points": 35,
-   "comment_count": 6,
+   "title": "What Is a Harness?",
+   "url": "https://earendil.com/posts/what-is-a-harness/",
+   "points": 451,
+   "comment_count": 152,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -182,7 +182,7 @@
    "rank": 17,
    "title": "How Complex Systems Fail (1998)",
    "url": "https://how.complexsystems.fail/",
-   "points": 310,
+   "points": 316,
    "comment_count": 72,
    "input": {
     "url": "https://news.ycombinator.com"
@@ -190,10 +190,10 @@
   },
   {
    "rank": 18,
-   "title": "AI Chip Architectures",
-   "url": "https://www.jepeake.com/ai-chip-architectures",
-   "points": 76,
-   "comment_count": 28,
+   "title": "Over 5,200 Ebola cases recorded in Congo",
+   "url": "https://www.afro.who.int/countries/democratic-republic-of-congo/news/over-5200-cases-recorded-democratic-republic-congocrosses100-days-ebola-outbreak-declaration",
+   "points": 50,
+   "comment_count": 8,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -202,7 +202,7 @@
    "rank": 19,
    "title": "Malware infects Android-based automotive head unit firmware",
    "url": "https://securelist.com/android-head-unit-malware/121106/",
-   "points": 239,
+   "points": 243,
    "comment_count": 124,
    "input": {
     "url": "https://news.ycombinator.com"
@@ -210,110 +210,110 @@
   },
   {
    "rank": 20,
-   "title": "My favorite nonfiction books about cults, scams, and schemes",
-   "url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
-   "points": 229,
-   "comment_count": 85,
+   "title": "AI Chip Architectures",
+   "url": "https://www.jepeake.com/ai-chip-architectures",
+   "points": 81,
+   "comment_count": 29,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 21,
-   "title": "Fable and the end of the free lunch",
-   "url": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
-   "points": 151,
-   "comment_count": 133,
+   "title": "Fast drilldown dashboards from a single Parquet file",
+   "url": "https://www.hamiltonulmer.com/customer-dashboards-r2-hyparquet/",
+   "points": 4,
+   "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 22,
-   "title": "Explain it to me like I'm ten",
-   "url": "https://timharford.com/2026/08/explain-it-to-me-like-im-ten/",
-   "points": 136,
-   "comment_count": 50,
+   "title": "Fable and the end of the free lunch",
+   "url": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
+   "points": 155,
+   "comment_count": 139,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 23,
-   "title": "Why Sal Khan't: On Learning by Making but Teaching by Telling",
-   "url": "https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/",
-   "points": 177,
-   "comment_count": 104,
+   "title": "My favorite nonfiction books about cults, scams, and schemes",
+   "url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
+   "points": 237,
+   "comment_count": 86,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 24,
-   "title": "Why is Anthropic's public writing style so unlike Claude's?",
-   "url": "https://cmart.blog/claude-writing/",
-   "points": 12,
-   "comment_count": 1,
+   "title": "Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel",
+   "url": "https://www.hanselman.com/blog/migrating-a-synology-nas-to-a-unifi-unas-pro-8-with-robocopy-smb-multichannel-and-surprising-performance-traps",
+   "points": 57,
+   "comment_count": 46,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 25,
-   "title": "Elevated Errors for Multiple Models",
-   "url": "https://status.claude.com/incidents/vgz5psbjmt1h",
-   "points": 24,
-   "comment_count": 8,
+   "title": "Explain it to me like I'm ten",
+   "url": "https://timharford.com/2026/08/explain-it-to-me-like-im-ten/",
+   "points": 138,
+   "comment_count": 51,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 26,
-   "title": "Implementation of GPT-2 in pure CMake",
-   "url": "https://github.com/AlpinDale/gpt2.cmake",
-   "points": 78,
-   "comment_count": 15,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 27,
-   "title": "A website for debloated open source alternatives",
-   "url": "https://debloat.dev/",
-   "points": 331,
+   "title": "Why Sal Khan't: On Learning by Making but Teaching by Telling",
+   "url": "https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/",
+   "points": 178,
    "comment_count": 104,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
+   "rank": 27,
+   "title": "Elevated Errors for Multiple Models",
+   "url": "https://status.claude.com/incidents/vgz5psbjmt1h",
+   "points": 27,
+   "comment_count": 9,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
    "rank": 28,
-   "title": "The first search engine for Internet-connected devices",
-   "url": "https://www.shodan.io/",
-   "points": 19,
-   "comment_count": 1,
+   "title": "Why is Anthropic's public writing style so unlike Claude's?",
+   "url": "https://cmart.blog/claude-writing/",
+   "points": 30,
+   "comment_count": 10,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 29,
-   "title": "Anthropic Claude and API service outages",
-   "url": "https://status.claude.com/uptime",
-   "points": 49,
-   "comment_count": 47,
+   "title": "A website for debloated open source alternatives",
+   "url": "https://debloat.dev/",
+   "points": 340,
+   "comment_count": 105,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 30,
-   "title": "Kodak DC50 now usable on the Apple II",
-   "url": "https://www.colino.net/wordpress/archives/2026/08/23/kodak-dc50-now-usable-on-the-apple-ii/",
-   "points": 61,
-   "comment_count": 9,
+   "title": "Implementation of GPT-2 in pure CMake",
+   "url": "https://github.com/AlpinDale/gpt2.cmake",
+   "points": 79,
+   "comment_count": 15,
    "input": {
     "url": "https://news.ycombinator.com"
    }

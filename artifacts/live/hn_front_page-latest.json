@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mt7hexo5ne84ug4sl",
+ "snapshot_id": "j_mt7j9bre2mmo3gi10p",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-08-24T17:00:30.047Z",
+ "captured_at": "2026-08-24T17:51:59.191Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,16 +14,16 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-08-24T17:00:19.655Z",
-  "finished": "2026-08-24T17:00:22.274Z"
+  "started": "2026-08-24T17:51:49.124Z",
+  "finished": "2026-08-24T17:51:51.868Z"
  },
  "rows": [
   {
    "rank": 1,
    "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
    "url": "https://twitter.com/lemire/status/2091894299289874926",
-   "points": 275,
-   "comment_count": 153,
+   "points": 359,
+   "comment_count": 211,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -32,8 +32,8 @@
    "rank": 2,
    "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
    "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-   "points": 133,
-   "comment_count": 52,
+   "points": 205,
+   "comment_count": 88,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -42,68 +42,68 @@
    "rank": 3,
    "title": "IPFS Maintainers Winding Down",
    "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
-   "points": 85,
-   "comment_count": 27,
+   "points": 133,
+   "comment_count": 49,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 4,
-   "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-   "url": "https://developers.openai.com/api/docs/pricing",
-   "points": 116,
-   "comment_count": 97,
+   "title": "A Blackstone real estate company exposed SSN digits, DOBs, addresses and more",
+   "url": "https://alexschapiro.com/security/vulnerability/2026/07/16/beam-living-graphql-data-exposure",
+   "points": 60,
+   "comment_count": 18,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 5,
-   "title": "A Blackstone real estate company exposed SSN digits, DOBs, addresses and more",
-   "url": "https://alexschapiro.com/security/vulnerability/2026/07/16/beam-living-graphql-data-exposure",
-   "points": 24,
-   "comment_count": 4,
+   "title": "Where Did All the Public Bathrooms Go?",
+   "url": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
+   "points": 23,
+   "comment_count": 11,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 6,
-   "title": "How Europe is killing makers and micro-entrepreneurs",
-   "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
-   "points": 621,
-   "comment_count": 417,
+   "title": "The entire city of San Francisco as a video game",
+   "url": "https://sf.thijs.gg/",
+   "points": 39,
+   "comment_count": 9,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 7,
-   "title": "Public services are increasingly strained by LLM-written appeals for benefits",
-   "url": "https://arxiv.org/abs/2608.16603",
-   "points": 13,
-   "comment_count": 5,
+   "title": "How Europe is killing makers and micro-entrepreneurs",
+   "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
+   "points": 688,
+   "comment_count": 464,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 8,
-   "title": "SeL4 security proofs now complete on AArch64",
-   "url": "https://proofcraft.systems/news-2026/#2026-08-21",
-   "points": 130,
-   "comment_count": 30,
+   "title": "Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam",
+   "url": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
+   "points": 20,
+   "comment_count": 3,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 9,
-   "title": "Coding expertise is going to collapse from AI reliance",
-   "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-   "points": 116,
-   "comment_count": 133,
+   "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+   "url": "https://developers.openai.com/api/docs/pricing",
+   "points": 153,
+   "comment_count": 142,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -112,37 +112,37 @@
    "rank": 10,
    "title": "Jabber/XMPP: 25 Years of Digital Independence",
    "url": "https://gultsch.de/posts/25-years-of-digital-independence/",
-   "points": 14,
-   "comment_count": 6,
+   "points": 41,
+   "comment_count": 15,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 11,
-   "title": "Hot Chips 2026: Applying High Bandwidth Flash (HBF)",
-   "url": "https://chipsandcheese.com/p/hot-chips-2026-applying-high-bandwidth",
-   "points": 27,
-   "comment_count": 9,
+   "title": "SeL4 security proofs now complete on AArch64",
+   "url": "https://proofcraft.systems/news-2026/#2026-08-21",
+   "points": 140,
+   "comment_count": 31,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 12,
-   "title": "I were 17, I'd learn how to build LLMs from scratch",
-   "url": "https://twitter.com/paulg/status/2091544343589060625",
-   "points": 385,
-   "comment_count": 506,
+   "title": "Show HN: GlassBox – what the browser reveals, and how identifiable you are",
+   "url": "https://glassbox.codecanary.org/",
+   "points": 28,
+   "comment_count": 8,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 13,
-   "title": "Show HN: A Modern GUI Library for Ada: CSS Styling, XML UI, SDL3",
-   "url": "https://github.com/ovenpasta/adi2",
-   "points": 7,
+   "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
+   "url": "https://picomq.com/",
+   "points": 22,
    "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
@@ -150,40 +150,40 @@
   },
   {
    "rank": 14,
-   "title": "A Server Lost Power at 00:32. We Found Out at 08:18",
-   "url": "https://danubedata.ro/blog/storage-power-loss-postmortem-august-2026",
-   "points": 6,
-   "comment_count": 5,
+   "title": "Coding expertise is going to collapse from AI reliance",
+   "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+   "points": 194,
+   "comment_count": 227,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 15,
-   "title": "Executable Is a SQLite Database",
-   "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
-   "points": 339,
-   "comment_count": 68,
+   "title": "Public services are increasingly strained by LLM-written appeals for benefits",
+   "url": "https://arxiv.org/abs/2608.16603",
+   "points": 35,
+   "comment_count": 44,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 16,
-   "title": "Show HN: GlassBox – what the browser reveals, and how identifiable you are",
-   "url": "https://glassbox.codecanary.org/",
-   "points": 9,
-   "comment_count": 0,
+   "title": "I were 17, I'd learn how to build LLMs from scratch",
+   "url": "https://twitter.com/paulg/status/2091544343589060625",
+   "points": 407,
+   "comment_count": 526,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 17,
-   "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
-   "url": "https://picomq.com/",
-   "points": 5,
-   "comment_count": 0,
+   "title": "Hot Chips 2026: Applying High Bandwidth Flash (HBF)",
+   "url": "https://chipsandcheese.com/p/hot-chips-2026-applying-high-bandwidth",
+   "points": 31,
+   "comment_count": 11,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -192,118 +192,118 @@
    "rank": 18,
    "title": "Adafruit USB Type C CC Resistor Fixer",
    "url": "https://www.adafruit.com/product/6323",
-   "points": 18,
-   "comment_count": 4,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 19,
-   "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
-   "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
-   "points": 144,
-   "comment_count": 66,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 20,
-   "title": "Show HN: A techno machine in one HTML file, with verifiable renders",
-   "url": "https://ssx360.github.io/rack-02/?src=hn",
-   "points": 65,
+   "points": 31,
    "comment_count": 14,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 21,
-   "title": "Hot Chips 2026: Samsung and HBM Base Die Opportunities",
-   "url": "https://chipsandcheese.com/p/hot-chips-2026-samsung-and-hbm-base",
+   "rank": 19,
+   "title": "EuroHPC Launches 6 Quantum Calls with €119M in Funding",
+   "url": "https://www.hpcwire.com/off-the-wire/eurohpc-launches-6-quantum-calls-with-e119m-in-funding/",
    "points": 6,
-   "comment_count": 2,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 22,
-   "title": "Anna's Archive Owes $340 Million, Lost Several Domains, but It's Still Online",
-   "url": "https://torrentfreak.com/annas-archive-owes-340-million-lost-several-domains-but-its-still-online/",
-   "points": 120,
-   "comment_count": 77,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 23,
-   "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-   "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-   "points": 721,
-   "comment_count": 641,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 24,
-   "title": "NetBSD GSoC 2026 Improving RAIDframe",
-   "url": "https://blog.netbsd.org/tnf/entry/gsoc2026_raidframe",
-   "points": 8,
    "comment_count": 1,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 25,
-   "title": "Fast drilldown dashboards from a single Parquet file",
-   "url": "https://www.hamiltonulmer.com/customer-dashboards-r2-hyparquet/",
-   "points": 131,
+   "rank": 20,
+   "title": "Man Dressed as Darth Vader Defends Flock Cameras to San Diego City Council",
+   "url": "https://thehill.com/policy/technology/6042349-darth-vader-flock-surveillance/",
+   "points": 49,
+   "comment_count": 5,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 21,
+   "title": "Curvature Beziers – Improving on a timeless recipe",
+   "url": "https://acko.net/blog/curvature-beziers/",
+   "points": 16,
+   "comment_count": 1,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 22,
+   "title": "Executable Is a SQLite Database",
+   "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
+   "points": 365,
+   "comment_count": 72,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 23,
+   "title": "Could We Dredge the Netherlands Without Fossil Fuels?",
+   "url": "https://solar.lowtechmagazine.com/2018/08/could-we-dredge-the-netherlands-without-fossil-fuels",
+   "points": 19,
    "comment_count": 11,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
+   "rank": 24,
+   "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
+   "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
+   "points": 152,
+   "comment_count": 73,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 25,
+   "title": "Hot Chips 2026: Samsung and HBM Base Die Opportunities",
+   "url": "https://chipsandcheese.com/p/hot-chips-2026-samsung-and-hbm-base",
+   "points": 9,
+   "comment_count": 2,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
    "rank": 26,
-   "title": "How I find problems to solve as a staff engineer",
-   "url": "https://lalitm.com/post/find-problems-staff-engineer/",
-   "points": 527,
-   "comment_count": 151,
+   "title": "Show HN: A techno machine in one HTML file, with verifiable renders",
+   "url": "https://ssx360.github.io/rack-02/?src=hn",
+   "points": 75,
+   "comment_count": 16,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 27,
-   "title": "Everything I own, owned",
-   "url": "https://schlarp.com/posts/everything-i-own-owned/",
-   "points": 1279,
-   "comment_count": 328,
+   "title": "Anna's Archive Owes $340 Million, Lost Several Domains, but It's Still Online",
+   "url": "https://torrentfreak.com/annas-archive-owes-340-million-lost-several-domains-but-its-still-online/",
+   "points": 157,
+   "comment_count": 94,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 28,
-   "title": "Why older tech is sometimes safer from hackers",
-   "url": "https://www.bbc.com/future/article/20260821-why-older-tech-is-sometimes-safer-from-hackers",
-   "points": 73,
-   "comment_count": 56,
+   "title": "NetBSD GSoC 2026 Improving RAIDframe",
+   "url": "https://blog.netbsd.org/tnf/entry/gsoc2026_raidframe",
+   "points": 17,
+   "comment_count": 1,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 29,
-   "title": "Show HN: Free Inference Engineer and Model Training Roadmap",
-   "url": "https://inferquest.org/",
-   "points": 10,
-   "comment_count": 2,
+   "title": "Codefloe Is a Professionally Hosted Public Git Forge",
+   "url": "https://codefloe.com/",
+   "points": 12,
+   "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -312,7 +312,7 @@
    "rank": 30,
    "title": "Three Generations in E7",
    "url": "https://johncarlosbaez.wordpress.com/2026/08/12/three-generations-in-e7/",
-   "points": 5,
+   "points": 8,
    "comment_count": 1,
    "input": {
     "url": "https://news.ycombinator.com"

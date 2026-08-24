@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mt7nfzy310jdpevv5s",
+ "snapshot_id": "j_mt7pqoym1gdato834p",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-08-24T19:49:09.248Z",
+ "captured_at": "2026-08-24T20:53:38.846Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,16 +14,16 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-08-24T19:48:58.833Z",
-  "finished": "2026-08-24T19:49:02.503Z"
+  "started": "2026-08-24T20:53:18.067Z",
+  "finished": "2026-08-24T20:53:30.512Z"
  },
  "rows": [
   {
    "rank": 1,
    "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
    "url": "https://twitter.com/lemire/status/2091894299289874926",
-   "points": 507,
-   "comment_count": 335,
+   "points": 578,
+   "comment_count": 390,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -32,88 +32,88 @@
    "rank": 2,
    "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
    "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-   "points": 343,
-   "comment_count": 143,
+   "points": 408,
+   "comment_count": 158,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 3,
-   "title": "IPFS Maintainers Winding Down",
-   "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
-   "points": 237,
-   "comment_count": 111,
+   "title": "The entire city of San Francisco as a video game",
+   "url": "https://sf.thijs.gg/",
+   "points": 202,
+   "comment_count": 74,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 4,
-   "title": "The entire city of San Francisco as a video game",
-   "url": "https://sf.thijs.gg/",
-   "points": 145,
-   "comment_count": 55,
+   "title": "IPFS Maintainers Winding Down",
+   "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
+   "points": 268,
+   "comment_count": 132,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 5,
-   "title": "Anger, Anxiety and Agency",
-   "url": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
-   "points": 39,
-   "comment_count": 28,
+   "title": "LLMs could control their host machines by exploiting inference engines",
+   "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+   "points": 38,
+   "comment_count": 14,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 6,
-   "title": "LLMs could control their host machines by exploiting inference engines",
-   "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-   "points": 14,
-   "comment_count": 5,
+   "title": "Oceans hit highest temperature on record",
+   "url": "https://www.bbc.com/news/articles/c62m4gpnp78o",
+   "points": 172,
+   "comment_count": 62,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 7,
-   "title": "Oceans hit highest temperature on record",
-   "url": "https://www.bbc.com/news/articles/c62m4gpnp78o",
-   "points": 11,
-   "comment_count": 1,
+   "title": "How Europe is killing makers and micro-entrepreneurs",
+   "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
+   "points": 874,
+   "comment_count": 579,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 8,
-   "title": "How Europe is killing makers and micro-entrepreneurs",
-   "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
-   "points": 805,
-   "comment_count": 544,
+   "title": "Jabber/XMPP: 25 Years of Digital Independence",
+   "url": "https://gultsch.de/posts/25-years-of-digital-independence/",
+   "points": 106,
+   "comment_count": 41,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 9,
-   "title": "Jabber/XMPP: 25 Years of Digital Independence",
-   "url": "https://gultsch.de/posts/25-years-of-digital-independence/",
-   "points": 78,
-   "comment_count": 32,
+   "title": "A Claude Code skill that recovers export-blocked Kindle highlights",
+   "url": "https://github.com/l3a0/claude-plugins",
+   "points": 31,
+   "comment_count": 5,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 10,
-   "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-   "url": "https://www.ycombinator.com/companies/autostep/jobs",
-   "points": 0,
-   "comment_count": 1,
+   "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
+   "url": "https://picomq.com/",
+   "points": 58,
+   "comment_count": 8,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -122,198 +122,198 @@
    "rank": 11,
    "title": "Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam",
    "url": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
-   "points": 50,
-   "comment_count": 5,
+   "points": 53,
+   "comment_count": 6,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 12,
-   "title": "A Claude Code skill that recovers export-blocked Kindle highlights",
-   "url": "https://github.com/l3a0/claude-plugins",
-   "points": 4,
-   "comment_count": 0,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 13,
-   "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
-   "url": "https://picomq.com/",
-   "points": 48,
-   "comment_count": 5,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 14,
-   "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-   "url": "https://developers.openai.com/api/docs/pricing",
-   "points": 207,
-   "comment_count": 185,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 15,
-   "title": "SeL4 security proofs now complete on AArch64",
-   "url": "https://proofcraft.systems/news-2026/#2026-08-21",
-   "points": 148,
-   "comment_count": 31,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 16,
-   "title": "What Is a Syslog Server?",
-   "url": "https://blog.greencloudvps.com/what-is-a-syslog-server.php",
-   "points": 19,
-   "comment_count": 7,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 17,
-   "title": "I were 17, I'd learn how to build LLMs from scratch",
-   "url": "https://twitter.com/paulg/status/2091544343589060625",
-   "points": 445,
-   "comment_count": 552,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 18,
-   "title": "Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon",
-   "url": "https://github.com/getkern/kern",
-   "points": 16,
-   "comment_count": 0,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 19,
-   "title": "Your \"File\" Menu Isn't About Files",
-   "url": "https://adam.farkas.pro/your-file-menu-isnt-about-files/",
-   "points": 23,
-   "comment_count": 30,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 20,
-   "title": "Curvature Beziers – Improving on a timeless recipe",
-   "url": "https://acko.net/blog/curvature-beziers/",
-   "points": 34,
+   "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
+   "url": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
+   "points": 0,
    "comment_count": 2,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 21,
-   "title": "Coding expertise is going to collapse from AI reliance",
-   "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-   "points": 289,
-   "comment_count": 323,
+   "rank": 13,
+   "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+   "url": "https://developers.openai.com/api/docs/pricing",
+   "points": 235,
+   "comment_count": 207,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 22,
-   "title": "Show HN: GlassBox – what the browser reveals, and how identifiable you are",
-   "url": "https://glassbox.codecanary.org/",
-   "points": 59,
-   "comment_count": 32,
+   "rank": 14,
+   "title": "I were 17, I'd learn how to build LLMs from scratch",
+   "url": "https://twitter.com/paulg/status/2091544343589060625",
+   "points": 471,
+   "comment_count": 565,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 23,
-   "title": "Removed all counters, replies, following/ers, timestamps, from textlog",
-   "url": "https://textlog.cc/post/2059",
-   "points": 10,
+   "rank": 15,
+   "title": "Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon",
+   "url": "https://github.com/getkern/kern",
+   "points": 29,
    "comment_count": 4,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 24,
-   "title": "Executable Is a SQLite Database",
-   "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
-   "points": 409,
-   "comment_count": 83,
+   "rank": 16,
+   "title": "SeL4 security proofs now complete on AArch64",
+   "url": "https://proofcraft.systems/news-2026/#2026-08-21",
+   "points": 152,
+   "comment_count": 34,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 25,
-   "title": "A Blackstone real estate company exposed SSN digits, DOBs, addresses and more",
-   "url": "https://alexschapiro.com/security/vulnerability/2026/07/16/beam-living-graphql-data-exposure",
-   "points": 87,
-   "comment_count": 28,
+   "rank": 17,
+   "title": "Coding expertise is going to collapse from AI reliance",
+   "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+   "points": 335,
+   "comment_count": 353,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 26,
-   "title": "Codefloe Is a Professionally Hosted Public Git Forge",
-   "url": "https://codefloe.com/",
-   "points": 31,
+   "rank": 18,
+   "title": "What Is a Syslog Server?",
+   "url": "https://blog.greencloudvps.com/what-is-a-syslog-server.php",
+   "points": 27,
+   "comment_count": 14,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 19,
+   "title": "Peppermint oil reduces blood pressure by 8.48 mmHg in small study",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344538",
+   "points": 51,
+   "comment_count": 26,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 20,
+   "title": "Removed all counters, replies, following/ers, timestamps, from textlog",
+   "url": "https://textlog.cc/post/2059",
+   "points": 25,
    "comment_count": 8,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 27,
+   "rank": 21,
+   "title": "Executable Is a SQLite Database",
+   "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
+   "points": 428,
+   "comment_count": 85,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 22,
    "title": "Show HN: A techno machine in one HTML file, with verifiable renders",
    "url": "https://ssx360.github.io/rack-02/?src=hn",
-   "points": 113,
-   "comment_count": 18,
+   "points": 127,
+   "comment_count": 22,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 23,
+   "title": "Codefloe Is a Professionally Hosted Public Git Forge",
+   "url": "https://codefloe.com/",
+   "points": 37,
+   "comment_count": 12,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 24,
+   "title": "Show HN: GlassBox – what the browser reveals, and how identifiable you are",
+   "url": "https://glassbox.codecanary.org/",
+   "points": 69,
+   "comment_count": 35,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 25,
+   "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
+   "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
+   "points": 167,
+   "comment_count": 82,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 26,
+   "title": "Hot Chips 2026: Applying High Bandwidth Flash (HBF)",
+   "url": "https://chipsandcheese.com/p/hot-chips-2026-applying-high-bandwidth",
+   "points": 41,
+   "comment_count": 14,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 27,
+   "title": "A Blackstone real estate company exposed SSN digits, DOBs, addresses and more",
+   "url": "https://alexschapiro.com/security/vulnerability/2026/07/16/beam-living-graphql-data-exposure",
+   "points": 99,
+   "comment_count": 41,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 28,
-   "title": "Peppermint oil reduces blood pressure by 8.48 mmHg in small study",
-   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344538",
-   "points": 32,
-   "comment_count": 11,
+   "title": "Show HN: A puzzle I couldn't solve for a year – cubers cracked it in an hour",
+   "url": "https://skimmiq.com/pt/",
+   "points": 10,
+   "comment_count": 3,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 29,
-   "title": "Could We Dredge the Netherlands Without Fossil Fuels?",
+   "title": "Could We Dredge the Netherlands Without Fossil Fuels? (2018)",
    "url": "https://solar.lowtechmagazine.com/2018/08/could-we-dredge-the-netherlands-without-fossil-fuels",
-   "points": 28,
-   "comment_count": 27,
+   "points": 35,
+   "comment_count": 37,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 30,
-   "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
-   "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
-   "points": 163,
-   "comment_count": 76,
+   "title": "Octopus intelligence may be related to never-before-seen mutation",
+   "url": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/",
+   "points": 14,
+   "comment_count": 6,
    "input": {
     "url": "https://news.ycombinator.com"
    }

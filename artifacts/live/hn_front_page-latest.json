@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mt83epqc29i33ysodg",
+ "snapshot_id": "j_mt855k7k2425fd9c71",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-08-25T03:16:03.282Z",
+ "captured_at": "2026-08-25T04:04:55.461Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,16 +14,16 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-08-25T03:15:52.790Z",
-  "finished": "2026-08-25T03:15:55.265Z"
+  "started": "2026-08-25T04:04:45.211Z",
+  "finished": "2026-08-25T04:04:47.949Z"
  },
  "rows": [
   {
    "rank": 1,
    "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
    "url": "https://developer.apple.com/news/?id=1ptvdtcm",
-   "points": 273,
-   "comment_count": 66,
+   "points": 295,
+   "comment_count": 74,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -32,8 +32,8 @@
    "rank": 2,
    "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
    "url": "https://twitter.com/lemire/status/2091894299289874926",
-   "points": 752,
-   "comment_count": 509,
+   "points": 767,
+   "comment_count": 518,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -42,28 +42,28 @@
    "rank": 3,
    "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
    "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-   "points": 588,
-   "comment_count": 233,
+   "points": 603,
+   "comment_count": 240,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 4,
-   "title": "Moon (2024)",
-   "url": "https://ciechanow.ski/moon/",
-   "points": 117,
-   "comment_count": 20,
+   "title": "How Universities Should Prepare Founders",
+   "url": "https://paulgraham.com/prepare.html",
+   "points": 45,
+   "comment_count": 46,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 5,
-   "title": "How Universities Should Prepare Founders",
-   "url": "https://paulgraham.com/prepare.html",
-   "points": 34,
-   "comment_count": 32,
+   "title": "Moon (2024)",
+   "url": "https://ciechanow.ski/moon/",
+   "points": 120,
+   "comment_count": 20,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -72,8 +72,8 @@
    "rank": 6,
    "title": "How Europe is killing makers and micro-entrepreneurs",
    "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
-   "points": 1098,
-   "comment_count": 673,
+   "points": 1114,
+   "comment_count": 674,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -82,8 +82,8 @@
    "rank": 7,
    "title": "The entire city of San Francisco as a video game",
    "url": "https://sf.thijs.gg/",
-   "points": 370,
-   "comment_count": 123,
+   "points": 380,
+   "comment_count": 125,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -92,28 +92,28 @@
    "rank": 8,
    "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
    "url": "https://github.com/murerkinn/bookshelf",
-   "points": 47,
-   "comment_count": 15,
+   "points": 57,
+   "comment_count": 20,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 9,
-   "title": "Was Modern Art a CIA Psy-Op?",
-   "url": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
-   "points": 22,
-   "comment_count": 17,
+   "title": "Where did all the public bathrooms go?",
+   "url": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
+   "points": 187,
+   "comment_count": 374,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 10,
-   "title": "Where did all the public bathrooms go?",
-   "url": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
-   "points": 176,
-   "comment_count": 354,
+   "title": "Was Modern Art a CIA Psy-Op? (2020)",
+   "url": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
+   "points": 36,
+   "comment_count": 34,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -122,198 +122,198 @@
    "rank": 11,
    "title": "Jabber/XMPP: 25 Years of Digital Independence",
    "url": "https://gultsch.de/posts/25-years-of-digital-independence/",
-   "points": 179,
-   "comment_count": 75,
+   "points": 188,
+   "comment_count": 84,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 12,
-   "title": "Thomson Reuters Launches Its Own Frontier Model",
-   "url": "https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model",
-   "points": 23,
-   "comment_count": 4,
+   "title": "Vintage Artificial Intelligence: Before It Got Awkward",
+   "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
+   "points": 69,
+   "comment_count": 14,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 13,
-   "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-   "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
-   "points": 59,
-   "comment_count": 13,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 14,
-   "title": "LLMs could control their host machines by exploiting inference engines",
-   "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-   "points": 105,
-   "comment_count": 54,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 15,
-   "title": "One corner of China’s internet is insisting that the Tang Dynasty never existed",
-   "url": "https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk",
-   "points": 138,
-   "comment_count": 114,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 16,
-   "title": "IPFS Maintainers Winding Down",
-   "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
-   "points": 335,
-   "comment_count": 167,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 17,
-   "title": "Peppermint oil reduces blood pressure by 8.48 mmHg in small study",
-   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344538",
-   "points": 101,
-   "comment_count": 66,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 18,
-   "title": "Oceans hit highest temperature on record",
-   "url": "https://www.bbc.com/news/articles/c62m4gpnp78o",
-   "points": 437,
-   "comment_count": 357,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 19,
-   "title": "SeL4 security proofs now complete on AArch64",
-   "url": "https://proofcraft.systems/news-2026/#2026-08-21",
-   "points": 174,
-   "comment_count": 38,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 20,
-   "title": "Octopus intelligence may be related to never-before-seen mutation",
-   "url": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/",
-   "points": 91,
-   "comment_count": 74,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 21,
-   "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
-   "url": "https://picomq.com/",
-   "points": 101,
-   "comment_count": 18,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 22,
-   "title": "Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam",
-   "url": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
-   "points": 80,
+   "title": "Thomson Reuters Launches Its Own Frontier Model",
+   "url": "https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model",
+   "points": 41,
    "comment_count": 10,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 23,
-   "title": "I were 17, I'd learn how to build LLMs from scratch",
-   "url": "https://twitter.com/paulg/status/2091544343589060625",
-   "points": 518,
-   "comment_count": 611,
+   "rank": 14,
+   "title": "Training AI to Paint with Code",
+   "url": "https://surya.website/rling-qwen-to-paint-with-code",
+   "points": 38,
+   "comment_count": 3,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 24,
-   "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-   "url": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
-   "points": 0,
+   "rank": 15,
+   "title": "Show HN: How to mentally calculate the day of the week for any date",
+   "url": "https://tinkerandsee.com/weekday/",
+   "points": 46,
    "comment_count": 9,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
+   "rank": 16,
+   "title": "Octopus intelligence may be related to never-before-seen mutation",
+   "url": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/",
+   "points": 101,
+   "comment_count": 78,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 17,
+   "title": "LLMs could control their host machines by exploiting inference engines",
+   "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+   "points": 111,
+   "comment_count": 56,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 18,
+   "title": "One corner of China’s internet is insisting that the Tang Dynasty never existed",
+   "url": "https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk",
+   "points": 144,
+   "comment_count": 121,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 19,
+   "title": "Peppermint oil reduces blood pressure by 8.48 mmHg in small study",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344538",
+   "points": 108,
+   "comment_count": 66,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 20,
+   "title": "SeL4 security proofs now complete on AArch64",
+   "url": "https://proofcraft.systems/news-2026/#2026-08-21",
+   "points": 175,
+   "comment_count": 38,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 21,
+   "title": "Oceans hit highest temperature on record",
+   "url": "https://www.bbc.com/news/articles/c62m4gpnp78o",
+   "points": 448,
+   "comment_count": 366,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 22,
+   "title": "IPFS Maintainers Winding Down",
+   "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
+   "points": 337,
+   "comment_count": 168,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 23,
+   "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
+   "url": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
+   "points": 0,
+   "comment_count": 10,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 24,
+   "title": "Could we dredge the Netherlands without fossil fuels? (2018)",
+   "url": "https://solar.lowtechmagazine.com/2018/08/could-we-dredge-the-netherlands-without-fossil-fuels",
+   "points": 39,
+   "comment_count": 48,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
    "rank": 25,
-   "title": "Removed all counters, replies, following/ers, timestamps, from textlog",
-   "url": "https://textlog.cc/post/2059",
-   "points": 61,
-   "comment_count": 26,
+   "title": "Fences, Not Sandboxes",
+   "url": "https://yegge.ai/essays/fences-not-sandboxes/",
+   "points": 60,
+   "comment_count": 64,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 26,
-   "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-   "url": "https://developers.openai.com/api/docs/pricing",
-   "points": 308,
-   "comment_count": 274,
+   "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
+   "url": "https://picomq.com/",
+   "points": 104,
+   "comment_count": 20,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 27,
-   "title": "Coding expertise is going to collapse from AI reliance",
-   "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-   "points": 487,
-   "comment_count": 479,
+   "title": "Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam",
+   "url": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
+   "points": 84,
+   "comment_count": 10,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 28,
-   "title": "Show HN: A techno machine in one HTML file, with verifiable renders",
-   "url": "https://ssx360.github.io/rack-02/?src=hn",
-   "points": 179,
-   "comment_count": 32,
+   "title": "Ask HN: Good large format (>20 inches) touchscreen E-Paper display options?",
+   "url": "https://news.ycombinator.com/item?id=49428842",
+   "points": 4,
+   "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 29,
-   "title": "Anger, Anxiety and Agency",
-   "url": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
-   "points": 106,
-   "comment_count": 115,
+   "title": "I were 17, I'd learn how to build LLMs from scratch",
+   "url": "https://twitter.com/paulg/status/2091544343589060625",
+   "points": 527,
+   "comment_count": 615,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 30,
-   "title": "Codefloe Is a Professionally Hosted Public Git Forge",
-   "url": "https://codefloe.com/",
-   "points": 56,
-   "comment_count": 25,
+   "title": "Characterizing Agentic Flooding of Government Services",
+   "url": "https://arxiv.org/abs/2608.16603",
+   "points": 63,
+   "comment_count": 75,
    "input": {
     "url": "https://news.ycombinator.com"
    }

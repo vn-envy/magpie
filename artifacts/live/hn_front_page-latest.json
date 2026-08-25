@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mt99c8z4l7oni4cax",
+ "snapshot_id": "j_mt9b9cz0s7b7rqdel",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-08-25T22:49:52.104Z",
+ "captured_at": "2026-08-25T23:43:36.183Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,16 +14,16 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-08-25T22:49:41.650Z",
-  "finished": "2026-08-25T22:49:42.740Z"
+  "started": "2026-08-25T23:43:26.083Z",
+  "finished": "2026-08-25T23:43:33.942Z"
  },
  "rows": [
   {
    "rank": 1,
    "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
    "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-   "points": 183,
-   "comment_count": 116,
+   "points": 214,
+   "comment_count": 125,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -32,8 +32,8 @@
    "rank": 2,
    "title": "Python's pre-declared constants are kinda weird",
    "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
-   "points": 57,
-   "comment_count": 8,
+   "points": 93,
+   "comment_count": 37,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -42,8 +42,8 @@
    "rank": 3,
    "title": "Apple introduces M6 and M5 Ultra",
    "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-   "points": 879,
-   "comment_count": 815,
+   "points": 910,
+   "comment_count": 858,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -52,8 +52,8 @@
    "rank": 4,
    "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
    "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-   "points": 256,
-   "comment_count": 170,
+   "points": 276,
+   "comment_count": 188,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -62,28 +62,28 @@
    "rank": 5,
    "title": "New Mac Studio with M5 Max and M5 Ultra",
    "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-   "points": 672,
-   "comment_count": 409,
+   "points": 683,
+   "comment_count": 419,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 6,
-   "title": "Black hole singularity is a surface not a point",
-   "url": "https://arxiv.org/abs/2608.21590",
-   "points": 156,
-   "comment_count": 109,
+   "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+   "url": "https://github.com/swimmingbrain/texbrain",
+   "points": 25,
+   "comment_count": 5,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 7,
-   "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
-   "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
-   "points": 30,
-   "comment_count": 17,
+   "title": "Black hole singularity is a surface not a point",
+   "url": "https://arxiv.org/abs/2608.21590",
+   "points": 163,
+   "comment_count": 120,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -92,58 +92,58 @@
    "rank": 8,
    "title": "C2PA Cameras Do Not Survive Contact with Reality",
    "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
-   "points": 48,
-   "comment_count": 13,
+   "points": 57,
+   "comment_count": 20,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 9,
-   "title": "Show HN: I made a Raspberry with Qwen my local car AI",
-   "url": "https://github.com/ThinkOffApp/CarWatch",
-   "points": 75,
-   "comment_count": 16,
+   "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
+   "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
+   "points": 35,
+   "comment_count": 21,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 10,
-   "title": "New Mac mini, featuring M6 and M5 Pro",
-   "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-   "points": 397,
-   "comment_count": 223,
+   "title": "XCancel also down, at least for time being",
+   "url": "https://news.ycombinator.com/item?id=49440786",
+   "points": 139,
+   "comment_count": 45,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 11,
-   "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
-   "url": "https://github.com/swimmingbrain/texbrain",
-   "points": 6,
-   "comment_count": 1,
+   "title": "New Mac mini, featuring M6 and M5 Pro",
+   "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
+   "points": 409,
+   "comment_count": 237,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 12,
-   "title": "Nitter project received cease and desist",
-   "url": "https://github.com/zedeus/nitter/issues/1442",
-   "points": 493,
-   "comment_count": 333,
+   "title": "Show HN: I made a Raspberry with Qwen my local car AI",
+   "url": "https://github.com/ThinkOffApp/CarWatch",
+   "points": 81,
+   "comment_count": 15,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 13,
-   "title": "Run OpenBSD on DigitalOcean for $4/month",
-   "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
-   "points": 100,
-   "comment_count": 40,
+   "title": "Nitter project received cease and desist",
+   "url": "https://github.com/zedeus/nitter/issues/1442",
+   "points": 549,
+   "comment_count": 385,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -152,138 +152,138 @@
    "rank": 14,
    "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
    "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
-   "points": 240,
-   "comment_count": 131,
+   "points": 245,
+   "comment_count": 134,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 15,
-   "title": "Dolly Parton has died",
-   "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
-   "points": 1025,
-   "comment_count": 155,
+   "title": "Run OpenBSD on DigitalOcean for $4/month",
+   "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
+   "points": 108,
+   "comment_count": 48,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 16,
-   "title": "Building a backyard office, the build and cost breakdown",
-   "url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
-   "points": 230,
-   "comment_count": 170,
+   "title": "Dolly Parton has died",
+   "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
+   "points": 1095,
+   "comment_count": 164,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 17,
-   "title": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to market",
-   "url": "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer",
-   "points": 0,
-   "comment_count": 5,
+   "title": "A brief history of federal lift ticket regulation",
+   "url": "https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket",
+   "points": 14,
+   "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 18,
-   "title": "Show HN: LatticeDB – Like SQLite but for graph databases",
-   "url": "https://github.com/jeffhajewski/latticedb",
-   "points": 89,
-   "comment_count": 28,
+   "title": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to market",
+   "url": "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer",
+   "points": 0,
+   "comment_count": 6,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 19,
-   "title": "XCancel also down, at least for time being",
-   "url": "https://news.ycombinator.com/item?id=49440786",
-   "points": 60,
-   "comment_count": 5,
+   "title": "Building a backyard office, the build and cost breakdown",
+   "url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
+   "points": 243,
+   "comment_count": 178,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 20,
-   "title": "Tooltips need a delay, and then they need to skip it",
-   "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
-   "points": 96,
-   "comment_count": 18,
+   "title": "Show HN: LatticeDB – Like SQLite but for graph databases",
+   "url": "https://github.com/jeffhajewski/latticedb",
+   "points": 94,
+   "comment_count": 30,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 21,
-   "title": "My Friend Aaron",
-   "url": "https://rorz.io/writing/my-friend-aaron",
-   "points": 384,
-   "comment_count": 97,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 22,
-   "title": "Firefox 157 will include JPEG XL by default on all platforms",
-   "url": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
-   "points": 229,
-   "comment_count": 47,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 23,
    "title": "Don't Wordle",
    "url": "https://dontwordle.com/",
-   "points": 285,
+   "points": 291,
    "comment_count": 112,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
+   "rank": 22,
+   "title": "My Friend Aaron",
+   "url": "https://rorz.io/writing/my-friend-aaron",
+   "points": 406,
+   "comment_count": 107,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 23,
+   "title": "Tooltips need a delay, and then they need to skip it",
+   "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
+   "points": 104,
+   "comment_count": 19,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
    "rank": 24,
-   "title": "Tracking Costco gas prices",
-   "url": "https://www.jack.bio/blog/costco-gas-tracking",
-   "points": 61,
-   "comment_count": 60,
+   "title": "Show HN: I built self-hosted deployment automation tool for Windows and IIS",
+   "url": "https://fdeploy.com/",
+   "points": 10,
+   "comment_count": 3,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 25,
-   "title": "Starbase, LA",
-   "url": "https://www.spacex.com/sites/starbase-la",
-   "points": 193,
-   "comment_count": 326,
+   "title": "Firefox 157 will include JPEG XL by default on all platforms",
+   "url": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
+   "points": 242,
+   "comment_count": 55,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 26,
-   "title": "Show HN: I built self-hosted deployment automation tool for Windows and IIS",
-   "url": "https://fdeploy.com/",
-   "points": 5,
-   "comment_count": 1,
+   "title": "Tracking Costco gas prices",
+   "url": "https://www.jack.bio/blog/costco-gas-tracking",
+   "points": 64,
+   "comment_count": 69,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 27,
-   "title": "A brief history of federal lift ticket regulation",
-   "url": "https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket",
-   "points": 8,
-   "comment_count": 0,
+   "title": "Starbase, LA",
+   "url": "https://www.spacex.com/sites/starbase-la",
+   "points": 200,
+   "comment_count": 363,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -292,28 +292,28 @@
    "rank": 28,
    "title": "Visualizing Binary Files",
    "url": "https://movq.de/blog/postings/2026-08-05/0/POSTING-en.html",
-   "points": 64,
-   "comment_count": 14,
+   "points": 71,
+   "comment_count": 15,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 29,
-   "title": "Fuzzing the Gleam Compiler",
-   "url": "https://www.kurz.net/posts/fuzzing-gleam-compiler",
-   "points": 44,
-   "comment_count": 4,
+   "title": "Behaviorally fingerprinting Ox Alpha's provenance",
+   "url": "https://www.ctgt.ai/research/behaviorally-fingerprinting-ox-alphas-provenance",
+   "points": 27,
+   "comment_count": 14,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 30,
-   "title": "A new ceiling for Λ: the de Bruijn–Newman constant",
-   "url": "https://www.judegomila.com/posts/riemann-lambda-0.1787854",
-   "points": 44,
-   "comment_count": 19,
+   "title": "Fuzzing the Gleam Compiler",
+   "url": "https://www.kurz.net/posts/fuzzing-gleam-compiler",
+   "points": 53,
+   "comment_count": 4,
    "input": {
     "url": "https://news.ycombinator.com"
    }

@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mt8uv6s61kkk0ur2sf",
+ "snapshot_id": "j_mt8wv7qf29g7j97vqd",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-08-25T16:04:41.119Z",
+ "captured_at": "2026-08-25T17:00:56.320Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,16 +14,16 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-08-25T16:04:31.188Z",
-  "finished": "2026-08-25T16:04:33.984Z"
+  "started": "2026-08-25T17:00:31.697Z",
+  "finished": "2026-08-25T17:00:42.715Z"
  },
  "rows": [
   {
    "rank": 1,
    "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
    "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-   "points": 420,
-   "comment_count": 351,
+   "points": 528,
+   "comment_count": 428,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -32,8 +32,8 @@
    "rank": 2,
    "title": "New Mac Studio with M5 Max and M5 Ultra",
    "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-   "points": 405,
-   "comment_count": 265,
+   "points": 465,
+   "comment_count": 293,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -42,117 +42,117 @@
    "rank": 3,
    "title": "New Mac mini, featuring M6 and M5 Pro",
    "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-   "points": 183,
-   "comment_count": 101,
+   "points": 238,
+   "comment_count": 127,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 4,
-   "title": "Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)",
-   "url": "https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next",
-   "points": 178,
-   "comment_count": 76,
+   "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
+   "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
+   "points": 121,
+   "comment_count": 81,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 5,
-   "title": "France's tax agency got hacked (in French)",
-   "url": "https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/",
-   "points": 108,
-   "comment_count": 50,
+   "title": "Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)",
+   "url": "https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next",
+   "points": 205,
+   "comment_count": 89,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 6,
-   "title": "Bomb Fishing Is Wreaking Havoc on Indonesia's Coral Reefs",
-   "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
-   "points": 76,
-   "comment_count": 61,
+   "title": "Don't Wordle",
+   "url": "https://dontwordle.com/",
+   "points": 204,
+   "comment_count": 89,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 7,
-   "title": "Don't Wordle",
-   "url": "https://dontwordle.com/",
-   "points": 176,
-   "comment_count": 77,
+   "title": "Building a backyard office, the build and cost breakdown",
+   "url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
+   "points": 99,
+   "comment_count": 65,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 8,
-   "title": "How much of HN is AI?",
-   "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
-   "points": 97,
-   "comment_count": 56,
+   "title": "HelloAssembly The smallest possible complete Windows application",
+   "url": "https://github.com/PlummersSoftwareLLC/HelloAssembly",
+   "points": 65,
+   "comment_count": 35,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 9,
-   "title": "HelloAssembly The smallest possible complete Windows application",
-   "url": "https://github.com/PlummersSoftwareLLC/HelloAssembly",
-   "points": 53,
-   "comment_count": 32,
+   "title": "Beyond Good and Evil: Nietzsche and the Great War",
+   "url": "https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war",
+   "points": 18,
+   "comment_count": 10,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 10,
-   "title": "MySQL CDC to BigQuery: what periodic syncs miss, and how binlog avoids it",
-   "url": "https://www.erathos.com/en/blog/mysql-cdc-to-bigquery",
-   "points": 14,
-   "comment_count": 3,
+   "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+   "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+   "points": 69,
+   "comment_count": 57,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 11,
-   "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-   "url": "https://developer.apple.com/news/?id=1ptvdtcm",
-   "points": 566,
-   "comment_count": 177,
+   "title": "Warnock: Harnessing GPU Geometry Amplification for Vector Graphics",
+   "url": "https://dl.acm.org/doi/pdf/10.1145/3820012",
+   "points": 7,
+   "comment_count": 1,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 12,
-   "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-   "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-   "points": 808,
-   "comment_count": 404,
+   "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+   "url": "https://developer.apple.com/news/?id=1ptvdtcm",
+   "points": 572,
+   "comment_count": 182,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 13,
-   "title": "Building a backyard office, the build and cost breakdown",
-   "url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
-   "points": 79,
-   "comment_count": 41,
+   "title": "MySQL CDC to BigQuery: what periodic syncs miss, and how binlog avoids it",
+   "url": "https://www.erathos.com/en/blog/mysql-cdc-to-bigquery",
+   "points": 20,
+   "comment_count": 7,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 14,
-   "title": "Beyond Good and Evil: Nietzsche and the Great War",
-   "url": "https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war",
-   "points": 7,
+   "title": "Visualizing Binary Files",
+   "url": "https://movq.de/blog/postings/2026-08-05/0/POSTING-en.html",
+   "points": 15,
    "comment_count": 5,
    "input": {
     "url": "https://news.ycombinator.com"
@@ -160,160 +160,160 @@
   },
   {
    "rank": 15,
-   "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
-   "url": "https://twitter.com/lemire/status/2091894299289874926",
-   "points": 945,
-   "comment_count": 686,
+   "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+   "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+   "points": 816,
+   "comment_count": 409,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 16,
-   "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
-   "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
-   "points": 27,
-   "comment_count": 7,
+   "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+   "url": "https://twitter.com/lemire/status/2091894299289874926",
+   "points": 955,
+   "comment_count": 692,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 17,
-   "title": "How Universities Should Prepare Founders",
-   "url": "https://paulgraham.com/prepare.html",
-   "points": 208,
-   "comment_count": 248,
+   "title": "Windows 95 released August 24, 1995",
+   "url": "https://dfarq.homeip.net/happy-20th-birthday-to-windows-95/",
+   "points": 67,
+   "comment_count": 29,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 18,
-   "title": "SiFive's First Server Platform",
-   "url": "https://chipsandcheese.com/p/sifives-first-server-platform",
-   "points": 106,
-   "comment_count": 35,
+   "title": "Solving the 1+N Query Problem",
+   "url": "https://acadia.engineering/blog/solving-the-1-plus-N-query-problem",
+   "points": 12,
+   "comment_count": 3,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 19,
-   "title": "Windows 95 released August 24, 1995",
-   "url": "https://dfarq.homeip.net/happy-20th-birthday-to-windows-95/",
-   "points": 47,
-   "comment_count": 17,
+   "title": "How Universities Should Prepare Founders",
+   "url": "https://paulgraham.com/prepare.html",
+   "points": 216,
+   "comment_count": 258,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 20,
-   "title": "How Europe is killing makers and micro-entrepreneurs",
-   "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
-   "points": 1546,
-   "comment_count": 959,
+   "title": "SiFive's First Server Platform",
+   "url": "https://chipsandcheese.com/p/sifives-first-server-platform",
+   "points": 111,
+   "comment_count": 36,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 21,
-   "title": "What's new in Emacs 31.1",
-   "url": "https://www.masteringemacs.org/article/whats-new-in-emacs-311",
-   "points": 292,
-   "comment_count": 67,
+   "title": "Anthropic tells staff to work from home due to possible security team strike",
+   "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
+   "points": 60,
+   "comment_count": 66,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 22,
-   "title": "The entire city of San Francisco as a video game",
-   "url": "https://sf.thijs.gg/",
-   "points": 561,
-   "comment_count": 162,
+   "title": "What's new in Emacs 31.1",
+   "url": "https://www.masteringemacs.org/article/whats-new-in-emacs-311",
+   "points": 305,
+   "comment_count": 76,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 23,
-   "title": "Moon (2024)",
-   "url": "https://ciechanow.ski/moon/",
-   "points": 240,
-   "comment_count": 38,
+   "title": "How Europe is killing makers and micro-entrepreneurs",
+   "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
+   "points": 1559,
+   "comment_count": 969,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 24,
-   "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
-   "url": "https://github.com/murerkinn/bookshelf",
-   "points": 149,
-   "comment_count": 56,
+   "title": "The entire city of San Francisco as a video game",
+   "url": "https://sf.thijs.gg/",
+   "points": 568,
+   "comment_count": 163,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 25,
-   "title": "Where did all the public bathrooms go?",
-   "url": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
-   "points": 309,
-   "comment_count": 693,
+   "title": "Moon (2024)",
+   "url": "https://ciechanow.ski/moon/",
+   "points": 244,
+   "comment_count": 38,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 26,
-   "title": "Training AI to Paint with Code",
-   "url": "https://surya.website/rling-qwen-to-paint-with-code",
-   "points": 164,
-   "comment_count": 18,
+   "title": "How much of HN is AI?",
+   "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+   "points": 171,
+   "comment_count": 144,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 27,
-   "title": "Peppermint oil reduces blood pressure by 8.48 mmHg in small study",
-   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344538",
-   "points": 209,
-   "comment_count": 98,
+   "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
+   "url": "https://github.com/murerkinn/bookshelf",
+   "points": 157,
+   "comment_count": 56,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 28,
-   "title": "Was modern art a CIA psy-op? (2020)",
-   "url": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
-   "points": 128,
-   "comment_count": 218,
+   "title": "Where did all the public bathrooms go?",
+   "url": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
+   "points": 319,
+   "comment_count": 725,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 29,
-   "title": "Crafting QR Codes: A deep dive into QR code art (2024)",
-   "url": "https://kylezhe.ng/writes/crafting-qr-codes",
-   "points": 116,
-   "comment_count": 11,
+   "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
+   "url": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
+   "points": 0,
+   "comment_count": 23,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 30,
-   "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-   "url": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
-   "points": 0,
-   "comment_count": 22,
+   "title": "Training AI to Paint with Code",
+   "url": "https://surya.website/rling-qwen-to-paint-with-code",
+   "points": 174,
+   "comment_count": 19,
    "input": {
     "url": "https://news.ycombinator.com"
    }

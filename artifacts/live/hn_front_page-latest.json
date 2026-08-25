@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mt952zrq1vdc8ftljc",
+ "snapshot_id": "j_mt975fh32b2t2z287l",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-08-25T20:50:41.763Z",
+ "captured_at": "2026-08-25T21:48:34.444Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,16 +14,16 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-08-25T20:50:31.354Z",
-  "finished": "2026-08-25T20:50:32.855Z"
+  "started": "2026-08-25T21:48:24.251Z",
+  "finished": "2026-08-25T21:48:26.986Z"
  },
  "rows": [
   {
    "rank": 1,
    "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
    "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-   "points": 80,
-   "comment_count": 46,
+   "points": 134,
+   "comment_count": 90,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -32,78 +32,78 @@
    "rank": 2,
    "title": "Apple introduces M6 and M5 Ultra",
    "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-   "points": 813,
-   "comment_count": 720,
+   "points": 846,
+   "comment_count": 777,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 3,
-   "title": "New Mac Studio with M5 Max and M5 Ultra",
-   "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-   "points": 636,
-   "comment_count": 383,
+   "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+   "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+   "points": 205,
+   "comment_count": 139,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 4,
-   "title": "Black hole singularity is a surface not a point",
-   "url": "https://arxiv.org/abs/2608.21590",
-   "points": 124,
-   "comment_count": 68,
+   "title": "New Mac Studio with M5 Max and M5 Ultra",
+   "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+   "points": 654,
+   "comment_count": 400,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 5,
-   "title": "My Friend Aaron",
-   "url": "https://rorz.io/writing/my-friend-aaron",
-   "points": 282,
-   "comment_count": 66,
+   "title": "Black hole singularity is a surface not a point",
+   "url": "https://arxiv.org/abs/2608.21590",
+   "points": 141,
+   "comment_count": 96,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 6,
-   "title": "Run OpenBSD on DigitalOcean for $4/month",
-   "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
-   "points": 79,
-   "comment_count": 30,
+   "title": "Show HN: I made a Raspberry with Qwen my local car AI",
+   "url": "https://github.com/ThinkOffApp/CarWatch",
+   "points": 61,
+   "comment_count": 14,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 7,
-   "title": "New Mac mini, featuring M6 and M5 Pro",
-   "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-   "points": 364,
-   "comment_count": 202,
+   "title": "Run OpenBSD on DigitalOcean for $4/month",
+   "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
+   "points": 88,
+   "comment_count": 35,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 8,
-   "title": "Show HN: I made a Raspberry with Qwen my local car AI",
-   "url": "https://github.com/ThinkOffApp/CarWatch",
-   "points": 43,
-   "comment_count": 12,
+   "title": "New Mac mini, featuring M6 and M5 Pro",
+   "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
+   "points": 383,
+   "comment_count": 214,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 9,
-   "title": "Dolly Parton has died",
-   "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
-   "points": 779,
-   "comment_count": 113,
+   "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
+   "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
+   "points": 13,
+   "comment_count": 2,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -112,18 +112,18 @@
    "rank": 10,
    "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
    "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
-   "points": 206,
-   "comment_count": 115,
+   "points": 223,
+   "comment_count": 125,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 11,
-   "title": "Show HN: LatticeDB – Like SQLite but for graph databases",
-   "url": "https://github.com/jeffhajewski/latticedb",
-   "points": 62,
-   "comment_count": 21,
+   "title": "Dolly Parton has died",
+   "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
+   "points": 927,
+   "comment_count": 137,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -132,68 +132,68 @@
    "rank": 12,
    "title": "Nitter project received cease and desist",
    "url": "https://github.com/zedeus/nitter/issues/1442",
-   "points": 350,
-   "comment_count": 234,
+   "points": 398,
+   "comment_count": 285,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 13,
-   "title": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to market",
-   "url": "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer",
-   "points": 0,
-   "comment_count": 3,
+   "title": "C2PA Cameras Do Not Survive Contact with Reality",
+   "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
+   "points": 20,
+   "comment_count": 5,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 14,
-   "title": "Firefox 157 will include JPEG XL by default on all platforms",
-   "url": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
-   "points": 154,
-   "comment_count": 20,
+   "title": "Show HN: LatticeDB – Like SQLite but for graph databases",
+   "url": "https://github.com/jeffhajewski/latticedb",
+   "points": 77,
+   "comment_count": 25,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 15,
-   "title": "Building a backyard office, the build and cost breakdown",
-   "url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
-   "points": 191,
-   "comment_count": 149,
+   "title": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to market",
+   "url": "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer",
+   "points": 0,
+   "comment_count": 4,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 16,
-   "title": "Starbase, LA",
-   "url": "https://www.spacex.com/sites/starbase-la",
-   "points": 146,
-   "comment_count": 190,
+   "title": "Building a backyard office, the build and cost breakdown",
+   "url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
+   "points": 215,
+   "comment_count": 159,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 17,
-   "title": "Don't Wordle",
-   "url": "https://dontwordle.com/",
-   "points": 256,
-   "comment_count": 109,
+   "title": "My Friend Aaron",
+   "url": "https://rorz.io/writing/my-friend-aaron",
+   "points": 352,
+   "comment_count": 89,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 18,
-   "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
-   "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-   "points": 169,
-   "comment_count": 114,
+   "title": "Firefox 157 will include JPEG XL by default on all platforms",
+   "url": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
+   "points": 198,
+   "comment_count": 38,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -202,118 +202,118 @@
    "rank": 19,
    "title": "Tooltips need a delay, and then they need to skip it",
    "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
-   "points": 64,
-   "comment_count": 14,
+   "points": 82,
+   "comment_count": 17,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 20,
-   "title": "A new ceiling for Λ: the de Bruijn–Newman constant",
-   "url": "https://www.judegomila.com/posts/riemann-lambda-0.1787854",
-   "points": 39,
-   "comment_count": 10,
+   "title": "Don't Wordle",
+   "url": "https://dontwordle.com/",
+   "points": 271,
+   "comment_count": 110,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 21,
-   "title": "Fuzzing the Gleam Compiler",
-   "url": "https://www.kurz.net/posts/fuzzing-gleam-compiler",
-   "points": 33,
-   "comment_count": 2,
+   "title": "Starbase, LA",
+   "url": "https://www.spacex.com/sites/starbase-la",
+   "points": 173,
+   "comment_count": 257,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 22,
-   "title": "Visualizing Binary Files",
-   "url": "https://movq.de/blog/postings/2026-08-05/0/POSTING-en.html",
-   "points": 49,
-   "comment_count": 14,
+   "title": "Behaviorally fingerprinting Ox Alpha's provenance",
+   "url": "https://www.ctgt.ai/research/behaviorally-fingerprinting-ox-alphas-provenance",
+   "points": 19,
+   "comment_count": 13,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 23,
-   "title": "Show HN: Lightweight system monitor for Linux VPS written in Go",
-   "url": "https://github.com/leodeim/vpsmon",
-   "points": 28,
-   "comment_count": 11,
+   "title": "Tracking Costco gas prices",
+   "url": "https://www.jack.bio/blog/costco-gas-tracking",
+   "points": 52,
+   "comment_count": 47,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 24,
-   "title": "Behaviorally fingerprinting Ox Alpha's provenance",
-   "url": "https://www.ctgt.ai/research/behaviorally-fingerprinting-ox-alphas-provenance",
-   "points": 12,
-   "comment_count": 3,
+   "title": "A new ceiling for Λ: the de Bruijn–Newman constant",
+   "url": "https://www.judegomila.com/posts/riemann-lambda-0.1787854",
+   "points": 43,
+   "comment_count": 15,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 25,
-   "title": "Warnock: Harnessing GPU geometry amplification for vector graphics",
-   "url": "https://dl.acm.org/doi/pdf/10.1145/3820012",
-   "points": 33,
-   "comment_count": 2,
+   "title": "Visualizing Binary Files",
+   "url": "https://movq.de/blog/postings/2026-08-05/0/POSTING-en.html",
+   "points": 57,
+   "comment_count": 14,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 26,
-   "title": "Solving the 1+N Query Problem",
-   "url": "https://acadia.engineering/blog/solving-the-1-plus-N-query-problem",
-   "points": 44,
-   "comment_count": 32,
+   "title": "Fuzzing the Gleam Compiler",
+   "url": "https://www.kurz.net/posts/fuzzing-gleam-compiler",
+   "points": 38,
+   "comment_count": 3,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 27,
-   "title": "Perplexity Portable Computer",
-   "url": "https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai",
-   "points": 12,
-   "comment_count": 7,
+   "title": "Show HN: Lightweight system monitor for Linux VPS written in Go",
+   "url": "https://github.com/leodeim/vpsmon",
+   "points": 34,
+   "comment_count": 13,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 28,
-   "title": "Otto Dix, Nietzsche, and the Great War (2019)",
-   "url": "https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war",
-   "points": 33,
-   "comment_count": 19,
+   "title": "Warnock: Harnessing GPU geometry amplification for vector graphics",
+   "url": "https://dl.acm.org/doi/pdf/10.1145/3820012",
+   "points": 35,
+   "comment_count": 2,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 29,
-   "title": "Show HN: I wrote a BASIC interpreter that boots on UEFI machines",
-   "url": "https://tarjan.itch.io/thoreaubasic",
-   "points": 108,
-   "comment_count": 36,
+   "title": "Solving the 1+N Query Problem",
+   "url": "https://acadia.engineering/blog/solving-the-1-plus-N-query-problem",
+   "points": 48,
+   "comment_count": 39,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 30,
-   "title": "HelloAssembly: The smallest possible complete Windows application (2021)",
-   "url": "https://github.com/PlummersSoftwareLLC/HelloAssembly",
-   "points": 74,
-   "comment_count": 42,
+   "title": "Otto Dix, Nietzsche, and the Great War (2019)",
+   "url": "https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war",
+   "points": 36,
+   "comment_count": 24,
    "input": {
     "url": "https://news.ycombinator.com"
    }

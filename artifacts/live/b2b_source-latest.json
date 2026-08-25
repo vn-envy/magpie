@@ -3,9 +3,9 @@
  "label": "Enterprise Support Platforms 2026",
  "kind": "b2b",
  "collector_id": "c_mt4m8fix1gze0scg44",
- "snapshot_id": "j_mt8588ja1f733d8n3v",
+ "snapshot_id": "j_mt875hwodffer5jck",
  "target_url": "https://magpie-lab.netlify.app/lab/source",
- "captured_at": "2026-08-25T04:07:30.776Z",
+ "captured_at": "2026-08-25T05:01:23.601Z",
  "verdict": "TRUSTED",
  "row_count": 10,
  "ranks_sequential": true,
@@ -14,8 +14,8 @@
   "lines": 10,
   "success": 1,
   "fails": 0,
-  "started": "2026-08-25T04:06:50.024Z",
-  "finished": "2026-08-25T04:07:22.431Z"
+  "started": "2026-08-25T05:00:43.425Z",
+  "finished": "2026-08-25T05:01:22.398Z"
  },
  "rows": [
   {

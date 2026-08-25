@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mt8dp0s818ka7j8r42",
+ "snapshot_id": "j_mt8ftw0bki8fjsxxa",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-08-25T08:04:00.380Z",
+ "captured_at": "2026-08-25T09:03:48.622Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,196 +14,196 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-08-25T08:03:49.840Z",
-  "finished": "2026-08-25T08:03:52.731Z"
+  "started": "2026-08-25T09:03:38.431Z",
+  "finished": "2026-08-25T09:03:46.938Z"
  },
  "rows": [
   {
    "rank": 1,
    "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
    "url": "https://developer.apple.com/news/?id=1ptvdtcm",
-   "points": 417,
-   "comment_count": 112,
+   "points": 444,
+   "comment_count": 121,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 2,
-   "title": "Nostr is an inclusive communication commons",
-   "url": "https://nostr.org/",
-   "points": 116,
-   "comment_count": 39,
+   "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+   "url": "https://twitter.com/lemire/status/2091894299289874926",
+   "points": 852,
+   "comment_count": 610,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 3,
-   "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
-   "url": "https://twitter.com/lemire/status/2091894299289874926",
-   "points": 842,
-   "comment_count": 597,
+   "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+   "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+   "points": 700,
+   "comment_count": 295,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 4,
-   "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-   "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-   "points": 687,
-   "comment_count": 276,
+   "title": "How Universities Should Prepare Founders",
+   "url": "https://paulgraham.com/prepare.html",
+   "points": 113,
+   "comment_count": 136,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 5,
-   "title": "How Universities Should Prepare Founders",
-   "url": "https://paulgraham.com/prepare.html",
-   "points": 101,
-   "comment_count": 125,
+   "title": "SiFive's First Server Platform",
+   "url": "https://chipsandcheese.com/p/sifives-first-server-platform",
+   "points": 45,
+   "comment_count": 8,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 6,
-   "title": "Headlong: A Microharness for Persistent Agents",
-   "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
-   "points": 49,
-   "comment_count": 15,
+   "title": "How Europe is killing makers and micro-entrepreneurs",
+   "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
+   "points": 1323,
+   "comment_count": 820,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 7,
-   "title": "How Europe is killing makers and micro-entrepreneurs",
-   "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
-   "points": 1281,
-   "comment_count": 775,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 8,
-   "title": "SiFive's First Server Platform",
-   "url": "https://chipsandcheese.com/p/sifives-first-server-platform",
-   "points": 36,
-   "comment_count": 7,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 9,
-   "title": "Show HN: Screen memory without screenshots, just text to Markdown",
-   "url": "https://github.com/dragthelake/ambient-context",
-   "points": 35,
-   "comment_count": 12,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 10,
    "title": "Moon (2024)",
    "url": "https://ciechanow.ski/moon/",
-   "points": 169,
-   "comment_count": 30,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 11,
-   "title": "The entire city of San Francisco as a video game",
-   "url": "https://sf.thijs.gg/",
-   "points": 440,
-   "comment_count": 139,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 12,
-   "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
-   "url": "https://github.com/murerkinn/bookshelf",
-   "points": 86,
+   "points": 178,
    "comment_count": 32,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
+   "rank": 8,
+   "title": "Headlong: A Microharness for Persistent Agents",
+   "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
+   "points": 52,
+   "comment_count": 19,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 9,
+   "title": "The entire city of San Francisco as a video game",
+   "url": "https://sf.thijs.gg/",
+   "points": 452,
+   "comment_count": 140,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 10,
+   "title": "Nostr is an inclusive communication commons",
+   "url": "https://nostr.org/",
+   "points": 132,
+   "comment_count": 70,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 11,
+   "title": "Show HN: Screen memory without screenshots, just text to Markdown",
+   "url": "https://github.com/dragthelake/ambient-context",
+   "points": 43,
+   "comment_count": 15,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 12,
+   "title": "What's new in Emacs 31.1",
+   "url": "https://www.masteringemacs.org/article/whats-new-in-emacs-311",
+   "points": 125,
+   "comment_count": 25,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
    "rank": 13,
-   "title": "Was modern art a CIA psy-op? (2020)",
-   "url": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
-   "points": 69,
-   "comment_count": 82,
+   "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
+   "url": "https://github.com/murerkinn/bookshelf",
+   "points": 90,
+   "comment_count": 33,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 14,
-   "title": "What's new in Emacs 31.1",
-   "url": "https://www.masteringemacs.org/article/whats-new-in-emacs-311",
-   "points": 109,
-   "comment_count": 23,
+   "title": "Where did all the public bathrooms go?",
+   "url": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
+   "points": 236,
+   "comment_count": 536,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 15,
-   "title": "Where did all the public bathrooms go?",
-   "url": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
-   "points": 222,
-   "comment_count": 513,
+   "title": "Show HN: I wrote a BASIC interpreter that boots on UEFI machines",
+   "url": "https://tarjan.itch.io/thoreaubasic",
+   "points": 57,
+   "comment_count": 14,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 16,
-   "title": "Training AI to Paint with Code",
-   "url": "https://surya.website/rling-qwen-to-paint-with-code",
-   "points": 81,
-   "comment_count": 7,
+   "title": "Jabber/XMPP: 25 Years of Digital Independence",
+   "url": "https://gultsch.de/posts/25-years-of-digital-independence/",
+   "points": 229,
+   "comment_count": 123,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 17,
-   "title": "Jabber/XMPP: 25 Years of Digital Independence",
-   "url": "https://gultsch.de/posts/25-years-of-digital-independence/",
-   "points": 219,
-   "comment_count": 112,
+   "title": "Training AI to Paint with Code",
+   "url": "https://surya.website/rling-qwen-to-paint-with-code",
+   "points": 86,
+   "comment_count": 9,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 18,
-   "title": "Show HN: I wrote a BASIC interpreter that boots on UEFI machines",
-   "url": "https://tarjan.itch.io/thoreaubasic",
-   "points": 45,
-   "comment_count": 11,
+   "title": "Vintage Artificial Intelligence: Before It Got Awkward",
+   "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
+   "points": 93,
+   "comment_count": 18,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 19,
-   "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-   "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
-   "points": 86,
-   "comment_count": 18,
+   "title": "Crafting QR Codes: A deep dive into QR code art (2024)",
+   "url": "https://kylezhe.ng/writes/crafting-qr-codes",
+   "points": 72,
+   "comment_count": 1,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -212,58 +212,58 @@
    "rank": 20,
    "title": "Peppermint oil reduces blood pressure by 8.48 mmHg in small study",
    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344538",
-   "points": 146,
-   "comment_count": 71,
+   "points": 155,
+   "comment_count": 75,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 21,
-   "title": "Crafting QR Codes: A deep dive into QR code art (2024)",
-   "url": "https://kylezhe.ng/writes/crafting-qr-codes",
-   "points": 56,
-   "comment_count": 1,
+   "title": "Was modern art a CIA psy-op? (2020)",
+   "url": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
+   "points": 73,
+   "comment_count": 108,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 22,
-   "title": "LLMs could control their host machines by exploiting inference engines",
-   "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-   "points": 133,
-   "comment_count": 64,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 23,
-   "title": "Octopus intelligence may be related to never-before-seen mutation",
-   "url": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/",
-   "points": 144,
-   "comment_count": 106,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 24,
    "title": "Walgit – a Git server that is one binary in front of an object store",
    "url": "https://github.com/tobi/walgit",
-   "points": 72,
+   "points": 81,
    "comment_count": 11,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 25,
+   "rank": 23,
+   "title": "LLMs could control their host machines by exploiting inference engines",
+   "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+   "points": 138,
+   "comment_count": 66,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 24,
    "title": "Volcanoes that made history",
    "url": "https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history",
-   "points": 4,
+   "points": 6,
    "comment_count": 0,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 25,
+   "title": "Octopus intelligence may be related to never-before-seen mutation",
+   "url": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/",
+   "points": 155,
+   "comment_count": 112,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -272,8 +272,8 @@
    "rank": 26,
    "title": "SeL4 security proofs now complete on AArch64",
    "url": "https://proofcraft.systems/news-2026/#2026-08-21",
-   "points": 186,
-   "comment_count": 42,
+   "points": 187,
+   "comment_count": 43,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -282,38 +282,38 @@
    "rank": 27,
    "title": "I were 17, I'd learn how to build LLMs from scratch",
    "url": "https://twitter.com/paulg/status/2091544343589060625",
-   "points": 540,
-   "comment_count": 621,
+   "points": 544,
+   "comment_count": 626,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 28,
-   "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-   "url": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
-   "points": 0,
-   "comment_count": 14,
+   "title": "Oceans hit highest temperature on record",
+   "url": "https://www.bbc.com/news/articles/c62m4gpnp78o",
+   "points": 543,
+   "comment_count": 424,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 29,
-   "title": "Thomson Reuters Launches Its Own Frontier Model",
-   "url": "https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model",
-   "points": 96,
-   "comment_count": 38,
+   "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
+   "url": "https://picomq.com/",
+   "points": 118,
+   "comment_count": 22,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 30,
-   "title": "Oceans hit highest temperature on record",
-   "url": "https://www.bbc.com/news/articles/c62m4gpnp78o",
-   "points": 519,
-   "comment_count": 418,
+   "title": "Thomson Reuters Launches Its Own Frontier Model",
+   "url": "https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model",
+   "points": 107,
+   "comment_count": 43,
    "input": {
     "url": "https://news.ycombinator.com"
    }

@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mta18u8i2jiq87yaew",
+ "snapshot_id": "j_mta4q2mn1lj53ixs30",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-08-26T11:51:01.887Z",
+ "captured_at": "2026-08-26T13:28:27.716Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,306 +14,306 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-08-26T11:50:51.813Z",
-  "finished": "2026-08-26T11:50:59.623Z"
+  "started": "2026-08-26T13:28:17.288Z",
+  "finished": "2026-08-26T13:28:19.988Z"
  },
  "rows": [
   {
    "rank": 1,
-   "title": "RAG Is Simpler Than You Think",
-   "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
-   "points": 115,
-   "comment_count": 49,
+   "title": "AWS Acquires DuckDB",
+   "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
+   "points": 142,
+   "comment_count": 27,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 2,
-   "title": "Oldinsurancemaps.net is now a Charter Project",
-   "url": "https://openstreetmap.us/news/2026/08/oim-charter-project/",
-   "points": 68,
-   "comment_count": 10,
+   "title": "Bill Gates: The turbulent AI era is here",
+   "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make",
+   "points": 43,
+   "comment_count": 35,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 3,
-   "title": "It's Not the End of Programming",
-   "url": "https://mathstodon.xyz/@abuseofnotation/117161292083848755",
-   "points": 26,
-   "comment_count": 28,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 4,
-   "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-   "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
-   "points": 122,
-   "comment_count": 41,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 5,
-   "title": "Show HN: Buslens – where can I get to by bus? (UK)",
-   "url": "https://rupertlinacre.com/buslens/",
-   "points": 47,
-   "comment_count": 30,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 6,
-   "title": "Apple introduces M6 and M5 Ultra",
-   "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-   "points": 1183,
-   "comment_count": 1152,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 7,
-   "title": "Value Classes Still Need Compiler Sympathy",
-   "url": "https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/",
-   "points": 33,
+   "title": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
+   "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+   "points": 52,
    "comment_count": 14,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
+   "rank": 4,
+   "title": "RAG Is Simpler Than You Think",
+   "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
+   "points": 195,
+   "comment_count": 93,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 5,
+   "title": "Oldinsurancemaps.net is now a Charter Project",
+   "url": "https://openstreetmap.us/news/2026/08/oim-charter-project/",
+   "points": 111,
+   "comment_count": 17,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 6,
+   "title": "A curmudgeon tries a language server",
+   "url": "https://entropicthoughts.com/curmudgeon-tries-language-server",
+   "points": 8,
+   "comment_count": 0,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 7,
+   "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+   "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+   "points": 231,
+   "comment_count": 94,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
    "rank": 8,
-   "title": "Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]",
-   "url": "https://www.youtube.com/watch?v=656058JxTM0",
-   "points": 130,
-   "comment_count": 37,
+   "title": "XCancel and Nitter are receiving C&D letters from XCorp",
+   "url": "https://news.ycombinator.com/item?id=49446210",
+   "points": 155,
+   "comment_count": 59,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 9,
-   "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
-   "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-   "points": 430,
-   "comment_count": 204,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 10,
-   "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
-   "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-   "points": 511,
-   "comment_count": 326,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 11,
-   "title": "Queryable Executables",
-   "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
-   "points": 219,
-   "comment_count": 61,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 12,
-   "title": "New Mac Studio with M5 Max and M5 Ultra",
-   "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-   "points": 777,
-   "comment_count": 522,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 13,
-   "title": "Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War",
-   "url": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
-   "points": 49,
-   "comment_count": 12,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 14,
-   "title": "Beyond Recall and the Illusion of Competence",
-   "url": "https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html",
-   "points": 12,
-   "comment_count": 4,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 15,
-   "title": "Black hole singularity is a surface not a point",
-   "url": "https://arxiv.org/abs/2608.21590",
-   "points": 263,
-   "comment_count": 191,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 16,
-   "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
-   "url": "https://github.com/runetes/maiao",
-   "points": 95,
-   "comment_count": 54,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 17,
-   "title": "New Mac mini, featuring M6 and M5 Pro",
-   "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-   "points": 504,
-   "comment_count": 321,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 18,
-   "title": "U.S. gov't moves to suppress pushback on data centers",
-   "url": "https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them",
-   "points": 63,
-   "comment_count": 48,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 19,
-   "title": "When str.lower() is a security vulnerability in Python",
-   "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
-   "points": 138,
-   "comment_count": 60,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 20,
-   "title": "Nitter and XCancel receive cease and desist notices",
-   "url": "https://github.com/zedeus/nitter/issues/1442",
-   "points": 994,
-   "comment_count": 832,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 21,
-   "title": "Building a backyard office, the build and cost breakdown",
-   "url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
-   "points": 363,
-   "comment_count": 222,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 22,
-   "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
-   "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
-   "points": 329,
-   "comment_count": 171,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 23,
-   "title": "Tooltips need a delay, and then they need to skip it",
-   "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
-   "points": 189,
-   "comment_count": 60,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 24,
-   "title": "XCancel and Nitter are receiving C&D letters from XCorp",
-   "url": "https://news.ycombinator.com/item?id=49446210",
-   "points": 27,
-   "comment_count": 6,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 25,
-   "title": "Run OpenBSD on DigitalOcean for $4/month",
-   "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
-   "points": 175,
-   "comment_count": 82,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 26,
-   "title": "Don't Wordle",
-   "url": "https://dontwordle.com/",
-   "points": 357,
-   "comment_count": 127,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 27,
-   "title": "The Feeling of Power (Asimov, 1958)",
-   "url": "https://archive.org/details/1958-02_IF",
-   "points": 12,
+   "title": "Proliferate (YC S25) Is Hiring",
+   "url": "https://www.ycombinator.com/companies/proliferate/jobs/OgpCKYJ-founding-product-engineer",
+   "points": 0,
    "comment_count": 1,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
+   "rank": 10,
+   "title": "Apple introduces M6 and M5 Ultra",
+   "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+   "points": 1223,
+   "comment_count": 1175,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 11,
+   "title": "Beyond Recall and the Illusion of Competence",
+   "url": "https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html",
+   "points": 41,
+   "comment_count": 13,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 12,
+   "title": "Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]",
+   "url": "https://www.youtube.com/watch?v=656058JxTM0",
+   "points": 162,
+   "comment_count": 48,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 13,
+   "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
+   "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+   "points": 51,
+   "comment_count": 6,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 14,
+   "title": "Omarchy development practices lead to predictable security issues",
+   "url": "https://blog.happyfellow.dev/merchants-of-insecurity/",
+   "points": 198,
+   "comment_count": 233,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 15,
+   "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+   "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+   "points": 456,
+   "comment_count": 210,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 16,
+   "title": "Queryable Executables",
+   "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
+   "points": 255,
+   "comment_count": 72,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 17,
+   "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+   "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+   "points": 534,
+   "comment_count": 337,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 18,
+   "title": "Value Classes Still Need Compiler Sympathy",
+   "url": "https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/",
+   "points": 52,
+   "comment_count": 19,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 19,
+   "title": "X sends in the lawyers to shut down open source project",
+   "url": "https://www.theregister.com/legal/2026/08/26/nitter-no-more-x-sends-in-the-lawyers-to-shut-down-open-source-project/5292548",
+   "points": 44,
+   "comment_count": 14,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 20,
+   "title": "New Mac Studio with M5 Max and M5 Ultra",
+   "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+   "points": 792,
+   "comment_count": 525,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 21,
+   "title": "Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War",
+   "url": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
+   "points": 59,
+   "comment_count": 13,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 22,
+   "title": "Show HN: Buslens – where can I get to by bus? (UK)",
+   "url": "https://rupertlinacre.com/buslens/",
+   "points": 67,
+   "comment_count": 42,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 23,
+   "title": "Black hole singularity is a surface not a point",
+   "url": "https://arxiv.org/abs/2608.21590",
+   "points": 281,
+   "comment_count": 194,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 24,
+   "title": "New Mac mini, featuring M6 and M5 Pro",
+   "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
+   "points": 515,
+   "comment_count": 324,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 25,
+   "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+   "url": "https://github.com/runetes/maiao",
+   "points": 99,
+   "comment_count": 62,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 26,
+   "title": "When str.lower() is a security vulnerability in Python",
+   "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
+   "points": 153,
+   "comment_count": 66,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 27,
+   "title": "Building a backyard office, the build and cost breakdown",
+   "url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
+   "points": 381,
+   "comment_count": 230,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
    "rank": 28,
-   "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
-   "url": "https://arxiv.org/abs/2607.21503",
-   "points": 60,
-   "comment_count": 23,
+   "title": "Nitter and XCancel receive cease and desist notices",
+   "url": "https://github.com/zedeus/nitter/issues/1442",
+   "points": 1043,
+   "comment_count": 871,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 29,
-   "title": "Social media use on the rise among Australian under-16s after ban: data",
-   "url": "https://www.france24.com/en/live-news/20260826-social-media-use-on-the-rise-among-australian-under-16s-after-ban-data",
-   "points": 30,
-   "comment_count": 34,
+   "title": "Run OpenBSD on DigitalOcean for $4/month",
+   "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
+   "points": 187,
+   "comment_count": 85,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 30,
-   "title": "C2PA Cameras Do Not Survive Contact with Reality",
-   "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
-   "points": 164,
-   "comment_count": 107,
+   "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
+   "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
+   "points": 334,
+   "comment_count": 183,
    "input": {
     "url": "https://news.ycombinator.com"
    }

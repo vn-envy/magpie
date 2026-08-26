@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mt9xcdze2lusm8uuay",
+ "snapshot_id": "j_mt9z989k21p5vca1v",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-08-26T10:01:49.828Z",
+ "captured_at": "2026-08-26T10:55:21.058Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,96 +14,96 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-08-26T10:01:39.342Z",
-  "finished": "2026-08-26T10:01:48.733Z"
+  "started": "2026-08-26T10:55:10.777Z",
+  "finished": "2026-08-26T10:55:15.661Z"
  },
  "rows": [
   {
    "rank": 1,
-   "title": "RAG Is Simpler Than You Think",
-   "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
-   "points": 22,
-   "comment_count": 2,
+   "title": "Oldinsurancemaps.net is now a Charter Project",
+   "url": "https://openstreetmap.us/news/2026/08/oim-charter-project/",
+   "points": 48,
+   "comment_count": 4,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 2,
-   "title": "Oldinsurancemaps.net is now a Charter Project",
-   "url": "https://openstreetmap.us/news/2026/08/oim-charter-project/",
-   "points": 14,
-   "comment_count": 1,
+   "title": "RAG Is Simpler Than You Think",
+   "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
+   "points": 59,
+   "comment_count": 30,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 3,
-   "title": "Value Classes Still Need Compiler Sympathy",
-   "url": "https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/",
-   "points": 6,
-   "comment_count": 0,
+   "title": "Show HN: Buslens – where can I get to by bus? (UK)",
+   "url": "https://rupertlinacre.com/buslens/",
+   "points": 36,
+   "comment_count": 21,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 4,
-   "title": "Apple introduces M6 and M5 Ultra",
-   "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-   "points": 1143,
-   "comment_count": 1111,
+   "title": "Value Classes Still Need Compiler Sympathy",
+   "url": "https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/",
+   "points": 19,
+   "comment_count": 7,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 5,
-   "title": "Show HN: Buslens – where can I get to by bus? (UK)",
-   "url": "https://rupertlinacre.com/buslens/",
-   "points": 21,
-   "comment_count": 8,
+   "title": "Apple introduces M6 and M5 Ultra",
+   "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+   "points": 1154,
+   "comment_count": 1129,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 6,
-   "title": "Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]",
-   "url": "https://www.youtube.com/watch?v=656058JxTM0",
-   "points": 103,
-   "comment_count": 29,
+   "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+   "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+   "points": 41,
+   "comment_count": 5,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 7,
-   "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
-   "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-   "points": 397,
-   "comment_count": 194,
+   "title": "Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]",
+   "url": "https://www.youtube.com/watch?v=656058JxTM0",
+   "points": 116,
+   "comment_count": 34,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 8,
-   "title": "Queryable Executables",
-   "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
-   "points": 189,
-   "comment_count": 51,
+   "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+   "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+   "points": 409,
+   "comment_count": 199,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 9,
-   "title": "Show HN: Banking Access Index – 19 US banking providers, 8 countries, CC-BY",
-   "url": "https://www.globalsolo.global/data/banking-access-index",
-   "points": 5,
-   "comment_count": 0,
+   "title": "Queryable Executables",
+   "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
+   "points": 202,
+   "comment_count": 53,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -112,8 +112,8 @@
    "rank": 10,
    "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
    "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-   "points": 487,
-   "comment_count": 309,
+   "points": 497,
+   "comment_count": 318,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -122,38 +122,38 @@
    "rank": 11,
    "title": "Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War",
    "url": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
-   "points": 39,
-   "comment_count": 11,
+   "points": 43,
+   "comment_count": 12,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 12,
-   "title": "New Mac Studio with M5 Max and M5 Ultra",
-   "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-   "points": 769,
-   "comment_count": 508,
+   "title": "Show HN: Banking Access Index – 19 US banking providers, 8 countries, CC-BY",
+   "url": "https://www.globalsolo.global/data/banking-access-index",
+   "points": 9,
+   "comment_count": 6,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 13,
-   "title": "Black hole singularity is a surface not a point",
-   "url": "https://arxiv.org/abs/2608.21590",
-   "points": 249,
-   "comment_count": 183,
+   "title": "New Mac Studio with M5 Max and M5 Ultra",
+   "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+   "points": 770,
+   "comment_count": 517,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 14,
-   "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
-   "url": "https://github.com/runetes/maiao",
-   "points": 81,
-   "comment_count": 48,
+   "title": "Black hole singularity is a surface not a point",
+   "url": "https://arxiv.org/abs/2608.21590",
+   "points": 257,
+   "comment_count": 184,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -162,17 +162,17 @@
    "rank": 15,
    "title": "New Mac mini, featuring M6 and M5 Pro",
    "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-   "points": 498,
-   "comment_count": 313,
+   "points": 502,
+   "comment_count": 317,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 16,
-   "title": "When str.lower() is a security vulnerability in Python",
-   "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
-   "points": 127,
+   "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+   "url": "https://github.com/runetes/maiao",
+   "points": 85,
    "comment_count": 51,
    "input": {
     "url": "https://news.ycombinator.com"
@@ -180,30 +180,30 @@
   },
   {
    "rank": 17,
-   "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
-   "url": "https://arxiv.org/abs/2607.21503",
-   "points": 54,
-   "comment_count": 17,
+   "title": "When str.lower() is a security vulnerability in Python",
+   "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
+   "points": 133,
+   "comment_count": 56,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 18,
-   "title": "Nitter and XCancel receive cease and desist notices",
-   "url": "https://github.com/zedeus/nitter/issues/1442",
-   "points": 950,
-   "comment_count": 788,
+   "title": "Social media use on the rise among Australian under-16s after ban: data",
+   "url": "https://www.france24.com/en/live-news/20260826-social-media-use-on-the-rise-among-australian-under-16s-after-ban-data",
+   "points": 17,
+   "comment_count": 13,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 19,
-   "title": "More than half of adults in U.S. say they lack basic statistical understanding",
-   "url": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding",
-   "points": 97,
-   "comment_count": 135,
+   "title": "Nitter and XCancel receive cease and desist notices",
+   "url": "https://github.com/zedeus/nitter/issues/1442",
+   "points": 977,
+   "comment_count": 806,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -212,108 +212,108 @@
    "rank": 20,
    "title": "Building a backyard office, the build and cost breakdown",
    "url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
-   "points": 347,
-   "comment_count": 215,
+   "points": 355,
+   "comment_count": 218,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 21,
-   "title": "C2PA Cameras Do Not Survive Contact with Reality",
-   "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
-   "points": 153,
-   "comment_count": 96,
+   "title": "More than half of adults in U.S. say they lack basic statistical understanding",
+   "url": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding",
+   "points": 108,
+   "comment_count": 147,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 22,
-   "title": "Tooltips need a delay, and then they need to skip it",
-   "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
-   "points": 177,
-   "comment_count": 50,
+   "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
+   "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
+   "points": 325,
+   "comment_count": 170,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 23,
-   "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
-   "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
-   "points": 319,
-   "comment_count": 167,
+   "title": "Tooltips need a delay, and then they need to skip it",
+   "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
+   "points": 185,
+   "comment_count": 54,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 24,
-   "title": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to market",
-   "url": "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer",
-   "points": 0,
-   "comment_count": 16,
+   "title": "The Feeling of Power (Asimov, 1958)",
+   "url": "https://archive.org/details/1958-02_IF",
+   "points": 5,
+   "comment_count": 1,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 25,
-   "title": "Run OpenBSD on DigitalOcean for $4/month",
-   "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
-   "points": 166,
-   "comment_count": 75,
+   "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
+   "url": "https://arxiv.org/abs/2607.21503",
+   "points": 58,
+   "comment_count": 20,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 26,
-   "title": "Don't Wordle",
-   "url": "https://dontwordle.com/",
-   "points": 351,
-   "comment_count": 124,
+   "title": "Run OpenBSD on DigitalOcean for $4/month",
+   "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
+   "points": 170,
+   "comment_count": 77,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 27,
-   "title": "Show HN: LatticeDB – Like SQLite but for graph databases",
-   "url": "https://github.com/jeffhajewski/latticedb",
-   "points": 154,
-   "comment_count": 41,
+   "title": "Don't Wordle",
+   "url": "https://dontwordle.com/",
+   "points": 355,
+   "comment_count": 126,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 28,
-   "title": "How credit card rewards became a $9.2B wealth transfer",
-   "url": "https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer",
-   "points": 178,
-   "comment_count": 325,
+   "title": "U.S. gov't moves to suppress pushback on data centers",
+   "url": "https://www.tomshardware.com/tech-industry/data-centers/u-s-govt-moves-to-suppress-pushback-on-data-centers-by-removing-requirements-for-public-input-on-pollution-epa-change-would-allow-air-pollution-permits-without-publicizing-them",
+   "points": 4,
+   "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 29,
-   "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
-   "url": "https://github.com/swimmingbrain/texbrain",
-   "points": 98,
-   "comment_count": 21,
+   "title": "C2PA Cameras Do Not Survive Contact with Reality",
+   "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
+   "points": 160,
+   "comment_count": 104,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 30,
-   "title": "Dolly Parton has died",
-   "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
-   "points": 1468,
-   "comment_count": 222,
+   "title": "How credit card rewards became a $9.2B wealth transfer",
+   "url": "https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer",
+   "points": 190,
+   "comment_count": 334,
    "input": {
     "url": "https://news.ycombinator.com"
    }

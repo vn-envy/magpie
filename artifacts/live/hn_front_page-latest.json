@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mtaeqedfk2ocz71z",
+ "snapshot_id": "j_mtaj6qlw1kectypi0a",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-08-26T18:08:36.164Z",
+ "captured_at": "2026-08-26T20:13:16.967Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,306 +14,306 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-08-26T18:08:26.090Z",
-  "finished": "2026-08-26T18:08:28.826Z"
+  "started": "2026-08-26T20:13:06.895Z",
+  "finished": "2026-08-26T20:13:11.496Z"
  },
  "rows": [
   {
    "rank": 1,
-   "title": "GLM-5.3-Flash",
-   "url": "https://z.ai/blog/glm-5.3-flash",
-   "points": 537,
-   "comment_count": 246,
+   "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
+   "url": "https://github.com/tailscale/tailcat",
+   "points": 260,
+   "comment_count": 44,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 2,
-   "title": "AWS Acquires DuckLabs",
-   "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
-   "points": 762,
-   "comment_count": 217,
+   "title": "GLM-5.3-Flash",
+   "url": "https://z.ai/blog/glm-5.3-flash",
+   "points": 695,
+   "comment_count": 325,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 3,
-   "title": "France reaches 94.9% fiber coverage in 2026",
-   "url": "https://cartefibre.arcep.fr/",
-   "points": 255,
-   "comment_count": 183,
+   "title": "AWS Acquires DuckLabs",
+   "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
+   "points": 854,
+   "comment_count": 242,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 4,
-   "title": "Disruption with Some GitHub Services",
-   "url": "https://www.githubstatus.com/incidents/hcbtzksccj2f",
-   "points": 166,
-   "comment_count": 93,
+   "title": "An ongoing 3D-printer AGPL violation",
+   "url": "https://lwn.net/SubscriberLink/1089390/46116614cc74b814/",
+   "points": 163,
+   "comment_count": 52,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 5,
-   "title": "Qwen3.8-Flash-Next",
-   "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-   "points": 447,
-   "comment_count": 134,
+   "title": "Dallas startup enriches Uranium",
+   "url": "https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu",
+   "points": 30,
+   "comment_count": 4,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 6,
-   "title": "An ongoing 3D-printer AGPL violation",
-   "url": "https://lwn.net/SubscriberLink/1089390/46116614cc74b814/",
-   "points": 18,
-   "comment_count": 2,
+   "title": "Nebula Sans",
+   "url": "https://www.nebulasans.com/",
+   "points": 265,
+   "comment_count": 101,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 7,
-   "title": "Nebula Sans",
-   "url": "https://www.nebulasans.com/",
-   "points": 185,
-   "comment_count": 71,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 8,
-   "title": "Taylor Farms: How One Company's Reach Became a National Risk",
-   "url": "https://farmaction.us/taylorfarmsreport/",
-   "points": 133,
-   "comment_count": 78,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 9,
-   "title": "Tim Curry has died",
-   "url": "https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film",
-   "points": 255,
-   "comment_count": 100,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 10,
-   "title": "Tailcat: Secure Tunnels in Seconds (Tailscale)",
-   "url": "https://github.com/tailscale/tailcat",
-   "points": 20,
-   "comment_count": 1,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 11,
-   "title": "Show HN: I made a retirement simulator: 125 years of data, 25 countries",
-   "url": "https://foresightplanner.com/",
-   "points": 8,
-   "comment_count": 5,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 12,
-   "title": "VMs won't contain cyber-capable agents",
-   "url": "https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/",
-   "points": 73,
-   "comment_count": 35,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 13,
-   "title": "Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies",
-   "url": "https://www.risklytics.ai/",
-   "points": 14,
-   "comment_count": 5,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 14,
-   "title": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
-   "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
-   "points": 63,
-   "comment_count": 31,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 15,
-   "title": "RAG Is Simpler Than You Think",
-   "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
-   "points": 346,
-   "comment_count": 153,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 16,
-   "title": "Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]",
-   "url": "https://www.youtube.com/watch?v=656058JxTM0",
-   "points": 238,
-   "comment_count": 80,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 17,
-   "title": "11,000-year-old sculpture of man riding a leopard found in Turkey",
-   "url": "https://www.thehistoryblog.com/archives/76809",
-   "points": 71,
-   "comment_count": 41,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 18,
-   "title": "Proliferate (YC S25) Is Hiring",
-   "url": "https://www.ycombinator.com/companies/proliferate/jobs/OgpCKYJ-founding-product-engineer",
-   "points": 0,
+   "title": "CoMaps: The Offline App That Guided Rescuers Without a Signal in Venezuela",
+   "url": "https://hotosm.org/en/news/comaps-the-offline-app-that-guided-rescuers-without-a-signal-in-the-venezuela-response/",
+   "points": 87,
    "comment_count": 6,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 19,
+   "rank": 8,
+   "title": "Qwen3.8-Flash-Next",
+   "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+   "points": 526,
+   "comment_count": 172,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 9,
+   "title": "Disruption with Some GitHub Services",
+   "url": "https://www.githubstatus.com/incidents/hcbtzksccj2f",
+   "points": 208,
+   "comment_count": 123,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 10,
+   "title": "The Tariff Cost: analysis of the costs to Americans from new tariffs on Canada",
+   "url": "https://thetariffcost.com/",
+   "points": 82,
+   "comment_count": 53,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 11,
+   "title": "Tim Curry has died",
+   "url": "https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film",
+   "points": 415,
+   "comment_count": 150,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 12,
+   "title": "GitHub Outage Tracker: Is GitHub Cooked?",
+   "url": "https://isgithubcooked.com/",
+   "points": 10,
+   "comment_count": 1,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 13,
    "title": "FDA Approves First in Class Targeted Therapy for Metastatic Pancreatic Cancer",
    "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-class-targeted-therapy-metastatic-pancreatic-cancer",
-   "points": 13,
-   "comment_count": 1,
+   "points": 70,
+   "comment_count": 15,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 14,
+   "title": "The Hugging Face incident and the road ahead",
+   "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
+   "points": 32,
+   "comment_count": 10,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 15,
+   "title": "YouTube Format IDs",
+   "url": "https://gist.github.com/MartinEesmaa/2f4b261cb90a47e9c41ba115a011a4aa",
+   "points": 53,
+   "comment_count": 15,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 16,
+   "title": "Taylor Farms: How One Company's Reach Became a National Risk",
+   "url": "https://farmaction.us/taylorfarmsreport/",
+   "points": 175,
+   "comment_count": 125,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 17,
+   "title": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
+   "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
+   "points": 107,
+   "comment_count": 67,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 18,
+   "title": "Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]",
+   "url": "https://www.youtube.com/watch?v=656058JxTM0",
+   "points": 262,
+   "comment_count": 85,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 19,
+   "title": "RAG Is Simpler Than You Think",
+   "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
+   "points": 386,
+   "comment_count": 168,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 20,
-   "title": "Meta reaches $17B settlement over social media harms to children",
-   "url": "https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/",
-   "points": 358,
-   "comment_count": 324,
+   "title": "PageRank explained",
+   "url": "https://praveshkoirala.com/2026/08/26/you-could-have-invented-pagerank/",
+   "points": 93,
+   "comment_count": 66,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 21,
-   "title": "CDs vs. NIMBY",
-   "url": "https://www.betonit.ai/p/cds-vs-nimby",
-   "points": 6,
-   "comment_count": 1,
+   "title": "Access to Urban Woodlands Linked with Lower Use of Antidepressants",
+   "url": "https://e360.yale.edu/digest/scotland-woodlands-antidepressants",
+   "points": 58,
+   "comment_count": 10,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 22,
-   "title": "The turbulent AI era is here",
-   "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
-   "points": 56,
-   "comment_count": 18,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 23,
-   "title": "Twitter Viewer – View Twitter Without Account",
-   "url": "https://twitterwebviewer.com/",
-   "points": 160,
-   "comment_count": 65,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 24,
-   "title": "Access to Urban Woodlands Linked with Lower Use of Antidepressants",
-   "url": "https://e360.yale.edu/digest/scotland-woodlands-antidepressants",
-   "points": 24,
-   "comment_count": 3,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 25,
-   "title": "You could have invented PageRank",
-   "url": "https://praveshkoirala.com/2026/08/26/you-could-have-invented-pagerank/",
-   "points": 64,
-   "comment_count": 56,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 26,
-   "title": "A Man Who Saw Humanity from Two Billion Years Away",
-   "url": "https://thereader.mitpress.mit.edu/the-man-who-saw-humanity-from-two-billion-years-away/",
-   "points": 47,
+   "title": "Proliferate (YC S25) Is Hiring",
+   "url": "https://www.ycombinator.com/companies/proliferate/jobs/OgpCKYJ-founding-product-engineer",
+   "points": 0,
    "comment_count": 8,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 27,
-   "title": "YouTube Format IDs",
-   "url": "https://gist.github.com/MartinEesmaa/2f4b261cb90a47e9c41ba115a011a4aa",
-   "points": 4,
+   "rank": 23,
+   "title": "The risks of AI are real but manageable (2023)",
+   "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/the-risks-of-ai-are-real-but-manageable",
+   "points": 3,
    "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
+   "rank": 24,
+   "title": "Meta reaches $17B settlement over social media harms to children",
+   "url": "https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/",
+   "points": 429,
+   "comment_count": 403,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 25,
+   "title": "Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies",
+   "url": "https://www.risklytics.ai/",
+   "points": 19,
+   "comment_count": 9,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 26,
+   "title": "11,000-year-old sculpture of man riding a leopard found in Turkey",
+   "url": "https://www.thehistoryblog.com/archives/76809",
+   "points": 97,
+   "comment_count": 71,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 27,
+   "title": "Twitter Viewer – View Twitter Without Account",
+   "url": "https://twitterwebviewer.com/",
+   "points": 205,
+   "comment_count": 97,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
    "rank": 28,
-   "title": "A Citation to Asimov",
-   "url": "https://www.bookandsword.com/2026/08/25/a-citation-to-asimov/",
-   "points": 35,
-   "comment_count": 16,
+   "title": "A Thread-Register Decoupled GPU Execution Model for Efficient Tensor Computation",
+   "url": "https://arxiv.org/abs/2608.19628",
+   "points": 3,
+   "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 29,
-   "title": "Graze Joins Flipboard",
-   "url": "https://graze.leaflet.pub/3mtypcuxxc22p",
-   "points": 6,
-   "comment_count": 1,
+   "title": "Radiation link in flight attendant's breast cancer, French court finds",
+   "url": "https://www.bbc.com/news/articles/cn0j3z6147jo",
+   "points": 66,
+   "comment_count": 27,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 30,
-   "title": "Radiation link in flight attendant's breast cancer, French court finds",
-   "url": "https://www.bbc.com/news/articles/cn0j3z6147jo",
-   "points": 53,
-   "comment_count": 19,
+   "title": "A Man Who Saw Humanity from Two Billion Years Away",
+   "url": "https://thereader.mitpress.mit.edu/the-man-who-saw-humanity-from-two-billion-years-away/",
+   "points": 61,
+   "comment_count": 14,
    "input": {
     "url": "https://news.ycombinator.com"
    }

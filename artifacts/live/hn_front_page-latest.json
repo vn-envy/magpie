@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mta4q2mn1lj53ixs30",
+ "snapshot_id": "j_mta9zgatnz3ysjjs2",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-08-26T13:28:27.716Z",
+ "captured_at": "2026-08-26T15:55:40.940Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,26 +14,26 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-08-26T13:28:17.288Z",
-  "finished": "2026-08-26T13:28:19.988Z"
+  "started": "2026-08-26T15:55:30.703Z",
+  "finished": "2026-08-26T15:55:34.043Z"
  },
  "rows": [
   {
    "rank": 1,
    "title": "AWS Acquires DuckDB",
    "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
-   "points": 142,
-   "comment_count": 27,
+   "points": 572,
+   "comment_count": 144,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 2,
-   "title": "Bill Gates: The turbulent AI era is here",
-   "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make",
-   "points": 43,
-   "comment_count": 35,
+   "title": "GLM-5.3-Flash",
+   "url": "https://z.ai/blog/glm-5.3-flash",
+   "points": 301,
+   "comment_count": 126,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -42,278 +42,278 @@
    "rank": 3,
    "title": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
    "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-   "points": 52,
-   "comment_count": 14,
+   "points": 326,
+   "comment_count": 101,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 4,
-   "title": "RAG Is Simpler Than You Think",
-   "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
-   "points": 195,
-   "comment_count": 93,
+   "title": "Disruption with Some GitHub Services",
+   "url": "https://www.githubstatus.com/incidents/hcbtzksccj2f",
+   "points": 53,
+   "comment_count": 23,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 5,
-   "title": "Oldinsurancemaps.net is now a Charter Project",
-   "url": "https://openstreetmap.us/news/2026/08/oim-charter-project/",
-   "points": 111,
-   "comment_count": 17,
+   "title": "Nebula Sans",
+   "url": "https://www.nebulasans.com/",
+   "points": 49,
+   "comment_count": 20,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 6,
-   "title": "A curmudgeon tries a language server",
-   "url": "https://entropicthoughts.com/curmudgeon-tries-language-server",
-   "points": 8,
-   "comment_count": 0,
+   "title": "Taylor Farms: How One Company's Reach Became a National Risk",
+   "url": "https://farmaction.us/taylorfarmsreport/",
+   "points": 50,
+   "comment_count": 17,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 7,
-   "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-   "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
-   "points": 231,
-   "comment_count": 94,
+   "title": "WebMCP: Teaching Your Website to Talk to AI Agents",
+   "url": "https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/",
+   "points": 28,
+   "comment_count": 25,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 8,
-   "title": "XCancel and Nitter are receiving C&D letters from XCorp",
-   "url": "https://news.ycombinator.com/item?id=49446210",
-   "points": 155,
-   "comment_count": 59,
+   "title": "GLM-5.3-Flash Intelligence, Performance and Price Analysis",
+   "url": "https://artificialanalysis.ai/models/glm-5-3-flash",
+   "points": 35,
+   "comment_count": 5,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 9,
-   "title": "Proliferate (YC S25) Is Hiring",
-   "url": "https://www.ycombinator.com/companies/proliferate/jobs/OgpCKYJ-founding-product-engineer",
-   "points": 0,
-   "comment_count": 1,
+   "title": "France reaches 94.9% fiber coverage in 2026",
+   "url": "https://cartefibre.arcep.fr/",
+   "points": 45,
+   "comment_count": 10,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 10,
-   "title": "Apple introduces M6 and M5 Ultra",
-   "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-   "points": 1223,
-   "comment_count": 1175,
+   "title": "You could have invented PageRank",
+   "url": "https://praveshkoirala.com/2026/08/26/you-could-have-invented-pagerank/",
+   "points": 25,
+   "comment_count": 10,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 11,
-   "title": "Beyond Recall and the Illusion of Competence",
-   "url": "https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html",
-   "points": 41,
-   "comment_count": 13,
+   "title": "RAG Is Simpler Than You Think",
+   "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
+   "points": 299,
+   "comment_count": 135,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 12,
-   "title": "Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]",
-   "url": "https://www.youtube.com/watch?v=656058JxTM0",
-   "points": 162,
-   "comment_count": 48,
+   "title": "Show HN: How much of Hacker News is AI?",
+   "url": "https://hnstats.com/",
+   "points": 28,
+   "comment_count": 15,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 13,
-   "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
-   "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
-   "points": 51,
-   "comment_count": 6,
+   "title": "A curmudgeon tries a language server",
+   "url": "https://entropicthoughts.com/curmudgeon-tries-language-server",
+   "points": 53,
+   "comment_count": 34,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 14,
-   "title": "Omarchy development practices lead to predictable security issues",
-   "url": "https://blog.happyfellow.dev/merchants-of-insecurity/",
-   "points": 198,
-   "comment_count": 233,
+   "title": "Proliferate (YC S25) Is Hiring",
+   "url": "https://www.ycombinator.com/companies/proliferate/jobs/OgpCKYJ-founding-product-engineer",
+   "points": 0,
+   "comment_count": 3,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 15,
-   "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
-   "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-   "points": 456,
-   "comment_count": 210,
+   "title": "Twitter Viewer – View Twitter Without Account",
+   "url": "https://twitterwebviewer.com/",
+   "points": 92,
+   "comment_count": 33,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 16,
-   "title": "Queryable Executables",
-   "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
-   "points": 255,
-   "comment_count": 72,
+   "title": "A Citation to Asimov",
+   "url": "https://www.bookandsword.com/2026/08/25/a-citation-to-asimov/",
+   "points": 15,
+   "comment_count": 1,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 17,
-   "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
-   "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-   "points": 534,
-   "comment_count": 337,
+   "title": "AurionMail: E2EE suite (CryptPad/Stalwart) with single-password UX",
+   "url": "https://github.com/AurionMail/docs",
+   "points": 16,
+   "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 18,
-   "title": "Value Classes Still Need Compiler Sympathy",
-   "url": "https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/",
-   "points": 52,
-   "comment_count": 19,
+   "title": "AI Is a Harsh Mistress",
+   "url": "https://cacm.acm.org/opinion/ai-is-a-harsh-mistress-on-anima-machina-herd-acceptance-and-the-politics-of-conscious-machines/",
+   "points": 43,
+   "comment_count": 22,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 19,
-   "title": "X sends in the lawyers to shut down open source project",
-   "url": "https://www.theregister.com/legal/2026/08/26/nitter-no-more-x-sends-in-the-lawyers-to-shut-down-open-source-project/5292548",
-   "points": 44,
-   "comment_count": 14,
+   "title": "Oldinsurancemaps.net is now a Charter Project",
+   "url": "https://openstreetmap.us/news/2026/08/oim-charter-project/",
+   "points": 137,
+   "comment_count": 25,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 20,
-   "title": "New Mac Studio with M5 Max and M5 Ultra",
-   "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-   "points": 792,
-   "comment_count": 525,
+   "title": "How HN: Qisutu – an open-source, self-hosted ticketing and service desk",
+   "url": "https://github.com/qisutu/qisutu",
+   "points": 11,
+   "comment_count": 2,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 21,
-   "title": "Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War",
-   "url": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
-   "points": 59,
-   "comment_count": 13,
+   "title": "Take a Tour of SLAC",
+   "url": "https://www6.slac.stanford.edu/public-tours",
+   "points": 11,
+   "comment_count": 1,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 22,
-   "title": "Show HN: Buslens – where can I get to by bus? (UK)",
-   "url": "https://rupertlinacre.com/buslens/",
-   "points": 67,
-   "comment_count": 42,
+   "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+   "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+   "points": 355,
+   "comment_count": 126,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 23,
-   "title": "Black hole singularity is a surface not a point",
-   "url": "https://arxiv.org/abs/2608.21590",
-   "points": 281,
-   "comment_count": 194,
+   "title": "Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]",
+   "url": "https://www.youtube.com/watch?v=656058JxTM0",
+   "points": 202,
+   "comment_count": 69,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 24,
-   "title": "New Mac mini, featuring M6 and M5 Pro",
-   "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-   "points": 515,
-   "comment_count": 324,
+   "title": "Show HN: TexLite – A lightweight self-hosted LaTeX workspace",
+   "url": "https://github.com/SWUFE-DB-Group/TexLite",
+   "points": 5,
+   "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 25,
-   "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
-   "url": "https://github.com/runetes/maiao",
-   "points": 99,
-   "comment_count": 62,
+   "title": "11,000-year-old sculpture of man riding a leopard found in Turkey",
+   "url": "https://www.thehistoryblog.com/archives/76809",
+   "points": 13,
+   "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 26,
-   "title": "When str.lower() is a security vulnerability in Python",
-   "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
-   "points": 153,
-   "comment_count": 66,
+   "title": "Beyond Recall and the Illusion of Competence",
+   "url": "https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html",
+   "points": 64,
+   "comment_count": 20,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 27,
-   "title": "Building a backyard office, the build and cost breakdown",
-   "url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
-   "points": 381,
-   "comment_count": 230,
+   "title": "A Man Who Saw Humanity from Two Billion Years Away",
+   "url": "https://thereader.mitpress.mit.edu/the-man-who-saw-humanity-from-two-billion-years-away/",
+   "points": 12,
+   "comment_count": 1,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 28,
-   "title": "Nitter and XCancel receive cease and desist notices",
-   "url": "https://github.com/zedeus/nitter/issues/1442",
-   "points": 1043,
-   "comment_count": 871,
+   "title": "Radiation link in flight attendant's breast cancer, French court finds",
+   "url": "https://www.bbc.com/news/articles/cn0j3z6147jo",
+   "points": 24,
+   "comment_count": 5,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 29,
-   "title": "Run OpenBSD on DigitalOcean for $4/month",
-   "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
-   "points": 187,
-   "comment_count": 85,
+   "title": "Value Classes Still Need Compiler Sympathy",
+   "url": "https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/",
+   "points": 69,
+   "comment_count": 35,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 30,
-   "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
-   "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
-   "points": 334,
-   "comment_count": 183,
+   "title": "Meta reaches $16.68B settlement over social media harms to children",
+   "url": "https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/",
+   "points": 278,
+   "comment_count": 242,
    "input": {
     "url": "https://news.ycombinator.com"
    }

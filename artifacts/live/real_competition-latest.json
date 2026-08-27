@@ -3,138 +3,27 @@
  "label": "awesome-selfhosted — the real open-source software market",
  "kind": "catalog",
  "collector_id": "c_mt5z86yu2jvo2kv0yf",
- "snapshot_id": "j_mtbcq3c324ps534fac",
+ "snapshot_id": "j_mtbzfrsk1ivyatph4n",
  "target_url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
- "captured_at": "2026-08-27T10:03:53.838Z",
+ "captured_at": "2026-08-27T20:39:04.031Z",
  "verdict": "TRUSTED",
- "row_count": 232,
+ "row_count": 236,
  "ranks_sequential": false,
  "brightdata_log": {
   "status": "done",
-  "lines": 232,
-  "success": 233,
+  "lines": 236,
+  "success": 237,
   "fails": 0,
-  "started": "2026-08-27T10:00:00.858Z",
-  "finished": "2026-08-27T10:03:45.145Z"
+  "started": "2026-08-27T20:35:48.591Z",
+  "finished": "2026-08-27T20:38:55.813Z"
  },
  "rows": [
   {
-   "name": "Strix",
-   "description": "Smart IP camera stream finder. Tests 102K+ URL patterns in 30 seconds. Supports 67K camera models. Generates ready Frigate/go2rtc configs.",
-   "project_link": "https://github.com/eduard256/Strix",
-   "product_page_url": "https://github.com/eduard256/Strix",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "minimal-git-server",
-   "description": "Minimal git server running in a container (docker, podman...)",
-   "project_link": "https://github.com/mcarbonne/minimal-git-server",
-   "product_page_url": "https://github.com/mcarbonne/minimal-git-server",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "awesome-bigdata",
-   "description": "A curated list of awesome big data frameworks, ressources and other awesomeness.",
-   "project_link": "https://github.com/oxnr/awesome-bigdata",
-   "product_page_url": "https://github.com/oxnr/awesome-bigdata",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "everydocs-core",
-   "description": "A simple Document Management System for private use with basic functionality to organize your documents digitally",
+   "name": "gonic",
+   "description": "music streaming server / free-software subsonic server API implementation",
    "license": "GPL-3.0 license",
-   "project_link": "https://github.com/jonashellmann/everydocs-core",
-   "product_page_url": "https://github.com/jonashellmann/everydocs-core",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "kiwix-tools",
-   "description": "Command line Kiwix tools: kiwix-serve, kiwix-manage, ...",
-   "license": "GPL-3.0 license",
-   "project_link": "https://github.com/kiwix/kiwix-tools",
-   "product_page_url": "https://github.com/kiwix/kiwix-tools",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "bit",
-   "description": "Fast, lightweight, self-hosted URL shortener service with minimal click tracking",
-   "project_link": "https://github.com/sjdonado/bit",
-   "product_page_url": "https://github.com/sjdonado/bit",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "snowshare",
-   "description": "A modern, secure file and link sharing platform built with Next.js, Prisma, and NextAuth. Share URLs, code snippets, and files with customizable expiration, privacy, and QR codes.",
-   "project_link": "https://github.com/TuroYT/snowshare",
-   "product_page_url": "https://github.com/TuroYT/snowshare",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "Bitpoll",
-   "description": "A web application for scheduling meetings and general polling.",
-   "project_link": "https://github.com/fsinfuhh/Bitpoll",
-   "product_page_url": "https://github.com/fsinfuhh/Bitpoll",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "retrom",
-   "description": "A centralized game library/collection management service with a focus on emulation",
-   "license": "GPL-3.0 license",
-   "project_link": "https://github.com/JMBeresford/retrom",
-   "product_page_url": "https://github.com/JMBeresford/retrom",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "babybuddy",
-   "description": "A 👶 buddy to help caregivers track sleep, feedings, diaper changes, tummy time and more to learn about and predict baby's needs without (as much) guess work.",
-   "project_link": "https://github.com/babybuddy/babybuddy",
-   "product_page_url": "https://github.com/babybuddy/babybuddy",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "plik",
-   "description": "Plik is a temporary file upload system (Wetransfer like) in Go.",
-   "project_link": "https://github.com/root-gg/plik",
-   "product_page_url": "https://github.com/root-gg/plik",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "docker-swag",
-   "description": "Nginx webserver and reverse proxy with php support and a built-in Certbot (Let's Encrypt) client. It also contains fail2ban for intrusion prevention.",
-   "license": "GPL-3.0 license",
-   "project_link": "https://github.com/linuxserver/docker-swag",
-   "product_page_url": "https://github.com/linuxserver/docker-swag",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "local-content-share",
-   "description": "Self-hosted app with browser frontend that enables sharing and storing text snippets and files. Also includes a markdown and rich text scratchpad.",
-   "project_link": "https://github.com/Tanq16/local-content-share",
-   "product_page_url": "https://github.com/Tanq16/local-content-share",
+   "project_link": "https://github.com/sentriz/gonic",
+   "product_page_url": "https://github.com/sentriz/gonic",
    "input": {
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
    }
@@ -149,28 +38,96 @@
    }
   },
   {
-   "name": "recorder",
-   "description": "Store and access data published by OwnTracks apps",
-   "project_link": "https://github.com/owntracks/recorder",
-   "product_page_url": "https://github.com/owntracks/recorder",
+   "name": "sup3rS3cretMes5age",
+   "description": "Simple to use, simple to deploy, one time self destruct messaging service, with hashicorp vault as a backend",
+   "project_link": "https://github.com/algolia/sup3rS3cretMes5age",
+   "product_page_url": "https://github.com/algolia/sup3rS3cretMes5age",
    "input": {
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
    }
   },
   {
-   "name": "focus_flow_cloud",
-   "description": "A Pomodoro technique tracking service built with Rust. I created this application for my personal use to track my focus sessions and productivity, and decided to share it in case others might find it useful.",
-   "project_link": "https://github.com/francesco-gaglione/focus_flow_cloud",
-   "product_page_url": "https://github.com/francesco-gaglione/focus_flow_cloud",
+   "name": "invidious",
+   "description": "Invidious is an alternative front-end to YouTube",
+   "license": "AGPL-3.0 license",
+   "project_link": "https://github.com/iv-org/invidious",
+   "product_page_url": "https://github.com/iv-org/invidious",
    "input": {
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
    }
   },
   {
-   "name": "gitit",
-   "description": "A wiki using HAppS, pandoc, and git",
-   "project_link": "https://github.com/jgm/gitit",
-   "product_page_url": "https://github.com/jgm/gitit",
+   "name": "Picsur",
+   "description": "An easy to use, selfhostable image sharing service like Imgur with built in converting",
+   "license": "AGPL-3.0 license",
+   "project_link": "https://github.com/CaramelFur/Picsur",
+   "product_page_url": "https://github.com/CaramelFur/Picsur",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "snapcast",
+   "description": "Synchronous multiroom audio player",
+   "license": "GPL-3.0 license",
+   "project_link": "https://github.com/snapcast/snapcast",
+   "product_page_url": "https://github.com/snapcast/snapcast",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "shhh",
+   "description": "Share sensitive info without leaving a trace in your chat logs or email accounts.",
+   "project_link": "https://github.com/smallwat3r/shhh",
+   "product_page_url": "https://github.com/smallwat3r/shhh",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "ustreamer",
+   "description": "µStreamer - Lightweight and fast MJPEG-HTTP streamer",
+   "license": "GPL-3.0 license",
+   "project_link": "https://github.com/pikvm/ustreamer",
+   "product_page_url": "https://github.com/pikvm/ustreamer",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "fx",
+   "description": "An efficient (micro)blogging service that you can self-host",
+   "project_link": "https://github.com/rikhuijzer/fx",
+   "product_page_url": "https://github.com/rikhuijzer/fx",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "Calibre-Web-Automated",
+   "description": "Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up!",
+   "license": "GPL-3.0 license",
+   "project_link": "https://github.com/crocodilestick/Calibre-Web-Automated",
+   "product_page_url": "https://github.com/crocodilestick/Calibre-Web-Automated",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "RecipeSage",
+   "description": "A Collaborative Recipe Keeper, Meal Planner, and Shopping List Organizer in PWA form.",
+   "project_link": "https://github.com/julianpoy/RecipeSage",
+   "product_page_url": "https://github.com/julianpoy/recipesage",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "seaweedfs",
+   "description": "SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.",
+   "project_link": "https://github.com/seaweedfs/seaweedfs",
+   "product_page_url": "https://github.com/seaweedfs/seaweedfs",
    "input": {
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
    }
@@ -186,112 +143,313 @@
    }
   },
   {
-   "name": "teammapper",
-   "description": "Mindmapping made simple: Host and create your own mindmaps. Share your mindmap sessions with your team and collaborate on mindmaps.",
-   "project_link": "https://github.com/b310-digital/teammapper",
-   "product_page_url": "https://github.com/b310-digital/teammapper",
+   "name": "hubleys-dashboard",
+   "description": "Hubleys Brave New Dashboard",
+   "project_link": "https://github.com/knrdl/hubleys-dashboard",
+   "product_page_url": "https://github.com/knrdl/hubleys-dashboard",
    "input": {
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
    }
   },
   {
-   "name": "motioneye",
-   "description": "A web frontend for the motion daemon.",
-   "license": "GPL-3.0 license",
-   "project_link": "https://github.com/motioneye-project/motioneye",
-   "product_page_url": "https://github.com/motioneye-project/motioneye",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "Shifter",
-   "description": "A simple, self-hosted file-sharing web app",
-   "project_link": "https://github.com/TobySuch/Shifter",
-   "product_page_url": "https://github.com/TobySuch/Shifter",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "CyberChef",
-   "description": "The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis",
-   "project_link": "https://github.com/gchq/CyberChef",
-   "product_page_url": "https://github.com/gchq/CyberChef",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "gocron",
-   "description": "A task scheduler built with Go and Vue.js that allows users to specify recurring jobs via a simple YAML configuration file. The scheduler reads job definitions, executes commands at specified times using cron expressions, and passes in environment variables for each job.",
-   "project_link": "https://github.com/flohoss/gocron",
-   "product_page_url": "https://github.com/flohoss/gocron",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "apprise",
-   "description": "Apprise - Push Notifications that work with just about every platform!",
-   "project_link": "https://github.com/caronc/apprise",
-   "product_page_url": "https://github.com/caronc/apprise",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "Leed",
-   "description": "Leed (contraction de Light Feed) est un agrégateur RSS libre et minimaliste qui permet la consultation de flux RSS de manière rapide et non intrusive.",
-   "license": "License-AGPL-3.0.txt License-AGPL-3.0.txt",
-   "project_link": "https://github.com/LeedRSS/Leed",
-   "product_page_url": "https://github.com/LeedRSS/Leed",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "Lidify",
-   "description": "Music discovery tool that provides recommendations based on selected Lidarr artists, using Spotify or LastFM.",
-   "project_link": "https://github.com/TheWicklowWolf/Lidify",
-   "product_page_url": "https://github.com/TheWicklowWolf/Lidify",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "metube",
-   "description": "Self-hosted video downloader for YouTube and other sites (web UI for yt-dlp)",
+   "name": "snipo",
+   "description": "Single user snippet manager web app.",
    "license": "AGPL-3.0 license",
-   "project_link": "https://github.com/alexta69/metube",
-   "product_page_url": "https://github.com/alexta69/metube",
+   "project_link": "https://github.com/MohamedElashri/snipo",
+   "product_page_url": "https://github.com/MohamedElashri/snipo",
    "input": {
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
    }
   },
   {
-   "name": "onionshare",
-   "description": "Securely and anonymously share files, host websites, and chat with friends using the Tor network",
-   "project_link": "https://github.com/onionshare/onionshare",
-   "product_page_url": "https://github.com/onionshare/onionshare",
+   "name": "local-content-share",
+   "description": "Self-hosted app with browser frontend that enables sharing and storing text snippets and files. Also includes a markdown and rich text scratchpad.",
+   "project_link": "https://github.com/Tanq16/local-content-share",
+   "product_page_url": "https://github.com/Tanq16/local-content-share",
    "input": {
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
    }
   },
   {
-   "name": "vod2pod-rss",
-   "description": "Vod2Pod-RSS converts a YouTube or Twitch channel into a podcast with ease. It creates a podcast RSS that can be listened to directly inside any podcast client. VODs are transcoded to MP3 on the fly and no server storage is needed!",
-   "project_link": "https://github.com/madiele/vod2pod-rss",
-   "product_page_url": "https://github.com/madiele/vod2pod-rss",
+   "name": "teslamate",
+   "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer= @JakobLichterfeld ]",
+   "license": "AGPL-3.0 license",
+   "project_link": "https://github.com/teslamate-org/teslamate",
+   "product_page_url": "https://github.com/teslamate-org/teslamate",
    "input": {
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
    }
   },
   {
-   "name": "opentrashmail",
-   "description": "Open Source standalone trashmail solution that ships its own mail server",
-   "project_link": "https://github.com/HaschekSolutions/opentrashmail",
-   "product_page_url": "https://github.com/HaschekSolutions/opentrashmail",
+   "name": "yt-dlp-web-ui",
+   "description": "A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.",
+   "license": "GPL-3.0 license",
+   "project_link": "https://github.com/marcopiovanello/yt-dlp-web-ui",
+   "product_page_url": "https://github.com/marcopiovanello/yt-dlp-web-ui",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "warpgate",
+   "description": "Fully transparent SSH, HTTPS, Kubernetes, database and RDP/VNC bastion/PAM that doesn't need additional client-side software",
+   "project_link": "https://github.com/warp-tech/warpgate",
+   "product_page_url": "https://github.com/warp-tech/warpgate",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "Gokapi",
+   "description": "Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.",
+   "license": "AGPL-3.0 license",
+   "project_link": "https://github.com/Forceu/Gokapi",
+   "product_page_url": "https://github.com/Forceu/gokapi",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "many-notes",
+   "description": "Markdown note-taking web application designed for simplicity",
+   "project_link": "https://github.com/brufdev/many-notes",
+   "product_page_url": "https://github.com/brufdev/many-notes",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "Trilium",
+   "description": "Build your personal knowledge base with Trilium Notes",
+   "license": "AGPL-3.0 license",
+   "project_link": "https://github.com/TriliumNext/Trilium",
+   "product_page_url": "https://github.com/TriliumNext/Trilium",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "yopass",
+   "description": "Secure sharing of secrets, passwords and files",
+   "project_link": "https://github.com/jhaals/yopass",
+   "product_page_url": "https://github.com/jhaals/yopass",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "geo2tz",
+   "description": "A self-hostable REST-like API to get the time zone from geo coordinates",
+   "project_link": "https://github.com/noandrea/geo2tz",
+   "product_page_url": "https://github.com/noandrea/geo2tz",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "babybuddy",
+   "description": "A 👶 buddy to help caregivers track sleep, feedings, diaper changes, tummy time and more to learn about and predict baby's needs without (as much) guess work.",
+   "project_link": "https://github.com/babybuddy/babybuddy",
+   "product_page_url": "https://github.com/babybuddy/babybuddy",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "lha",
+   "description": "light home automation application",
+   "project_link": "https://github.com/javalikescript/lha",
+   "product_page_url": "https://github.com/javalikescript/lha",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "sshwifty",
+   "description": "Web SSH & Telnet (WebSSH & WebTelnet client) 🔮",
+   "license": "AGPL-3.0 license",
+   "project_link": "https://github.com/nirui/sshwifty",
+   "product_page_url": "https://github.com/nirui/sshwifty",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "kiwix-tools",
+   "description": "Command line Kiwix tools: kiwix-serve, kiwix-manage, ...",
+   "license": "GPL-3.0 license",
+   "project_link": "https://github.com/kiwix/kiwix-tools",
+   "product_page_url": "https://github.com/kiwix/kiwix-tools",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "UpSnap",
+   "description": "A simple wake on lan web app written with SvelteKit, Go and PocketBase.",
+   "project_link": "https://github.com/seriousm4x/UpSnap",
+   "product_page_url": "https://github.com/seriousm4x/UpSnap",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "xandikos",
+   "description": "A CalDAV/CardDAV server backed by Git",
+   "license": "GPL-3.0 license",
+   "project_link": "https://github.com/jelmer/xandikos",
+   "product_page_url": "https://github.com/jelmer/xandikos",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "FileRise",
+   "description": "🗂️ FileRise – lightweight, self-hosted file manager & storage hub with granular ACLs, resumable uploads, encrypted folders, WebDAV & SSO. Fully Docker / Unraid compatible.",
+   "project_link": "https://github.com/error311/FileRise",
+   "product_page_url": "https://github.com/error311/FileRise",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "adarkroom",
+   "description": "A Dark Room - A Minimalist Text Adventure",
+   "project_link": "https://github.com/doublespeakgames/adarkroom",
+   "product_page_url": "https://github.com/doublespeakgames/adarkroom",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "blackcandy",
+   "description": "A self hosted music streaming server",
+   "project_link": "https://github.com/blackcandy-org/blackcandy",
+   "product_page_url": "https://github.com/blackcandy-org/blackcandy",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "neonlink",
+   "description": "Simple self-hosted bookmark service.",
+   "project_link": "https://github.com/AlexSciFier/neonlink",
+   "product_page_url": "https://github.com/AlexSciFier/neonlink",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "immich-kiosk",
+   "description": "Highly configurable slideshows for displaying Immich assets on browsers and devices.",
+   "license": "AGPL-3.0 license",
+   "project_link": "https://github.com/damongolding/immich-kiosk",
+   "product_page_url": "https://github.com/damongolding/immich-kiosk",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "davis",
+   "description": "🗓 A modern, simple, feature-packed, fully translatable admin interface for sabre/dav based on Symfony 7 and Bootstrap",
+   "project_link": "https://github.com/tchapi/davis",
+   "product_page_url": "https://github.com/tchapi/davis",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "bubo-rss",
+   "description": "An irrationally minimalist, static feed reader (RSS, Atom, JSON) you can instantly deploy on Netlify, Glitch or your own server.",
+   "project_link": "https://github.com/georgemandis/bubo-rss",
+   "product_page_url": "https://github.com/georgemandis/bubo-rss",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "calibre-web",
+   "description": "📚 Web app for browsing, reading and downloading eBooks stored in a Calibre database",
+   "license": "GPL-3.0 license",
+   "project_link": "https://github.com/janeczku/calibre-web",
+   "product_page_url": "https://github.com/janeczku/calibre-web",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "youtube-dl-server",
+   "description": "Web / REST interface for downloading youtube videos onto a server.",
+   "project_link": "https://github.com/nbr23/youtube-dl-server",
+   "product_page_url": "https://github.com/nbr23/youtube-dl-server",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "bichon",
+   "description": "Bichon – A lightweight, high-performance Rust email archiver with WebUI",
+   "license": "AGPL-3.0 license",
+   "project_link": "https://github.com/rustmailer/bichon",
+   "product_page_url": "https://github.com/rustmailer/bichon",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "expressa",
+   "description": "API creation middleware with an admin interface",
+   "project_link": "https://github.com/thomas4019/expressa",
+   "product_page_url": "https://github.com/thomas4019/expressa",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "glowing-bear",
+   "description": "A web client for WeeChat",
+   "license": "GPL-3.0 license",
+   "project_link": "https://github.com/glowing-bear/glowing-bear",
+   "product_page_url": "https://github.com/glowing-bear/glowing-bear",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "kriss_feed",
+   "description": "A simple and smart (or stupid) feed reader",
+   "project_link": "https://github.com/tontof/kriss_feed",
+   "product_page_url": "https://github.com/tontof/kriss_feed",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "teikei",
+   "description": "A web application that maps out community-supported agriculture in Germany, Switzerland, and Austria, based on crowdsourced data.",
+   "license": "AGPL-3.0 license",
+   "project_link": "https://github.com/teikei/teikei",
+   "product_page_url": "https://github.com/teikei/teikei",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "manticoresearch",
+   "description": "Open-source search database for full-text, vector, and hybrid search with real-time indexing and SQL.",
+   "license": "GPL-3.0 license",
+   "project_link": "https://github.com/manticoresoftware/manticoresearch",
+   "product_page_url": "https://github.com/manticoresoftware/manticoresearch/",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "OvenMediaEngine",
+   "description": "OvenMediaEngine (OME) is a Sub-Second Latency Live Streaming Server with Large-Scale and High-Definition. #WebRTC #LLHLS",
+   "license": "AGPL-3.0 license",
+   "project_link": "https://github.com/OvenMediaLabs/OvenMediaEngine",
+   "product_page_url": "https://github.com/OvenMediaLabs/OvenMediaEngine",
    "input": {
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
    }
@@ -307,6 +465,90 @@
    }
   },
   {
+   "name": "photofield",
+   "description": "A self-hosted non-invasive single-binary photo gallery with a focus on speed and simplicity.",
+   "project_link": "https://github.com/SmilyOrg/photofield",
+   "product_page_url": "https://github.com/SmilyOrg/photofield",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "LidaTube",
+   "description": "Find and download missing Lidarr albums via yt-dlp.",
+   "license": "GPL-3.0 license",
+   "project_link": "https://github.com/TheWicklowWolf/LidaTube",
+   "product_page_url": "https://github.com/TheWicklowWolf/LidaTube",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "teammapper",
+   "description": "Mindmapping made simple: Host and create your own mindmaps. Share your mindmap sessions with your team and collaborate on mindmaps.",
+   "project_link": "https://github.com/b310-digital/teammapper",
+   "product_page_url": "https://github.com/b310-digital/teammapper",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "sync",
+   "description": "Node.JS Server and JavaScript/HTML Client for synchronizing online media",
+   "project_link": "https://github.com/calzoneman/sync",
+   "product_page_url": "https://github.com/calzoneman/sync",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "Shifter",
+   "description": "A simple, self-hosted file-sharing web app",
+   "project_link": "https://github.com/TobySuch/Shifter",
+   "product_page_url": "https://github.com/TobySuch/Shifter",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "bindery",
+   "description": "Drop e-books and comics into a folder, get Kobo/Kindle-ready files out. kepubify + KCC with a WebUI, in one Docker image.",
+   "project_link": "https://github.com/jarynclouatre/bindery",
+   "product_page_url": "https://github.com/jarynclouatre/bindery",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "bit",
+   "description": "Fast, lightweight, self-hosted URL shortener service with minimal click tracking",
+   "project_link": "https://github.com/sjdonado/bit",
+   "product_page_url": "https://github.com/sjdonado/bit",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "Hypersomnia",
+   "description": "Multiplayer top-down shooter made from scratch in C++. Web version: https://play.hypersomnia.io Made in 🇵🇱",
+   "license": "AGPL-3.0 license",
+   "project_link": "https://github.com/TeamHypersomnia/Hypersomnia",
+   "product_page_url": "https://github.com/TeamHypersomnia/Hypersomnia",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "Yamtrack",
+   "description": "A self hosted media tracker.",
+   "license": "AGPL-3.0 license",
+   "project_link": "https://github.com/FuzzyGrim/Yamtrack",
+   "product_page_url": "https://github.com/FuzzyGrim/Yamtrack",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
    "name": "sE2EEnd",
    "description": "File transfer solution with end-to-end encryption.",
    "license": "GPL-3.0 license",
@@ -317,10 +559,105 @@
    }
   },
   {
-   "name": "notifo",
-   "description": "Multi channel notification service for collaboration tools, e-commerce, news service and more.",
-   "project_link": "https://github.com/notifo-io/notifo",
-   "product_page_url": "https://github.com/notifo-io/notifo",
+   "name": "facto",
+   "description": "Family Accounting Tool",
+   "project_link": "https://github.com/nymanjens/facto",
+   "product_page_url": "https://github.com/nymanjens/facto",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "tubesync",
+   "description": "Syncs YouTube channels and playlists to a locally hosted media server",
+   "license": "AGPL-3.0 license",
+   "project_link": "https://github.com/meeb/tubesync",
+   "product_page_url": "https://github.com/meeb/tubesync",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "mycart",
+   "description": "🛒 myCart - shopping cart in 1 file with card and cryptocurrency payment support",
+   "project_link": "https://github.com/shurco/mycart",
+   "product_page_url": "https://github.com/shurco/mycart",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "signaturepdf",
+   "description": "Free open-source web software for signing PDF (alone or with others) and also organize pages, edit metadata and compress pdf",
+   "license": "AGPL-3.0 license",
+   "project_link": "https://github.com/24eme/signaturepdf",
+   "product_page_url": "https://github.com/24eme/signaturepdf",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "vod2pod-rss",
+   "description": "Vod2Pod-RSS converts a YouTube or Twitch channel into a podcast with ease. It creates a podcast RSS that can be listened to directly inside any podcast client. VODs are transcoded to MP3 on the fly and no server storage is needed!",
+   "project_link": "https://github.com/madiele/vod2pod-rss",
+   "product_page_url": "https://github.com/madiele/vod2pod-rss",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "slskd",
+   "description": "A modern client-server application for the Soulseek file sharing network.",
+   "license": "AGPL-3.0 license",
+   "project_link": "https://github.com/slskd/slskd",
+   "product_page_url": "https://github.com/slskd/slskd",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "recorder",
+   "description": "Store and access data published by OwnTracks apps",
+   "project_link": "https://github.com/owntracks/recorder",
+   "product_page_url": "https://github.com/owntracks/recorder",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "homepage",
+   "description": "A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.",
+   "license": "GPL-3.0 license",
+   "project_link": "https://github.com/gethomepage/homepage",
+   "product_page_url": "https://github.com/gethomepage/homepage",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "focus_flow_cloud",
+   "description": "A Pomodoro technique tracking service built with Rust. I created this application for my personal use to track my focus sessions and productivity, and decided to share it in case others might find it useful.",
+   "project_link": "https://github.com/francesco-gaglione/focus_flow_cloud",
+   "product_page_url": "https://github.com/francesco-gaglione/focus_flow_cloud",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "ByteStash",
+   "description": "A code snippet storage solution written in React & node.js",
+   "license": "GPL-3.0 license",
+   "project_link": "https://github.com/jordan-dalby/ByteStash",
+   "product_page_url": "https://github.com/jordan-dalby/ByteStash",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "whois",
+   "description": "Self-hosted WHOIS/RDAP API and MCP server for domains, IPv4/IPv6, CIDRs and ASNs.",
+   "project_link": "https://github.com/KincaidYang/whois",
+   "product_page_url": "https://github.com/KincaidYang/whois",
    "input": {
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
    }
@@ -335,48 +672,531 @@
    }
   },
   {
-   "name": "DailyTxT",
-   "description": "Encrypted Diary Web-App",
-   "project_link": "https://github.com/PhiTux/DailyTxT",
-   "product_page_url": "https://github.com/PhiTux/DailyTxT",
+   "name": "Shaarli",
+   "description": "The personal, minimalist, super-fast, database free, bookmarking service - community repo",
+   "project_link": "https://github.com/shaarli/Shaarli",
+   "product_page_url": "https://github.com/shaarli/Shaarli",
    "input": {
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
    }
   },
   {
-   "name": "tiramisu",
-   "description": "The most advanced BitTorrent engine and FUSE virtual filesystem for live streaming to your private Plex/Jellyfin library. Forget Real-Debrid.",
+   "name": "Watcharr",
+   "description": "Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.",
    "license": "GPL-3.0 license",
-   "project_link": "https://github.com/MrRobotoGit/tiramisu",
-   "product_page_url": "https://github.com/MrRobotoGit/tiramisu",
+   "project_link": "https://github.com/sbondCo/Watcharr",
+   "product_page_url": "https://github.com/sbondCo/Watcharr",
    "input": {
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
    }
   },
   {
-   "name": "FileRise",
-   "description": "🗂️ FileRise – lightweight, self-hosted file manager & storage hub with granular ACLs, resumable uploads, encrypted folders, WebDAV & SSO. Fully Docker / Unraid compatible.",
-   "project_link": "https://github.com/error311/FileRise",
-   "product_page_url": "https://github.com/error311/FileRise",
+   "name": "onionshare",
+   "description": "Securely and anonymously share files, host websites, and chat with friends using the Tor network",
+   "project_link": "https://github.com/onionshare/onionshare",
+   "product_page_url": "https://github.com/onionshare/onionshare",
    "input": {
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
    }
   },
   {
-   "name": "nextcloudpi",
-   "description": "📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, curl installer...",
-   "project_link": "https://github.com/nextcloud/nextcloudpi",
-   "product_page_url": "https://github.com/nextcloud/nextcloudpi",
+   "name": "iSponsorBlockTV",
+   "description": "SponsorBlock client for all YouTube TV clients.",
+   "license": "GPL-3.0 license",
+   "project_link": "https://github.com/dmunozv04/iSponsorBlockTV",
+   "product_page_url": "https://github.com/dmunozv04/iSponsorBlockTV",
    "input": {
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
    }
   },
   {
-   "name": "gobookmarks",
-   "description": "Landing page for when you open browsers / live bookmarks in go.",
+   "name": "beaverhabits",
+   "description": "A self-hosted habit tracking app without \"Goals\"",
+   "project_link": "https://github.com/daya0576/beaverhabits",
+   "product_page_url": "https://github.com/daya0576/beaverhabits",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "dma",
+   "description": "The DragonFly Mail Agent, a small Mail Transport Agent (MTA), designed for home and office use.",
+   "project_link": "https://github.com/corecode/dma",
+   "product_page_url": "https://github.com/corecode/dma",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "transfer.sh",
+   "description": "Easy and fast file sharing from the command-line.",
+   "project_link": "https://github.com/dutchcoders/transfer.sh",
+   "product_page_url": "https://github.com/dutchcoders/transfer.sh",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "polaris",
+   "description": "Polaris is a music streaming application, designed to let you enjoy your music collection from any computer or mobile device.",
+   "project_link": "https://github.com/agersant/polaris",
+   "product_page_url": "https://github.com/agersant/polaris",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "statistics-for-strava",
+   "description": "Self-hosted, open-source dashboard for your sports and fitness data",
+   "project_link": "https://github.com/robiningelbrecht/statistics-for-strava",
+   "product_page_url": "https://github.com/robiningelbrecht/statistics-for-strava",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "selfhostblocks",
+   "description": "Modular server management based on NixOS modules and focused on best practices.",
    "license": "AGPL-3.0 license",
-   "project_link": "https://github.com/arran4/gobookmarks",
-   "product_page_url": "https://github.com/arran4/gobookmarks",
+   "project_link": "https://github.com/ibizaman/selfhostblocks",
+   "product_page_url": "https://github.com/ibizaman/selfhostblocks",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "miniserve",
+   "description": "🌟 For when you really just want to serve some files over HTTP right now!",
+   "project_link": "https://github.com/svenstaro/miniserve",
+   "product_page_url": "https://github.com/svenstaro/miniserve",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "snowshare",
+   "description": "A modern, secure file and link sharing platform built with Next.js, Prisma, and NextAuth. Share URLs, code snippets, and files with customizable expiration, privacy, and QR codes.",
+   "project_link": "https://github.com/TuroYT/snowshare",
+   "product_page_url": "https://github.com/TuroYT/snowshare",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "Strix",
+   "description": "Smart IP camera stream finder. Tests 102K+ URL patterns in 30 seconds. Supports 67K camera models. Generates ready Frigate/go2rtc configs.",
+   "project_link": "https://github.com/eduard256/Strix",
+   "product_page_url": "https://github.com/eduard256/Strix",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "jetlog",
+   "description": "Personal flight tracker and viewer",
+   "project_link": "https://github.com/pbogre/jetlog",
+   "product_page_url": "https://github.com/pbogre/jetlog",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "Bitpoll",
+   "description": "A web application for scheduling meetings and general polling.",
+   "project_link": "https://github.com/fsinfuhh/Bitpoll",
+   "product_page_url": "https://github.com/fsinfuhh/Bitpoll",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "rss-bridge",
+   "description": "The RSS feed for websites missing it",
+   "project_link": "https://github.com/RSS-Bridge/rss-bridge",
+   "product_page_url": "https://github.com/RSS-Bridge/rss-bridge",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "WYGIWYH",
+   "description": "A simple but powerful self-hosted finance tracker",
+   "license": "AGPL-3.0 license",
+   "project_link": "https://github.com/eitchtee/WYGIWYH",
+   "product_page_url": "https://github.com/eitchtee/WYGIWYH",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "it-tools",
+   "description": "My additions (and of others) to it-tools! (Collection of handy online tools for developers, with great UX. )",
+   "license": "GPL-3.0 license",
+   "project_link": "https://github.com/sharevb/it-tools",
+   "product_page_url": "https://github.com/sharevb/it-tools",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "homepage",
+   "description": "A simple, standalone, self-hosted PHP page that is your window to your server and the web.",
+   "project_link": "https://github.com/tomershvueli/homepage",
+   "product_page_url": "https://github.com/tomershvueli/homepage",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "starbase-80",
+   "description": "A nice Docker homepage",
+   "project_link": "https://github.com/notclickable-jordan/starbase-80",
+   "product_page_url": "https://github.com/notclickable-jordan/starbase-80",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "awesome-bigdata",
+   "description": "A curated list of awesome big data frameworks, ressources and other awesomeness.",
+   "project_link": "https://github.com/oxnr/awesome-bigdata",
+   "product_page_url": "https://github.com/oxnr/awesome-bigdata",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "fusion",
+   "description": "A lightweight, self-hosted friendly RSS reader",
+   "project_link": "https://github.com/0x2E/fusion",
+   "product_page_url": "https://github.com/0x2E/fusion",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "rssmonster",
+   "description": "Modern, self-hosted RSS reader with smart folders, powerful search, and a clean three-pane reading experience. Built with Vue and Express.",
+   "project_link": "https://github.com/pietheinstrengholt/rssmonster",
+   "product_page_url": "https://github.com/pietheinstrengholt/rssmonster",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "wastebin",
+   "description": "wastebin is a pastebin 📝",
+   "project_link": "https://github.com/matze/wastebin",
+   "product_page_url": "https://github.com/matze/wastebin",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "Servas",
+   "description": "A self-hosted bookmark management tool.",
+   "license": "GPL-3.0 license",
+   "project_link": "https://github.com/beromir/Servas",
+   "product_page_url": "https://github.com/beromir/Servas",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "plik",
+   "description": "Plik is a temporary file upload system (Wetransfer like) in Go.",
+   "project_link": "https://github.com/root-gg/plik",
+   "product_page_url": "https://github.com/root-gg/plik",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "Christmas-Community",
+   "description": "Christmas lists for families",
+   "license": "AGPL-3.0 license",
+   "project_link": "https://github.com/Wingysam/Christmas-Community",
+   "product_page_url": "https://github.com/Wingysam/Christmas-Community",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "sish",
+   "description": "HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.",
+   "project_link": "https://github.com/antoniomika/sish",
+   "product_page_url": "https://github.com/antoniomika/sish",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "ConvertX",
+   "description": "💾 Self-hosted online file converter. Supports 1000+ formats ⚙️",
+   "license": "AGPL-3.0 license",
+   "project_link": "https://github.com/C4illin/ConvertX",
+   "product_page_url": "https://github.com/C4illin/ConvertX",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "poenskelisten",
+   "description": "A self-hosted application for sharing wishlists and collaborating on gifts and presents.",
+   "license": "GPL-3.0 license",
+   "project_link": "https://github.com/aunefyren/poenskelisten",
+   "product_page_url": "https://github.com/aunefyren/poenskelisten",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "shiori",
+   "description": "Simple bookmark manager built with Go",
+   "project_link": "https://github.com/go-shiori/shiori",
+   "product_page_url": "https://github.com/go-shiori/shiori",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "audioserve",
+   "description": "Simple personal server to serve audiofiles files from folders. Intended primarily for audio books, but anything with decent folder structure will do.",
+   "project_link": "https://github.com/izderadicka/audioserve",
+   "product_page_url": "https://github.com/izderadicka/audioserve",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "minimal-git-server",
+   "description": "Minimal git server running in a container (docker, podman...)",
+   "project_link": "https://github.com/mcarbonne/minimal-git-server",
+   "product_page_url": "https://github.com/mcarbonne/minimal-git-server",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "reader",
+   "description": "A Python feed reader library.",
+   "project_link": "https://github.com/lemon24/reader",
+   "product_page_url": "https://github.com/lemon24/reader",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "everydocs-core",
+   "description": "A simple Document Management System for private use with basic functionality to organize your documents digitally",
+   "license": "GPL-3.0 license",
+   "project_link": "https://github.com/jonashellmann/everydocs-core",
+   "product_page_url": "https://github.com/jonashellmann/everydocs-core",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "posio",
+   "description": "A multiplayer geography game using Websockets",
+   "project_link": "https://github.com/abrenaut/posio",
+   "product_page_url": "https://github.com/abrenaut/posio",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "cardea",
+   "description": "Cardea is an SSH bastion server with access control, session recording, and optional TPM-backed key protection.",
+   "project_link": "https://github.com/hectorm/cardea",
+   "product_page_url": "https://github.com/hectorm/cardea",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "awesome-sysadmin",
+   "description": "A curated list of amazingly awesome open-source sysadmin resources.",
+   "license": "GNU Affero General Public License 3.0 GNU General Public License 3.0 GNU Lesser General Public License v3",
+   "project_link": "https://github.com/awesome-foss/awesome-sysadmin",
+   "product_page_url": "https://github.com/awesome-foss/awesome-sysadmin",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "rapidbay",
+   "description": "Self-hosted torrent video streaming service compatible with Chromecast, AppleTV & Kodi deployable in the cloud",
+   "project_link": "https://github.com/hauxir/rapidbay",
+   "product_page_url": "https://github.com/hauxir/rapidbay/",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "opentrashmail",
+   "description": "Open Source standalone trashmail solution that ships its own mail server",
+   "project_link": "https://github.com/HaschekSolutions/opentrashmail",
+   "product_page_url": "https://github.com/HaschekSolutions/opentrashmail",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "ownfoil",
+   "description": "Nintendo Switch library manager, with automated management tasks, serving your library to multiple supported clients on your Switch, with shop customization and multi user authentication.",
+   "license": "AGPL-3.0 license",
+   "project_link": "https://github.com/a1ex4/ownfoil",
+   "product_page_url": "https://github.com/a1ex4/ownfoil",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "wishlist",
+   "description": "Wishlist is a self-hosted wishlist application that you can share with your friends and family. You no longer have to wonder what to get your family for the holidays, simply check their wishlist and claim any available item!",
+   "project_link": "https://github.com/cmintey/wishlist",
+   "product_page_url": "https://github.com/cmintey/wishlist",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "leafwiki",
+   "description": "LeafWiki - Self-hosted wiki. Single Go binary, SQLite, Markdown on disk. No external database required.",
+   "project_link": "https://github.com/perber/leafwiki",
+   "product_page_url": "https://github.com/perber/leafwiki",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "pingvin-share-x",
+   "description": "Pingvin Share X is a secure and easy self-hosted file sharing platform.",
+   "project_link": "https://github.com/smp46/pingvin-share-x",
+   "product_page_url": "https://github.com/smp46/pingvin-share-x",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "goeland",
+   "description": "Turn any RSS/Atom feed into a beautiful email digest",
+   "project_link": "https://github.com/slurdge/goeland",
+   "product_page_url": "https://github.com/slurdge/goeland",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "geneweb",
+   "project_link": "https://github.com/geneweb/geneweb",
+   "product_page_url": "https://github.com/geneweb/geneweb/wiki",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "Stirling-PDF",
+   "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
+   "project_link": "https://github.com/Stirling-Tools/Stirling-PDF",
+   "product_page_url": "https://github.com/Stirling-Tools/Stirling-PDF",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "feedmixer",
+   "description": "A self-hosted API to fetch and mix entries from Atom and RSS feeds (returns Atom, RSS, or JSON)",
+   "project_link": "https://github.com/cristoper/feedmixer",
+   "product_page_url": "https://github.com/cristoper/feedmixer",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "supysonic",
+   "description": "Supysonic is a Python implementation of the Subsonic server API.",
+   "license": "AGPL-3.0 license",
+   "project_link": "https://github.com/spl0k/supysonic",
+   "product_page_url": "https://github.com/spl0k/supysonic",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "ClipCascade",
+   "description": "ClipCascade is a lightweight utility that automatically syncs the clipboard across devices, no key press required.",
+   "license": "GPL-3.0 license",
+   "project_link": "https://github.com/Sathvik-Rao/ClipCascade",
+   "product_page_url": "https://github.com/Sathvik-Rao/ClipCascade",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "ryot",
+   "description": "Roll your own tracker!",
+   "license": "GPL-3.0 license",
+   "project_link": "https://github.com/IgnisDa/ryot",
+   "product_page_url": "https://github.com/ignisda/ryot",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "sharry",
+   "description": "Sharry is a self-hosted file sharing web application.",
+   "license": "GPLv3+ GPL-3.0 license",
+   "project_link": "https://github.com/eikek/sharry",
+   "product_page_url": "https://github.com/eikek/sharry",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "yarr",
+   "description": "yet another rss reader",
+   "project_link": "https://github.com/nkanaev/yarr",
+   "product_page_url": "https://github.com/nkanaev/yarr",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "Uguu",
+   "description": "Uguu is a simple lightweight temporary file host with support for drop, paste, click and API uploading.",
+   "license": "GPL-3.0 license",
+   "project_link": "https://github.com/nokonoko/Uguu",
+   "product_page_url": "https://github.com/nokonoko/uguu",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "handbrake-web",
+   "description": "A self-hosted platform to use HandBrake on your headless devices via a bespoke web interface. Harness the processing power of multiple devices to work on a single queue.",
+   "license": "AGPL-3.0 license",
+   "project_link": "https://github.com/TheNickOfTime/handbrake-web",
+   "product_page_url": "https://github.com/TheNickOfTime/handbrake-web",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "piga",
+   "description": "List editor for power users, backed by a self-hosted server",
+   "project_link": "https://github.com/nymanjens/piga",
+   "product_page_url": "https://github.com/nymanjens/piga",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "docat",
+   "description": "Host your docs. Simple. Versioned. Fancy.",
+   "project_link": "https://github.com/docat-org/docat",
+   "product_page_url": "https://github.com/docat-org/docat",
    "input": {
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
    }
@@ -400,207 +1220,20 @@
    }
   },
   {
-   "name": "ydl_api_ng",
+   "name": "Meelo",
+   "description": "Self-hosted Music Server. Focused on metadata integration & UI",
    "license": "GPL-3.0 license",
-   "project_link": "https://github.com/Totonyus/ydl_api_ng",
-   "product_page_url": "https://github.com/Totonyus/ydl_api_ng",
+   "project_link": "https://github.com/Arthi-chaud/Meelo",
+   "product_page_url": "https://github.com/Arthi-chaud/Meelo",
    "input": {
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
    }
   },
   {
-   "name": "MyMangaDB",
-   "description": "Self-hosted manga collection manager with automatic metadata, MyAnimeList import, Docker support, and detailed collection statistics.",
-   "license": "GPL-3.0 license",
-   "project_link": "https://github.com/FabianRolfMatthiasNoll/MyMangaDB",
-   "product_page_url": "https://github.com/FabianRolfMatthiasNoll/MyMangaDB",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "google-webfonts-helper",
-   "description": "A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets",
-   "project_link": "https://github.com/majodev/google-webfonts-helper",
-   "product_page_url": "https://github.com/majodev/google-webfonts-helper",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "redlib",
-   "description": "Private front-end for Reddit",
-   "license": "AGPL-3.0 license",
-   "project_link": "https://github.com/redlib-org/redlib",
-   "product_page_url": "https://github.com/redlib-org/redlib",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "shiori",
-   "description": "Simple bookmark manager built with Go",
-   "project_link": "https://github.com/go-shiori/shiori",
-   "product_page_url": "https://github.com/go-shiori/shiori",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "matchering",
-   "description": "🎚️ Open Source Audio Matching and Mastering",
-   "license": "GPL-3.0 license",
-   "project_link": "https://github.com/sergree/matchering",
-   "product_page_url": "https://github.com/sergree/matchering",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "Watcharr",
-   "description": "Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.",
-   "license": "GPL-3.0 license",
-   "project_link": "https://github.com/sbondCo/Watcharr",
-   "product_page_url": "https://github.com/sbondCo/Watcharr",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "tubesync",
-   "description": "Syncs YouTube channels and playlists to a locally hosted media server",
-   "license": "AGPL-3.0 license",
-   "project_link": "https://github.com/meeb/tubesync",
-   "product_page_url": "https://github.com/meeb/tubesync",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "warpgate",
-   "description": "Fully transparent SSH, HTTPS, Kubernetes, database and RDP/VNC bastion/PAM that doesn't need additional client-side software",
-   "project_link": "https://github.com/warp-tech/warpgate",
-   "product_page_url": "https://github.com/warp-tech/warpgate",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "2FAuth",
-   "description": "A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes",
-   "license": "AGPL-3.0 license",
-   "project_link": "https://github.com/Bubka/2FAuth",
-   "product_page_url": "https://github.com/Bubka/2FAuth",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "cmyflix",
-   "description": "cmyflix, a Netflix clone!",
-   "license": "AGPL-3.0 license",
-   "project_link": "https://github.com/farfalleflickan/cmyflix",
-   "product_page_url": "https://github.com/farfalleflickan/cmyflix",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "Wakupator",
-   "description": "Automatically starts machines based on incoming traffic, using smart local IP spoofing and Wake-on-LAN.",
-   "project_link": "https://github.com/Gibus21250/Wakupator",
-   "product_page_url": "https://github.com/Gibus21250/Wakupator",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "Razzia",
-   "description": "A self-hosted, open-source quiz platform for smaller events.",
-   "project_link": "https://github.com/Ralex91/Razzia",
-   "product_page_url": "https://github.com/Ralex91/Razzia",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "sshwifty",
-   "description": "Web SSH & Telnet (WebSSH & WebTelnet client) 🔮",
-   "license": "AGPL-3.0 license",
-   "project_link": "https://github.com/nirui/sshwifty",
-   "product_page_url": "https://github.com/nirui/sshwifty",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "VoucherVault",
-   "description": "Django web application to store and manage vouchers, coupons, loyalty and gift cards digitally. Supports PWA, offline caching, expiry notifications, transaction histories, file uploads and OIDC SSO.",
-   "license": "GPL-3.0 license",
-   "project_link": "https://github.com/l4rm4nd/VoucherVault",
-   "product_page_url": "https://github.com/l4rm4nd/VoucherVault",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "yt-dlp-web-ui",
-   "description": "A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.",
-   "license": "GPL-3.0 license",
-   "project_link": "https://github.com/marcopiovanello/yt-dlp-web-ui",
-   "product_page_url": "https://github.com/marcopiovanello/yt-dlp-web-ui",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "yarr",
-   "description": "yet another rss reader",
-   "project_link": "https://github.com/nkanaev/yarr",
-   "product_page_url": "https://github.com/nkanaev/yarr",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "wesnoth",
-   "description": "An open source, turn-based strategy game with a high fantasy theme.",
-   "project_link": "https://github.com/wesnoth/wesnoth",
-   "product_page_url": "https://github.com/wesnoth/wesnoth",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "product_page_url": "https://github.com/tinode",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "MyTube",
-   "description": "Self-hosted downloader and player for YouTube, Bilibili, Twitch, MissAV, and yt-dlp sites. Features channel subscriptions, auto-downloads, and local storage for media. Organize your library into collections with a sleek UI. Includes built-in Cloudflare Tunnel support for secure remote access without port forwarding. Docker-ready deployment.",
-   "project_link": "https://github.com/franklioxygen/MyTube",
-   "product_page_url": "https://github.com/franklioxygen/MyTube",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "UpSnap",
-   "description": "A simple wake on lan web app written with SvelteKit, Go and PocketBase.",
-   "project_link": "https://github.com/seriousm4x/UpSnap",
-   "product_page_url": "https://github.com/seriousm4x/UpSnap",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "gonic",
-   "description": "music streaming server / free-software subsonic server API implementation",
-   "license": "GPL-3.0 license",
-   "project_link": "https://github.com/sentriz/gonic",
-   "product_page_url": "https://github.com/sentriz/gonic",
+   "name": "CyberChef",
+   "description": "The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis",
+   "project_link": "https://github.com/gchq/CyberChef",
+   "product_page_url": "https://github.com/gchq/CyberChef",
    "input": {
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
    }
@@ -615,455 +1248,10 @@
    }
   },
   {
-   "name": "Yamtrack",
-   "description": "A self hosted media tracker.",
-   "license": "AGPL-3.0 license",
-   "project_link": "https://github.com/FuzzyGrim/Yamtrack",
-   "product_page_url": "https://github.com/FuzzyGrim/Yamtrack",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "opensourcepos",
-   "description": "Open Source Point of Sale is a web based point of sale application written in PHP using CodeIgniter framework. It uses MySQL as the data back end and has a Bootstrap 3 based user interface. If you like this project, please give it a star! Doing so helps maintain Popular OSS status for the project.",
-   "project_link": "https://github.com/opensourcepos/opensourcepos",
-   "product_page_url": "https://github.com/opensourcepos/opensourcepos",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "poenskelisten",
-   "description": "A self-hosted application for sharing wishlists and collaborating on gifts and presents.",
-   "license": "GPL-3.0 license",
-   "project_link": "https://github.com/aunefyren/poenskelisten",
-   "product_page_url": "https://github.com/aunefyren/poenskelisten",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "Trilium",
-   "description": "Build your personal knowledge base with Trilium Notes",
-   "license": "AGPL-3.0 license",
-   "project_link": "https://github.com/TriliumNext/Trilium",
-   "product_page_url": "https://github.com/TriliumNext/Trilium",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "signaturepdf",
-   "description": "Free open-source web software for signing PDF (alone or with others) and also organize pages, edit metadata and compress pdf",
-   "license": "AGPL-3.0 license",
-   "project_link": "https://github.com/24eme/signaturepdf",
-   "product_page_url": "https://github.com/24eme/signaturepdf",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "facto",
-   "description": "Family Accounting Tool",
-   "project_link": "https://github.com/nymanjens/facto",
-   "product_page_url": "https://github.com/nymanjens/facto",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "sure",
-   "description": "The personal finance app for everyone (by everyone)",
-   "project_link": "https://github.com/we-promise/sure",
-   "product_page_url": "https://github.com/we-promise/sure",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "youtube-dl-server",
-   "description": "Web / REST interface for downloading youtube videos onto a server.",
-   "project_link": "https://github.com/nbr23/youtube-dl-server",
-   "product_page_url": "https://github.com/nbr23/youtube-dl-server",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "slash",
-   "description": "An open source, self-hosted platform for sharing and managing your most frequently used links. Easily create customizable, human-readable shortcuts to streamline your link management.",
-   "license": "AGPL-3.0 license",
-   "project_link": "https://github.com/yourselfhosted/slash",
-   "product_page_url": "https://github.com/yourselfhosted/slash",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "polaris",
-   "description": "Polaris is a music streaming application, designed to let you enjoy your music collection from any computer or mobile device.",
-   "project_link": "https://github.com/agersant/polaris",
-   "product_page_url": "https://github.com/agersant/polaris",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "websurfx",
-   "description": "🚀 An open source alternative to searx which provides a modern-looking ✨, lightning-fast ⚡, privacy respecting 🥸, secure 🔒 meta search engine",
-   "license": "AGPL-3.0 license",
-   "project_link": "https://github.com/neon-mmd/websurfx",
-   "product_page_url": "https://github.com/neon-mmd/websurfx",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "it-tools",
-   "description": "My additions (and of others) to it-tools! (Collection of handy online tools for developers, with great UX. )",
-   "license": "GPL-3.0 license",
-   "project_link": "https://github.com/sharevb/it-tools",
-   "product_page_url": "https://github.com/sharevb/it-tools",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "feedmixer",
-   "description": "A self-hosted API to fetch and mix entries from Atom and RSS feeds (returns Atom, RSS, or JSON)",
-   "project_link": "https://github.com/cristoper/feedmixer",
-   "product_page_url": "https://github.com/cristoper/feedmixer",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "Spoolman",
-   "description": "Keep track of your inventory of 3D-printer filament spools.",
-   "project_link": "https://github.com/Donkie/Spoolman",
-   "product_page_url": "https://github.com/Donkie/Spoolman",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "WYGIWYH",
-   "description": "A simple but powerful self-hosted finance tracker",
-   "license": "AGPL-3.0 license",
-   "project_link": "https://github.com/eitchtee/WYGIWYH",
-   "product_page_url": "https://github.com/eitchtee/WYGIWYH",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "espial",
-   "description": "Espial is an open-source, web-based bookmarking server.",
-   "license": "AGPL-3.0 license",
-   "project_link": "https://github.com/jonschoning/espial",
-   "product_page_url": "https://github.com/jonschoning/espial",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "simplex-chat",
-   "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
-   "license": "AGPL-3.0 license",
-   "project_link": "https://github.com/simplex-chat/simplex-chat",
-   "product_page_url": "https://github.com/simplex-chat/simplex-chat",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "booklogr",
-   "description": "A simple, self-hosted service to keep track of your personal library 📚",
-   "project_link": "https://github.com/Mozzo1000/booklogr",
-   "product_page_url": "https://github.com/Mozzo1000/booklogr",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "rssmonster",
-   "description": "Modern, self-hosted RSS reader with smart folders, powerful search, and a clean three-pane reading experience. Built with Vue and Express.",
-   "project_link": "https://github.com/pietheinstrengholt/rssmonster",
-   "product_page_url": "https://github.com/pietheinstrengholt/rssmonster",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "OpenBudgeteer",
-   "description": "OpenBudgeteer is a budgeting app based on the Bucket Budgeting Principle",
-   "license": "AGPL-3.0 license",
-   "project_link": "https://github.com/TheAxelander/OpenBudgeteer",
-   "product_page_url": "https://github.com/TheAxelander/OpenBudgeteer",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "databag",
-   "description": "fast & lightweight self-hosted messenger",
-   "project_link": "https://github.com/balzack/databag",
-   "product_page_url": "https://github.com/balzack/databag",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "lha",
-   "description": "light home automation application",
-   "project_link": "https://github.com/javalikescript/lha",
-   "product_page_url": "https://github.com/javalikescript/lha",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "huginn",
-   "description": "Create agents that monitor and act on your behalf. Your agents are standing by!",
-   "project_link": "https://github.com/huginn/huginn",
-   "product_page_url": "https://github.com/huginn/huginn",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "shhh",
-   "description": "Share sensitive info without leaving a trace in your chat logs or email accounts.",
-   "project_link": "https://github.com/smallwat3r/shhh",
-   "product_page_url": "https://github.com/smallwat3r/shhh",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "bicimon",
-   "description": "Bike Speedometer",
-   "project_link": "https://github.com/knrdl/bicimon",
-   "product_page_url": "https://github.com/knrdl/bicimon",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "bubo-rss",
-   "description": "An irrationally minimalist, static feed reader (RSS, Atom, JSON) you can instantly deploy on Netlify, Glitch or your own server.",
-   "project_link": "https://github.com/georgemandis/bubo-rss",
-   "product_page_url": "https://github.com/georgemandis/bubo-rss",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "yopass",
-   "description": "Secure sharing of secrets, passwords and files",
-   "project_link": "https://github.com/jhaals/yopass",
-   "product_page_url": "https://github.com/jhaals/yopass",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "sish",
-   "description": "HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.",
-   "project_link": "https://github.com/antoniomika/sish",
-   "product_page_url": "https://github.com/antoniomika/sish",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "geo2tz",
-   "description": "A self-hostable REST-like API to get the time zone from geo coordinates",
-   "project_link": "https://github.com/noandrea/geo2tz",
-   "product_page_url": "https://github.com/noandrea/geo2tz",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "RecipeSage",
-   "description": "A Collaborative Recipe Keeper, Meal Planner, and Shopping List Organizer in PWA form.",
-   "project_link": "https://github.com/julianpoy/RecipeSage",
-   "product_page_url": "https://github.com/julianpoy/recipesage",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "Mikochi",
-   "description": "A minimalist file-manager with streaming capabilities",
-   "project_link": "https://github.com/zer0tonin/Mikochi",
-   "product_page_url": "https://github.com/zer0tonin/Mikochi",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "starbase-80",
-   "description": "A nice Docker homepage",
-   "project_link": "https://github.com/notclickable-jordan/starbase-80",
-   "product_page_url": "https://github.com/notclickable-jordan/starbase-80",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "OvenMediaEngine",
-   "description": "OvenMediaEngine (OME) is a Sub-Second Latency Live Streaming Server with Large-Scale and High-Definition. #WebRTC #LLHLS",
-   "license": "AGPL-3.0 license",
-   "project_link": "https://github.com/OvenMediaLabs/OvenMediaEngine",
-   "product_page_url": "https://github.com/OvenMediaLabs/OvenMediaEngine",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "chiyogami",
-   "description": "Yet another pastebin",
-   "project_link": "https://github.com/rhee876527/chiyogami",
-   "product_page_url": "https://github.com/rhee876527/chiyogami",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "your_spotify",
-   "description": "Self hosted Spotify tracking dashboard",
-   "license": "GPL-3.0 license",
-   "project_link": "https://github.com/Yooooomi/your_spotify",
-   "product_page_url": "https://github.com/Yooooomi/your_spotify",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "ClipCascade",
-   "description": "ClipCascade is a lightweight utility that automatically syncs the clipboard across devices, no key press required.",
-   "license": "GPL-3.0 license",
-   "project_link": "https://github.com/Sathvik-Rao/ClipCascade",
-   "product_page_url": "https://github.com/Sathvik-Rao/ClipCascade",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "sync",
-   "description": "Node.JS Server and JavaScript/HTML Client for synchronizing online media",
-   "project_link": "https://github.com/calzoneman/sync",
-   "product_page_url": "https://github.com/calzoneman/sync",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "Calibre-Web-Automated",
-   "description": "Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up!",
-   "license": "GPL-3.0 license",
-   "project_link": "https://github.com/crocodilestick/Calibre-Web-Automated",
-   "product_page_url": "https://github.com/crocodilestick/Calibre-Web-Automated",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "BinPastes",
-   "description": "An easy-to-use pastebin for self-hosters.",
-   "project_link": "https://github.com/querwurzel/BinPastes",
-   "product_page_url": "https://github.com/querwurzel/BinPastes",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "piqueserver",
-   "description": "An Ace of Spades 0.75 server based on PySnip.",
-   "license": "GPL-3.0 license",
-   "project_link": "https://github.com/piqueserver/piqueserver",
-   "product_page_url": "https://github.com/piqueserver/piqueserver",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "Picsur",
-   "description": "An easy to use, selfhostable image sharing service like Imgur with built in converting",
-   "license": "AGPL-3.0 license",
-   "project_link": "https://github.com/CaramelFur/Picsur",
-   "product_page_url": "https://github.com/CaramelFur/Picsur",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "Uguu",
-   "description": "Uguu is a simple lightweight temporary file host with support for drop, paste, click and API uploading.",
-   "license": "GPL-3.0 license",
-   "project_link": "https://github.com/nokonoko/Uguu",
-   "product_page_url": "https://github.com/nokonoko/uguu",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "ryot",
-   "description": "Roll your own tracker!",
-   "license": "GPL-3.0 license",
-   "project_link": "https://github.com/IgnisDa/ryot",
-   "product_page_url": "https://github.com/ignisda/ryot",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "ByteStash",
-   "description": "A code snippet storage solution written in React & node.js",
-   "license": "GPL-3.0 license",
-   "project_link": "https://github.com/jordan-dalby/ByteStash",
-   "product_page_url": "https://github.com/jordan-dalby/ByteStash",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "photofield",
-   "description": "A self-hosted non-invasive single-binary photo gallery with a focus on speed and simplicity.",
-   "project_link": "https://github.com/SmilyOrg/photofield",
-   "product_page_url": "https://github.com/SmilyOrg/photofield",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "copyparty",
-   "description": "Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file",
-   "project_link": "https://github.com/9001/copyparty",
-   "product_page_url": "https://github.com/9001/copyparty",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "filesharing",
-   "description": "Self-hosted files sharing application, easy to setup, easy to use",
-   "license": "GPL-3.0 license",
-   "project_link": "https://github.com/axeloz/filesharing",
-   "product_page_url": "https://github.com/axeloz/filesharing",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "wayback",
-   "description": "An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, Ghostarchive, IPFS, Telegraph, and file systems.",
-   "license": "GPL-3.0 license",
-   "project_link": "https://github.com/wabarc/wayback",
-   "product_page_url": "https://github.com/wabarc/wayback",
+   "name": "code-server",
+   "description": "VS Code in the browser",
+   "project_link": "https://github.com/coder/code-server",
+   "product_page_url": "https://github.com/coder/code-server",
    "input": {
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
    }
@@ -1078,152 +1266,37 @@
    }
   },
   {
-   "name": "tracim",
-   "description": "Threads, files and pages with status and full history. All in the same place.",
-   "project_link": "https://github.com/tracim/tracim",
-   "product_page_url": "https://github.com/tracim/tracim",
+   "name": "nextcloudpi",
+   "description": "📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, curl installer...",
+   "project_link": "https://github.com/nextcloud/nextcloudpi",
+   "product_page_url": "https://github.com/nextcloud/nextcloudpi",
    "input": {
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
    }
   },
   {
-   "name": "vaultwarden",
-   "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
-   "license": "AGPL-3.0 license",
-   "project_link": "https://github.com/dani-garcia/vaultwarden",
-   "product_page_url": "https://github.com/dani-garcia/vaultwarden",
+   "name": "meme-search",
+   "description": "The open source Meme Search Engine and Finder. Free and built to self-host locally with Python, Ruby, and Docker.",
+   "project_link": "https://github.com/neonwatty/meme-search",
+   "product_page_url": "https://github.com/neonwatty/meme-search",
    "input": {
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
    }
   },
   {
-   "name": "rapidbay",
-   "description": "Self-hosted torrent video streaming service compatible with Chromecast, AppleTV & Kodi deployable in the cloud",
-   "project_link": "https://github.com/hauxir/rapidbay",
-   "product_page_url": "https://github.com/hauxir/rapidbay/",
+   "name": "flatnotes",
+   "description": "A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.",
+   "project_link": "https://github.com/dullage/flatnotes",
+   "product_page_url": "https://github.com/dullage/flatnotes",
    "input": {
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
    }
   },
   {
-   "name": "ganymede",
-   "description": "Twitch VOD and Live Stream archiving platform. Includes a rendered and real-time chat for each archive.",
-   "license": "GPL-3.0 license",
-   "project_link": "https://github.com/Zibbp/ganymede",
-   "product_page_url": "https://github.com/Zibbp/ganymede",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "ConvertX",
-   "description": "💾 Self-hosted online file converter. Supports 1000+ formats ⚙️",
-   "license": "AGPL-3.0 license",
-   "project_link": "https://github.com/C4illin/ConvertX",
-   "product_page_url": "https://github.com/C4illin/ConvertX",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "WatchYourLAN",
-   "description": "Lightweight network IP scanner written in Go. With notifications, history, export to Grafana",
-   "project_link": "https://github.com/aceberg/WatchYourLAN",
-   "product_page_url": "https://github.com/aceberg/WatchYourLAN",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "xandikos",
-   "description": "A CalDAV/CardDAV server backed by Git",
-   "license": "GPL-3.0 license",
-   "project_link": "https://github.com/jelmer/xandikos",
-   "product_page_url": "https://github.com/jelmer/xandikos",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "pinchflat",
-   "description": "Your next YouTube media manager",
-   "license": "AGPL-3.0 license",
-   "project_link": "https://github.com/kieraneglin/pinchflat",
-   "product_page_url": "https://github.com/kieraneglin/pinchflat",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "EDA",
-   "description": "Edalitics is an open-source business intelligence platform that lets you build interactive dashboards, analyze data from multiple sources, and connect AI assistants to your business data in minutes.",
-   "license": "AGPL-3.0 license",
-   "project_link": "https://github.com/jortilles/EDA",
-   "product_page_url": "https://github.com/jortilles/EDA",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "cardea",
-   "description": "Cardea is an SSH bastion server with access control, session recording, and optional TPM-backed key protection.",
-   "project_link": "https://github.com/hectorm/cardea",
-   "product_page_url": "https://github.com/hectorm/cardea",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "blackcandy",
-   "description": "A self hosted music streaming server",
-   "project_link": "https://github.com/blackcandy-org/blackcandy",
-   "product_page_url": "https://github.com/blackcandy-org/blackcandy",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "manticoresearch",
-   "description": "Open-source search database for full-text, vector, and hybrid search with real-time indexing and SQL.",
-   "license": "GPL-3.0 license",
-   "project_link": "https://github.com/manticoresoftware/manticoresearch",
-   "product_page_url": "https://github.com/manticoresoftware/manticoresearch/",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "Vane",
-   "description": "Vane is an AI-powered answering engine.",
-   "project_link": "https://github.com/ItzCrazyKns/Vane",
-   "product_page_url": "https://github.com/ItzCrazyKns/Vane",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "pingvin-share-x",
-   "description": "Pingvin Share X is a secure and easy self-hosted file sharing platform.",
-   "project_link": "https://github.com/smp46/pingvin-share-x",
-   "product_page_url": "https://github.com/smp46/pingvin-share-x",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "ExpenseOwl",
-   "description": "Extremely simple, self-hosted expense tracker with a beautiful UI.",
-   "project_link": "https://github.com/Tanq16/ExpenseOwl",
-   "product_page_url": "https://github.com/tanq16/expenseowl",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "rss2email",
-   "description": "Forward RSS feeds to your email address, community maintained",
-   "project_link": "https://github.com/rss2email/rss2email",
-   "product_page_url": "https://github.com/rss2email/rss2email",
+   "name": "Simple-URL-Shortener",
+   "description": "GIT MIRROR: url shortener written in php (with MySQL or SQLite) with history by users",
+   "project_link": "https://github.com/azlux/Simple-URL-Shortener",
+   "product_page_url": "https://github.com/azlux/Simple-URL-Shortener",
    "input": {
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
    }
@@ -1239,573 +1312,6 @@
    }
   },
   {
-   "name": "meme-search",
-   "description": "The open source Meme Search Engine and Finder. Free and built to self-host locally with Python, Ruby, and Docker.",
-   "project_link": "https://github.com/neonwatty/meme-search",
-   "product_page_url": "https://github.com/neonwatty/meme-search",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "seaweedfs",
-   "description": "SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.",
-   "project_link": "https://github.com/seaweedfs/seaweedfs",
-   "product_page_url": "https://github.com/seaweedfs/seaweedfs",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "psitransfer",
-   "description": "Simple open source self-hosted file sharing solution.",
-   "project_link": "https://github.com/psi-4ward/psitransfer",
-   "product_page_url": "https://github.com/psi-4ward/psitransfer",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "reader",
-   "description": "A Python feed reader library.",
-   "project_link": "https://github.com/lemon24/reader",
-   "product_page_url": "https://github.com/lemon24/reader",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "local-deep-research",
-   "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
-   "project_link": "https://github.com/LearningCircuit/local-deep-research",
-   "product_page_url": "https://github.com/LearningCircuit/local-deep-research",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "ustreamer",
-   "description": "µStreamer - Lightweight and fast MJPEG-HTTP streamer",
-   "license": "GPL-3.0 license",
-   "project_link": "https://github.com/pikvm/ustreamer",
-   "product_page_url": "https://github.com/pikvm/ustreamer",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "code-server",
-   "description": "VS Code in the browser",
-   "project_link": "https://github.com/coder/code-server",
-   "product_page_url": "https://github.com/coder/code-server",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "self-hosted",
-   "description": "Self-hosted version of webtor.io implemented as an all-in-one Docker image",
-   "project_link": "https://github.com/webtor-io/self-hosted",
-   "product_page_url": "https://github.com/webtor-io/self-hosted",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "movary",
-   "description": "Self hosted web app to track and rate your watched movies",
-   "project_link": "https://github.com/leepeuker/movary",
-   "product_page_url": "https://github.com/leepeuker/movary",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "hubleys-dashboard",
-   "description": "Hubleys Brave New Dashboard",
-   "project_link": "https://github.com/knrdl/hubleys-dashboard",
-   "product_page_url": "https://github.com/knrdl/hubleys-dashboard",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "Shaarli",
-   "description": "The personal, minimalist, super-fast, database free, bookmarking service - community repo",
-   "project_link": "https://github.com/shaarli/Shaarli",
-   "product_page_url": "https://github.com/shaarli/Shaarli",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "docat",
-   "description": "Host your docs. Simple. Versioned. Fancy.",
-   "project_link": "https://github.com/docat-org/docat",
-   "product_page_url": "https://github.com/docat-org/docat",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "Gokapi",
-   "description": "Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.",
-   "license": "AGPL-3.0 license",
-   "project_link": "https://github.com/Forceu/Gokapi",
-   "product_page_url": "https://github.com/Forceu/gokapi",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "Youtarr",
-   "description": "Self-hosted web app that automates downloading, organizing, and scheduling YouTube channel content with support for Plex, Kodi, Emby and Jellyfin",
-   "project_link": "https://github.com/DialmasterOrg/Youtarr",
-   "product_page_url": "https://github.com/DialmasterOrg/Youtarr",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "ifm",
-   "description": "Improved File Manager",
-   "project_link": "https://github.com/misterunknown/ifm",
-   "product_page_url": "https://github.com/misterunknown/ifm",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "socks5-proxy-server",
-   "description": "SOCKS5 proxy server",
-   "project_link": "https://github.com/nskondratev/socks5-proxy-server",
-   "product_page_url": "https://github.com/nskondratev/socks5-proxy-server",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "jetlog",
-   "description": "Personal flight tracker and viewer",
-   "project_link": "https://github.com/pbogre/jetlog",
-   "product_page_url": "https://github.com/pbogre/jetlog",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "piga",
-   "description": "List editor for power users, backed by a self-hosted server",
-   "project_link": "https://github.com/nymanjens/piga",
-   "product_page_url": "https://github.com/nymanjens/piga",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "snapcast",
-   "description": "Synchronous multiroom audio player",
-   "license": "GPL-3.0 license",
-   "project_link": "https://github.com/snapcast/snapcast",
-   "product_page_url": "https://github.com/snapcast/snapcast",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "mkvpriority",
-   "description": "Assigns priority scores to audio and subtitle tracks in MKV files",
-   "project_link": "https://github.com/kennethsible/mkvpriority",
-   "product_page_url": "https://github.com/kennethsible/mkvpriority",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "sharry",
-   "description": "Sharry is a self-hosted file sharing web application.",
-   "license": "GPLv3+ GPL-3.0 license",
-   "project_link": "https://github.com/eikek/sharry",
-   "product_page_url": "https://github.com/eikek/sharry",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "goeland",
-   "description": "Turn any RSS/Atom feed into a beautiful email digest",
-   "project_link": "https://github.com/slurdge/goeland",
-   "product_page_url": "https://github.com/slurdge/goeland",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "neonlink",
-   "description": "Simple self-hosted bookmark service.",
-   "project_link": "https://github.com/AlexSciFier/neonlink",
-   "product_page_url": "https://github.com/AlexSciFier/neonlink",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "Simple-URL-Shortener",
-   "description": "GIT MIRROR: url shortener written in php (with MySQL or SQLite) with history by users",
-   "project_link": "https://github.com/azlux/Simple-URL-Shortener",
-   "product_page_url": "https://github.com/azlux/Simple-URL-Shortener",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "posio",
-   "description": "A multiplayer geography game using Websockets",
-   "project_link": "https://github.com/abrenaut/posio",
-   "product_page_url": "https://github.com/abrenaut/posio",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "librephotos",
-   "description": "A self-hosted open source photo management service.",
-   "project_link": "https://github.com/LibrePhotos/librephotos",
-   "product_page_url": "https://github.com/LibrePhotos/librephotos",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "buku",
-   "description": "🔖 Personal mini-web in text",
-   "license": "GPL-3.0 license",
-   "project_link": "https://github.com/jarun/buku",
-   "product_page_url": "https://github.com/jarun/Buku",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "Servas",
-   "description": "A self-hosted bookmark management tool.",
-   "license": "GPL-3.0 license",
-   "project_link": "https://github.com/beromir/Servas",
-   "product_page_url": "https://github.com/beromir/Servas",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "snipo",
-   "description": "Single user snippet manager web app.",
-   "license": "AGPL-3.0 license",
-   "project_link": "https://github.com/MohamedElashri/snipo",
-   "product_page_url": "https://github.com/MohamedElashri/snipo",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "slskd",
-   "description": "A modern client-server application for the Soulseek file sharing network.",
-   "license": "AGPL-3.0 license",
-   "project_link": "https://github.com/slskd/slskd",
-   "product_page_url": "https://github.com/slskd/slskd",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "leafwiki",
-   "description": "LeafWiki - Self-hosted wiki. Single Go binary, SQLite, Markdown on disk. No external database required.",
-   "project_link": "https://github.com/perber/leafwiki",
-   "product_page_url": "https://github.com/perber/leafwiki",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "Christmas-Community",
-   "description": "Christmas lists for families",
-   "license": "AGPL-3.0 license",
-   "project_link": "https://github.com/Wingysam/Christmas-Community",
-   "product_page_url": "https://github.com/Wingysam/Christmas-Community",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "invidious",
-   "description": "Invidious is an alternative front-end to YouTube",
-   "license": "AGPL-3.0 license",
-   "project_link": "https://github.com/iv-org/invidious",
-   "product_page_url": "https://github.com/iv-org/invidious",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "whitebophir",
-   "description": "Online collaborative Whiteboard that is simple, free, easy to use and to deploy",
-   "license": "AGPL-3.0 license",
-   "project_link": "https://github.com/lovasoa/whitebophir",
-   "product_page_url": "https://github.com/lovasoa/whitebophir",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "picoshare",
-   "description": "A minimalist, easy-to-host service for sharing images and other files",
-   "project_link": "https://github.com/mtlynch/picoshare",
-   "product_page_url": "https://github.com/mtlynch/picoshare",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "sup3rS3cretMes5age",
-   "description": "Simple to use, simple to deploy, one time self destruct messaging service, with hashicorp vault as a backend",
-   "project_link": "https://github.com/algolia/sup3rS3cretMes5age",
-   "product_page_url": "https://github.com/algolia/sup3rS3cretMes5age",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "gaseous-server",
-   "description": "A game ROM manager, with a built in web based emulator using multiple sources to identify and provide metadata",
-   "license": "AGPL-3.0 license",
-   "project_link": "https://github.com/gaseous-project/gaseous-server",
-   "product_page_url": "https://github.com/gaseous-project/gaseous-server",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "gollum",
-   "description": "A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content.",
-   "project_link": "https://github.com/gollum/gollum",
-   "product_page_url": "https://github.com/gollum/gollum",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "rss-bridge",
-   "description": "The RSS feed for websites missing it",
-   "project_link": "https://github.com/RSS-Bridge/rss-bridge",
-   "product_page_url": "https://github.com/RSS-Bridge/rss-bridge",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "glowing-bear",
-   "description": "A web client for WeeChat",
-   "license": "GPL-3.0 license",
-   "project_link": "https://github.com/glowing-bear/glowing-bear",
-   "product_page_url": "https://github.com/glowing-bear/glowing-bear",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "expressa",
-   "description": "API creation middleware with an admin interface",
-   "project_link": "https://github.com/thomas4019/expressa",
-   "product_page_url": "https://github.com/thomas4019/expressa",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "transfer.sh",
-   "description": "Easy and fast file sharing from the command-line.",
-   "project_link": "https://github.com/dutchcoders/transfer.sh",
-   "product_page_url": "https://github.com/dutchcoders/transfer.sh",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "immich-kiosk",
-   "description": "Highly configurable slideshows for displaying Immich assets on browsers and devices.",
-   "license": "AGPL-3.0 license",
-   "project_link": "https://github.com/damongolding/immich-kiosk",
-   "product_page_url": "https://github.com/damongolding/immich-kiosk",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "flatnotes",
-   "description": "A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.",
-   "project_link": "https://github.com/dullage/flatnotes",
-   "product_page_url": "https://github.com/dullage/flatnotes",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "deleterr",
-   "description": "Automated Plex media cleanup with watch-based rules, smart exclusions, and \"Leaving Soon\" notifications via Radarr, Sonarr & Tautulli.",
-   "project_link": "https://github.com/rfsbraz/deleterr",
-   "product_page_url": "https://github.com/rfsbraz/deleterr",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "miniserve",
-   "description": "🌟 For when you really just want to serve some files over HTTP right now!",
-   "project_link": "https://github.com/svenstaro/miniserve",
-   "product_page_url": "https://github.com/svenstaro/miniserve",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "handbrake-web",
-   "description": "A self-hosted platform to use HandBrake on your headless devices via a bespoke web interface. Harness the processing power of multiple devices to work on a single queue.",
-   "license": "AGPL-3.0 license",
-   "project_link": "https://github.com/TheNickOfTime/handbrake-web",
-   "product_page_url": "https://github.com/TheNickOfTime/handbrake-web",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "wanderer",
-   "description": "wanderer is a self-hosted trail database. Save your adventures!",
-   "license": "AGPL-3.0 license",
-   "project_link": "https://github.com/open-wanderer/wanderer",
-   "product_page_url": "https://github.com/open-wanderer/wanderer",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "bindery",
-   "description": "Drop e-books and comics into a folder, get Kobo/Kindle-ready files out. kepubify + KCC with a WebUI, in one Docker image.",
-   "project_link": "https://github.com/jarynclouatre/bindery",
-   "product_page_url": "https://github.com/jarynclouatre/bindery",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "selfhostblocks",
-   "description": "Modular server management based on NixOS modules and focused on best practices.",
-   "license": "AGPL-3.0 license",
-   "project_link": "https://github.com/ibizaman/selfhostblocks",
-   "product_page_url": "https://github.com/ibizaman/selfhostblocks",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "server",
-   "description": "A simple server for push notifications via Matrix (and a minimalistic alternative to Pushover and Gotify) 🚀📯",
-   "project_link": "https://github.com/pushbits/server",
-   "product_page_url": "https://github.com/pushbits/server",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "dma",
-   "description": "The DragonFly Mail Agent, a small Mail Transport Agent (MTA), designed for home and office use.",
-   "project_link": "https://github.com/corecode/dma",
-   "product_page_url": "https://github.com/corecode/dma",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "wastebin",
-   "description": "wastebin is a pastebin 📝",
-   "project_link": "https://github.com/matze/wastebin",
-   "product_page_url": "https://github.com/matze/wastebin",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "SyncTube",
-   "description": "Synchronized video viewing with chat and other features (one-channel web service)",
-   "project_link": "https://github.com/RblSb/SyncTube",
-   "product_page_url": "https://github.com/RblSb/SyncTube",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "rustypaste",
-   "description": "A minimal file upload/pastebin service.",
-   "project_link": "https://github.com/orhun/rustypaste",
-   "product_page_url": "https://github.com/orhun/rustypaste",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "LidaTube",
-   "description": "Find and download missing Lidarr albums via yt-dlp.",
-   "license": "GPL-3.0 license",
-   "project_link": "https://github.com/TheWicklowWolf/LidaTube",
-   "product_page_url": "https://github.com/TheWicklowWolf/LidaTube",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "analog",
-   "description": "A minimal analytics tool to self-host.",
-   "project_link": "https://github.com/orangecoloured/analog",
-   "product_page_url": "https://github.com/orangecoloured/analog",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "scribble.rs",
-   "description": "The free and privacy respecting pictionary game - Play at https://scribblers.bios-marcel.link",
-   "project_link": "https://github.com/scribble-rs/scribble.rs",
-   "product_page_url": "https://github.com/scribble-rs/scribble.rs",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "Flare",
-   "description": "A modern, lightning-fast file sharing platform built for self-hosting. Created with support for ShareX, KDE Spectacle, Flameshot, and easy to set up.",
-   "project_link": "https://github.com/FlintSH/Flare",
-   "product_page_url": "https://github.com/FlintSH/Flare",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "Socioboard-5.0",
-   "description": "Socioboard is world's first and open source Social Technology Enabler. Socioboard Core is our flagship product.",
-   "project_link": "https://github.com/socioboard/Socioboard-5.0",
-   "product_page_url": "https://github.com/socioboard/Socioboard-5.0",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "mycart",
-   "description": "🛒 myCart - shopping cart in 1 file with card and cryptocurrency payment support",
-   "project_link": "https://github.com/shurco/mycart",
-   "product_page_url": "https://github.com/shurco/mycart",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
    "name": "BookBounty",
    "description": "Retrieve missing Readarr books from Library Genesis.",
    "project_link": "https://github.com/TheWicklowWolf/BookBounty",
@@ -1815,11 +1321,30 @@
    }
   },
   {
-   "name": "teikei",
-   "description": "A web application that maps out community-supported agriculture in Germany, Switzerland, and Austria, based on crowdsourced data.",
-   "license": "AGPL-3.0 license",
-   "project_link": "https://github.com/teikei/teikei",
-   "product_page_url": "https://github.com/teikei/teikei",
+   "name": "filesharing",
+   "description": "Self-hosted files sharing application, easy to setup, easy to use",
+   "license": "GPL-3.0 license",
+   "project_link": "https://github.com/axeloz/filesharing",
+   "product_page_url": "https://github.com/axeloz/filesharing",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "booklogr",
+   "description": "A simple, self-hosted service to keep track of your personal library 📚",
+   "project_link": "https://github.com/Mozzo1000/booklogr",
+   "product_page_url": "https://github.com/Mozzo1000/booklogr",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "piqueserver",
+   "description": "An Ace of Spades 0.75 server based on PySnip.",
+   "license": "GPL-3.0 license",
+   "project_link": "https://github.com/piqueserver/piqueserver",
+   "product_page_url": "https://github.com/piqueserver/piqueserver",
    "input": {
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
    }
@@ -1835,179 +1360,39 @@
    }
   },
   {
-   "name": "seerr",
-   "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
-   "project_link": "https://github.com/seerr-team/seerr",
-   "product_page_url": "https://github.com/seerr-team/seerr",
+   "name": "apprise",
+   "description": "Apprise - Push Notifications that work with just about every platform!",
+   "project_link": "https://github.com/caronc/apprise",
+   "product_page_url": "https://github.com/caronc/apprise",
    "input": {
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
    }
   },
   {
-   "name": "beaverhabits",
-   "description": "A self-hosted habit tracking app without \"Goals\"",
-   "project_link": "https://github.com/daya0576/beaverhabits",
-   "product_page_url": "https://github.com/daya0576/beaverhabits",
+   "name": "WatchYourLAN",
+   "description": "Lightweight network IP scanner written in Go. With notifications, history, export to Grafana",
+   "project_link": "https://github.com/aceberg/WatchYourLAN",
+   "product_page_url": "https://github.com/aceberg/WatchYourLAN",
    "input": {
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
    }
   },
   {
-   "name": "teslamate",
-   "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer= @JakobLichterfeld ]",
+   "name": "tiramisu",
+   "description": "The most advanced BitTorrent engine and FUSE virtual filesystem for live streaming to your private Plex/Jellyfin library. Forget Real-Debrid.",
+   "license": "GPL-3.0 license",
+   "project_link": "https://github.com/MrRobotoGit/tiramisu",
+   "product_page_url": "https://github.com/MrRobotoGit/tiramisu",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "snappymail",
+   "description": "Simple, modern & fast web-based email client",
    "license": "AGPL-3.0 license",
-   "project_link": "https://github.com/teslamate-org/teslamate",
-   "product_page_url": "https://github.com/teslamate-org/teslamate",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "homepage",
-   "description": "A simple, standalone, self-hosted PHP page that is your window to your server and the web.",
-   "project_link": "https://github.com/tomershvueli/homepage",
-   "product_page_url": "https://github.com/tomershvueli/homepage",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "homepage",
-   "description": "A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.",
-   "license": "GPL-3.0 license",
-   "project_link": "https://github.com/gethomepage/homepage",
-   "product_page_url": "https://github.com/gethomepage/homepage",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "iSponsorBlockTV",
-   "description": "SponsorBlock client for all YouTube TV clients.",
-   "license": "GPL-3.0 license",
-   "project_link": "https://github.com/dmunozv04/iSponsorBlockTV",
-   "product_page_url": "https://github.com/dmunozv04/iSponsorBlockTV",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "DVinyl",
-   "description": "DVinyl is a self-hostable collection management platform for collectors. Catalog, organize and track physical media and collectibles with custom item types, rich metadata, multi-collection support, authentication, and powerful import tools.",
-   "project_link": "https://github.com/Kyonew/DVinyl",
-   "product_page_url": "https://github.com/Kyonew/DVinyl",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "bichon",
-   "description": "Bichon – A lightweight, high-performance Rust email archiver with WebUI",
-   "license": "AGPL-3.0 license",
-   "project_link": "https://github.com/rustmailer/bichon",
-   "product_page_url": "https://github.com/rustmailer/bichon",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "utask",
-   "description": "µTask is an automation engine that models and executes business processes declared in yaml. ✏️📋",
-   "project_link": "https://github.com/ovh/utask",
-   "product_page_url": "https://github.com/ovh/utask",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "Meelo",
-   "description": "Self-hosted Music Server. Focused on metadata integration & UI",
-   "license": "GPL-3.0 license",
-   "project_link": "https://github.com/Arthi-chaud/Meelo",
-   "product_page_url": "https://github.com/Arthi-chaud/Meelo",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "nullboard",
-   "description": "Nullboard is a minimalist kanban board, focused on compactness and readability.",
-   "project_link": "https://github.com/apankrat/nullboard",
-   "product_page_url": "https://github.com/apankrat/nullboard",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "awesome-sysadmin",
-   "description": "A curated list of amazingly awesome open-source sysadmin resources.",
-   "license": "GNU Affero General Public License 3.0 GNU General Public License 3.0 GNU Lesser General Public License v3",
-   "project_link": "https://github.com/awesome-foss/awesome-sysadmin",
-   "product_page_url": "https://github.com/awesome-foss/awesome-sysadmin",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "Hypersomnia",
-   "description": "Multiplayer top-down shooter made from scratch in C++. Web version: https://play.hypersomnia.io Made in 🇵🇱",
-   "license": "AGPL-3.0 license",
-   "project_link": "https://github.com/TeamHypersomnia/Hypersomnia",
-   "product_page_url": "https://github.com/TeamHypersomnia/Hypersomnia",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "davis",
-   "description": "🗓 A modern, simple, feature-packed, fully translatable admin interface for sabre/dav based on Symfony 7 and Bootstrap",
-   "project_link": "https://github.com/tchapi/davis",
-   "product_page_url": "https://github.com/tchapi/davis",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "many-notes",
-   "description": "Markdown note-taking web application designed for simplicity",
-   "project_link": "https://github.com/brufdev/many-notes",
-   "product_page_url": "https://github.com/brufdev/many-notes",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "mail-archiver",
-   "description": "Mail-Archiver is a web application for archiving, searching, and exporting emails from multiple accounts. Featuring folder sync, attachment support, mailbox migration and a dashboard.",
-   "license": "GPL-3.0 license",
-   "project_link": "https://github.com/s1t5/mail-archiver",
-   "product_page_url": "https://github.com/s1t5/mail-archiver",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "harbor",
-   "description": "Stop configuring your AI stack. Start using it. One command brings a complete pre-wired LLM stack with hundreds of services to explore.",
-   "project_link": "https://github.com/av/harbor",
-   "product_page_url": "https://github.com/av/harbor",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "audioserve",
-   "description": "Simple personal server to serve audiofiles files from folders. Intended primarily for audio books, but anything with decent folder structure will do.",
-   "project_link": "https://github.com/izderadicka/audioserve",
-   "product_page_url": "https://github.com/izderadicka/audioserve",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "listaway",
-   "project_link": "https://github.com/jeffrpowell/listaway",
-   "product_page_url": "https://github.com/jeffrpowell/listaway/",
+   "project_link": "https://github.com/the-djmaze/snappymail",
+   "product_page_url": "https://github.com/the-djmaze/snappymail",
    "input": {
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
    }
@@ -2022,141 +1407,65 @@
    }
   },
   {
-   "name": "django-wiki",
-   "description": "A wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models.",
-   "license": "GPL-3.0 license",
-   "project_link": "https://github.com/django-wiki/django-wiki",
-   "product_page_url": "https://github.com/django-wiki/django-wiki",
+   "name": "harbor",
+   "description": "Stop configuring your AI stack. Start using it. One command brings a complete pre-wired LLM stack with hundreds of services to explore.",
+   "project_link": "https://github.com/av/harbor",
+   "product_page_url": "https://github.com/av/harbor",
    "input": {
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
    }
   },
   {
-   "name": "kriss_feed",
-   "description": "A simple and smart (or stupid) feed reader",
-   "project_link": "https://github.com/tontof/kriss_feed",
-   "product_page_url": "https://github.com/tontof/kriss_feed",
+   "name": "Spoolman",
+   "description": "Keep track of your inventory of 3D-printer filament spools.",
+   "project_link": "https://github.com/Donkie/Spoolman",
+   "product_page_url": "https://github.com/Donkie/Spoolman",
    "input": {
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
    }
   },
   {
-   "name": "fusion",
-   "description": "A lightweight, self-hosted friendly RSS reader",
-   "project_link": "https://github.com/0x2E/fusion",
-   "product_page_url": "https://github.com/0x2E/fusion",
+   "name": "gollum",
+   "description": "A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content.",
+   "project_link": "https://github.com/gollum/gollum",
+   "product_page_url": "https://github.com/gollum/gollum",
    "input": {
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
    }
   },
   {
-   "name": "url-to-png",
-   "description": "Selfhosted. URL to PNG utility featuring parallel rendering using Playwright for screenshots and with storage caching via Local, S3, or CouchDB",
-   "project_link": "https://github.com/jasonraimondi/url-to-png",
-   "product_page_url": "https://github.com/jasonraimondi/url-to-png",
+   "name": "ifm",
+   "description": "Improved File Manager",
+   "project_link": "https://github.com/misterunknown/ifm",
+   "product_page_url": "https://github.com/misterunknown/ifm",
    "input": {
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
    }
   },
   {
-   "name": "ownfoil",
-   "description": "Nintendo Switch library manager, with automated management tasks, serving your library to multiple supported clients on your Switch, with shop customization and multi user authentication.",
-   "license": "AGPL-3.0 license",
-   "project_link": "https://github.com/a1ex4/ownfoil",
-   "product_page_url": "https://github.com/a1ex4/ownfoil",
+   "name": "huginn",
+   "description": "Create agents that monitor and act on your behalf. Your agents are standing by!",
+   "project_link": "https://github.com/huginn/huginn",
+   "product_page_url": "https://github.com/huginn/huginn",
    "input": {
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
    }
   },
   {
-   "name": "glance",
-   "description": "A self-hosted dashboard that puts all your feeds in one place",
-   "license": "AGPL-3.0 license",
-   "project_link": "https://github.com/glanceapp/glance",
-   "product_page_url": "https://github.com/glanceapp/glance",
+   "name": "gocron",
+   "description": "A task scheduler built with Go and Vue.js that allows users to specify recurring jobs via a simple YAML configuration file. The scheduler reads job definitions, executes commands at specified times using cron expressions, and passes in environment variables for each job.",
+   "project_link": "https://github.com/flohoss/gocron",
+   "product_page_url": "https://github.com/flohoss/gocron",
    "input": {
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
    }
   },
   {
-   "name": "fx",
-   "description": "An efficient (micro)blogging service that you can self-host",
-   "project_link": "https://github.com/rikhuijzer/fx",
-   "product_page_url": "https://github.com/rikhuijzer/fx",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "statistics-for-strava",
-   "description": "Self-hosted, open-source dashboard for your sports and fitness data",
-   "project_link": "https://github.com/robiningelbrecht/statistics-for-strava",
-   "product_page_url": "https://github.com/robiningelbrecht/statistics-for-strava",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "adarkroom",
-   "description": "A Dark Room - A Minimalist Text Adventure",
-   "project_link": "https://github.com/doublespeakgames/adarkroom",
-   "product_page_url": "https://github.com/doublespeakgames/adarkroom",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "wishlist",
-   "description": "Wishlist is a self-hosted wishlist application that you can share with your friends and family. You no longer have to wonder what to get your family for the holidays, simply check their wishlist and claim any available item!",
-   "project_link": "https://github.com/cmintey/wishlist",
-   "product_page_url": "https://github.com/cmintey/wishlist",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "whois",
-   "description": "Self-hosted WHOIS/RDAP API and MCP server for domains, IPv4/IPv6, CIDRs and ASNs.",
-   "project_link": "https://github.com/KincaidYang/whois",
-   "product_page_url": "https://github.com/KincaidYang/whois",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "godoxy",
-   "description": "High-performance reverse proxy and container orchestrator for self-hosters",
-   "project_link": "https://github.com/yusing/godoxy",
-   "product_page_url": "https://github.com/yusing/godoxy",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "supysonic",
-   "description": "Supysonic is a Python implementation of the Subsonic server API.",
-   "license": "AGPL-3.0 license",
-   "project_link": "https://github.com/spl0k/supysonic",
-   "product_page_url": "https://github.com/spl0k/supysonic",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "calibre-web",
-   "description": "📚 Web app for browsing, reading and downloading eBooks stored in a Calibre database",
-   "license": "GPL-3.0 license",
-   "project_link": "https://github.com/janeczku/calibre-web",
-   "product_page_url": "https://github.com/janeczku/calibre-web",
-   "input": {
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-   }
-  },
-  {
-   "name": "Stirling-PDF",
-   "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
-   "project_link": "https://github.com/Stirling-Tools/Stirling-PDF",
-   "product_page_url": "https://github.com/Stirling-Tools/Stirling-PDF",
+   "name": "Leed",
+   "description": "Leed (contraction de Light Feed) est un agrégateur RSS libre et minimaliste qui permet la consultation de flux RSS de manière rapide et non intrusive.",
+   "license": "License-AGPL-3.0.txt License-AGPL-3.0.txt",
+   "project_link": "https://github.com/LeedRSS/Leed",
+   "product_page_url": "https://github.com/LeedRSS/Leed",
    "input": {
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
    }
@@ -2172,11 +1481,56 @@
    }
   },
   {
-   "name": "lms",
-   "description": "Lightweight Music Server. Access your self-hosted music using a web interface.",
-   "license": "GPL-3.0 license",
-   "project_link": "https://github.com/epoupon/lms",
-   "product_page_url": "https://github.com/epoupon/lms",
+   "name": "self-hosted",
+   "description": "Self-hosted version of webtor.io implemented as an all-in-one Docker image",
+   "project_link": "https://github.com/webtor-io/self-hosted",
+   "product_page_url": "https://github.com/webtor-io/self-hosted",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "Razzia",
+   "description": "A self-hosted, open-source quiz platform for smaller events.",
+   "project_link": "https://github.com/Ralex91/Razzia",
+   "product_page_url": "https://github.com/Ralex91/Razzia",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "gaseous-server",
+   "description": "A game ROM manager, with a built in web based emulator using multiple sources to identify and provide metadata",
+   "license": "AGPL-3.0 license",
+   "project_link": "https://github.com/gaseous-project/gaseous-server",
+   "product_page_url": "https://github.com/gaseous-project/gaseous-server",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "mkvpriority",
+   "description": "Assigns priority scores to audio and subtitle tracks in MKV files",
+   "project_link": "https://github.com/kennethsible/mkvpriority",
+   "product_page_url": "https://github.com/kennethsible/mkvpriority",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "psitransfer",
+   "description": "Simple open source self-hosted file sharing solution.",
+   "project_link": "https://github.com/psi-4ward/psitransfer",
+   "product_page_url": "https://github.com/psi-4ward/psitransfer",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "Wakupator",
+   "description": "Automatically starts machines based on incoming traffic, using smart local IP spoofing and Wake-on-LAN.",
+   "project_link": "https://github.com/Gibus21250/Wakupator",
+   "product_page_url": "https://github.com/Gibus21250/Wakupator",
    "input": {
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
    }
@@ -2187,6 +1541,688 @@
    "license": "GPL-3.0 license",
    "project_link": "https://github.com/TheWicklowWolf/ChannelTube",
    "product_page_url": "https://github.com/TheWicklowWolf/ChannelTube",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "metube",
+   "description": "Self-hosted video downloader for YouTube and other sites (web UI for yt-dlp)",
+   "license": "AGPL-3.0 license",
+   "project_link": "https://github.com/alexta69/metube",
+   "product_page_url": "https://github.com/alexta69/metube",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "DailyTxT",
+   "description": "Encrypted Diary Web-App",
+   "project_link": "https://github.com/PhiTux/DailyTxT",
+   "product_page_url": "https://github.com/PhiTux/DailyTxT",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "2FAuth",
+   "description": "A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes",
+   "license": "AGPL-3.0 license",
+   "project_link": "https://github.com/Bubka/2FAuth",
+   "product_page_url": "https://github.com/Bubka/2FAuth",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "VoucherVault",
+   "description": "Django web application to store and manage vouchers, coupons, loyalty and gift cards digitally. Supports PWA, offline caching, expiry notifications, transaction histories, file uploads and OIDC SSO.",
+   "license": "GPL-3.0 license",
+   "project_link": "https://github.com/l4rm4nd/VoucherVault",
+   "product_page_url": "https://github.com/l4rm4nd/VoucherVault",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "Vane",
+   "description": "Vane is an AI-powered answering engine.",
+   "project_link": "https://github.com/ItzCrazyKns/Vane",
+   "product_page_url": "https://github.com/ItzCrazyKns/Vane",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "retrom",
+   "description": "A centralized game library/collection management service with a focus on emulation",
+   "license": "GPL-3.0 license",
+   "project_link": "https://github.com/JMBeresford/retrom",
+   "product_page_url": "https://github.com/JMBeresford/retrom",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "SyncTube",
+   "description": "Synchronized video viewing with chat and other features (one-channel web service)",
+   "project_link": "https://github.com/RblSb/SyncTube",
+   "product_page_url": "https://github.com/RblSb/SyncTube",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "cmyflix",
+   "description": "cmyflix, a Netflix clone!",
+   "license": "AGPL-3.0 license",
+   "project_link": "https://github.com/farfalleflickan/cmyflix",
+   "product_page_url": "https://github.com/farfalleflickan/cmyflix",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "gobookmarks",
+   "description": "Landing page for when you open browsers / live bookmarks in go.",
+   "license": "AGPL-3.0 license",
+   "project_link": "https://github.com/arran4/gobookmarks",
+   "product_page_url": "https://github.com/arran4/gobookmarks",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "rss2email",
+   "description": "Forward RSS feeds to your email address, community maintained",
+   "project_link": "https://github.com/rss2email/rss2email",
+   "product_page_url": "https://github.com/rss2email/rss2email",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "wayback",
+   "description": "An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, Ghostarchive, IPFS, Telegraph, and file systems.",
+   "license": "GPL-3.0 license",
+   "project_link": "https://github.com/wabarc/wayback",
+   "product_page_url": "https://github.com/wabarc/wayback",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "websurfx",
+   "description": "🚀 An open source alternative to searx which provides a modern-looking ✨, lightning-fast ⚡, privacy respecting 🥸, secure 🔒 meta search engine",
+   "license": "AGPL-3.0 license",
+   "project_link": "https://github.com/neon-mmd/websurfx",
+   "product_page_url": "https://github.com/neon-mmd/websurfx",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "copyparty",
+   "description": "Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file",
+   "project_link": "https://github.com/9001/copyparty",
+   "product_page_url": "https://github.com/9001/copyparty",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "Mikochi",
+   "description": "A minimalist file-manager with streaming capabilities",
+   "project_link": "https://github.com/zer0tonin/Mikochi",
+   "product_page_url": "https://github.com/zer0tonin/Mikochi",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "librephotos",
+   "description": "A self-hosted open source photo management service.",
+   "project_link": "https://github.com/LibrePhotos/librephotos",
+   "product_page_url": "https://github.com/LibrePhotos/librephotos",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "opensourcepos",
+   "description": "Open Source Point of Sale is a web based point of sale application written in PHP using CodeIgniter framework. It uses MySQL as the data back end and has a Bootstrap 3 based user interface. If you like this project, please give it a star! Doing so helps maintain Popular OSS status for the project.",
+   "project_link": "https://github.com/opensourcepos/opensourcepos",
+   "product_page_url": "https://github.com/opensourcepos/opensourcepos",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "ganymede",
+   "description": "Twitch VOD and Live Stream archiving platform. Includes a rendered and real-time chat for each archive.",
+   "license": "GPL-3.0 license",
+   "project_link": "https://github.com/Zibbp/ganymede",
+   "product_page_url": "https://github.com/Zibbp/ganymede",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "nullboard",
+   "description": "Nullboard is a minimalist kanban board, focused on compactness and readability.",
+   "project_link": "https://github.com/apankrat/nullboard",
+   "product_page_url": "https://github.com/apankrat/nullboard",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "local-deep-research",
+   "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
+   "project_link": "https://github.com/LearningCircuit/local-deep-research",
+   "product_page_url": "https://github.com/LearningCircuit/local-deep-research",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "motioneye",
+   "description": "A web frontend for the motion daemon.",
+   "license": "GPL-3.0 license",
+   "project_link": "https://github.com/motioneye-project/motioneye",
+   "product_page_url": "https://github.com/motioneye-project/motioneye",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "your_spotify",
+   "description": "Self hosted Spotify tracking dashboard",
+   "license": "GPL-3.0 license",
+   "project_link": "https://github.com/Yooooomi/your_spotify",
+   "product_page_url": "https://github.com/Yooooomi/your_spotify",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "deleterr",
+   "description": "Automated Plex media cleanup with watch-based rules, smart exclusions, and \"Leaving Soon\" notifications via Radarr, Sonarr & Tautulli.",
+   "project_link": "https://github.com/rfsbraz/deleterr",
+   "product_page_url": "https://github.com/rfsbraz/deleterr",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "docker-swag",
+   "description": "Nginx webserver and reverse proxy with php support and a built-in Certbot (Let's Encrypt) client. It also contains fail2ban for intrusion prevention.",
+   "license": "GPL-3.0 license",
+   "project_link": "https://github.com/linuxserver/docker-swag",
+   "product_page_url": "https://github.com/linuxserver/docker-swag",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "utask",
+   "description": "µTask is an automation engine that models and executes business processes declared in yaml. ✏️📋",
+   "project_link": "https://github.com/ovh/utask",
+   "product_page_url": "https://github.com/ovh/utask",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "url-to-png",
+   "description": "Selfhosted. URL to PNG utility featuring parallel rendering using Playwright for screenshots and with storage caching via Local, S3, or CouchDB",
+   "project_link": "https://github.com/jasonraimondi/url-to-png",
+   "product_page_url": "https://github.com/jasonraimondi/url-to-png",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "pinchflat",
+   "description": "Your next YouTube media manager",
+   "license": "AGPL-3.0 license",
+   "project_link": "https://github.com/kieraneglin/pinchflat",
+   "product_page_url": "https://github.com/kieraneglin/pinchflat",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "chiyogami",
+   "description": "Yet another pastebin",
+   "project_link": "https://github.com/rhee876527/chiyogami",
+   "product_page_url": "https://github.com/rhee876527/chiyogami",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "OpenBudgeteer",
+   "description": "OpenBudgeteer is a budgeting app based on the Bucket Budgeting Principle",
+   "license": "AGPL-3.0 license",
+   "project_link": "https://github.com/TheAxelander/OpenBudgeteer",
+   "product_page_url": "https://github.com/TheAxelander/OpenBudgeteer",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "buku",
+   "description": "🔖 Personal mini-web in text",
+   "license": "GPL-3.0 license",
+   "project_link": "https://github.com/jarun/buku",
+   "product_page_url": "https://github.com/jarun/Buku",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "bicimon",
+   "description": "Bike Speedometer",
+   "project_link": "https://github.com/knrdl/bicimon",
+   "product_page_url": "https://github.com/knrdl/bicimon",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "google-webfonts-helper",
+   "description": "A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets",
+   "project_link": "https://github.com/majodev/google-webfonts-helper",
+   "product_page_url": "https://github.com/majodev/google-webfonts-helper",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "vaultwarden",
+   "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+   "license": "AGPL-3.0 license",
+   "project_link": "https://github.com/dani-garcia/vaultwarden",
+   "product_page_url": "https://github.com/dani-garcia/vaultwarden",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "listaway",
+   "project_link": "https://github.com/jeffrpowell/listaway",
+   "product_page_url": "https://github.com/jeffrpowell/listaway/",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "rustypaste",
+   "description": "A minimal file upload/pastebin service.",
+   "project_link": "https://github.com/orhun/rustypaste",
+   "product_page_url": "https://github.com/orhun/rustypaste",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "BinPastes",
+   "description": "An easy-to-use pastebin for self-hosters.",
+   "project_link": "https://github.com/querwurzel/BinPastes",
+   "product_page_url": "https://github.com/querwurzel/BinPastes",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "databag",
+   "description": "fast & lightweight self-hosted messenger",
+   "project_link": "https://github.com/balzack/databag",
+   "product_page_url": "https://github.com/balzack/databag",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "mail-archiver",
+   "description": "Mail-Archiver is a web application for archiving, searching, and exporting emails from multiple accounts. Featuring folder sync, attachment support, mailbox migration and a dashboard.",
+   "license": "GPL-3.0 license",
+   "project_link": "https://github.com/s1t5/mail-archiver",
+   "product_page_url": "https://github.com/s1t5/mail-archiver",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "MyMangaDB",
+   "description": "Self-hosted manga collection manager with automatic metadata, MyAnimeList import, Docker support, and detailed collection statistics.",
+   "license": "GPL-3.0 license",
+   "project_link": "https://github.com/FabianRolfMatthiasNoll/MyMangaDB",
+   "product_page_url": "https://github.com/FabianRolfMatthiasNoll/MyMangaDB",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "Socioboard-5.0",
+   "description": "Socioboard is world's first and open source Social Technology Enabler. Socioboard Core is our flagship product.",
+   "project_link": "https://github.com/socioboard/Socioboard-5.0",
+   "product_page_url": "https://github.com/socioboard/Socioboard-5.0",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "scribble.rs",
+   "description": "The free and privacy respecting pictionary game - Play at https://scribblers.bios-marcel.link",
+   "project_link": "https://github.com/scribble-rs/scribble.rs",
+   "product_page_url": "https://github.com/scribble-rs/scribble.rs",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "DVinyl",
+   "description": "DVinyl is a self-hostable collection management platform for collectors. Catalog, organize and track physical media and collectibles with custom item types, rich metadata, multi-collection support, authentication, and powerful import tools.",
+   "project_link": "https://github.com/Kyonew/DVinyl",
+   "product_page_url": "https://github.com/Kyonew/DVinyl",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "analog",
+   "description": "A minimal analytics tool to self-host.",
+   "project_link": "https://github.com/orangecoloured/analog",
+   "product_page_url": "https://github.com/orangecoloured/analog",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "Flare",
+   "description": "A modern, lightning-fast file sharing platform built for self-hosting. Created with support for ShareX, KDE Spectacle, Flameshot, and easy to set up.",
+   "project_link": "https://github.com/FlintSH/Flare",
+   "product_page_url": "https://github.com/FlintSH/Flare",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "whitebophir",
+   "description": "Online collaborative Whiteboard that is simple, free, easy to use and to deploy",
+   "license": "AGPL-3.0 license",
+   "project_link": "https://github.com/lovasoa/whitebophir",
+   "product_page_url": "https://github.com/lovasoa/whitebophir",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "MyTube",
+   "description": "Self-hosted downloader and player for YouTube, Bilibili, Twitch, MissAV, and yt-dlp sites. Features channel subscriptions, auto-downloads, and local storage for media. Organize your library into collections with a sleek UI. Includes built-in Cloudflare Tunnel support for secure remote access without port forwarding. Docker-ready deployment.",
+   "project_link": "https://github.com/franklioxygen/MyTube",
+   "product_page_url": "https://github.com/franklioxygen/MyTube",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "musikcube",
+   "description": "a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++",
+   "project_link": "https://github.com/clangen/musikcube",
+   "product_page_url": "https://github.com/clangen/musikcube",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "Lidify",
+   "description": "Music discovery tool that provides recommendations based on selected Lidarr artists, using Spotify or LastFM.",
+   "project_link": "https://github.com/TheWicklowWolf/Lidify",
+   "product_page_url": "https://github.com/TheWicklowWolf/Lidify",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "EDA",
+   "description": "Edalitics is an open-source business intelligence platform that lets you build interactive dashboards, analyze data from multiple sources, and connect AI assistants to your business data in minutes.",
+   "license": "AGPL-3.0 license",
+   "project_link": "https://github.com/jortilles/EDA",
+   "product_page_url": "https://github.com/jortilles/EDA",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "Youtarr",
+   "description": "Self-hosted web app that automates downloading, organizing, and scheduling YouTube channel content with support for Plex, Kodi, Emby and Jellyfin",
+   "project_link": "https://github.com/DialmasterOrg/Youtarr",
+   "product_page_url": "https://github.com/DialmasterOrg/Youtarr",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "product_page_url": "https://github.com/tinode",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "lms",
+   "description": "Lightweight Music Server. Access your self-hosted music using a web interface.",
+   "license": "GPL-3.0 license",
+   "project_link": "https://github.com/epoupon/lms",
+   "product_page_url": "https://github.com/epoupon/lms",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "simplex-chat",
+   "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+   "license": "AGPL-3.0 license",
+   "project_link": "https://github.com/simplex-chat/simplex-chat",
+   "product_page_url": "https://github.com/simplex-chat/simplex-chat",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "espial",
+   "description": "Espial is an open-source, web-based bookmarking server.",
+   "license": "AGPL-3.0 license",
+   "project_link": "https://github.com/jonschoning/espial",
+   "product_page_url": "https://github.com/jonschoning/espial",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "bluecherry-apps",
+   "description": "Bluecherry surveillance system (server application)",
+   "project_link": "https://github.com/bluecherrydvr/bluecherry-apps",
+   "product_page_url": "https://github.com/bluecherrydvr/bluecherry-apps",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "ExpenseOwl",
+   "description": "Extremely simple, self-hosted expense tracker with a beautiful UI.",
+   "project_link": "https://github.com/Tanq16/ExpenseOwl",
+   "product_page_url": "https://github.com/tanq16/expenseowl",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "wanderer",
+   "description": "wanderer is a self-hosted trail database. Save your adventures!",
+   "license": "AGPL-3.0 license",
+   "project_link": "https://github.com/open-wanderer/wanderer",
+   "product_page_url": "https://github.com/open-wanderer/wanderer",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "ydl_api_ng",
+   "license": "GPL-3.0 license",
+   "project_link": "https://github.com/Totonyus/ydl_api_ng",
+   "product_page_url": "https://github.com/Totonyus/ydl_api_ng",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "godoxy",
+   "description": "High-performance reverse proxy and container orchestrator for self-hosters",
+   "project_link": "https://github.com/yusing/godoxy",
+   "product_page_url": "https://github.com/yusing/godoxy",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "movary",
+   "description": "Self hosted web app to track and rate your watched movies",
+   "project_link": "https://github.com/leepeuker/movary",
+   "product_page_url": "https://github.com/leepeuker/movary",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "seerr",
+   "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
+   "project_link": "https://github.com/seerr-team/seerr",
+   "product_page_url": "https://github.com/seerr-team/seerr",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "sure",
+   "description": "The personal finance app for everyone (by everyone)",
+   "project_link": "https://github.com/we-promise/sure",
+   "product_page_url": "https://github.com/we-promise/sure",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "slash",
+   "description": "An open source, self-hosted platform for sharing and managing your most frequently used links. Easily create customizable, human-readable shortcuts to streamline your link management.",
+   "license": "AGPL-3.0 license",
+   "project_link": "https://github.com/yourselfhosted/slash",
+   "product_page_url": "https://github.com/yourselfhosted/slash",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "matchering",
+   "description": "🎚️ Open Source Audio Matching and Mastering",
+   "license": "GPL-3.0 license",
+   "project_link": "https://github.com/sergree/matchering",
+   "product_page_url": "https://github.com/sergree/matchering",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "gitit",
+   "description": "A wiki using HAppS, pandoc, and git",
+   "project_link": "https://github.com/jgm/gitit",
+   "product_page_url": "https://github.com/jgm/gitit",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "tracim",
+   "description": "Threads, files and pages with status and full history. All in the same place.",
+   "project_link": "https://github.com/tracim/tracim",
+   "product_page_url": "https://github.com/tracim/tracim",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "picoshare",
+   "description": "A minimalist, easy-to-host service for sharing images and other files",
+   "project_link": "https://github.com/mtlynch/picoshare",
+   "product_page_url": "https://github.com/mtlynch/picoshare",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "django-wiki",
+   "description": "A wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models.",
+   "license": "GPL-3.0 license",
+   "project_link": "https://github.com/django-wiki/django-wiki",
+   "product_page_url": "https://github.com/django-wiki/django-wiki",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "redlib",
+   "description": "Private front-end for Reddit",
+   "license": "AGPL-3.0 license",
+   "project_link": "https://github.com/redlib-org/redlib",
+   "product_page_url": "https://github.com/redlib-org/redlib",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "socks5-proxy-server",
+   "description": "SOCKS5 proxy server",
+   "project_link": "https://github.com/nskondratev/socks5-proxy-server",
+   "product_page_url": "https://github.com/nskondratev/socks5-proxy-server",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "notifo",
+   "description": "Multi channel notification service for collaboration tools, e-commerce, news service and more.",
+   "project_link": "https://github.com/notifo-io/notifo",
+   "product_page_url": "https://github.com/notifo-io/notifo",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "glance",
+   "description": "A self-hosted dashboard that puts all your feeds in one place",
+   "license": "AGPL-3.0 license",
+   "project_link": "https://github.com/glanceapp/glance",
+   "product_page_url": "https://github.com/glanceapp/glance",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "server",
+   "description": "A simple server for push notifications via Matrix (and a minimalistic alternative to Pushover and Gotify) 🚀📯",
+   "project_link": "https://github.com/pushbits/server",
+   "product_page_url": "https://github.com/pushbits/server",
+   "input": {
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+   }
+  },
+  {
+   "name": "wesnoth",
+   "description": "An open source, turn-based strategy game with a high fantasy theme.",
+   "project_link": "https://github.com/wesnoth/wesnoth",
+   "product_page_url": "https://github.com/wesnoth/wesnoth",
    "input": {
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
    }

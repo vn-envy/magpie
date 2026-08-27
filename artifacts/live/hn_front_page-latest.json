@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mtbcpjg32dvk6pr0o5",
+ "snapshot_id": "j_mtbzfimp184hm0uxsc",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-08-27T09:59:58.519Z",
+ "captured_at": "2026-08-27T20:35:48.144Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,306 +14,306 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-08-27T09:59:34.136Z",
-  "finished": "2026-08-27T09:59:49.340Z"
+  "started": "2026-08-27T20:35:37.591Z",
+  "finished": "2026-08-27T20:35:42.674Z"
  },
  "rows": [
   {
    "rank": 1,
-   "title": "Nvidia agrees to acquire Hugging Face for $13B",
-   "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
-   "points": 1131,
-   "comment_count": 475,
+   "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+   "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+   "points": 273,
+   "comment_count": 80,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 2,
-   "title": "The Dutch are filling gas wells with cement",
-   "url": "https://www.siliconcontinent.com/p/the-dutch-are-filling-gas-wells-with",
-   "points": 23,
-   "comment_count": 21,
+   "title": "Small Models Have Arrived",
+   "url": "https://calv.info/small-models-have-arrived",
+   "points": 263,
+   "comment_count": 120,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 3,
-   "title": "Mechanical Turk shutting down September 30",
-   "url": "https://www.mturk.com/",
-   "points": 369,
-   "comment_count": 98,
+   "title": "507 Mechanical Movements",
+   "url": "https://507movements.com/",
+   "points": 376,
+   "comment_count": 57,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 4,
-   "title": "GLM-5.3-Flash",
-   "url": "https://z.ai/blog/glm-5.3-flash",
-   "points": 1030,
-   "comment_count": 518,
+   "title": "We found a division by zero bug in FFmpeg with a vibecoded fuzzer",
+   "url": "https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290",
+   "points": 80,
+   "comment_count": 52,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 5,
-   "title": "Asahi Linux Progress Report: Linux 7.2",
-   "url": "https://asahilinux.org/2026/08/progress-report-7-2/",
-   "points": 285,
-   "comment_count": 107,
+   "title": "Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force",
+   "url": "https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc",
+   "points": 57,
+   "comment_count": 22,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 6,
-   "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
-   "url": "https://github.com/tailscale/tailcat",
-   "points": 577,
-   "comment_count": 101,
+   "title": "Gemini Omni 1.1 Flash",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
+   "points": 121,
+   "comment_count": 67,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 7,
-   "title": "U.S. State Department pauses immigrant visa applications",
-   "url": "https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23",
-   "points": 514,
-   "comment_count": 763,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 8,
-   "title": "Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022",
-   "url": "https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html",
-   "points": 178,
-   "comment_count": 104,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 9,
-   "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-   "url": "https://github.com/SenteLabsAI/OpenExecutive",
-   "points": 605,
-   "comment_count": 387,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 10,
-   "title": "An ongoing 3D-printer AGPL violation",
-   "url": "https://lwn.net/SubscriberLink/1089390/46116614cc74b814/",
-   "points": 410,
-   "comment_count": 177,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 11,
-   "title": "Stripe acquires Clerky",
-   "url": "https://www.clerky.com/blog/clerky-is-joining-stripe",
-   "points": 175,
-   "comment_count": 28,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 12,
-   "title": "Laion Big Video Dataset",
-   "url": "https://projects.laion.ai/bvd/",
-   "points": 64,
-   "comment_count": 17,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 13,
-   "title": "Zohran and the Short Link",
-   "url": "https://iamwillwang.com/notes/zohran-and-the-short-link/",
-   "points": 201,
-   "comment_count": 74,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 14,
-   "title": "Twitter Viewer – View Twitter Without Account",
-   "url": "https://twitterwebviewer.com/",
-   "points": 451,
-   "comment_count": 277,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 15,
-   "title": "The Hugging Face incident and the road ahead",
-   "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
-   "points": 261,
-   "comment_count": 336,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 16,
-   "title": "CoMaps: The Offline App That Guided Rescuers Without a Signal in Venezuela",
-   "url": "https://hotosm.org/en/news/comaps-the-offline-app-that-guided-rescuers-without-a-signal-in-the-venezuela-response/",
-   "points": 281,
-   "comment_count": 65,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 17,
-   "title": "Nebula Sans",
-   "url": "https://www.nebulasans.com/",
-   "points": 419,
-   "comment_count": 163,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 18,
-   "title": "FDA approves first in class targeted therapy for metastatic pancreatic cancer",
-   "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-class-targeted-therapy-metastatic-pancreatic-cancer",
-   "points": 221,
+   "title": "Decompiling a Nintendo 64 game in 84 days",
+   "url": "https://blog.chrislewis.au/decompiling-a-nintendo-64-game-in-84-days/",
+   "points": 121,
    "comment_count": 53,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
+   "rank": 8,
+   "title": "Microduck",
+   "url": "https://pollen-robotics.com/microduck/",
+   "points": 406,
+   "comment_count": 162,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 9,
+   "title": "M5Stack Launches PaperMono",
+   "url": "https://shop.m5stack.com/blogs/news/m5stack-launches-papermono-a-compact-e-ink-development-terminal-for-connected-projects",
+   "points": 48,
+   "comment_count": 10,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 10,
+   "title": "Suica, Japan's First IC Transit Card",
+   "url": "https://www.tokyodev.com/articles/the-story-of-suica",
+   "points": 117,
+   "comment_count": 95,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 11,
+   "title": "Previewing the Model Hardware Standard",
+   "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+   "points": 33,
+   "comment_count": 14,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 12,
+   "title": "Afterglow: Run classic After Dark screen savers on modern macOS",
+   "url": "https://morphing.cloud/afterglow/",
+   "points": 40,
+   "comment_count": 15,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 13,
+   "title": "Bild AI (YC W25) is hiring product and AI engineers",
+   "url": "https://www.bild.ai/jobs",
+   "points": 0,
+   "comment_count": 3,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 14,
+   "title": "The turbulent AI era is here",
+   "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
+   "points": 122,
+   "comment_count": 385,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 15,
+   "title": "Emacs 31: An unofficial guide to Markdown-ts-mode",
+   "url": "https://rahuljuliato.com/posts/markdown-ts-mode-emacs-31",
+   "points": 128,
+   "comment_count": 52,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 16,
+   "title": "Autism mutations drive neurodevelopmental pathology",
+   "url": "https://www.science.org/doi/10.1126/science.ady4523",
+   "points": 49,
+   "comment_count": 41,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 17,
+   "title": "Show HN: Voronoi Go",
+   "url": "https://voronoigo.com/",
+   "points": 30,
+   "comment_count": 6,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 18,
+   "title": "Launching Route 53 Files",
+   "url": "https://www.daemonology.net/blog/2026-08-27-Launching-Route-53-Files.html",
+   "points": 74,
+   "comment_count": 27,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
    "rank": 19,
-   "title": "The Harness Is the Thing",
-   "url": "https://scott-fryxell.github.io/blog/the-harness-is-the-thing/",
-   "points": 118,
-   "comment_count": 44,
+   "title": "Gemini-3.5-Transcribe",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+   "points": 19,
+   "comment_count": 5,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 20,
-   "title": "IBM Unveils Next Generation Dual-Architecture Processor for IBM Z and LinuxONE",
-   "url": "https://newsroom.ibm.com/2026-08-24-ibm-unveils-next-generation-dual-architecture-processor-for-ibm-z-and-linuxone",
-   "points": 129,
-   "comment_count": 96,
+   "title": "Engineered yeast for converting plastic and biomass compounds into food",
+   "url": "https://acs.digitellinc.com/live/37/session/586399",
+   "points": 41,
+   "comment_count": 29,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 21,
-   "title": "Mold: A Massively Parallel Linker",
-   "url": "https://arxiv.org/abs/2608.23228",
-   "points": 134,
-   "comment_count": 20,
+   "title": "Nvidia agrees to acquire Hugging Face for $13B",
+   "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+   "points": 1775,
+   "comment_count": 831,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 22,
-   "title": "Actinide is first startup to produce high-assay low-enriched uranium (HALEU)",
-   "url": "https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu",
-   "points": 162,
-   "comment_count": 79,
+   "title": "Show HN: The load-bearing vocabulary of Claude",
+   "url": "https://louisabraham.github.io/load-bearing/",
+   "points": 215,
+   "comment_count": 110,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 23,
-   "title": "The turbulent AI era is here",
-   "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
-   "points": 252,
-   "comment_count": 234,
+   "title": "Launch HN: Salem Robotics (YC S26) – Software for industrial inspection robots",
+   "url": "https://news.ycombinator.com/item?id=49466715",
+   "points": 30,
+   "comment_count": 18,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 24,
-   "title": "Kusama Yayoi has died",
-   "url": "https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html",
-   "points": 177,
-   "comment_count": 13,
+   "title": "Silicon Valley is in denial in face of widespread backlash",
+   "url": "https://www.bloodinthemachine.com/p/with-the-backlash-to-data-centers",
+   "points": 20,
+   "comment_count": 2,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 25,
-   "title": "Serve Markdown to AI Agents with Accept Headers",
-   "url": "https://acceptmarkdown.com/",
-   "points": 136,
-   "comment_count": 79,
+   "title": "A curmudgeon tries a language server",
+   "url": "https://entropicthoughts.com/curmudgeon-tries-language-server",
+   "points": 95,
+   "comment_count": 62,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 26,
-   "title": "Taylor Farms: How One Company's Reach Became a National Risk",
-   "url": "https://farmaction.us/taylorfarmsreport/",
-   "points": 276,
-   "comment_count": 189,
+   "title": "The terrifying mechanics of the Nepali flash flood",
+   "url": "https://www.economist.com/science-and-technology/2026/08/27/the-terrifying-mechanics-of-the-nepali-flash-flood",
+   "points": 37,
+   "comment_count": 2,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 27,
-   "title": "AWS Acquires DuckLabs",
-   "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
-   "points": 1054,
-   "comment_count": 306,
+   "title": "Aphantasia Beginner's Guide",
+   "url": "https://aphantasia.com/guide",
+   "points": 77,
+   "comment_count": 202,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 28,
-   "title": "Tim Curry has died",
-   "url": "https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film",
-   "points": 666,
-   "comment_count": 214,
+   "title": "Humanity has the debate about AI consciousness backwards",
+   "url": "https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards",
+   "points": 54,
+   "comment_count": 191,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 29,
-   "title": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
-   "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
-   "points": 225,
-   "comment_count": 126,
+   "title": "Two German airport workers die of malaria after 'mosquito arrives on plane'",
+   "url": "https://www.bbc.com/news/articles/cz6zwgg9y8go",
+   "points": 134,
+   "comment_count": 79,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 30,
-   "title": "Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies",
-   "url": "https://www.risklytics.ai/",
-   "points": 52,
-   "comment_count": 20,
+   "title": "Trade (and Tariffs)",
+   "url": "https://xkcd.com/3290/",
+   "points": 385,
+   "comment_count": 168,
    "input": {
     "url": "https://news.ycombinator.com"
    }

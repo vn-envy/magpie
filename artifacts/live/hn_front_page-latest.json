@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mteq5lmg2fadg8t8m",
+ "snapshot_id": "j_mtewxf1lvynn73qzb",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-08-29T18:39:25.912Z",
+ "captured_at": "2026-08-29T21:49:01.472Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,75 +14,75 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-08-29T18:39:15.823Z",
-  "finished": "2026-08-29T18:39:20.229Z"
+  "started": "2026-08-29T21:48:51.334Z",
+  "finished": "2026-08-29T21:48:55.176Z"
  },
  "rows": [
   {
    "rank": 1,
-   "title": "SQLite as a Document Database (2020)",
-   "url": "https://dgl.cx/2020/06/sqlite-json-support",
-   "points": 100,
-   "comment_count": 16,
+   "title": "Tencent Releases and Open-Sources Tencent Hy4 Preview",
+   "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+   "points": 75,
+   "comment_count": 31,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 2,
-   "title": "Tether: iMessage, SMS, etc. on Linux",
-   "url": "https://zackbartel.com/blog/2026/08/tether/",
-   "points": 127,
-   "comment_count": 62,
+   "title": "$44M Solar-Powered EV Production Deal Struck",
+   "url": "https://frequal.com/aptera/ProductionDealAug2026.html",
+   "points": 6,
+   "comment_count": 1,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 3,
-   "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
-   "url": "https://tucker.wales/writing/bias-towards-action/",
-   "points": 8,
-   "comment_count": 1,
+   "title": "vLLM v0.28.0",
+   "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
+   "points": 52,
+   "comment_count": 17,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 4,
-   "title": "Sleepwalker: Passive Backdoor with Its Own Command Language",
-   "url": "https://r136a1.dev/2026/08/24/sleepwalker-a-passive-backdoor-with-its-own-command-language/",
-   "points": 31,
-   "comment_count": 1,
+   "title": "Tether: iMessage, SMS, etc. on Linux",
+   "url": "https://zackbartel.com/blog/2026/08/tether/",
+   "points": 238,
+   "comment_count": 106,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 5,
-   "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
-   "url": "https://uecker.codeberg.page/2026-08-29.html",
-   "points": 47,
-   "comment_count": 20,
+   "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
+   "url": "https://tucker.wales/writing/bias-towards-action/",
+   "points": 67,
+   "comment_count": 23,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 6,
-   "title": "Show HN: Typebase – A single-folder back end you write in TypeScript",
-   "url": "https://typebase.io/",
-   "points": 67,
-   "comment_count": 14,
+   "title": "LLMs are making me lose my savviness",
+   "url": "https://pgaleone.eu/ai/2026/08/29/losing-savviness/",
+   "points": 39,
+   "comment_count": 38,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 7,
-   "title": "Vim's UserGettingBored Autocmd",
-   "url": "https://evanhahn.com/usergettingbored-vim/",
-   "points": 10,
+   "title": "Nancy Grace Roman Space Telescope Launches this Sunday",
+   "url": "https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grace-roman-space-telescope-dark-energy-supernova",
+   "points": 21,
    "comment_count": 1,
    "input": {
     "url": "https://news.ycombinator.com"
@@ -90,230 +90,230 @@
   },
   {
    "rank": 8,
-   "title": "Glacier Mice",
-   "url": "https://en.wikipedia.org/wiki/Glacier_mice",
-   "points": 186,
-   "comment_count": 35,
+   "title": "SQLite as a Document Database (2020)",
+   "url": "https://dgl.cx/2020/06/sqlite-json-support",
+   "points": 140,
+   "comment_count": 42,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 9,
-   "title": "Samsung's Processing-in-Memory (PIM)",
-   "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
-   "points": 213,
-   "comment_count": 69,
+   "title": "What we want is a hunter gatherer lifestyle with space age tools",
+   "url": "https://www.strangeloopcanon.com/p/what-we-want-is-a-hunter-gatherer",
+   "points": 13,
+   "comment_count": 4,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 10,
-   "title": "Creating the Aetheryte Radio",
-   "url": "https://haz.ee/posts/aetheryte-radio.html",
-   "points": 47,
-   "comment_count": 8,
+   "title": "Domain-Driven Agents",
+   "url": "https://coldtake.dev/blog/domain-driven-agents",
+   "points": 17,
+   "comment_count": 1,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 11,
-   "title": "Quantifying Colour",
-   "url": "https://ekunazanu.foo/lab/quantifying-colour/",
-   "points": 27,
-   "comment_count": 1,
+   "title": "DHS is using obscure law to snoop on journalists, non-profits, unions",
+   "url": "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits",
+   "points": 190,
+   "comment_count": 24,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 12,
-   "title": "Nancy Grace Roman Space Telescope",
-   "url": "https://science.nasa.gov/mission/roman-space-telescope/",
-   "points": 64,
-   "comment_count": 20,
+   "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+   "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+   "points": 166,
+   "comment_count": 28,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 13,
-   "title": "EVE Online moves to Python 3",
-   "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
-   "points": 206,
-   "comment_count": 98,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 14,
-   "title": "GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)",
-   "url": "https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e",
-   "points": 110,
-   "comment_count": 47,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 15,
-   "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
-   "url": "https://github.com/Lakr233/vphone-cli",
-   "points": 355,
-   "comment_count": 96,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 16,
-   "title": "Htmx 4.0",
-   "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
-   "points": 770,
-   "comment_count": 192,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 17,
-   "title": "Show HN: Galaxium, an experimental WebGPU space explorer",
-   "url": "https://galaxium.app/",
-   "points": 78,
-   "comment_count": 24,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 18,
-   "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-   "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-   "points": 31,
-   "comment_count": 3,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 19,
-   "title": "Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems",
-   "url": "https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/",
-   "points": 93,
-   "comment_count": 11,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 20,
-   "title": "Debian votes to allow \"responsible use of generative AI\"",
-   "url": "https://lwn.net/Articles/1091231/",
-   "points": 430,
-   "comment_count": 349,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 21,
-   "title": "StemDeck, a free, open-source and local AI stem separator",
-   "url": "https://github.com/stemdeckapp/stemdeck",
-   "points": 182,
-   "comment_count": 52,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 22,
-   "title": "Europe's last regular standard-gauge steam passenger service",
-   "url": "https://parowozowniawolsztyn.pl/?page_id=2141",
-   "points": 98,
-   "comment_count": 24,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 23,
-   "title": "I accidentally turned LLM memory into program analysis",
-   "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
-   "points": 250,
-   "comment_count": 69,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 24,
-   "title": "Time complexity of operations on Python's built-in types",
-   "url": "https://docs.python.org/3.16/library/time-complexity.html",
-   "points": 69,
-   "comment_count": 20,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 25,
-   "title": "Inception-style curved map for turn-by-turn directions",
-   "url": "https://www.orbify.eu/demo/",
-   "points": 580,
-   "comment_count": 185,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 26,
-   "title": "TurboKV: Insanely fast Rust key-value store",
-   "url": "https://github.com/kingroryg/turbokv",
-   "points": 162,
-   "comment_count": 80,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 27,
-   "title": "Just the rumour of a bug is enough to find an exploit these days",
-   "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
-   "points": 369,
-   "comment_count": 117,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 28,
-   "title": "Trees for a Changing Climate and Resilient Urban Forest (2022)",
-   "url": "https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest",
-   "points": 3,
-   "comment_count": 0,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 29,
-   "title": "The growing divide between AI hype and software engineering reality",
-   "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/",
-   "points": 5,
+   "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
+   "url": "https://dl.acm.org/doi/10.1145/3830438.3830958",
+   "points": 11,
    "comment_count": 1,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 30,
-   "title": "Parsing the Infamous Japanese Postal CSV",
-   "url": "https://www.dampfkraft.com/posuto.html",
-   "points": 36,
+   "rank": 14,
+   "title": "Glacier Mice",
+   "url": "https://en.wikipedia.org/wiki/Glacier_mice",
+   "points": 226,
+   "comment_count": 45,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 15,
+   "title": "A safe MySQL upgrade that wasn't so safe",
+   "url": "https://blog.elis.cc/articles/a-safe-mysql-upgrade-that-wasnt-so-safe/",
+   "points": 7,
+   "comment_count": 0,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 16,
+   "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
+   "url": "https://uecker.codeberg.page/2026-08-29.html",
+   "points": 60,
+   "comment_count": 36,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 17,
+   "title": "Show HN: Typebase – A single-folder back end you write in TypeScript",
+   "url": "https://typebase.io/",
+   "points": 84,
+   "comment_count": 19,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 18,
+   "title": "Sleepwalker: Passive Backdoor with Its Own Command Language",
+   "url": "https://r136a1.dev/2026/08/24/sleepwalker-a-passive-backdoor-with-its-own-command-language/",
+   "points": 47,
+   "comment_count": 6,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 19,
+   "title": "EVE Online moves to Python 3",
+   "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
+   "points": 262,
+   "comment_count": 135,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 20,
+   "title": "Samsung's Processing-in-Memory (PIM)",
+   "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+   "points": 227,
+   "comment_count": 89,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 21,
+   "title": "Kmart Digicam Mod Part 2",
+   "url": "https://mason.bearblog.dev/kmart-digicam-mod-part-2/",
+   "points": 9,
+   "comment_count": 0,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 22,
+   "title": "Quantifying Colour",
+   "url": "https://ekunazanu.foo/lab/quantifying-colour/",
+   "points": 51,
+   "comment_count": 5,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 23,
+   "title": "A better SQL in 11 lines of code",
+   "url": "https://prela-lang.org/tutorial/",
+   "points": 32,
+   "comment_count": 33,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 24,
+   "title": "Creating the Aetheryte Radio",
+   "url": "https://haz.ee/posts/aetheryte-radio.html",
+   "points": 57,
+   "comment_count": 12,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 25,
+   "title": "Trees for a Changing Climate and Resilient Urban Forest (2022)",
+   "url": "https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest",
+   "points": 11,
    "comment_count": 2,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 26,
+   "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+   "url": "https://github.com/Lakr233/vphone-cli",
+   "points": 366,
+   "comment_count": 98,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 27,
+   "title": "GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)",
+   "url": "https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e",
+   "points": 199,
+   "comment_count": 79,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 28,
+   "title": "Recovering Corrupt Zip Files",
+   "url": "https://www.construct.net/en/blogs/ashleys-blog-2/recovering-corrupt-zip-files-1895",
+   "points": 13,
+   "comment_count": 1,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 29,
+   "title": "Show HN: Galaxium, an experimental WebGPU space explorer",
+   "url": "https://galaxium.app/",
+   "points": 95,
+   "comment_count": 30,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 30,
+   "title": "Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems",
+   "url": "https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/",
+   "points": 104,
+   "comment_count": 13,
    "input": {
     "url": "https://news.ycombinator.com"
    }

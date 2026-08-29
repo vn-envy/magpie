@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mtdr3nmh41llnmjl4",
+ "snapshot_id": "j_mte5tetgt0qm92lkm",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-08-29T02:18:09.086Z",
+ "captured_at": "2026-08-29T09:10:15.226Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,66 +14,66 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-08-29T02:17:58.511Z",
-  "finished": "2026-08-29T02:18:00.689Z"
+  "started": "2026-08-29T09:09:54.779Z",
+  "finished": "2026-08-29T09:10:05.499Z"
  },
  "rows": [
   {
    "rank": 1,
-   "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
-   "url": "https://github.com/Lakr233/vphone-cli",
-   "points": 90,
-   "comment_count": 25,
+   "title": "Samsung's Processing-in-Memory (PIM)",
+   "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+   "points": 61,
+   "comment_count": 11,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 2,
-   "title": "GUIs should be fully keyboard-driven",
-   "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
-   "points": 626,
-   "comment_count": 310,
+   "title": "Europe's last regular standard-gauge steam passenger service",
+   "url": "https://parowozowniawolsztyn.pl/?page_id=2141",
+   "points": 26,
+   "comment_count": 10,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 3,
-   "title": "Does the Sumerian King List Align with Paleoclimate Events?",
-   "url": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
-   "points": 49,
-   "comment_count": 14,
+   "title": "GUIs should be fully keyboard-driven",
+   "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+   "points": 783,
+   "comment_count": 398,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 4,
-   "title": "9th Circuit sides with states in Kalshi gambling fight",
-   "url": "https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/",
-   "points": 45,
-   "comment_count": 22,
+   "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+   "url": "https://github.com/Lakr233/vphone-cli",
+   "points": 253,
+   "comment_count": 72,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 5,
-   "title": "Htmx 4.0",
-   "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
-   "points": 544,
-   "comment_count": 129,
+   "title": "TurboKV: Insanely fast Rust key-value store",
+   "url": "https://github.com/kingroryg/turbokv",
+   "points": 97,
+   "comment_count": 33,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 6,
-   "title": "StemDeck, a free, open-source and local AI stem separator",
-   "url": "https://github.com/stemdeckapp/stemdeck",
-   "points": 13,
-   "comment_count": 4,
+   "title": "Htmx 4.0",
+   "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+   "points": 643,
+   "comment_count": 162,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -82,77 +82,77 @@
    "rank": 7,
    "title": "U.S. sanctions against the A/I Collective",
    "url": "https://www.inventati.org/",
-   "points": 490,
-   "comment_count": 473,
+   "points": 583,
+   "comment_count": 569,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 8,
-   "title": "Just the rumour of a bug is enough to find an exploit these days",
-   "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
-   "points": 266,
-   "comment_count": 92,
+   "title": "Autistici/inventati: Manifesto – who we are and what do we want (2002)",
+   "url": "https://www.inventati.org/who/manifesto",
+   "points": 44,
+   "comment_count": 20,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 9,
-   "title": "PPWR lands another blow to an precarious tabletop industry",
-   "url": "https://www.rascal.news/ppwr-lands-another-blow-to-an-already-precarious-tabletop-industry/",
-   "points": 25,
-   "comment_count": 13,
+   "title": "I accidentally turned LLM memory into program analysis",
+   "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+   "points": 139,
+   "comment_count": 28,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 10,
-   "title": "Inception-style curved map for turn-by-turn directions",
-   "url": "https://www.orbify.eu/demo/",
-   "points": 435,
-   "comment_count": 145,
+   "title": "StemDeck, a free, open-source and local AI stem separator",
+   "url": "https://github.com/stemdeckapp/stemdeck",
+   "points": 90,
+   "comment_count": 19,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 11,
-   "title": "I accidentally turned LLM memory into program analysis",
-   "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
-   "points": 21,
-   "comment_count": 5,
+   "title": "Just the rumour of a bug is enough to find an exploit these days",
+   "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+   "points": 312,
+   "comment_count": 110,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 12,
-   "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
-   "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
-   "points": 535,
-   "comment_count": 398,
+   "title": "Does the Sumerian King List Align with Paleoclimate Events?",
+   "url": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
+   "points": 98,
+   "comment_count": 40,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 13,
-   "title": "Identifying fake cosmetics using AI",
-   "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
-   "points": 33,
-   "comment_count": 12,
+   "title": "Inception-style curved map for turn-by-turn directions",
+   "url": "https://www.orbify.eu/demo/",
+   "points": 498,
+   "comment_count": 170,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 14,
-   "title": "Curvature Beziers: Improving on a timeless recipe",
-   "url": "https://acko.net/blog/curvature-beziers/",
-   "points": 81,
+   "title": "e is a customizable self-aware Emacs-like editor written in Chez Scheme",
+   "url": "https://github.com/paveluv/e",
+   "points": 16,
    "comment_count": 11,
    "input": {
     "url": "https://news.ycombinator.com"
@@ -160,8 +160,28 @@
   },
   {
    "rank": 15,
-   "title": "Monzo Stand-In",
-   "url": "https://monzo.com/blog/tolerating-full-cloud-outages-with-monzo-stand-in",
+   "title": "9th Circuit sides with states in Kalshi gambling fight",
+   "url": "https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/",
+   "points": 128,
+   "comment_count": 100,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 16,
+   "title": "Our decision on Cursor following its acquisition by SpaceX",
+   "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+   "points": 502,
+   "comment_count": 264,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 17,
+   "title": "Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems",
+   "url": "https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/",
    "points": 5,
    "comment_count": 0,
    "input": {
@@ -169,101 +189,81 @@
    }
   },
   {
-   "rank": 16,
-   "title": "The Twelve-Factor App (2025)",
-   "url": "https://12factor.net/",
-   "points": 226,
-   "comment_count": 121,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 17,
-   "title": "GLM-5.3 is now open-weight",
-   "url": "https://huggingface.co/zai-org/GLM-5.3",
-   "points": 603,
-   "comment_count": 209,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
    "rank": 18,
-   "title": "Luanti removed from Google Play due to baseless AI copyright notice",
-   "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
-   "points": 454,
-   "comment_count": 139,
+   "title": "Kumander Linux – A Linux Distro with a Windows 7 Desktop",
+   "url": "https://www.kumander.org/",
+   "points": 49,
+   "comment_count": 23,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 19,
-   "title": "Processing in Memory: DRAM Is About to Do Math",
-   "url": "https://ben3d.ca/blog/processing-in-memory",
-   "points": 73,
-   "comment_count": 27,
+   "title": "Queen Caroline turned King Arthur into an 18C royal PR strategy",
+   "url": "https://theconversation.com/how-queen-caroline-turned-king-arthur-into-an-18th-century-royal-pr-strategy-288244",
+   "points": 13,
+   "comment_count": 1,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 20,
-   "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-   "url": "https://arxiv.org/abs/2608.23691",
-   "points": 85,
-   "comment_count": 20,
+   "title": "Monzo Stand-In",
+   "url": "https://monzo.com/blog/tolerating-full-cloud-outages-with-monzo-stand-in",
+   "points": 72,
+   "comment_count": 15,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 21,
-   "title": "Visual Analysis of Binary Files",
-   "url": "https://binvis.io/#/",
-   "points": 63,
-   "comment_count": 19,
+   "title": "Experiments with Plotter Art",
+   "url": "https://sometimes.digital/posts/experiments-with-plotter-art/",
+   "points": 49,
+   "comment_count": 2,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 22,
-   "title": "Verschlimmbesserung: The Word Your Software Updates Need",
-   "url": "https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/",
-   "points": 110,
-   "comment_count": 71,
+   "title": "Curvature Beziers: Improving on a timeless recipe",
+   "url": "https://acko.net/blog/curvature-beziers/",
+   "points": 116,
+   "comment_count": 12,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 23,
-   "title": "Show HN: Sesame - a local-first, open-source password manager",
-   "url": "https://usesesame.app/",
-   "points": 39,
-   "comment_count": 42,
+   "title": "Box of 300 Love Letters Showed Up, What Whimsical WWII Soldier Who Wrote Them?",
+   "url": "https://www.smithsonianmag.com/history/this-box-of-300-love-letters-showed-up-out-of-the-blue-who-was-the-whimsical-world-war-ii-soldier-who-wrote-them-180989300/",
+   "points": 16,
+   "comment_count": 4,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 24,
-   "title": "Aspirational Clownmaxxing and Joey's cadillac todo list",
-   "url": "https://charlesleifer.com/blog/aspirational-clownmaxxing-and-joey-s-cadillac-todo-list/",
-   "points": 26,
-   "comment_count": 11,
+   "title": "The Twelve-Factor App (2025)",
+   "url": "https://12factor.net/",
+   "points": 266,
+   "comment_count": 149,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 25,
-   "title": "Attimet (YC F24) Is Hiring Members of Technical Staff – Engineering and Research",
-   "url": "https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering",
-   "points": 0,
-   "comment_count": 9,
+   "title": "GLM-5.3 is now open-weight",
+   "url": "https://huggingface.co/zai-org/GLM-5.3",
+   "points": 686,
+   "comment_count": 230,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -272,48 +272,48 @@
    "rank": 26,
    "title": "EasyEffects can improve laptop speaker sound quality",
    "url": "https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/",
-   "points": 102,
-   "comment_count": 48,
+   "points": 149,
+   "comment_count": 53,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 27,
-   "title": "Migrating to HTTPX2",
-   "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
-   "points": 186,
-   "comment_count": 79,
+   "title": "Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo",
+   "url": "https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo/",
+   "points": 38,
+   "comment_count": 14,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 28,
-   "title": "Experiments with Plotter Art",
-   "url": "https://sometimes.digital/posts/experiments-with-plotter-art/",
-   "points": 8,
-   "comment_count": 0,
+   "title": "Verschlimmbesserung: The Word Your Software Updates Need",
+   "url": "https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/",
+   "points": 132,
+   "comment_count": 88,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 29,
-   "title": "Our decision on Cursor following its acquisition by SpaceX",
-   "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
-   "points": 25,
-   "comment_count": 4,
+   "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+   "url": "https://arxiv.org/abs/2608.23691",
+   "points": 103,
+   "comment_count": 26,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 30,
-   "title": "An investigation into the state of corvid–human relations",
-   "url": "https://www.audubon.org/magazine/are-crows-really-our-friends",
-   "points": 116,
-   "comment_count": 67,
+   "title": "Visual Analysis of Binary Files",
+   "url": "https://binvis.io/#/",
+   "points": 81,
+   "comment_count": 22,
    "input": {
     "url": "https://news.ycombinator.com"
    }

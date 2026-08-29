@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mtehdtb222zvjdnj25",
+ "snapshot_id": "j_mteq5lmg2fadg8t8m",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-08-29T14:33:52.681Z",
+ "captured_at": "2026-08-29T18:39:25.912Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,306 +14,306 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-08-29T14:33:42.476Z",
-  "finished": "2026-08-29T14:33:46.446Z"
+  "started": "2026-08-29T18:39:15.823Z",
+  "finished": "2026-08-29T18:39:20.229Z"
  },
  "rows": [
   {
    "rank": 1,
-   "title": "Debian votes to allow \"responsible use of generative AI\"",
-   "url": "https://lwn.net/Articles/1091231/",
-   "points": 18,
-   "comment_count": 1,
+   "title": "SQLite as a Document Database (2020)",
+   "url": "https://dgl.cx/2020/06/sqlite-json-support",
+   "points": 100,
+   "comment_count": 16,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 2,
-   "title": "I'm teaching an introductory 12 week course on Quantum Oracle Engineering",
-   "url": "https://shukla.io/quantum-oracle-engineering/",
-   "points": 7,
-   "comment_count": 0,
+   "title": "Tether: iMessage, SMS, etc. on Linux",
+   "url": "https://zackbartel.com/blog/2026/08/tether/",
+   "points": 127,
+   "comment_count": 62,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 3,
-   "title": "Samsung's Processing-in-Memory (PIM)",
-   "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
-   "points": 167,
-   "comment_count": 53,
+   "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
+   "url": "https://tucker.wales/writing/bias-towards-action/",
+   "points": 8,
+   "comment_count": 1,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 4,
-   "title": "GUIs should be fully keyboard-driven",
-   "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
-   "points": 911,
-   "comment_count": 450,
+   "title": "Sleepwalker: Passive Backdoor with Its Own Command Language",
+   "url": "https://r136a1.dev/2026/08/24/sleepwalker-a-passive-backdoor-with-its-own-command-language/",
+   "points": 31,
+   "comment_count": 1,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 5,
-   "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
-   "url": "https://github.com/Lakr233/vphone-cli",
-   "points": 326,
-   "comment_count": 83,
+   "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
+   "url": "https://uecker.codeberg.page/2026-08-29.html",
+   "points": 47,
+   "comment_count": 20,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 6,
-   "title": "Glacier Mice",
-   "url": "https://en.wikipedia.org/wiki/Glacier_mice",
-   "points": 84,
-   "comment_count": 15,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 7,
-   "title": "Htmx 4.0",
-   "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
-   "points": 728,
-   "comment_count": 179,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 8,
-   "title": "Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems",
-   "url": "https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/",
-   "points": 62,
-   "comment_count": 5,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 9,
-   "title": "Creating the Aetheryte Radio",
-   "url": "https://haz.ee/posts/aetheryte-radio.html",
-   "points": 10,
-   "comment_count": 0,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 10,
-   "title": "Show HN: Galaxium, an experimental WebGPU space explorer",
-   "url": "https://galaxium.app/",
-   "points": 34,
+   "title": "Show HN: Typebase – A single-folder back end you write in TypeScript",
+   "url": "https://typebase.io/",
+   "points": 67,
    "comment_count": 14,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 11,
-   "title": "Europe's last regular standard-gauge steam passenger service",
-   "url": "https://parowozowniawolsztyn.pl/?page_id=2141",
-   "points": 72,
-   "comment_count": 19,
+   "rank": 7,
+   "title": "Vim's UserGettingBored Autocmd",
+   "url": "https://evanhahn.com/usergettingbored-vim/",
+   "points": 10,
+   "comment_count": 1,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 12,
-   "title": "U.S. sanctions against the A/I Collective",
-   "url": "https://www.inventati.org/",
-   "points": 652,
-   "comment_count": 643,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 13,
-   "title": "StemDeck, a free, open-source and local AI stem separator",
-   "url": "https://github.com/stemdeckapp/stemdeck",
-   "points": 154,
-   "comment_count": 38,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 14,
-   "title": "EVE Online moves to Python 3",
-   "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
-   "points": 85,
+   "rank": 8,
+   "title": "Glacier Mice",
+   "url": "https://en.wikipedia.org/wiki/Glacier_mice",
+   "points": 186,
    "comment_count": 35,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
+   "rank": 9,
+   "title": "Samsung's Processing-in-Memory (PIM)",
+   "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+   "points": 213,
+   "comment_count": 69,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 10,
+   "title": "Creating the Aetheryte Radio",
+   "url": "https://haz.ee/posts/aetheryte-radio.html",
+   "points": 47,
+   "comment_count": 8,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 11,
+   "title": "Quantifying Colour",
+   "url": "https://ekunazanu.foo/lab/quantifying-colour/",
+   "points": 27,
+   "comment_count": 1,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 12,
+   "title": "Nancy Grace Roman Space Telescope",
+   "url": "https://science.nasa.gov/mission/roman-space-telescope/",
+   "points": 64,
+   "comment_count": 20,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 13,
+   "title": "EVE Online moves to Python 3",
+   "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
+   "points": 206,
+   "comment_count": 98,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 14,
+   "title": "GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)",
+   "url": "https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e",
+   "points": 110,
+   "comment_count": 47,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
    "rank": 15,
-   "title": "Iceland votes on whether to restart talks on joining EU",
-   "url": "https://www.bbc.com/news/articles/cn45vdxyvvlo",
-   "points": 217,
-   "comment_count": 252,
+   "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+   "url": "https://github.com/Lakr233/vphone-cli",
+   "points": 355,
+   "comment_count": 96,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 16,
-   "title": "I accidentally turned LLM memory into program analysis",
-   "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
-   "points": 200,
-   "comment_count": 59,
+   "title": "Htmx 4.0",
+   "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+   "points": 770,
+   "comment_count": 192,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 17,
-   "title": "Inception-style curved map for turn-by-turn directions",
-   "url": "https://www.orbify.eu/demo/",
-   "points": 556,
-   "comment_count": 182,
+   "title": "Show HN: Galaxium, an experimental WebGPU space explorer",
+   "url": "https://galaxium.app/",
+   "points": 78,
+   "comment_count": 24,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 18,
-   "title": "TurboKV: Insanely fast Rust key-value store",
-   "url": "https://github.com/kingroryg/turbokv",
-   "points": 136,
-   "comment_count": 64,
+   "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+   "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+   "points": 31,
+   "comment_count": 3,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 19,
-   "title": "Just the rumour of a bug is enough to find an exploit these days",
-   "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
-   "points": 353,
-   "comment_count": 115,
+   "title": "Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems",
+   "url": "https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/",
+   "points": 93,
+   "comment_count": 11,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 20,
-   "title": "Time complexity of operations on Python's built-in types",
-   "url": "https://docs.python.org/3.16/library/time-complexity.html",
-   "points": 34,
-   "comment_count": 6,
+   "title": "Debian votes to allow \"responsible use of generative AI\"",
+   "url": "https://lwn.net/Articles/1091231/",
+   "points": 430,
+   "comment_count": 349,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 21,
-   "title": "Show HN: Typebase – A single-folder back end you write in TypeScript",
-   "url": "https://typebase.io/",
-   "points": 6,
-   "comment_count": 0,
+   "title": "StemDeck, a free, open-source and local AI stem separator",
+   "url": "https://github.com/stemdeckapp/stemdeck",
+   "points": 182,
+   "comment_count": 52,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 22,
-   "title": "Queen Caroline turned King Arthur into an 18C royal PR strategy",
-   "url": "https://theconversation.com/how-queen-caroline-turned-king-arthur-into-an-18th-century-royal-pr-strategy-288244",
-   "points": 31,
-   "comment_count": 6,
+   "title": "Europe's last regular standard-gauge steam passenger service",
+   "url": "https://parowozowniawolsztyn.pl/?page_id=2141",
+   "points": 98,
+   "comment_count": 24,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 23,
-   "title": "Monzo Stand-In",
-   "url": "https://monzo.com/blog/tolerating-full-cloud-outages-with-monzo-stand-in",
-   "points": 101,
-   "comment_count": 43,
+   "title": "I accidentally turned LLM memory into program analysis",
+   "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+   "points": 250,
+   "comment_count": 69,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 24,
-   "title": "Attimet (YC F24) Is Hiring Members of Technical Staff – Engineering and Research",
-   "url": "https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering",
-   "points": 0,
-   "comment_count": 21,
+   "title": "Time complexity of operations on Python's built-in types",
+   "url": "https://docs.python.org/3.16/library/time-complexity.html",
+   "points": 69,
+   "comment_count": 20,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 25,
-   "title": "Does the Sumerian King List Align with Paleoclimate Events?",
-   "url": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
-   "points": 114,
-   "comment_count": 65,
+   "title": "Inception-style curved map for turn-by-turn directions",
+   "url": "https://www.orbify.eu/demo/",
+   "points": 580,
+   "comment_count": 185,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 26,
-   "title": "Our decision on Cursor following its acquisition by SpaceX",
-   "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
-   "points": 653,
-   "comment_count": 376,
+   "title": "TurboKV: Insanely fast Rust key-value store",
+   "url": "https://github.com/kingroryg/turbokv",
+   "points": 162,
+   "comment_count": 80,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 27,
-   "title": "Experiments with Plotter Art",
-   "url": "https://sometimes.digital/posts/experiments-with-plotter-art/",
-   "points": 78,
-   "comment_count": 7,
+   "title": "Just the rumour of a bug is enough to find an exploit these days",
+   "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+   "points": 369,
+   "comment_count": 117,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 28,
-   "title": "The Twelve-Factor App (2025)",
-   "url": "https://12factor.net/",
-   "points": 287,
-   "comment_count": 160,
+   "title": "Trees for a Changing Climate and Resilient Urban Forest (2022)",
+   "url": "https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest",
+   "points": 3,
+   "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 29,
-   "title": "Curvature Beziers: Improving on a timeless recipe",
-   "url": "https://acko.net/blog/curvature-beziers/",
-   "points": 135,
-   "comment_count": 18,
+   "title": "The growing divide between AI hype and software engineering reality",
+   "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/",
+   "points": 5,
+   "comment_count": 1,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 30,
-   "title": "Visual Analysis of Binary Files",
-   "url": "https://binvis.io/#/",
-   "points": 98,
-   "comment_count": 25,
+   "title": "Parsing the Infamous Japanese Postal CSV",
+   "url": "https://www.dampfkraft.com/posuto.html",
+   "points": 36,
+   "comment_count": 2,
    "input": {
     "url": "https://news.ycombinator.com"
    }

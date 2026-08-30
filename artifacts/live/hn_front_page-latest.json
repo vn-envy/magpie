@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mtfg7c22292xusspcm",
+ "snapshot_id": "j_mtftgu992h0ws18jov",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-08-30T06:48:37.307Z",
+ "captured_at": "2026-08-30T12:59:55.762Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,306 +14,306 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-08-30T06:48:26.810Z",
-  "finished": "2026-08-30T06:48:33.499Z"
+  "started": "2026-08-30T12:59:45.313Z",
+  "finished": "2026-08-30T12:59:46.721Z"
  },
  "rows": [
   {
    "rank": 1,
-   "title": "Bug Blindness",
-   "url": "https://danluu.com/bug-blind/",
-   "points": 183,
-   "comment_count": 83,
+   "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+   "url": "https://arxiv.org/abs/1804.07389",
+   "points": 112,
+   "comment_count": 25,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 2,
-   "title": "RISC-V is now officially supported by CPython",
-   "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
-   "points": 102,
-   "comment_count": 17,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 3,
-   "title": "Hy4 preview",
-   "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
-   "points": 257,
-   "comment_count": 156,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 4,
-   "title": "FreeCORE TrueNAS Core – Continued",
-   "url": "https://freecore.org/",
-   "points": 73,
-   "comment_count": 44,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 5,
-   "title": "Creating Teensy ELF Executables for Linux (Or, \"Size Is Everything\")",
-   "url": "https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html",
-   "points": 30,
-   "comment_count": 4,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 6,
-   "title": "Benjamin Franklin's Alter Egos Gave Him the Most Freedom",
-   "url": "https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/",
-   "points": 42,
-   "comment_count": 9,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 7,
-   "title": "Benchmarking Pocket-Scale Inference",
-   "url": "https://artificialanalysis.ai/hardware-inference-stack/mobile-phones",
-   "points": 28,
-   "comment_count": 1,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 8,
-   "title": "Tether: iMessage, SMS, etc. on Linux",
-   "url": "https://zackbartel.com/blog/2026/08/tether/",
-   "points": 427,
-   "comment_count": 168,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 9,
-   "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
-   "url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
-   "points": 108,
-   "comment_count": 17,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 10,
-   "title": "Nancy Grace Roman Space Telescope",
-   "url": "https://science.nasa.gov/mission/roman-space-telescope/",
-   "points": 179,
-   "comment_count": 70,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 11,
-   "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
-   "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
-   "points": 242,
-   "comment_count": 127,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 12,
-   "title": "The Rise and Fall of Agent Civilizations",
-   "url": "https://www.dwarkesh.com/p/openai-huggingface",
-   "points": 42,
-   "comment_count": 5,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 13,
-   "title": "Is it safe to call print in a Python signal handler?",
-   "url": "https://iafisher.com/2026/08/sigprint",
-   "points": 37,
-   "comment_count": 17,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 14,
-   "title": "SQLite as a Document Database (2020)",
-   "url": "https://dgl.cx/2020/06/sqlite-json-support",
-   "points": 194,
-   "comment_count": 48,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 15,
-   "title": "Algorithmic rent-pricing litigation expands under new state and local laws",
-   "url": "https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws",
-   "points": 64,
-   "comment_count": 31,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 16,
-   "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
-   "url": "https://dl.acm.org/doi/10.1145/3830438.3830958",
-   "points": 76,
-   "comment_count": 30,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 17,
-   "title": "EVE Online moves to Python 3",
-   "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
-   "points": 332,
-   "comment_count": 182,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 18,
-   "title": "Glacier Mice",
-   "url": "https://en.wikipedia.org/wiki/Glacier_mice",
-   "points": 282,
-   "comment_count": 55,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 19,
-   "title": "A few feral cats in an ALGOL trenchcoat.",
-   "url": "https://wiki.xxiivv.com/site/pop2.html",
-   "points": 10,
-   "comment_count": 1,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 20,
-   "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
-   "url": "https://tucker.wales/writing/bias-towards-action/",
-   "points": 143,
-   "comment_count": 55,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 21,
-   "title": "Show HN: I missed the moving blocks, so I built a real Linux disk defragmenter",
-   "url": "https://github.com/gbin/defragger",
-   "points": 48,
+   "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+   "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
+   "points": 83,
    "comment_count": 34,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 22,
-   "title": "Daycare Pseudoscience",
-   "url": "https://worksinprogress.co/issue/daycare-pseudoscience/",
-   "points": 24,
-   "comment_count": 2,
+   "rank": 3,
+   "title": "Everyone Should Build Their Own Network Stack",
+   "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet/",
+   "points": 48,
+   "comment_count": 32,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 23,
-   "title": "Domain-Driven Agents",
-   "url": "https://coldtake.dev/blog/domain-driven-agents",
-   "points": 73,
-   "comment_count": 15,
+   "rank": 4,
+   "title": "Hacking IKEA Furniture",
+   "url": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
+   "points": 9,
+   "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 24,
-   "title": "Open Oscar Server: open-source server compatible with AIM and ICQ clients",
-   "url": "https://github.com/mk6i/open-oscar-server",
-   "points": 20,
-   "comment_count": 7,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 25,
-   "title": "Samsung's Processing-in-Memory (PIM)",
-   "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
-   "points": 256,
+   "rank": 5,
+   "title": "Brits would quite like their private messages to stay private",
+   "url": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
+   "points": 168,
    "comment_count": 98,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
+   "rank": 6,
+   "title": "Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video]",
+   "url": "https://www.youtube.com/watch?v=hpj6r6CjJf8",
+   "points": 39,
+   "comment_count": 0,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 7,
+   "title": "monty-go: Pure-Go wrapper for Pydantic's Monty Python Interpreter",
+   "url": "https://github.com/fugue-labs/monty-go",
+   "points": 8,
+   "comment_count": 0,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 8,
+   "title": "RISC-V is now officially supported by CPython",
+   "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
+   "points": 222,
+   "comment_count": 40,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 9,
+   "title": "An implementation of Conway's Game of Life for Windows 3.1x and later",
+   "url": "https://www.muppetlabs.com/~breadbox/software/windows.html",
+   "points": 4,
+   "comment_count": 0,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 10,
+   "title": "The turbulent AI era is here. The choices we make now are critical",
+   "url": "https://www.gatesnotes.com/home/home-page-topic/reader/a-turbulent-ai-era-and-critical-choices-to-make",
+   "points": 7,
+   "comment_count": 1,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 11,
+   "title": "Spark: Sparklines in your shell",
+   "url": "https://git.zx2c4.com/spark/about/",
+   "points": 38,
+   "comment_count": 8,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 12,
+   "title": "JupyterGIS 0.16: a grammar of graphics for maps, and collaborative story maps",
+   "url": "https://blog.jupyter.org/jupytergis-0-16-new-visualization-capabilities-collaborative-story-maps-and-more-03e6b78bacc0",
+   "points": 46,
+   "comment_count": 4,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 13,
+   "title": "Hy4 preview",
+   "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+   "points": 340,
+   "comment_count": 203,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 14,
+   "title": "Show HN: Bolnee-Chat – Self Hosted Chatbot Integration in Your Business Website",
+   "url": "https://github.com/AniketWathore/bolnee-chat",
+   "points": 22,
+   "comment_count": 0,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 15,
+   "title": "Xcena and Samsung's Near Memory Compute CXL Device",
+   "url": "https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs",
+   "points": 29,
+   "comment_count": 2,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 16,
+   "title": "Automating Immersive Reading",
+   "url": "https://smoores.dev/post/automating_immersive_reading/",
+   "points": 5,
+   "comment_count": 1,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 17,
+   "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
+   "url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
+   "points": 405,
+   "comment_count": 181,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 18,
+   "title": "The Einstein-Szilard Refrigerator (2020)",
+   "url": "https://invention.si.edu/invention-stories/einstein-szilard-refrigerator",
+   "points": 56,
+   "comment_count": 17,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 19,
+   "title": "FreeCORE TrueNAS Core – Continued",
+   "url": "https://freecore.org/",
+   "points": 131,
+   "comment_count": 71,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 20,
+   "title": "One Nix flake to rule them all",
+   "url": "https://fzakaria.com/2026/08/28/one-flake-to-rule-them-all",
+   "points": 5,
+   "comment_count": 0,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 21,
+   "title": "Tether: iMessage, SMS, etc. on Linux",
+   "url": "https://zackbartel.com/blog/2026/08/tether/",
+   "points": 486,
+   "comment_count": 190,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 22,
+   "title": "Bug Blindness",
+   "url": "https://danluu.com/bug-blind/",
+   "points": 301,
+   "comment_count": 184,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 23,
+   "title": "Nancy Grace Roman Space Telescope",
+   "url": "https://science.nasa.gov/mission/roman-space-telescope/",
+   "points": 227,
+   "comment_count": 82,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 24,
+   "title": "Orbs",
+   "url": "https://ampcode.com/notes/orbs-explained",
+   "points": 31,
+   "comment_count": 12,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 25,
+   "title": "Benchmarking Pocket-Scale Inference",
+   "url": "https://artificialanalysis.ai/hardware-inference-stack/mobile-phones",
+   "points": 63,
+   "comment_count": 6,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
    "rank": 26,
-   "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-   "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-   "points": 343,
-   "comment_count": 80,
+   "title": "Creating Teensy ELF Executables for Linux (Or, \"Size Is Everything\") (1999)",
+   "url": "https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html",
+   "points": 59,
+   "comment_count": 15,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 27,
-   "title": "DHS is using obscure law to snoop on journalists, non-profits, unions",
-   "url": "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits",
-   "points": 380,
-   "comment_count": 72,
+   "title": "Benjamin Franklin's Alter Egos Gave Him the Most Freedom",
+   "url": "https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/",
+   "points": 80,
+   "comment_count": 40,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 28,
-   "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
-   "url": "https://github.com/Lakr233/vphone-cli",
-   "points": 397,
-   "comment_count": 106,
+   "title": "SQLite as a Document Database (2020)",
+   "url": "https://dgl.cx/2020/06/sqlite-json-support",
+   "points": 222,
+   "comment_count": 54,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 29,
-   "title": "Recovering Corrupt Zip Files",
-   "url": "https://www.construct.net/en/blogs/ashleys-blog-2/recovering-corrupt-zip-files-1895",
-   "points": 54,
-   "comment_count": 26,
+   "title": "EVE Online moves to Python 3",
+   "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
+   "points": 375,
+   "comment_count": 205,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 30,
-   "title": "Trees for a Changing Climate and Resilient Urban Forest (2022)",
-   "url": "https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest",
-   "points": 48,
-   "comment_count": 7,
+   "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+   "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
+   "points": 30,
+   "comment_count": 9,
    "input": {
     "url": "https://news.ycombinator.com"
    }

@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mtf2jnt8fhagumdmh",
+ "snapshot_id": "j_mtfg7c22292xusspcm",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-08-30T00:26:28.040Z",
+ "captured_at": "2026-08-30T06:48:37.307Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,145 +14,145 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-08-30T00:26:07.289Z",
-  "finished": "2026-08-30T00:26:13.337Z"
+  "started": "2026-08-30T06:48:26.810Z",
+  "finished": "2026-08-30T06:48:33.499Z"
  },
  "rows": [
   {
    "rank": 1,
-   "title": "Defrag98: Windows 98 Disk Defragmenter Simulator Online",
-   "url": "https://defrag98.com/",
-   "points": 67,
-   "comment_count": 37,
+   "title": "Bug Blindness",
+   "url": "https://danluu.com/bug-blind/",
+   "points": 183,
+   "comment_count": 83,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 2,
-   "title": "Tencent Releases and Open-Sources Tencent Hy4 Preview",
-   "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
-   "points": 164,
-   "comment_count": 100,
+   "title": "RISC-V is now officially supported by CPython",
+   "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
+   "points": 102,
+   "comment_count": 17,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 3,
-   "title": "Nancy Grace Roman Space Telescope Launches this Sunday",
-   "url": "https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grace-roman-space-telescope-dark-energy-supernova",
-   "points": 60,
-   "comment_count": 8,
+   "title": "Hy4 preview",
+   "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+   "points": 257,
+   "comment_count": 156,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 4,
-   "title": "vLLM v0.28.0",
-   "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
-   "points": 92,
-   "comment_count": 31,
+   "title": "FreeCORE TrueNAS Core – Continued",
+   "url": "https://freecore.org/",
+   "points": 73,
+   "comment_count": 44,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 5,
-   "title": "Tether: iMessage, SMS, etc. on Linux",
-   "url": "https://zackbartel.com/blog/2026/08/tether/",
-   "points": 307,
-   "comment_count": 130,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 6,
-   "title": "I co-founded Burning Man. The festival has lost its soul",
-   "url": "https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/",
-   "points": 53,
-   "comment_count": 35,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 7,
-   "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
-   "url": "https://tucker.wales/writing/bias-towards-action/",
-   "points": 94,
-   "comment_count": 39,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 8,
-   "title": "Highest-ever ocean temperature measured as powerful El Niño forms",
-   "url": "https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms",
-   "points": 26,
-   "comment_count": 3,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 9,
-   "title": "SQLite as a Document Database (2020)",
-   "url": "https://dgl.cx/2020/06/sqlite-json-support",
-   "points": 160,
-   "comment_count": 43,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 10,
-   "title": "Domain-Driven Agents",
-   "url": "https://coldtake.dev/blog/domain-driven-agents",
-   "points": 37,
-   "comment_count": 6,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 11,
-   "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
-   "url": "https://dl.acm.org/doi/10.1145/3830438.3830958",
-   "points": 38,
+   "title": "Creating Teensy ELF Executables for Linux (Or, \"Size Is Everything\")",
+   "url": "https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html",
+   "points": 30,
    "comment_count": 4,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
+   "rank": 6,
+   "title": "Benjamin Franklin's Alter Egos Gave Him the Most Freedom",
+   "url": "https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/",
+   "points": 42,
+   "comment_count": 9,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 7,
+   "title": "Benchmarking Pocket-Scale Inference",
+   "url": "https://artificialanalysis.ai/hardware-inference-stack/mobile-phones",
+   "points": 28,
+   "comment_count": 1,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 8,
+   "title": "Tether: iMessage, SMS, etc. on Linux",
+   "url": "https://zackbartel.com/blog/2026/08/tether/",
+   "points": 427,
+   "comment_count": 168,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 9,
+   "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
+   "url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
+   "points": 108,
+   "comment_count": 17,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 10,
+   "title": "Nancy Grace Roman Space Telescope",
+   "url": "https://science.nasa.gov/mission/roman-space-telescope/",
+   "points": 179,
+   "comment_count": 70,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 11,
+   "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
+   "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
+   "points": 242,
+   "comment_count": 127,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
    "rank": 12,
-   "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-   "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-   "points": 225,
-   "comment_count": 50,
+   "title": "The Rise and Fall of Agent Civilizations",
+   "url": "https://www.dwarkesh.com/p/openai-huggingface",
+   "points": 42,
+   "comment_count": 5,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 13,
-   "title": "DHS is using obscure law to snoop on journalists, non-profits, unions",
-   "url": "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits",
-   "points": 271,
-   "comment_count": 43,
+   "title": "Is it safe to call print in a Python signal handler?",
+   "url": "https://iafisher.com/2026/08/sigprint",
+   "points": 37,
+   "comment_count": 17,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 14,
-   "title": "Glacier Mice",
-   "url": "https://en.wikipedia.org/wiki/Glacier_mice",
-   "points": 248,
+   "title": "SQLite as a Document Database (2020)",
+   "url": "https://dgl.cx/2020/06/sqlite-json-support",
+   "points": 194,
    "comment_count": 48,
    "input": {
     "url": "https://news.ycombinator.com"
@@ -160,99 +160,99 @@
   },
   {
    "rank": 15,
-   "title": "EVE Online moves to Python 3",
-   "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
-   "points": 294,
-   "comment_count": 152,
+   "title": "Algorithmic rent-pricing litigation expands under new state and local laws",
+   "url": "https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws",
+   "points": 64,
+   "comment_count": 31,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 16,
-   "title": "Samsung's Processing-in-Memory (PIM)",
-   "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
-   "points": 242,
-   "comment_count": 92,
+   "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
+   "url": "https://dl.acm.org/doi/10.1145/3830438.3830958",
+   "points": 76,
+   "comment_count": 30,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 17,
-   "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
-   "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
-   "points": 16,
-   "comment_count": 3,
+   "title": "EVE Online moves to Python 3",
+   "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
+   "points": 332,
+   "comment_count": 182,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 18,
-   "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
-   "url": "https://uecker.codeberg.page/2026-08-29.html",
-   "points": 65,
-   "comment_count": 39,
+   "title": "Glacier Mice",
+   "url": "https://en.wikipedia.org/wiki/Glacier_mice",
+   "points": 282,
+   "comment_count": 55,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 19,
-   "title": "Is it safe to call print in a Python signal handler?",
-   "url": "https://iafisher.com/2026/08/sigprint",
-   "points": 3,
-   "comment_count": 0,
+   "title": "A few feral cats in an ALGOL trenchcoat.",
+   "url": "https://wiki.xxiivv.com/site/pop2.html",
+   "points": 10,
+   "comment_count": 1,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 20,
-   "title": "Show HN: Typebase – A single-folder back end you write in TypeScript",
-   "url": "https://typebase.io/",
-   "points": 95,
-   "comment_count": 24,
+   "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
+   "url": "https://tucker.wales/writing/bias-towards-action/",
+   "points": 143,
+   "comment_count": 55,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 21,
-   "title": "Recovering Corrupt Zip Files",
-   "url": "https://www.construct.net/en/blogs/ashleys-blog-2/recovering-corrupt-zip-files-1895",
-   "points": 30,
-   "comment_count": 7,
+   "title": "Show HN: I missed the moving blocks, so I built a real Linux disk defragmenter",
+   "url": "https://github.com/gbin/defragger",
+   "points": 48,
+   "comment_count": 34,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 22,
-   "title": "The Wandering Yamamura Theater Troupe",
-   "url": "https://cinemasojourns.com/2026/08/27/the-wandering-yamamura-theater-troupe/",
-   "points": 6,
-   "comment_count": 0,
+   "title": "Daycare Pseudoscience",
+   "url": "https://worksinprogress.co/issue/daycare-pseudoscience/",
+   "points": 24,
+   "comment_count": 2,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 23,
-   "title": "Trees for a Changing Climate and Resilient Urban Forest (2022)",
-   "url": "https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest",
-   "points": 28,
-   "comment_count": 4,
+   "title": "Domain-Driven Agents",
+   "url": "https://coldtake.dev/blog/domain-driven-agents",
+   "points": 73,
+   "comment_count": 15,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 24,
-   "title": "Sleepwalker: Passive Backdoor with Its Own Command Language",
-   "url": "https://r136a1.dev/2026/08/24/sleepwalker-a-passive-backdoor-with-its-own-command-language/",
-   "points": 52,
+   "title": "Open Oscar Server: open-source server compatible with AIM and ICQ clients",
+   "url": "https://github.com/mk6i/open-oscar-server",
+   "points": 20,
    "comment_count": 7,
    "input": {
     "url": "https://news.ycombinator.com"
@@ -260,60 +260,60 @@
   },
   {
    "rank": 25,
-   "title": "Creating the Aetheryte Radio",
-   "url": "https://haz.ee/posts/aetheryte-radio.html",
-   "points": 66,
-   "comment_count": 13,
+   "title": "Samsung's Processing-in-Memory (PIM)",
+   "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+   "points": 256,
+   "comment_count": 98,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 26,
-   "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
-   "url": "https://github.com/Lakr233/vphone-cli",
-   "points": 377,
-   "comment_count": 101,
+   "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+   "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+   "points": 343,
+   "comment_count": 80,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 27,
-   "title": "Quantifying Colour",
-   "url": "https://ekunazanu.foo/lab/quantifying-colour/",
-   "points": 63,
-   "comment_count": 7,
+   "title": "DHS is using obscure law to snoop on journalists, non-profits, unions",
+   "url": "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits",
+   "points": 380,
+   "comment_count": 72,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 28,
-   "title": "A safe MySQL upgrade that wasn't so safe",
-   "url": "https://blog.elis.cc/articles/a-safe-mysql-upgrade-that-wasnt-so-safe/",
-   "points": 29,
-   "comment_count": 4,
+   "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+   "url": "https://github.com/Lakr233/vphone-cli",
+   "points": 397,
+   "comment_count": 106,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 29,
-   "title": "The Finn – an agent that lives in my router and complains about it",
-   "url": "https://github.com/YuriKovalov22/the-finn",
-   "points": 10,
-   "comment_count": 2,
+   "title": "Recovering Corrupt Zip Files",
+   "url": "https://www.construct.net/en/blogs/ashleys-blog-2/recovering-corrupt-zip-files-1895",
+   "points": 54,
+   "comment_count": 26,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 30,
-   "title": "StemDeck, a free, open-source and local AI stem separator",
-   "url": "https://github.com/stemdeckapp/stemdeck",
-   "points": 199,
-   "comment_count": 58,
+   "title": "Trees for a Changing Climate and Resilient Urban Forest (2022)",
+   "url": "https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest",
+   "points": 48,
+   "comment_count": 7,
    "input": {
     "url": "https://news.ycombinator.com"
    }

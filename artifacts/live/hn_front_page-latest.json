@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mtg3clislpfk2i6fj",
+ "snapshot_id": "j_mtgb50xi13fcubqisk",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-08-30T17:36:34.089Z",
+ "captured_at": "2026-08-30T21:14:37.402Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,96 +14,96 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-08-30T17:36:23.607Z",
-  "finished": "2026-08-30T17:36:32.768Z"
+  "started": "2026-08-30T21:14:27.167Z",
+  "finished": "2026-08-30T21:14:29.750Z"
  },
  "rows": [
   {
    "rank": 1,
    "title": "Creepy Crawlies",
    "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
-   "points": 327,
-   "comment_count": 155,
+   "points": 662,
+   "comment_count": 327,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 2,
-   "title": "Haiku R1/beta6 has been released",
-   "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
-   "points": 76,
-   "comment_count": 15,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 3,
-   "title": "Omarchy: Any User Process Can Escalate to Root",
-   "url": "https://0xcc.io/posts/omarchy-root-creds/",
-   "points": 148,
-   "comment_count": 117,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 4,
-   "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
-   "url": "https://komoroske.com/slime-mold/",
-   "points": 23,
-   "comment_count": 10,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 5,
-   "title": "Hacking IKEA Furniture",
-   "url": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
-   "points": 170,
-   "comment_count": 93,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 6,
-   "title": "Electric rain can eat through metal",
-   "url": "https://www.scientificamerican.com/article/electric-rain-can-eat-through-metal/",
-   "points": 23,
+   "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
+   "url": "https://www.righto.com/2026/08/spacelab-core-memory.html",
+   "points": 22,
    "comment_count": 4,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 7,
-   "title": "Artie (YC S23) Is Hiring Technical AES",
-   "url": "https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1",
-   "points": 0,
-   "comment_count": 33,
+   "rank": 3,
+   "title": "Haiku R1/beta6 has been released",
+   "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+   "points": 194,
+   "comment_count": 51,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 8,
-   "title": "European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy",
-   "url": "https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement",
-   "points": 136,
+   "rank": 4,
+   "title": "NFC Energy-Harvesting PCB Business Card with an MCU",
+   "url": "https://wilsonharper.net/projects/businesscard/",
+   "points": 20,
+   "comment_count": 2,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 5,
+   "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
+   "url": "https://komoroske.com/slime-mold/",
+   "points": 91,
    "comment_count": 35,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
+   "rank": 6,
+   "title": "Sort branches by last commit date",
+   "url": "https://ryangreenberg.com/til/git-branches-by-commit-date/",
+   "points": 30,
+   "comment_count": 12,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 7,
+   "title": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
+   "url": "https://github.com/KodeMunkie/sm750hdmifb",
+   "points": 35,
+   "comment_count": 19,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 8,
+   "title": "Hacking IKEA Furniture",
+   "url": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
+   "points": 231,
+   "comment_count": 136,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
    "rank": 9,
-   "title": "Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video]",
-   "url": "https://www.youtube.com/watch?v=hpj6r6CjJf8",
-   "points": 207,
-   "comment_count": 98,
+   "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+   "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/",
+   "points": 157,
+   "comment_count": 94,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -112,8 +112,8 @@
    "rank": 10,
    "title": "Zig: Pointer Stability for ArrayLists",
    "url": "https://ziglang.org/devlog/2026/#2026-08-27",
-   "points": 22,
-   "comment_count": 1,
+   "points": 65,
+   "comment_count": 26,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -122,47 +122,47 @@
    "rank": 11,
    "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
    "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
-   "points": 155,
-   "comment_count": 64,
+   "points": 187,
+   "comment_count": 76,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 12,
-   "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
-   "url": "https://arxiv.org/abs/1804.07389",
-   "points": 167,
-   "comment_count": 49,
+   "title": "Dad’s Custom Atari Peripherals",
+   "url": "https://www.goto10retro.com/p/dads-custom-atari-peripherals",
+   "points": 65,
+   "comment_count": 9,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 13,
-   "title": "Europe's summer drought is so extreme that desertification is a growing threat",
-   "url": "https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/",
-   "points": 108,
-   "comment_count": 99,
+   "title": "European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy",
+   "url": "https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement",
+   "points": 271,
+   "comment_count": 112,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 14,
-   "title": "Dad's Custom Atari Peripherals – By Jim Trageser",
-   "url": "https://www.goto10retro.com/p/dads-custom-atari-peripherals",
-   "points": 33,
-   "comment_count": 8,
+   "title": "Artie (YC S23) Is Hiring Technical AES",
+   "url": "https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1",
+   "points": 0,
+   "comment_count": 4,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 15,
-   "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
-   "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/",
-   "points": 25,
+   "title": "Storm Summoner, a MIDI controller for effects pedals",
+   "url": "https://kabaragoya.com/products/storm-summoner",
+   "points": 17,
    "comment_count": 6,
    "input": {
     "url": "https://news.ycombinator.com"
@@ -170,130 +170,130 @@
   },
   {
    "rank": 16,
-   "title": "When fruit is scarce, these monkeys hunt animals",
-   "url": "https://www.smithsonianmag.com/smart-news/when-fruit-is-scarce-these-monkeys-hunt-animals-the-behavior-may-offer-clues-about-the-origins-of-humans-meat-eating-habits-180989412/",
-   "points": 31,
-   "comment_count": 8,
+   "title": "Omarchy: Any User Process Can Escalate to Root",
+   "url": "https://0xcc.io/posts/omarchy-root-creds/",
+   "points": 296,
+   "comment_count": 283,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 17,
-   "title": "An implementation of Conway's Game of Life for Windows 3.1x and later",
-   "url": "https://www.muppetlabs.com/~breadbox/software/windows.html",
-   "points": 37,
-   "comment_count": 5,
+   "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+   "url": "https://arxiv.org/abs/1804.07389",
+   "points": 179,
+   "comment_count": 54,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 18,
-   "title": "What my dad taught me about AI coding in the 90s",
-   "url": "https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/",
-   "points": 85,
-   "comment_count": 44,
+   "title": "Electric rain can eat through metal",
+   "url": "https://www.scientificamerican.com/article/electric-rain-can-eat-through-metal/",
+   "points": 70,
+   "comment_count": 12,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 19,
-   "title": "Synchronisation and SMPTE timecode (time code)",
-   "url": "https://www.philrees.co.uk/articles/timecode.htm",
-   "points": 3,
-   "comment_count": 0,
+   "title": "Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video]",
+   "url": "https://www.youtube.com/watch?v=hpj6r6CjJf8",
+   "points": 263,
+   "comment_count": 138,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 20,
-   "title": "RISC-V is now officially supported by CPython",
-   "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
-   "points": 270,
-   "comment_count": 46,
+   "title": "Synchronisation and SMPTE timecode (time code)",
+   "url": "https://www.philrees.co.uk/articles/timecode.htm",
+   "points": 20,
+   "comment_count": 2,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 21,
-   "title": "Bug Blindness",
-   "url": "https://danluu.com/bug-blind/",
-   "points": 344,
-   "comment_count": 221,
+   "title": "Europe's summer drought is so extreme that desertification is a growing threat",
+   "url": "https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/",
+   "points": 195,
+   "comment_count": 224,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 22,
-   "title": "Automating Immersive Reading",
-   "url": "https://smoores.dev/post/automating_immersive_reading/",
-   "points": 54,
-   "comment_count": 17,
+   "title": "What my dad taught me about AI coding in the 90s",
+   "url": "https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/",
+   "points": 113,
+   "comment_count": 54,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 23,
-   "title": "Building my own network stack",
-   "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet/",
-   "points": 70,
-   "comment_count": 61,
+   "title": "Automating Immersive Reading",
+   "url": "https://smoores.dev/post/automating_immersive_reading/",
+   "points": 78,
+   "comment_count": 24,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 24,
-   "title": "Claude Session URL appended to commit messages and PR descriptions by default",
-   "url": "https://github.com/anthropics/claude-code/issues/66504",
-   "points": 113,
-   "comment_count": 140,
+   "title": "An implementation of Conway's Game of Life for Windows 3.1x and later",
+   "url": "https://www.muppetlabs.com/~breadbox/software/windows.html",
+   "points": 46,
+   "comment_count": 11,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 25,
-   "title": "Hy4 preview",
-   "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
-   "points": 363,
-   "comment_count": 226,
+   "title": "The world may have less time than it thinks on climate change",
+   "url": "https://economist.com/by-invitation/2026/08/30/the-world-may-have-less-time-than-it-thinks-on-climate-change",
+   "points": 68,
+   "comment_count": 57,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 26,
-   "title": "monty-go: Pure-Go wrapper for Pydantic's Monty Python Interpreter",
-   "url": "https://github.com/fugue-labs/monty-go",
-   "points": 35,
-   "comment_count": 7,
+   "title": "Building my own network stack",
+   "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet/",
+   "points": 90,
+   "comment_count": 70,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 27,
-   "title": "Orbs",
-   "url": "https://ampcode.com/notes/orbs-explained",
-   "points": 76,
-   "comment_count": 31,
+   "title": "Hy4 preview",
+   "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+   "points": 375,
+   "comment_count": 236,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 28,
-   "title": "JupyterGIS 0.16: a grammar of graphics for maps, and collaborative story maps",
-   "url": "https://blog.jupyter.org/jupytergis-0-16-new-visualization-capabilities-collaborative-story-maps-and-more-03e6b78bacc0",
-   "points": 83,
-   "comment_count": 9,
+   "title": "When fruit is scarce, these monkeys hunt animals",
+   "url": "https://www.smithsonianmag.com/smart-news/when-fruit-is-scarce-these-monkeys-hunt-animals-the-behavior-may-offer-clues-about-the-origins-of-humans-meat-eating-habits-180989412/",
+   "points": 46,
+   "comment_count": 27,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -302,18 +302,18 @@
    "rank": 29,
    "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
    "url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
-   "points": 607,
-   "comment_count": 283,
+   "points": 663,
+   "comment_count": 329,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 30,
-   "title": "The Einstein-Szilard Refrigerator (2020)",
-   "url": "https://invention.si.edu/invention-stories/einstein-szilard-refrigerator",
-   "points": 91,
-   "comment_count": 41,
+   "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+   "url": "https://github.com/anthropics/claude-code/issues/66504",
+   "points": 166,
+   "comment_count": 185,
    "input": {
     "url": "https://news.ycombinator.com"
    }

@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mtgtfzjlz4tunffba",
+ "snapshot_id": "j_mthbah0wmpid8zfml",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-08-31T05:48:54.859Z",
+ "captured_at": "2026-08-31T14:06:48.135Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,306 +14,306 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-08-31T05:46:51.578Z",
-  "finished": "2026-08-31T05:48:51.279Z"
+  "started": "2026-08-31T14:06:27.657Z",
+  "finished": "2026-08-31T14:06:45.774Z"
  },
  "rows": [
   {
    "rank": 1,
-   "title": "“I just chose words carefully”",
-   "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
-   "points": 505,
-   "comment_count": 128,
+   "title": "OpenShot 4.0: Record, Edit, and Color Like Never Before",
+   "url": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
+   "points": 263,
+   "comment_count": 76,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 2,
-   "title": "P99 0 ms* autocomplete for 240M domain names",
-   "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
-   "points": 39,
-   "comment_count": 20,
+   "title": "“I just chose words carefully”",
+   "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+   "points": 1002,
+   "comment_count": 267,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 3,
-   "title": "OpenClaw 2.0, Accidentally",
-   "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
-   "points": 16,
-   "comment_count": 8,
+   "title": "Breaking Claude Code Opus 5 Auto Mode",
+   "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+   "points": 195,
+   "comment_count": 62,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 4,
-   "title": "My hobby of building miniatures and taking pretty pictures",
-   "url": "https://sandyuraz.com/blogs/tiny-cafe/",
-   "points": 33,
-   "comment_count": 4,
+   "title": "Agent Memory as a File Format",
+   "url": "https://calpaterson.com/memoryfields.html",
+   "points": 54,
+   "comment_count": 37,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 5,
-   "title": "It takes 5 cloud services to hear my doorbell",
-   "url": "https://blog.vghaisas.com/rube-goldberg-doorbell/",
-   "points": 85,
-   "comment_count": 63,
+   "title": "Malleable software = solid bases and custom code",
+   "url": "https://www.mdubakov.me/malleable-software-solid-bases-custom-code/",
+   "points": 35,
+   "comment_count": 7,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 6,
-   "title": "Creepy Crawlies",
-   "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
-   "points": 1019,
-   "comment_count": 513,
+   "title": "uv: Deduplicate all files in the wheel cache",
+   "url": "https://github.com/astral-sh/uv/pull/21327",
+   "points": 117,
+   "comment_count": 49,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 7,
-   "title": "Matrox: Graphics for Professionals",
-   "url": "https://www.abortretry.fail/p/matrox",
-   "points": 63,
-   "comment_count": 13,
+   "title": "My hobby of building miniatures and taking pretty pictures",
+   "url": "https://sandyuraz.com/blogs/tiny-cafe/",
+   "points": 237,
+   "comment_count": 42,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 8,
-   "title": "Understanding ChatGPT Work",
-   "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
-   "points": 112,
-   "comment_count": 40,
+   "title": "P99 0 ms* autocomplete for 240M domain names",
+   "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
+   "points": 177,
+   "comment_count": 71,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 9,
-   "title": "Internet centralization and the original sin of NAT",
-   "url": "https://dreamstation.systems/personal/ntppost.html",
-   "points": 21,
-   "comment_count": 8,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 10,
-   "title": "Haiku R1/beta6 has been released",
-   "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
-   "points": 282,
-   "comment_count": 85,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 11,
-   "title": "Why OOP Exists",
-   "url": "https://mathspp.com/blog/why-oop-exists",
-   "points": 5,
-   "comment_count": 1,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 12,
-   "title": "How to build a diffusion language model",
-   "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
-   "points": 44,
+   "title": "Using floci to emulate Cloud platforms (GCP, AWS, Azure)",
+   "url": "https://flowg.cloud/blog/using-floci-local-emulators",
+   "points": 18,
    "comment_count": 3,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
+   "rank": 10,
+   "title": "ReactOS 0.4.16",
+   "url": "https://reactos.org/project-news/reactos-0416-released/",
+   "points": 45,
+   "comment_count": 5,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 11,
+   "title": "Notes on Private Trackers",
+   "url": "https://www.jenn.site/notes-on-private-trackers/",
+   "points": 28,
+   "comment_count": 12,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 12,
+   "title": "Study: Blue light impairs the eye's ability to distinguish fine detail most",
+   "url": "https://research.uga.edu/news/blue-light-has-a-surprising-effect-on-your-eyes-study-finds/",
+   "points": 29,
+   "comment_count": 15,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
    "rank": 13,
-   "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
-   "url": "https://www.righto.com/2026/08/spacelab-core-memory.html",
-   "points": 96,
-   "comment_count": 16,
+   "title": "The startling 1960s theory that Stonehenge was a prehistoric computer",
+   "url": "https://www.bbc.com/culture/article/20260828-the-startling-1960s-theory-that-stonehenge-was-a-prehistoric-computer",
+   "points": 22,
+   "comment_count": 24,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 14,
-   "title": "Show HN: NFC Energy-Harvesting PCB Business Card with an MCU",
-   "url": "https://wilsonharper.net/projects/businesscard/",
-   "points": 140,
-   "comment_count": 14,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 15,
-   "title": "Sort branches by last commit date",
-   "url": "https://ryangreenberg.com/til/git-branches-by-commit-date/",
-   "points": 106,
-   "comment_count": 36,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 16,
-   "title": "UC Berkeley indefinitely suspends international student work authorizations",
-   "url": "https://www.dailycal.org/news/campus/after-second-ice-threat-uc-berkeley-indefinitely-suspends-international-student-work-authorizations/article_0e9ae0c0-dd4d-4455-a25b-e8be7b47e350.html",
-   "points": 81,
-   "comment_count": 68,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 17,
-   "title": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
-   "url": "https://github.com/KodeMunkie/sm750hdmifb",
-   "points": 96,
-   "comment_count": 35,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 18,
-   "title": "Continuous Diffusion Language Models (CDLM's)",
-   "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-   "points": 73,
-   "comment_count": 30,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 19,
-   "title": "Hacking IKEA Furniture",
-   "url": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
-   "points": 289,
-   "comment_count": 197,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 20,
-   "title": "Relm4 makes developing beautiful cross-platform applications idiomatic",
-   "url": "https://relm4.org/",
-   "points": 25,
-   "comment_count": 13,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 21,
-   "title": "Transfer files over an Ethernet patch cable",
-   "url": "https://maurycyz.com/misc/etherfiles/",
-   "points": 6,
-   "comment_count": 0,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 22,
-   "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
-   "url": "https://komoroske.com/slime-mold/",
-   "points": 143,
-   "comment_count": 45,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 23,
-   "title": "Commercially Available Bike Generators Are Not Sustainable (2011)",
-   "url": "https://solar.lowtechmagazine.com/2011/05/bike-powered-electricity-generators-are-not-sustainable/",
-   "points": 40,
-   "comment_count": 33,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 24,
-   "title": "How would you know whether an ancient culture had zero?",
-   "url": "https://www.johndcook.com/blog/2026/08/21/ancient-number-system/",
-   "points": 44,
-   "comment_count": 17,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 25,
-   "title": "Racter (1984)",
-   "url": "https://www.ubu.com/historical/racter/index.html",
-   "points": 20,
+   "title": "The Universe as a Minified Bundle",
+   "url": "https://andrewarrow.dev/2026/moons/2/day/9/the-universe-as-a-minified-bundle/",
+   "points": 10,
    "comment_count": 6,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
+   "rank": 15,
+   "title": "A CVE Dispute",
+   "url": "https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/",
+   "points": 99,
+   "comment_count": 19,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 16,
+   "title": "A 12TB Steam \"teraleak\" spills more than a decade of lost PC gaming history",
+   "url": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
+   "points": 246,
+   "comment_count": 43,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 17,
+   "title": "How to build a diffusion language model",
+   "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
+   "points": 138,
+   "comment_count": 17,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 18,
+   "title": "Matrox: Graphics for Professionals",
+   "url": "https://www.abortretry.fail/p/matrox",
+   "points": 152,
+   "comment_count": 53,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 19,
+   "title": "What 2000 Buried Underpants Revealed About Where Soil Is Most Alive",
+   "url": "https://studyfinds.com/what-2000-buried-underpants-revealed-about-where-soil-is-most-alive/",
+   "points": 60,
+   "comment_count": 10,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 20,
+   "title": "Show HN: SlideOps, slides from a repo that flag when they drift from the code",
+   "url": "https://github.com/glukicov/slideops",
+   "points": 4,
+   "comment_count": 1,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 21,
+   "title": "Understanding ChatGPT Work",
+   "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+   "points": 248,
+   "comment_count": 136,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 22,
+   "title": "The Art of Chip-8",
+   "url": "http://beyondloom.com/blog/artofchip8.html",
+   "points": 5,
+   "comment_count": 0,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 23,
+   "title": "Highlighting My Code Based on How Much I Care",
+   "url": "https://hank.bond/posts/highlighting-my-code-based-on-how-much-i-care/",
+   "points": 100,
+   "comment_count": 57,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 24,
+   "title": "Interviewing IBM's Christian Zoellin and Christian Jacobi",
+   "url": "https://chipsandcheese.com/p/hot-chips-2026-interviewing-ibms",
+   "points": 7,
+   "comment_count": 0,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 25,
+   "title": "Creepy Crawlies",
+   "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+   "points": 1271,
+   "comment_count": 635,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
    "rank": 26,
-   "title": "Startup Anti-Patterns",
-   "url": "https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/",
-   "points": 123,
-   "comment_count": 65,
+   "title": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
+   "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+   "points": 47,
+   "comment_count": 49,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 27,
-   "title": "Dad’s Custom Atari Peripherals",
-   "url": "https://www.goto10retro.com/p/dads-custom-atari-peripherals",
-   "points": 121,
-   "comment_count": 16,
+   "title": "State of the Map 2026: OpenStreetMap conference",
+   "url": "https://povesham.wordpress.com/2026/08/30/state-of-the-map-2026-openstreetmap-conference/",
+   "points": 11,
+   "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 28,
-   "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
-   "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
-   "points": 217,
-   "comment_count": 89,
+   "title": "Show HN: NFC Energy-Harvesting PCB Business Card with an MCU",
+   "url": "https://wilsonharper.net/projects/businesscard/",
+   "points": 200,
+   "comment_count": 22,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 29,
-   "title": "Zig: Pointer Stability for ArrayLists",
-   "url": "https://ziglang.org/devlog/2026/#2026-08-27",
-   "points": 97,
-   "comment_count": 65,
+   "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
+   "url": "https://www.righto.com/2026/08/spacelab-core-memory.html",
+   "points": 123,
+   "comment_count": 20,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 30,
-   "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
-   "url": "https://arxiv.org/abs/1804.07389",
-   "points": 200,
-   "comment_count": 58,
+   "title": "Formalization of the Solution to the Hopf Problem",
+   "url": "https://github.com/plby/HopfProblem",
+   "points": 16,
+   "comment_count": 11,
    "input": {
     "url": "https://news.ycombinator.com"
    }

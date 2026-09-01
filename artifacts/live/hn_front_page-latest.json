@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mthwbqbh117nyr1zet",
+ "snapshot_id": "j_mti7xk2w15q0hwurkx",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-08-31T23:55:30.761Z",
+ "captured_at": "2026-09-01T05:20:22.686Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,306 +14,306 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-08-31T23:55:18.272Z",
-  "finished": "2026-08-31T23:55:21.272Z"
+  "started": "2026-09-01T05:20:12.161Z",
+  "finished": "2026-09-01T05:20:16.475Z"
  },
  "rows": [
   {
    "rank": 1,
-   "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
-   "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
-   "points": 365,
-   "comment_count": 278,
+   "title": "Fastpotify",
+   "url": "https://fastpotify.rocks/",
+   "points": 112,
+   "comment_count": 44,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 2,
-   "title": "I turned my security cameras into an automatic bird identification system",
-   "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
-   "points": 335,
-   "comment_count": 91,
+   "title": "Google Antigravity introduces Boost deep reasoning (/boost)",
+   "url": "https://antigravity.google/docs/boost/",
+   "points": 52,
+   "comment_count": 35,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 3,
-   "title": "Run macOS Software on Linux",
-   "url": "https://www.darlinghq.org/",
-   "points": 23,
-   "comment_count": 4,
+   "title": "GPU World",
+   "url": "https://www.gpuworld.org/",
+   "points": 11,
+   "comment_count": 1,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 4,
-   "title": "'Mad honey' that can stop your heart is being sold online",
-   "url": "https://phys.org/news/2026-08-mad-honey-heart-sold-online.html",
-   "points": 105,
-   "comment_count": 64,
+   "title": "I turned my security cameras into an automatic bird identification system",
+   "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+   "points": 429,
+   "comment_count": 102,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 5,
-   "title": "Playa Phone",
-   "url": "https://playaphone.com/",
-   "points": 468,
-   "comment_count": 175,
+   "title": "Restroom Archive",
+   "url": "https://restroomarchive.com/",
+   "points": 36,
+   "comment_count": 2,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 6,
-   "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
-   "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
-   "points": 177,
-   "comment_count": 28,
+   "title": "Evidence of Fraud in an Influential Study About Procrastination",
+   "url": "https://datacolada.org/138",
+   "points": 135,
+   "comment_count": 91,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 7,
-   "title": "Lion-man – the oldest confirmed statue ever discovered",
-   "url": "https://en.wikipedia.org/wiki/Lion-man",
-   "points": 20,
-   "comment_count": 3,
+   "title": "Playa Phone",
+   "url": "https://playaphone.com/",
+   "points": 561,
+   "comment_count": 202,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 8,
-   "title": "Terence Tao explains 6 essential mathematical concepts [video]",
-   "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
-   "points": 160,
-   "comment_count": 20,
+   "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
+   "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
+   "points": 274,
+   "comment_count": 35,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 9,
-   "title": "Develop Cross-Platform CLI and GUI Tools with Tcl/Tk",
-   "url": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
-   "points": 15,
-   "comment_count": 6,
+   "title": "2004 RuneScape fit a multiplayer RPG into 56k dial-up",
+   "url": "https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/",
+   "points": 77,
+   "comment_count": 40,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 10,
-   "title": "Show HN: Laser Graffiti",
-   "url": "https://laser.consti.de/",
-   "points": 107,
-   "comment_count": 22,
+   "title": "Terence Tao explains 6 essential mathematical concepts [video]",
+   "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
+   "points": 322,
+   "comment_count": 35,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 11,
-   "title": "Dwarf Fortress is getting the mother of all magic updates",
-   "url": "https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe",
-   "points": 264,
-   "comment_count": 100,
+   "title": "RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3",
+   "url": "https://github.com/fregacmols/RotaryCell",
+   "points": 18,
+   "comment_count": 2,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 12,
-   "title": "Autonomous (YC F25) is hiring engineers",
-   "url": "https://news.ycombinator.com/item?id=49514781",
-   "points": 0,
-   "comment_count": 2,
+   "title": "Dwarf Fortress is getting the mother of all magic updates",
+   "url": "https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe",
+   "points": 350,
+   "comment_count": 131,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 13,
-   "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-   "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
-   "points": 269,
-   "comment_count": 310,
+   "title": "Borges Labyrinth in Venice reopens to the public",
+   "url": "https://www.wallpaper.com/design-interiors/labirinto-borges-venice-reopening",
+   "points": 39,
+   "comment_count": 6,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 14,
-   "title": "Smartphone LED detects hidden cameras with AI",
-   "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
-   "points": 132,
-   "comment_count": 33,
+   "title": "Develop Cross-Platform CLI and GUI Tools with Tcl/Tk",
+   "url": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
+   "points": 76,
+   "comment_count": 39,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 15,
-   "title": "ChatGPT Work Tool and Skill Reference",
-   "url": "https://codex-tool-reference.simonw.chatgpt.site/",
-   "points": 166,
-   "comment_count": 49,
+   "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+   "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+   "points": 360,
+   "comment_count": 402,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 16,
-   "title": "I think the military commissary's freezers were hacked",
-   "url": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
-   "points": 224,
-   "comment_count": 130,
+   "title": "Show HN: Laser Graffiti",
+   "url": "https://laser.consti.de/",
+   "points": 158,
+   "comment_count": 32,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 17,
-   "title": "Reverse engineering my ADHD test",
-   "url": "https://nullpt.rs/reverse-engineering-adhd-test",
-   "points": 126,
-   "comment_count": 45,
+   "title": "Lion-man",
+   "url": "https://en.wikipedia.org/wiki/Lion-man",
+   "points": 91,
+   "comment_count": 43,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 18,
-   "title": "How we configured OpenTelemetry logs in Rails",
-   "url": "https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails",
-   "points": 14,
-   "comment_count": 2,
+   "title": "Cheap GPS jammers are filling the world with navigation dead zones",
+   "url": "https://www.wsj.com/tech/gps-jammers-dead-zones-e76f3261",
+   "points": 102,
+   "comment_count": 101,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 19,
-   "title": "ravynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
-   "url": "https://ravynos.com/",
-   "points": 151,
-   "comment_count": 98,
+   "title": "I think the military commissary's freezers were hacked",
+   "url": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
+   "points": 303,
+   "comment_count": 163,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 20,
-   "title": "Claude × retrocomputing: emulating a QIC-117 tape drive",
-   "url": "https://dmitrybrant.com/2026/08/23/claude-x-retrocomputing-emulating-a-qic-117-tape-drive",
-   "points": 11,
-   "comment_count": 8,
+   "title": "Smartphone LED detects hidden cameras with AI",
+   "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
+   "points": 184,
+   "comment_count": 53,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 21,
-   "title": "Internet centralization and the original sin of NAT",
-   "url": "https://dreamstation.systems/personal/ntppost.html",
-   "points": 166,
-   "comment_count": 126,
+   "title": "Run macOS Software on Linux",
+   "url": "https://www.darlinghq.org/",
+   "points": 184,
+   "comment_count": 58,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 22,
-   "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
-   "url": "https://usealmanac.com/",
-   "points": 42,
-   "comment_count": 41,
+   "title": "Autonomous (YC F25) is hiring engineers",
+   "url": "https://news.ycombinator.com/item?id=49514781",
+   "points": 0,
+   "comment_count": 8,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 23,
-   "title": "No country for mediocre mathematicians",
-   "url": "https://garvvee.substack.com/p/no-country-for-mediocre-mathematicians",
-   "points": 125,
-   "comment_count": 73,
+   "title": "DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs",
+   "url": "https://www.dolthub.com/blog/2026-08-31-doltlite-beta/",
+   "points": 19,
+   "comment_count": 3,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 24,
-   "title": "Since it was stripped of planetary status, Pluto’s defenders have been fighting",
-   "url": "https://www.theguardian.com/science/2026/aug/31/forbidden-planet-was-plutos-2006-demotion-a-big-mistake",
-   "points": 41,
-   "comment_count": 119,
+   "title": "GPU World",
+   "url": "https://www.gpuworld.org/",
+   "points": 6,
+   "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 25,
-   "title": "The safest job from AI may be writing",
-   "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
-   "points": 75,
-   "comment_count": 117,
+   "title": "A Cyanometer and a Cloud Colourimeter",
+   "url": "https://byopiapress.wordpress.com/2024/05/19/a-cyanometer-and-a-cloud-colourimeter/",
+   "points": 11,
+   "comment_count": 1,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 26,
-   "title": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
-   "url": "https://github.com/Hebbian-Robotics/hflow",
-   "points": 36,
-   "comment_count": 10,
+   "title": "RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
+   "url": "https://ravynos.com/",
+   "points": 186,
+   "comment_count": 106,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 27,
-   "title": "Show HN: We built the smallest dual-band aircraft tracker",
-   "url": "https://pantsforbirds.com/the-worlds-smallest-dual-band-ads-b-receiver-module/",
-   "points": 72,
-   "comment_count": 21,
+   "title": "ChatGPT Work Tool and Skill Reference",
+   "url": "https://codex-tool-reference.simonw.chatgpt.site/",
+   "points": 204,
+   "comment_count": 53,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 28,
-   "title": "Euphemisation of Taboo Areas (2023) [pdf]",
-   "url": "https://ajmp.uwr.edu.pl/wp-content/uploads/sites/39/2023/12/10_Kleparski.pdf",
-   "points": 32,
-   "comment_count": 2,
+   "title": "Flat vs. segmented memory – it's recursive",
+   "url": "https://www.humprog.org/~stephen/blog/2026/08/25/#flat-vs-segmented",
+   "points": 3,
+   "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 29,
-   "title": "OpenShot 4.0 – Open-source video editor",
-   "url": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
-   "points": 522,
-   "comment_count": 121,
+   "title": "Reverse engineering my ADHD test",
+   "url": "https://nullpt.rs/reverse-engineering-adhd-test",
+   "points": 175,
+   "comment_count": 96,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 30,
-   "title": "Breaking Claude Code Opus 5 Auto Mode",
-   "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
-   "points": 335,
-   "comment_count": 113,
+   "title": "Visualizing Combos in Judo in R",
+   "url": "https://www.r-bloggers.com/2025/05/the-dynamics-of-the-gentle-way-exploring-judo-attack-combinations-as-networks-in-r/",
+   "points": 27,
+   "comment_count": 2,
    "input": {
     "url": "https://news.ycombinator.com"
    }

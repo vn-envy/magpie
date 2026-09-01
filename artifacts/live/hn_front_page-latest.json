@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mtiig6yb1m9phjusc2",
+ "snapshot_id": "j_mtisla261lob4u1x3s",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-09-01T10:14:47.831Z",
+ "captured_at": "2026-09-01T14:58:44.039Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,306 +14,306 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-09-01T10:14:37.757Z",
-  "finished": "2026-09-01T10:14:42.011Z"
+  "started": "2026-09-01T14:58:31.462Z",
+  "finished": "2026-09-01T14:58:35.746Z"
  },
  "rows": [
   {
    "rank": 1,
-   "title": "GPU World",
-   "url": "https://www.gpuworld.org/",
-   "points": 241,
-   "comment_count": 122,
+   "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+   "url": "https://github.com/ankidroid/Anki-Android/issues/21656",
+   "points": 463,
+   "comment_count": 114,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 2,
-   "title": "Fastpotify",
-   "url": "https://fastpotify.rocks/",
-   "points": 404,
-   "comment_count": 212,
+   "title": "44% on ARC-AGI-1 in 67 cents",
+   "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+   "points": 209,
+   "comment_count": 55,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 3,
-   "title": "American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career",
-   "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
-   "points": 41,
-   "comment_count": 12,
+   "title": "Io_uring Without Readahead",
+   "url": "https://frn.sh/io-uring/",
+   "points": 30,
+   "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 4,
-   "title": "Tmp.0ut Volume 5",
-   "url": "https://tmpout.sh/5/",
-   "points": 68,
-   "comment_count": 23,
+   "title": "American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career",
+   "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
+   "points": 205,
+   "comment_count": 86,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 5,
-   "title": "44% on ARC-AGI-1 in 67 cents",
-   "url": "https://mvakde.github.io/blog/44-on-arc-1/",
-   "points": 3,
-   "comment_count": 0,
+   "title": "Fastpotify",
+   "url": "https://fastpotify.rocks/",
+   "points": 629,
+   "comment_count": 401,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 6,
-   "title": "Polishing Cloth Updated",
-   "url": "https://512pixels.net/2026/08/polishing-cloth-updated/",
-   "points": 30,
-   "comment_count": 12,
+   "title": "Tmp.0ut Volume 5",
+   "url": "https://tmpout.sh/5/",
+   "points": 141,
+   "comment_count": 31,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 7,
-   "title": "Restroom Archive",
-   "url": "https://restroomarchive.com/",
-   "points": 130,
-   "comment_count": 36,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 8,
-   "title": "Playa Phone",
-   "url": "https://playaphone.com/",
-   "points": 636,
-   "comment_count": 211,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 9,
-   "title": "I turned my security cameras into an automatic bird identification system",
-   "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
-   "points": 504,
-   "comment_count": 121,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 10,
-   "title": "Terence Tao explains 6 essential mathematical concepts [video]",
-   "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
-   "points": 433,
-   "comment_count": 61,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 11,
-   "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
-   "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
-   "points": 331,
-   "comment_count": 40,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 12,
-   "title": "CollectWise (YC F24) Is Hiring",
-   "url": "https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer",
-   "points": 0,
+   "title": "Fractal Jittered Voronoi Partitions",
+   "url": "https://www.boristhebrave.com/2026/08/29/fractal-jittered-voronoi-partitions/",
+   "points": 27,
    "comment_count": 3,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 13,
-   "title": "Dwarf Fortress is getting the mother of all magic updates",
-   "url": "https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe",
-   "points": 421,
-   "comment_count": 171,
+   "rank": 8,
+   "title": "Restroom Archive",
+   "url": "https://restroomarchive.com/",
+   "points": 235,
+   "comment_count": 55,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 14,
-   "title": "RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3",
-   "url": "https://github.com/fregacmols/RotaryCell",
-   "points": 62,
-   "comment_count": 10,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 15,
-   "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-   "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
-   "points": 416,
-   "comment_count": 457,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 16,
-   "title": "Evidence of Fraud in an Influential Study About Procrastination",
-   "url": "https://datacolada.org/138",
-   "points": 245,
-   "comment_count": 166,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 17,
-   "title": "Borges Labyrinth in Venice reopens to the public",
-   "url": "https://www.wallpaper.com/design-interiors/labirinto-borges-venice-reopening",
-   "points": 74,
-   "comment_count": 27,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 18,
-   "title": "Show HN: Laser Graffiti",
-   "url": "https://laser.consti.de/",
-   "points": 195,
-   "comment_count": 40,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 19,
-   "title": "Global Trade and the United States Navy",
-   "url": "https://acoup.blog/2026/08/28/collections-global-trade-and-united-states-navy/",
-   "points": 11,
-   "comment_count": 2,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 20,
-   "title": "2004 RuneScape fit a multiplayer RPG into 56k dial-up",
-   "url": "https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/",
-   "points": 113,
-   "comment_count": 60,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 21,
-   "title": "I think the military commissary's freezers were hacked",
-   "url": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
-   "points": 346,
-   "comment_count": 196,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 22,
-   "title": "Cheap GPS jammers are filling the world with navigation dead zones",
-   "url": "https://www.wsj.com/tech/gps-jammers-dead-zones-e76f3261",
-   "points": 141,
-   "comment_count": 136,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 23,
-   "title": "Roget's Thesaurus",
-   "url": "https://artflsrv04.uchicago.edu/roget-thesaurus/",
-   "points": 16,
-   "comment_count": 2,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 24,
-   "title": "Flat vs. segmented memory – it's recursive",
-   "url": "https://www.humprog.org/~stephen/blog/2026/08/25/#flat-vs-segmented",
-   "points": 24,
+   "rank": 9,
+   "title": "Saab Enters Collaborative Combat Aircraft Race with High-End Concept",
+   "url": "https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept",
+   "points": 19,
    "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
+   "rank": 10,
+   "title": "Benchmarking Vector Indexes",
+   "url": "https://www.percona.com/blog/benchmarking-vector-indexes/",
+   "points": 17,
+   "comment_count": 3,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 11,
+   "title": "GPU World",
+   "url": "https://www.gpuworld.org/",
+   "points": 328,
+   "comment_count": 198,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 12,
+   "title": "Playa Phone",
+   "url": "https://playaphone.com/",
+   "points": 693,
+   "comment_count": 220,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 13,
+   "title": "I turned my security cameras into an automatic bird identification system",
+   "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+   "points": 561,
+   "comment_count": 147,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 14,
+   "title": "DIY – Build a Potato Box (2022)",
+   "url": "https://www.rebootedmom.com/build-a-potato-box/",
+   "points": 21,
+   "comment_count": 4,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 15,
+   "title": "Terence Tao explains 6 essential mathematical concepts [video]",
+   "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
+   "points": 528,
+   "comment_count": 70,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 16,
+   "title": "RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3",
+   "url": "https://github.com/fregacmols/RotaryCell",
+   "points": 122,
+   "comment_count": 27,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 17,
+   "title": "CollectWise (YC F24) Is Hiring",
+   "url": "https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer",
+   "points": 0,
+   "comment_count": 7,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 18,
+   "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
+   "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
+   "points": 367,
+   "comment_count": 53,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 19,
+   "title": "Dwarf Fortress is getting the mother of all magic updates",
+   "url": "https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe",
+   "points": 469,
+   "comment_count": 203,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 20,
+   "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+   "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+   "points": 464,
+   "comment_count": 526,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 21,
+   "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
+   "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
+   "points": 124,
+   "comment_count": 111,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 22,
+   "title": "Introducing Ad Blocker for Firefox on iOS",
+   "url": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
+   "points": 15,
+   "comment_count": 0,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 23,
+   "title": "Show HN: Laser Graffiti",
+   "url": "https://laser.consti.de/",
+   "points": 231,
+   "comment_count": 48,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 24,
+   "title": "Cheap GPS jammers are filling the world with navigation dead zones",
+   "url": "https://www.wsj.com/tech/gps-jammers-dead-zones-e76f3261",
+   "points": 183,
+   "comment_count": 191,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
    "rank": 25,
-   "title": "Smartphone LED detects hidden cameras with AI",
-   "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
-   "points": 218,
-   "comment_count": 64,
+   "title": "Evidence of Fraud in an Influential Study About Procrastination",
+   "url": "https://datacolada.org/138",
+   "points": 311,
+   "comment_count": 215,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 26,
-   "title": "DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs",
-   "url": "https://www.dolthub.com/blog/2026-08-31-doltlite-beta/",
-   "points": 47,
-   "comment_count": 33,
+   "title": "Smartphone LED detects hidden cameras with AI",
+   "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
+   "points": 253,
+   "comment_count": 75,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 27,
-   "title": "Lion-man",
-   "url": "https://en.wikipedia.org/wiki/Lion-man",
-   "points": 114,
-   "comment_count": 57,
+   "title": "Reverse engineering my ADHD test",
+   "url": "https://nullpt.rs/reverse-engineering-adhd-test",
+   "points": 280,
+   "comment_count": 190,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 28,
-   "title": "Reverse engineering my ADHD test",
-   "url": "https://nullpt.rs/reverse-engineering-adhd-test",
-   "points": 225,
-   "comment_count": 133,
+   "title": "Borges Labyrinth in Venice reopens to the public",
+   "url": "https://www.wallpaper.com/design-interiors/labirinto-borges-venice-reopening",
+   "points": 100,
+   "comment_count": 33,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 29,
-   "title": "RavynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
-   "url": "https://ravynos.com/",
-   "points": 201,
-   "comment_count": 115,
+   "title": "Roget's Thesaurus",
+   "url": "https://artflsrv04.uchicago.edu/roget-thesaurus/",
+   "points": 37,
+   "comment_count": 6,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 30,
-   "title": "ChatGPT Work Tool and Skill Reference",
-   "url": "https://codex-tool-reference.simonw.chatgpt.site/",
-   "points": 220,
-   "comment_count": 52,
+   "title": "Flat vs. segmented memory – it's recursive",
+   "url": "https://www.humprog.org/~stephen/blog/2026/08/25/#flat-vs-segmented",
+   "points": 43,
+   "comment_count": 1,
    "input": {
     "url": "https://news.ycombinator.com"
    }

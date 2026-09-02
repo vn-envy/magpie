@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mtjwrhr92f6xcfvoa4",
+ "snapshot_id": "j_mtk751zdzetv7bxtq",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-09-02T09:43:16.258Z",
+ "captured_at": "2026-09-02T14:34:50.574Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,306 +14,306 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-09-02T09:43:05.778Z",
-  "finished": "2026-09-02T09:43:15.132Z"
+  "started": "2026-09-02T14:33:38.526Z",
+  "finished": "2026-09-02T14:34:40.013Z"
  },
  "rows": [
   {
    "rank": 1,
-   "title": "Commodore 64 released September 1, 1982",
-   "url": "https://dfarq.homeip.net/commodore-64-released-september-1-1982/",
-   "points": 30,
-   "comment_count": 1,
+   "title": "A Note from LWN",
+   "url": "https://lwn.net/Articles/1090585/",
+   "points": 235,
+   "comment_count": 39,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 2,
-   "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-   "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-   "points": 1241,
-   "comment_count": 1160,
+   "title": "Three sites made 215,128 \"best software\" pages for AI. Perplexity cites them",
+   "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+   "points": 35,
+   "comment_count": 18,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 3,
-   "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
-   "url": "https://arxiv.org/abs/2608.29530",
-   "points": 140,
-   "comment_count": 43,
+   "title": "GrapheneOS says Pixel 11 has MTE support after all",
+   "url": "https://grapheneos.social/@GrapheneOS/117194007157499435",
+   "points": 25,
+   "comment_count": 10,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 4,
-   "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-   "url": "https://danluu.com/zitron/",
-   "points": 704,
-   "comment_count": 763,
+   "title": "Mistral now trains on user input by default, except on enterprise tier",
+   "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+   "points": 67,
+   "comment_count": 33,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 5,
-   "title": "Fine, I'll build my own text editor",
-   "url": "https://dbushell.com/2026/09/01/text-editor/",
-   "points": 121,
-   "comment_count": 106,
+   "title": "Biggest dark matter detector spots a single weird particle",
+   "url": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle",
+   "points": 18,
+   "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 6,
-   "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
-   "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
-   "points": 212,
-   "comment_count": 88,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 7,
-   "title": "Introducing Ad Blocker for Firefox on iOS",
-   "url": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
-   "points": 473,
-   "comment_count": 157,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 8,
-   "title": "Telli (YC F24) is hiring engineers and designers [Berlin, on-site]",
-   "url": "https://careers.telli.com/",
-   "points": 0,
-   "comment_count": 59,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 9,
-   "title": "WebFPGA",
-   "url": "https://webfpga.io/",
-   "points": 74,
-   "comment_count": 32,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 10,
-   "title": "My local model setup on an M4 Pro Mac Mini",
-   "url": "https://lws.io/blog/my-local-model-setup/",
-   "points": 199,
-   "comment_count": 113,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 11,
-   "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
-   "url": "https://masteranza.github.io/weedout/",
-   "points": 143,
-   "comment_count": 63,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 12,
-   "title": "Sonic Pi",
-   "url": "https://sonic-pi.net/",
-   "points": 156,
-   "comment_count": 27,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 13,
-   "title": "The efficient frontier of LLM inference",
-   "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
-   "points": 119,
-   "comment_count": 30,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 14,
-   "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
-   "url": "https://www.norirobotics.com/",
-   "points": 171,
-   "comment_count": 52,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 15,
-   "title": "True Rate of Unemployment",
-   "url": "https://www.lisep.org/tru",
-   "points": 228,
-   "comment_count": 186,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 16,
-   "title": "Ambient CSS v3 – Blender meets CSS",
-   "url": "https://ambientcss.vercel.app/",
-   "points": 274,
-   "comment_count": 82,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 17,
-   "title": "Movie Scene Map – 13,312 films, series, games, anime and manga",
-   "url": "https://moviescenemap.com/",
-   "points": 252,
-   "comment_count": 37,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 18,
-   "title": "Path to Astra: critical capabilities and frontier safeguards",
-   "url": "https://openai.com/index/path-to-astra/",
-   "points": 157,
-   "comment_count": 65,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 19,
-   "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
-   "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
-   "points": 410,
-   "comment_count": 188,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 20,
-   "title": "A Genealogy of Freudenthal's Lincos",
-   "url": "https://www.shellsandpebbles.com/2026/01/19/a-genealogy-of-freudenthals-lincos-part-i-looking-up-from-the-ruins-of-babel/",
-   "points": 10,
+   "title": "Poisson Disk Sampling",
+   "url": "https://stripeacross.com/posts/poisson-disk-sampling/",
+   "points": 16,
    "comment_count": 1,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 21,
-   "title": "Ask HN: How do you survive a job you hate which is slowly making you sick?",
-   "url": "https://news.ycombinator.com/item?id=49533073",
-   "points": 16,
-   "comment_count": 13,
+   "rank": 7,
+   "title": "Just bury your trash: What if everything we know about recycling is wrong?",
+   "url": "https://worksinprogress.co/issue/just-bury-your-trash/",
+   "points": 9,
+   "comment_count": 3,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 22,
-   "title": "The creator of Jujutsu has joined ERSC",
-   "url": "https://ersc.io/blog/martin-joins-ersc",
-   "points": 234,
-   "comment_count": 176,
+   "rank": 8,
+   "title": "Commodore 64 released September 1, 1982",
+   "url": "https://dfarq.homeip.net/commodore-64-released-september-1-1982/",
+   "points": 204,
+   "comment_count": 102,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 23,
-   "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
-   "url": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
-   "points": 125,
-   "comment_count": 55,
+   "rank": 9,
+   "title": "Aging Brains Blend Memories Together Instead of Just Forgetting Them",
+   "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
+   "points": 33,
+   "comment_count": 10,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 24,
-   "title": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
-   "url": "https://hnmatchmaker.com/",
-   "points": 89,
-   "comment_count": 37,
+   "rank": 10,
+   "title": "Six curl CVEs after OpenAI and Anthropic came back with zero",
+   "url": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
+   "points": 31,
+   "comment_count": 6,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 25,
-   "title": "How bicycle coaster brakes work (2018)",
-   "url": "https://www.dougbarnesauthor.com/2018/06/how-bicycle-coaster-brakes-work.html",
-   "points": 61,
-   "comment_count": 52,
+   "rank": 11,
+   "title": "Exit the Cave",
+   "url": "https://turtlespace.blog/p/exit-the-cave",
+   "points": 5,
+   "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 26,
-   "title": "Forgotten History of Small Nuclear Reactors (2015)",
-   "url": "https://spectrum.ieee.org/the-forgotten-history-of-small-nuclear-reactors",
-   "points": 40,
-   "comment_count": 26,
+   "rank": 12,
+   "title": "Dyson CameraJet: The only toothbrush with a camera and a jet",
+   "url": "https://www.dyson.com/discover/news/latest/introducing-camerajet",
+   "points": 11,
+   "comment_count": 11,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 27,
-   "title": "Ask HN: Who is hiring? (September 2026)",
-   "url": "https://news.ycombinator.com/item?id=49522897",
-   "points": 216,
-   "comment_count": 242,
+   "rank": 13,
+   "title": "Dutch central bank moves share of gold from U.S., Canada to London",
+   "url": "https://nltimes.nl/2026/09/02/dutch-central-bank-moves-share-gold-us-canada-london-cites-instability",
+   "points": 71,
+   "comment_count": 48,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 28,
-   "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
-   "url": "https://github.com/carloslfu/slotstream",
-   "points": 210,
-   "comment_count": 96,
+   "rank": 14,
+   "title": "A Small Telescope That Surprised Me",
+   "url": "https://adfr.io/thoughts/20260831_a_small_telescope_that_surprised_me/",
+   "points": 60,
+   "comment_count": 45,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 29,
-   "title": "Building an interactive instrument for a one-of-a-kind festival",
-   "url": "https://benholmen.com/blog/halfmoon-chimes/",
-   "points": 52,
+   "rank": 15,
+   "title": "Ending my elixir exploratory writing",
+   "url": "https://lucassifoni.info/blog/the-end-of-this-elixir-log/",
+   "points": 33,
+   "comment_count": 17,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 16,
+   "title": "LLMs: Intelligence vs. Cost",
+   "url": "https://openteams.com/intelligence-vs-cost/",
+   "points": 12,
+   "comment_count": 4,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 17,
+   "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
+   "url": "https://arxiv.org/abs/2608.29530",
+   "points": 221,
+   "comment_count": 74,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 18,
+   "title": "Telli (YC F24) is hiring engineers and designers [Berlin, on-site]",
+   "url": "https://careers.telli.com/",
+   "points": 0,
    "comment_count": 5,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 30,
-   "title": "Top Web Design Styles of 1993",
-   "url": "https://contemporary-home-computing.org/prof-dr-style/",
-   "points": 44,
+   "rank": 19,
+   "title": "Check if a file was made with Claude",
+   "url": "https://claude.com/check-content",
+   "points": 27,
+   "comment_count": 14,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 20,
+   "title": "Using jq to format JSON on the clipboard",
+   "url": "https://chris48s.github.io/blogmarks/posts/2021/jsontidy/",
+   "points": 16,
    "comment_count": 4,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 21,
+   "title": "Quasar 438B: Europe's Leading AI Model",
+   "url": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
+   "points": 89,
+   "comment_count": 72,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 22,
+   "title": "Move in C++ without a std:move",
+   "url": "https://andreasfertig.com/blog/2026/09/move-in-cpp-without-a-stdmove/",
+   "points": 26,
+   "comment_count": 22,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 23,
+   "title": "A Beginner's Deep Dive Guide to Entra Passkeys",
+   "url": "https://emsroute.com/2026/03/19/passkeys-beginners-101/",
+   "points": 9,
+   "comment_count": 8,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 24,
+   "title": "WebLLM: high-performance in-browser LLM inference engine",
+   "url": "https://github.com/mlc-ai/web-llm",
+   "points": 3,
+   "comment_count": 0,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 25,
+   "title": "The Lost Art of Carrying Loads",
+   "url": "https://www.carryology.com/insights/the-lost-art-of-carrying-loads/",
+   "points": 34,
+   "comment_count": 39,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 26,
+   "title": "Banca Etica Suspends A/I's Account While Condemning the Sanctions Behind It",
+   "url": "https://sabot.media/post/banca-etica-statement-english",
+   "points": 28,
+   "comment_count": 18,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 27,
+   "title": "You Know Who Hates AI? Insurance Claims Adjusters",
+   "url": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
+   "points": 108,
+   "comment_count": 80,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 28,
+   "title": "Why humanoid robots won't catch up to human workers any time soon",
+   "url": "https://www.understandingai.org/p/why-humanoid-robots-wont-catch-up",
+   "points": 10,
+   "comment_count": 5,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 29,
+   "title": "It's OK to hardcode feature flags (2025)",
+   "url": "https://code.mendhak.com/hardcode-feature-flags/",
+   "points": 45,
+   "comment_count": 26,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 30,
+   "title": "Crossing Boundaries with Integration Events",
+   "url": "https://deniskyashif.com/2026/08/29/crossing-boundaries-with-integration-events/",
+   "points": 6,
+   "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
    }

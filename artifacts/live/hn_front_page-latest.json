@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mtkmu89lb15xb38c2",
+ "snapshot_id": "j_mtks526d1rt4dgl0tt",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-09-02T21:53:14.861Z",
+ "captured_at": "2026-09-03T00:21:37.106Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,75 +14,75 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-09-02T21:53:04.290Z",
-  "finished": "2026-09-02T21:53:07.585Z"
+  "started": "2026-09-03T00:21:26.891Z",
+  "finished": "2026-09-03T00:21:31.690Z"
  },
  "rows": [
   {
    "rank": 1,
    "title": "Muse Spark 1.3",
    "url": "https://developer.meta.com/ai/models/muse-spark/",
-   "points": 252,
-   "comment_count": 146,
+   "points": 344,
+   "comment_count": 240,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 2,
-   "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-   "points": 718,
-   "comment_count": 420,
+   "title": "METR Report on OpenAI / Hugging Face Hacking Incident",
+   "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident",
+   "points": 59,
+   "comment_count": 33,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 3,
-   "title": "Google avoids a breakup of its ad tech business",
-   "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
-   "points": 150,
-   "comment_count": 78,
+   "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+   "points": 798,
+   "comment_count": 475,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 4,
-   "title": "I wanna live an NPC life",
-   "url": "https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/",
-   "points": 119,
-   "comment_count": 94,
+   "title": "Google avoids a breakup of its ad tech business",
+   "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
+   "points": 241,
+   "comment_count": 147,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 5,
-   "title": "Fable 5.1 World Modeling",
-   "url": "https://github.com/PhiloLabs/fable51-worlds",
-   "points": 67,
-   "comment_count": 17,
+   "title": "Uber shuts operations in Nigeria and Uganda with immediate effect",
+   "url": "https://www.bbc.com/news/articles/c86xpv8l9y9o",
+   "points": 65,
+   "comment_count": 29,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 6,
-   "title": "Reverse Engineering Unknown File Formats with ImHex",
-   "url": "https://werwolv.net/posts/file_format_reverse_engineering/",
-   "points": 24,
-   "comment_count": 2,
+   "title": "Holden's Lightning Flight",
+   "url": "https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight",
+   "points": 26,
+   "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 7,
-   "title": "Wendell Berry has died",
-   "url": "https://www.nytimes.com/2026/08/31/us/wendell-berry-dead.html",
-   "points": 94,
+   "title": "Fable 5.1 World Modeling",
+   "url": "https://github.com/PhiloLabs/fable51-worlds",
+   "points": 125,
    "comment_count": 44,
    "input": {
     "url": "https://news.ycombinator.com"
@@ -90,199 +90,199 @@
   },
   {
    "rank": 8,
-   "title": "Nango (YC W23) is hiring across eng, product and GTM (SF and remote)",
-   "url": "https://nango.dev/careers",
-   "points": 0,
-   "comment_count": 52,
+   "title": "Reverse Engineering Unknown File Formats with ImHex",
+   "url": "https://werwolv.net/posts/file_format_reverse_engineering/",
+   "points": 77,
+   "comment_count": 12,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 9,
-   "title": "Can I opt out of my input or output data being used for training?",
-   "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
-   "points": 344,
-   "comment_count": 145,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 10,
-   "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
-   "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
-   "points": 49,
-   "comment_count": 23,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 11,
-   "title": "Biggest dark matter detector spots a single weird particle",
-   "url": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle",
-   "points": 214,
-   "comment_count": 63,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 12,
-   "title": "Altair Basic Interpreter Source Code (1975) [pdf]",
-   "url": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf",
-   "points": 18,
-   "comment_count": 5,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 13,
-   "title": "Embedded Rust RTOS vs. C RTOS",
-   "url": "https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/",
-   "points": 40,
+   "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
+   "url": "https://ronanrx.com/",
+   "points": 13,
    "comment_count": 17,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
+   "rank": 10,
+   "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+   "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+   "points": 289,
+   "comment_count": 127,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 11,
+   "title": "Engineering of the fastest WebAssembly interpreters",
+   "url": "https://wasmi-labs.github.io/blog/posts/wasmi-v2.0/",
+   "points": 32,
+   "comment_count": 0,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 12,
+   "title": "Can I opt out of my input or output data being used for training?",
+   "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+   "points": 359,
+   "comment_count": 157,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 13,
+   "title": "Nango (YC W23) is hiring across eng, product and GTM (SF and remote)",
+   "url": "https://nango.dev/careers",
+   "points": 0,
+   "comment_count": 3,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
    "rank": 14,
-   "title": "Exit the Cave",
-   "url": "https://turtlespace.blog/p/exit-the-cave",
-   "points": 182,
-   "comment_count": 53,
+   "title": "Wendell Berry has died",
+   "url": "https://www.nytimes.com/2026/08/31/us/wendell-berry-dead.html",
+   "points": 132,
+   "comment_count": 66,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 15,
-   "title": "Earth's organisms developed via evolution. What if the cosmos did, too?",
-   "url": "https://www.smithsonianmag.com/science-nature/earths-organisms-developed-via-evolution-some-theorists-wonder-what-if-the-entire-cosmos-did-too-180989338/",
-   "points": 17,
-   "comment_count": 7,
+   "title": "Altair Basic Interpreter Source Code (1975) [pdf]",
+   "url": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf",
+   "points": 37,
+   "comment_count": 12,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 16,
-   "title": "Aging Brains Blend Memories Together Instead of Just Forgetting Them",
-   "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
-   "points": 165,
-   "comment_count": 76,
+   "title": "Reasons robotics is hard",
+   "url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
+   "points": 18,
+   "comment_count": 2,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 17,
-   "title": "Commodore 64 released September 1, 1982",
-   "url": "https://dfarq.homeip.net/commodore-64-released-september-1-1982/",
-   "points": 305,
-   "comment_count": 158,
+   "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
+   "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
+   "points": 74,
+   "comment_count": 40,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 18,
-   "title": "We could save petabytes of cache storage with Zstandard and Pingora",
-   "url": "https://blog.cloudflare.com/cache-transcoding/",
-   "points": 45,
-   "comment_count": 16,
+   "title": "Biggest dark matter detector spots a single weird particle",
+   "url": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle",
+   "points": 240,
+   "comment_count": 78,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 19,
-   "title": "Mamdani Bans AI in NYC Schools",
-   "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
-   "points": 50,
-   "comment_count": 6,
+   "title": "Aging brains blend memories together instead of just forgetting them",
+   "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
+   "points": 202,
+   "comment_count": 88,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 20,
-   "title": "A Selection of Los Alamos Rolodex Business Cards",
-   "url": "https://clui.org/collections/los-alamos-business-cards/selection-cards",
-   "points": 121,
-   "comment_count": 26,
+   "title": "Commodore 64 released September 1, 1982",
+   "url": "https://dfarq.homeip.net/commodore-64-released-september-1-1982/",
+   "points": 326,
+   "comment_count": 172,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 21,
-   "title": "Introducing Muse Spark 1.3",
-   "url": "https://research.meta.ai/blog/introducing-muse-spark-1-3",
-   "points": 56,
-   "comment_count": 11,
+   "title": "Whistleblower warns Postal Service mail ballot system has catastrophic problems",
+   "url": "https://www.cbsnews.com/news/whistleblower-postal-service-new-mail-ballot-system/",
+   "points": 19,
+   "comment_count": 2,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 22,
-   "title": "A docs page is a search query to find AI agents and route them to your company",
-   "url": "https://blog.val.town/aeo",
-   "points": 4,
-   "comment_count": 1,
+   "title": "Exit the Cave",
+   "url": "https://turtlespace.blog/p/exit-the-cave",
+   "points": 203,
+   "comment_count": 68,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 23,
-   "title": "Making the Internet Boring",
-   "url": "https://cemrehancavdar.com/2026/08/30/making-the-internet-boring/",
-   "points": 49,
-   "comment_count": 30,
+   "title": "Embedded Rust RTOS vs. C RTOS",
+   "url": "https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/",
+   "points": 51,
+   "comment_count": 24,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 24,
-   "title": "Poisson Disk Sampling",
-   "url": "https://stripeacross.com/posts/poisson-disk-sampling/",
-   "points": 109,
-   "comment_count": 16,
+   "title": "I wanna live an NPC life",
+   "url": "https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/",
+   "points": 169,
+   "comment_count": 163,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 25,
-   "title": "SteamdDB Joins Nexus Mods",
-   "url": "https://www.nexusmods.com/news/15597",
-   "points": 90,
-   "comment_count": 54,
+   "title": "A Selection of Los Alamos Rolodex Business Cards",
+   "url": "https://clui.org/collections/los-alamos-business-cards/selection-cards",
+   "points": 133,
+   "comment_count": 32,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 26,
-   "title": "Using Cloudflare Workers and reCAPTCHA v3 for a Static Site Contact Form",
-   "url": "https://nooshu.com/blog/2026/03/09/using-cloudflare-workers-and-recaptcha-v3-for-a-static-site-contact-form/",
-   "points": 18,
-   "comment_count": 5,
+   "title": "Product Backlog Problems: Why Your Hierarchy Is Broken",
+   "url": "https://www.prodpad.com/blog/backlog-hierarchy-problem/",
+   "points": 12,
+   "comment_count": 8,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 27,
-   "title": "WebLLM: high-performance in-browser LLM inference engine",
-   "url": "https://github.com/mlc-ai/web-llm",
-   "points": 74,
+   "title": "Poisson Disk Sampling",
+   "url": "https://stripeacross.com/posts/poisson-disk-sampling/",
+   "points": 121,
    "comment_count": 17,
    "input": {
     "url": "https://news.ycombinator.com"
@@ -290,30 +290,30 @@
   },
   {
    "rank": 28,
-   "title": "A note on subscription prices from LWN",
-   "url": "https://lwn.net/Articles/1090585/",
-   "points": 656,
-   "comment_count": 131,
+   "title": "Making the Internet Boring",
+   "url": "https://cemrehancavdar.com/2026/08/30/making-the-internet-boring/",
+   "points": 68,
+   "comment_count": 43,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 29,
-   "title": "Paint.net 5.2 alpha now runs on Linux",
-   "url": "https://forums.paint.net/topic/134562-paintnet-52-alpha-build-9739/",
-   "points": 161,
-   "comment_count": 131,
+   "title": "WebLLM: high-performance in-browser LLM inference engine",
+   "url": "https://github.com/mlc-ai/web-llm",
+   "points": 84,
+   "comment_count": 17,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 30,
-   "title": "Vidact – a compiler that turns React into direct DOM operations",
-   "url": "https://www.vidact.dev/",
-   "points": 6,
-   "comment_count": 5,
+   "title": "We could save petabytes of cache storage with Zstandard and Pingora",
+   "url": "https://blog.cloudflare.com/cache-transcoding/",
+   "points": 58,
+   "comment_count": 25,
    "input": {
     "url": "https://news.ycombinator.com"
    }

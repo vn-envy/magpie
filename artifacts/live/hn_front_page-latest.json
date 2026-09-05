@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mtoktnfq1wbhwsp8n7",
+ "snapshot_id": "j_mtoppsqx1zbah92xws",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-09-05T16:07:52.229Z",
+ "captured_at": "2026-09-05T18:24:50.771Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,56 +14,56 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-09-05T16:07:41.932Z",
-  "finished": "2026-09-05T16:07:44.117Z"
+  "started": "2026-09-05T18:24:40.323Z",
+  "finished": "2026-09-05T18:24:43.217Z"
  },
  "rows": [
   {
    "rank": 1,
    "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
    "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
-   "points": 106,
-   "comment_count": 31,
+   "points": 162,
+   "comment_count": 53,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 2,
-   "title": "Actively exploited sandbox RCE in all Chromium versions",
-   "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
-   "points": 645,
-   "comment_count": 363,
+   "title": "Discovery of a new OpenAI agent message board",
+   "url": "https://collusion.wiki/",
+   "points": 1964,
+   "comment_count": 1463,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 3,
-   "title": "Discovery of a new OpenAI agent message board",
-   "url": "https://collusion.wiki/",
-   "points": 1883,
-   "comment_count": 1435,
+   "title": "Actively exploited sandbox RCE in all Chromium versions",
+   "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+   "points": 690,
+   "comment_count": 392,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 4,
-   "title": "How the Planet-Altering Disaster of \"Forever Chemicals\" Was Kept Secret",
-   "url": "https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen",
-   "points": 71,
-   "comment_count": 9,
+   "title": "Nitter has more working instances than before the takedowns",
+   "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
+   "points": 497,
+   "comment_count": 202,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 5,
-   "title": "Nitter has more working instances than before the takedowns",
-   "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
-   "points": 425,
-   "comment_count": 173,
+   "title": "Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA",
+   "url": "https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/",
+   "points": 124,
+   "comment_count": 26,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -72,8 +72,8 @@
    "rank": 6,
    "title": "Terpstra Keyboard",
    "url": "http://terpstrakeyboard.com/",
-   "points": 53,
-   "comment_count": 22,
+   "points": 74,
+   "comment_count": 35,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -82,168 +82,168 @@
    "rank": 7,
    "title": "Formalizing Fermat's Last Theorem",
    "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-   "points": 685,
-   "comment_count": 431,
+   "points": 709,
+   "comment_count": 448,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 8,
-   "title": "Git hosting that never leaves Europe",
-   "url": "https://pushin.eu/",
-   "points": 191,
-   "comment_count": 99,
+   "title": "Singapore subway (mrt) information display types",
+   "url": "https://www.sgtrains.com/technology-infosys.html",
+   "points": 24,
+   "comment_count": 7,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 9,
-   "title": "Global warming will exceed 1.5-degree limit, UN says",
-   "url": "https://www.pbs.org/newshour/science/global-warming-will-exceed-1-5-degree-limit-un-says-in-report-that-maps-path-back-below-danger-zone",
-   "points": 208,
-   "comment_count": 181,
+   "title": "A Million Falcons Went Missing. Here’s How They Were Found",
+   "url": "https://www.nationalgeographic.com/animals/article/falcons-migration-angola-falcopolis",
+   "points": 43,
+   "comment_count": 7,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 10,
-   "title": "Claude's new system prompt doesn't want to reproduce song lyrics",
-   "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
-   "points": 47,
-   "comment_count": 29,
+   "title": "A bizarre Commodore 64 peripheral, a mime, and some pretty bad ads",
+   "url": "https://buttondown.com/suchbadtechads/archive/spartan-and-the-mime/",
+   "points": 37,
+   "comment_count": 3,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 11,
-   "title": ".gitignore Everything by Default",
-   "url": "https://packagemain.tech/p/gitignore-everything-by-default",
-   "points": 56,
-   "comment_count": 51,
+   "title": "Statichost.eu – European static site hosting",
+   "url": "https://www.statichost.eu/",
+   "points": 395,
+   "comment_count": 185,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 12,
-   "title": "A Million Falcons Went Missing. Here’s How They Were Found",
-   "url": "https://www.nationalgeographic.com/animals/article/falcons-migration-angola-falcopolis",
-   "points": 22,
-   "comment_count": 2,
+   "title": "Stopping the Unstoppable: When an unstoppable force meets a dashpot snubber",
+   "url": "https://practical.engineering/blog/2026/9/1/stopping-the-unstoppable",
+   "points": 9,
+   "comment_count": 1,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 13,
-   "title": "Meet the Ig Nobel Prize Winners",
-   "url": "https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/",
-   "points": 38,
-   "comment_count": 5,
+   "title": "Can AI design circuit boards yet?",
+   "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+   "points": 324,
+   "comment_count": 191,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 14,
-   "title": "Statichost.eu – European static site hosting",
-   "url": "https://www.statichost.eu/",
-   "points": 376,
-   "comment_count": 174,
+   "title": "Write Software in Latin (2025) [video]",
+   "url": "https://www.youtube.com/watch?v=fGZpaqMha0o",
+   "points": 18,
+   "comment_count": 6,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 15,
-   "title": "Netherlands pulls gold out of the US for fears of 'geopolitical unrest'",
-   "url": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
-   "points": 243,
-   "comment_count": 145,
+   "title": "Meet the Ig Nobel Prize Winners",
+   "url": "https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/",
+   "points": 67,
+   "comment_count": 14,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 16,
-   "title": "A bizarre Commodore 64 peripheral, a mime, and some pretty bad ads",
-   "url": "https://buttondown.com/suchbadtechads/archive/spartan-and-the-mime/",
-   "points": 14,
-   "comment_count": 2,
+   "title": "How the Tobacco Industry Drove the Rise of Ultra-Processed Foods (2025)",
+   "url": "https://vcresearch.berkeley.edu/news/how-tobacco-industry-drove-rise-ultra-processed-foods",
+   "points": 96,
+   "comment_count": 47,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 17,
-   "title": "AI handles incidents, engineers lose touch with their systems",
-   "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-   "points": 278,
-   "comment_count": 243,
+   "title": "Steffen's Polyhedron – Greg Egan",
+   "url": "https://www.gregegan.net/SCIENCE/Steffen/Steffen.html",
+   "points": 3,
+   "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 18,
-   "title": "Can AI design circuit boards yet?",
-   "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-   "points": 306,
-   "comment_count": 183,
+   "title": "Git hosting that never leaves Europe",
+   "url": "https://pushin.eu/",
+   "points": 239,
+   "comment_count": 120,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 19,
-   "title": "GPT-6 Astra on OpenRouter",
-   "url": "https://openrouter.ai/openai/gpt-6-astra",
-   "points": 272,
-   "comment_count": 183,
+   "title": "How the Disaster of \"Forever Chemicals\" Was Kept Secret",
+   "url": "https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen",
+   "points": 203,
+   "comment_count": 45,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 20,
-   "title": "Portal by Spotify cut my Claude Code token usage by 90%",
-   "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
-   "points": 202,
-   "comment_count": 111,
+   "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+   "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+   "points": 7,
+   "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 21,
-   "title": "Shutting down our public encrypted DNS",
-   "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
-   "points": 401,
-   "comment_count": 186,
+   "title": "AI handles incidents, engineers lose touch with their systems",
+   "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+   "points": 301,
+   "comment_count": 271,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 22,
-   "title": "Write Software in Latin (2025) [video]",
-   "url": "https://www.youtube.com/watch?v=fGZpaqMha0o",
-   "points": 4,
-   "comment_count": 2,
+   "title": "Shutting down our public encrypted DNS",
+   "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
+   "points": 414,
+   "comment_count": 201,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 23,
-   "title": "Pointing at the error: compiler-style diagnostics in uutils coreutils",
-   "url": "https://uutils.org/blog/2026-08-error-diagnostics/",
-   "points": 43,
-   "comment_count": 5,
+   "title": ".gitignore Everything by Default",
+   "url": "https://packagemain.tech/p/gitignore-everything-by-default",
+   "points": 83,
+   "comment_count": 96,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -252,58 +252,58 @@
    "rank": 24,
    "title": "Show HN: Open-Source eInk Bike Computer",
    "url": "https://opentrailpaper.com/",
-   "points": 343,
-   "comment_count": 111,
+   "points": 357,
+   "comment_count": 113,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 25,
-   "title": "Ask HN: Resources to get good at soldering?",
-   "url": "https://news.ycombinator.com/item?id=49533840",
-   "points": 184,
-   "comment_count": 111,
+   "title": "Pointing at the error: compiler-style diagnostics in uutils coreutils",
+   "url": "https://uutils.org/blog/2026-08-error-diagnostics/",
+   "points": 56,
+   "comment_count": 8,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 26,
-   "title": "There's No Limit to How Bad Code Can Get",
-   "url": "https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/",
-   "points": 75,
-   "comment_count": 51,
+   "title": "Ask HN: Resources to get good at soldering?",
+   "url": "https://news.ycombinator.com/item?id=49533840",
+   "points": 201,
+   "comment_count": 126,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 27,
-   "title": "IBM Bob",
-   "url": "https://bob.ibm.com/",
-   "points": 304,
-   "comment_count": 313,
+   "title": "GPT-6 Astra on OpenRouter",
+   "url": "https://openrouter.ai/openai/gpt-6-astra",
+   "points": 281,
+   "comment_count": 205,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 28,
-   "title": "Rebuilding a 1995 GPS Time Server so I don't get Telstra'd",
-   "url": "https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/",
-   "points": 5,
-   "comment_count": 0,
+   "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+   "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+   "points": 221,
+   "comment_count": 124,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 29,
-   "title": "Fermat's Last Theorem in Lean 4",
-   "url": "https://github.com/anthropics/fermats-last-theorem",
-   "points": 136,
-   "comment_count": 27,
+   "title": "IBM Bob",
+   "url": "https://bob.ibm.com/",
+   "points": 312,
+   "comment_count": 317,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -312,8 +312,8 @@
    "rank": 30,
    "title": "Git Submodules as a Package Manager",
    "url": "https://nesbitt.io/2026/09/01/git-submodules-as-a-package-manager.html",
-   "points": 75,
-   "comment_count": 20,
+   "points": 79,
+   "comment_count": 27,
    "input": {
     "url": "https://news.ycombinator.com"
    }

@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mtnh1o491hziojjvff",
+ "snapshot_id": "j_mtnmnl5ilmb729wfr",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-09-04T21:34:21.802Z",
+ "captured_at": "2026-09-05T00:11:22.218Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,136 +14,136 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-09-04T21:34:11.440Z",
-  "finished": "2026-09-04T21:34:16.396Z"
+  "started": "2026-09-05T00:11:12.126Z",
+  "finished": "2026-09-05T00:11:14.424Z"
  },
  "rows": [
   {
    "rank": 1,
-   "title": "Formalizing Fermat's Last Theorem",
-   "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-   "points": 297,
-   "comment_count": 179,
+   "title": "Actively exploited sandbox RCE in all Chromium versions",
+   "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+   "points": 137,
+   "comment_count": 59,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 2,
-   "title": "Discovery of a new OpenAI agent message board",
-   "url": "https://collusion.wiki/",
-   "points": 1328,
-   "comment_count": 1078,
+   "title": "Formalizing Fermat's Last Theorem",
+   "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+   "points": 446,
+   "comment_count": 294,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 3,
-   "title": "Shutting down our public encrypted DNS",
-   "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
-   "points": 154,
-   "comment_count": 53,
+   "title": "Statichost.eu – European static site hosting",
+   "url": "https://www.statichost.eu/",
+   "points": 145,
+   "comment_count": 51,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 4,
-   "title": "Statichost.eu – 100% European static site hosting",
-   "url": "https://www.statichost.eu/",
-   "points": 34,
-   "comment_count": 6,
+   "title": "Discovery of a new OpenAI agent message board",
+   "url": "https://collusion.wiki/",
+   "points": 1434,
+   "comment_count": 1151,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 5,
-   "title": "Can AI design circuit boards yet?",
-   "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-   "points": 64,
-   "comment_count": 49,
+   "title": "GPT-6 Astra on OpenRouter",
+   "url": "https://openrouter.ai/openai/gpt-6-astra",
+   "points": 84,
+   "comment_count": 36,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 6,
-   "title": "Show HN: Open-Source eInk Bike Computer",
-   "url": "https://opentrailpaper.com/",
-   "points": 175,
-   "comment_count": 57,
+   "title": "Can AI design circuit boards yet?",
+   "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+   "points": 138,
+   "comment_count": 74,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 7,
-   "title": "Government Rails Site Hit Hours After CVE Patch",
-   "url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
-   "points": 44,
-   "comment_count": 12,
+   "title": "Shutting down our public encrypted DNS",
+   "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
+   "points": 227,
+   "comment_count": 80,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 8,
-   "title": "An open DNS recursive service for free security and high privacy",
-   "url": "https://quad9.net/",
-   "points": 17,
-   "comment_count": 4,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 9,
-   "title": "The Rust React Compiler is now native in Vite",
-   "url": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
-   "points": 75,
+   "title": "RSA-260 Factorized",
+   "url": "https://twitter.com/penlume/status/2095372672356212876",
+   "points": 48,
    "comment_count": 14,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
+   "rank": 9,
+   "title": "An open DNS recursive service for free security and high privacy",
+   "url": "https://quad9.net/",
+   "points": 57,
+   "comment_count": 10,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
    "rank": 10,
-   "title": "IBM Bob",
-   "url": "https://bob.ibm.com/",
-   "points": 193,
-   "comment_count": 231,
+   "title": "Can guitar frets perform multiplication?",
+   "url": "https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html",
+   "points": 14,
+   "comment_count": 1,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 11,
-   "title": "deSEC – Free Secure DNS",
-   "url": "https://desec.io/",
-   "points": 84,
-   "comment_count": 32,
+   "title": "Show HN: Open-Source eInk Bike Computer",
+   "url": "https://opentrailpaper.com/",
+   "points": 219,
+   "comment_count": 75,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 12,
-   "title": "Solving the Jane Street reverse engineering challenge",
-   "url": "https://jestoph.com/2026/09/04/jane-street-challenge.html",
-   "points": 357,
-   "comment_count": 81,
+   "title": "Record-High 89% in U.S. Say Government Corruption Widespread",
+   "url": "https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx",
+   "points": 118,
+   "comment_count": 58,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 13,
-   "title": "The Wormhole Hall of Shame",
-   "url": "https://rznicolet.com/2026/07/05/wormhole-hall-of-shame/",
-   "points": 9,
-   "comment_count": 5,
+   "title": "Government Rails Site Hit Hours After CVE Patch",
+   "url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
+   "points": 66,
+   "comment_count": 15,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -152,46 +152,156 @@
    "rank": 14,
    "title": "Fermat's Last Theorem in Lean 4",
    "url": "https://github.com/anthropics/fermats-last-theorem",
-   "points": 19,
-   "comment_count": 3,
+   "points": 53,
+   "comment_count": 11,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 15,
-   "title": "How to Create a Tor Exit Node",
-   "url": "https://madpsy.uk/how-to-create-a-tor-exit-node/",
-   "points": 13,
-   "comment_count": 9,
+   "title": "The Rust React Compiler is now native in Vite",
+   "url": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
+   "points": 106,
+   "comment_count": 19,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 16,
-   "title": "Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive",
-   "url": "https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/",
-   "points": 245,
-   "comment_count": 141,
+   "title": "Updates on HEIR, the Homomorphic Encryption Compiler Project",
+   "url": "https://www.jeremykun.com/2026/09/04/updates-on-heir-homomorphic-encryption/",
+   "points": 18,
+   "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 17,
-   "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
-   "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
-   "points": 47,
-   "comment_count": 27,
+   "title": "Decompiler Explorer",
+   "url": "https://dogbolt.org/",
+   "points": 29,
+   "comment_count": 1,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 18,
-   "title": "Fomu An FPGA board that fits inside your USB port",
-   "url": "https://www.crowdsupply.com/sutajio-kosagi/fomu",
+   "title": "Gimlet's Series B",
+   "url": "https://gimletlabs.ai/blog/announcing-series-b",
+   "points": 5,
+   "comment_count": 1,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 19,
+   "title": "IBM Bob",
+   "url": "https://bob.ibm.com/",
+   "points": 216,
+   "comment_count": 254,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 20,
+   "title": "Solving the Jane Street reverse engineering challenge",
+   "url": "https://jestoph.com/2026/09/04/jane-street-challenge.html",
+   "points": 388,
+   "comment_count": 86,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 21,
+   "title": "deSEC – Free Secure DNS",
+   "url": "https://desec.io/",
+   "points": 107,
+   "comment_count": 40,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 22,
+   "title": "Icons as a Service",
+   "url": "https://nravic.com/blog/images/",
+   "points": 14,
+   "comment_count": 0,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 23,
+   "title": "How to Create a Tor Exit Node (2015)",
+   "url": "https://madpsy.uk/how-to-create-a-tor-exit-node/",
+   "points": 34,
+   "comment_count": 18,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 24,
+   "title": "Christmas Village shoppers no longer will be allowed to enter booths",
+   "url": "https://www.phillyvoice.com/christmas-village-booths-ada-compliance/",
+   "points": 9,
+   "comment_count": 5,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 25,
+   "title": "“Next-token predictor” is the wrong mental model for LLMs",
+   "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
+   "points": 69,
+   "comment_count": 157,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 26,
+   "title": "SubImage (YC W25) Is Hiring a Founding Engineer in SF",
+   "url": "https://www.ycombinator.com/companies/subimage/jobs/NCTFgKK-founding-engineer",
+   "points": 0,
+   "comment_count": 12,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 27,
+   "title": "The Wormhole Hall of Shame",
+   "url": "https://rznicolet.com/2026/07/05/wormhole-hall-of-shame/",
+   "points": 25,
+   "comment_count": 11,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 28,
+   "title": "Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive",
+   "url": "https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/",
+   "points": 319,
+   "comment_count": 196,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 29,
+   "title": "Connecting every app to every other app",
+   "url": "https://blog.val.town/connectors",
    "points": 4,
    "comment_count": 0,
    "input": {
@@ -199,121 +309,11 @@
    }
   },
   {
-   "rank": 19,
-   "title": "People that worked on the same idea for decades",
-   "url": "https://nityasnotes.com/writing/decades/",
-   "points": 37,
-   "comment_count": 18,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 20,
-   "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
-   "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
-   "points": 68,
-   "comment_count": 24,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 21,
-   "title": "Corporate America is getting hooked on open-source AI",
-   "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
-   "points": 227,
-   "comment_count": 214,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 22,
-   "title": "Deadpan Photography: Enjoying the Pretence",
-   "url": "https://photoni.st/index.php/2026/07/12/deadpan-photography-enjoying-the-pretence/",
-   "points": 10,
-   "comment_count": 7,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 23,
-   "title": "Elevator of the Year: Modernization of the Metropolis Trust Building",
-   "url": "https://www.starelevator.com/projects/star-elevator-modernization-of-the-metropolis-trust-building",
-   "points": 132,
-   "comment_count": 49,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 24,
-   "title": "Getting Started with AT Protocol",
-   "url": "https://bnb.im/posts/atproto-essential-resources/",
-   "points": 66,
-   "comment_count": 23,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 25,
-   "title": "SubImage (YC W25) Is Hiring a Founding Engineer in SF",
-   "url": "https://www.ycombinator.com/companies/subimage/jobs/NCTFgKK-founding-engineer",
-   "points": 0,
-   "comment_count": 9,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 26,
-   "title": "\"Next-token predictor\" is the wrong mental model for LLMs",
-   "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
-   "points": 35,
-   "comment_count": 79,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 27,
-   "title": "The Two Abstractions of System Design: Hide or Reduce",
-   "url": "http://muratbuffalo.blogspot.com/2026/05/the-two-abstractions-of-system-design.html",
-   "points": 94,
-   "comment_count": 10,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 28,
-   "title": "Ok, but does it scale?",
-   "url": "https://spacetimedb.com/blog/how-does-spacetime-scale",
-   "points": 100,
-   "comment_count": 62,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 29,
-   "title": "GPT-6 Astra",
-   "url": "https://openai.com/index/gpt-6-astra/",
-   "points": 2134,
-   "comment_count": 1941,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
    "rank": 30,
-   "title": "Arrested for a Late Manuscript: Seicho Matsumoto's 'Tokyo Express'",
-   "url": "https://www.millersbookreview.com/p/arrested-for-a-late-manuscript-seicho-matsumoto-tokyo-express",
-   "points": 16,
-   "comment_count": 3,
+   "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
+   "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
+   "points": 59,
+   "comment_count": 29,
    "input": {
     "url": "https://news.ycombinator.com"
    }

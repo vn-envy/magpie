@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mtpeo7ufa92e6mwh9",
+ "snapshot_id": "j_mtppho2q2bavzq4v7e",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-09-06T06:03:27.011Z",
+ "captured_at": "2026-09-06T11:06:17.437Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,306 +14,306 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-09-06T06:03:17.042Z",
-  "finished": "2026-09-06T06:03:19.250Z"
+  "started": "2026-09-06T11:06:07.157Z",
+  "finished": "2026-09-06T11:06:09.951Z"
  },
  "rows": [
   {
    "rank": 1,
-   "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
-   "url": "https://cloudinabottle.org/blog/launch-post",
-   "points": 280,
-   "comment_count": 123,
+   "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+   "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
+   "points": 203,
+   "comment_count": 31,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 2,
-   "title": "The revolt of the reader",
-   "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
-   "points": 250,
-   "comment_count": 96,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 3,
-   "title": "GPT-6 Astra on robot arms",
-   "url": "https://openai.robocurve.org/gpt-6-astra/",
-   "points": 129,
-   "comment_count": 85,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 4,
-   "title": "The ColorChecker, photography's most important 24 squares, turns 50",
-   "url": "https://www.dpreview.com/news/the-colorchecker-photographys-most-important-24-squares-turns-50/",
-   "points": 27,
-   "comment_count": 3,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 5,
-   "title": "OpenBSD Stories: Strange Medieval Devices",
-   "url": "http://miod.online.fr/software/openbsd/stories/smd.html",
-   "points": 33,
-   "comment_count": 7,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 6,
-   "title": "Chrome again exempts Google from user site data settings",
-   "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
-   "points": 248,
-   "comment_count": 38,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 7,
-   "title": "Learn Programming with OCaml",
-   "url": "https://usr.lmf.cnrs.fr/lpo/",
-   "points": 223,
-   "comment_count": 82,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 8,
-   "title": "Private German rocket makes history, reaches orbit from European soil",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
-   "points": 474,
-   "comment_count": 250,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 9,
-   "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
-   "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
-   "points": 324,
-   "comment_count": 97,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 10,
-   "title": "Discovery of a new OpenAI agent message board",
-   "url": "https://collusion.wiki/",
-   "points": 2157,
-   "comment_count": 1531,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 11,
-   "title": "RecurseCenter.return()",
-   "url": "https://mm-dev.rocks/series/recursecenter.return/",
-   "points": 37,
-   "comment_count": 3,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 12,
-   "title": "Actively exploited sandbox RCE in all Chromium versions",
-   "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
-   "points": 765,
-   "comment_count": 454,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 13,
-   "title": "Nitter has more working instances than before the takedowns",
-   "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
-   "points": 659,
-   "comment_count": 319,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 14,
-   "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
-   "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
-   "points": 155,
-   "comment_count": 29,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 15,
-   "title": "Topologist's Map of the World",
-   "url": "https://www.futilitycloset.com/2026/09/01/small-world-20/",
-   "points": 64,
-   "comment_count": 20,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 16,
-   "title": "LLMs as a Cognitive Virus",
-   "url": "https://arxiv.org/abs/2609.03344",
-   "points": 240,
-   "comment_count": 184,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 17,
-   "title": "How Swiss tables work in Go built-in map",
-   "url": "https://victoriametrics.com/blog/go-swiss-table-map/index.html",
-   "points": 63,
-   "comment_count": 4,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 18,
-   "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
-   "url": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
-   "points": 66,
-   "comment_count": 34,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 19,
-   "title": "Music Theory for Programmers",
-   "url": "https://runjs.app/blog/music-theory-for-programmers",
-   "points": 20,
-   "comment_count": 3,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 20,
-   "title": "Delidded Intel I9-14900KS CT Scan",
-   "url": "https://www.lttlabs.com/articles/2026/09/02/delidded-intel-i9-14900ks",
-   "points": 89,
-   "comment_count": 3,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 21,
-   "title": "Balrogg: Demonically compacting (up to 15%) lossless Vorbis/Opus recompressor",
-   "url": "https://github.com/iczelia/balrogg",
-   "points": 75,
-   "comment_count": 10,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 22,
-   "title": "AI, Tools and Transformation",
-   "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-   "points": 17,
+   "title": "I Changed My License",
+   "url": "https://bergie.iki.fi/blog/eupl/",
+   "points": 16,
    "comment_count": 6,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 23,
+   "rank": 3,
+   "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+   "url": "https://cloudinabottle.org/blog/launch-post",
+   "points": 435,
+   "comment_count": 209,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 4,
+   "title": "Music Theory for Programmers",
+   "url": "https://runjs.app/blog/music-theory-for-programmers",
+   "points": 156,
+   "comment_count": 70,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 5,
+   "title": "The revolt of the reader",
+   "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+   "points": 383,
+   "comment_count": 155,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 6,
+   "title": "IBM Quantum Nighthawk R2",
+   "url": "https://www.ibm.com/quantum/blog/nighthawk-r2",
+   "points": 21,
+   "comment_count": 2,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 7,
+   "title": "The ColorChecker, photography's most important 24 squares, turns 50",
+   "url": "https://www.dpreview.com/news/the-colorchecker-photographys-most-important-24-squares-turns-50/",
+   "points": 70,
+   "comment_count": 11,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 8,
+   "title": "M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years",
+   "url": "https://en.wikipedia.org/wiki/M-DISC",
+   "points": 14,
+   "comment_count": 2,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 9,
+   "title": "AI, Tools and Transformation",
+   "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+   "points": 71,
+   "comment_count": 24,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 10,
    "title": "AMD Based FreeBSD Desktop Reloaded",
    "url": "https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/",
-   "points": 8,
+   "points": 60,
+   "comment_count": 6,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 11,
+   "title": "OpenBSD Stories: Strange Medieval Devices",
+   "url": "http://miod.online.fr/software/openbsd/stories/smd.html",
+   "points": 69,
+   "comment_count": 13,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 12,
+   "title": "Discovery of a new OpenAI agent message board",
+   "url": "https://collusion.wiki/",
+   "points": 2190,
+   "comment_count": 1550,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 13,
+   "title": "Learn Programming with OCaml",
+   "url": "https://usr.lmf.cnrs.fr/lpo/",
+   "points": 260,
+   "comment_count": 100,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 14,
+   "title": "Chrome again exempts Google from user site data settings",
+   "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
+   "points": 422,
+   "comment_count": 64,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 15,
+   "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
+   "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
+   "points": 348,
+   "comment_count": 103,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 16,
+   "title": "You Don't Have a Right to Safe Drinking Water, US Court Rules",
+   "url": "https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/",
+   "points": 122,
+   "comment_count": 73,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 17,
+   "title": "Private German rocket makes history, reaches orbit from European soil",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+   "points": 625,
+   "comment_count": 335,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 18,
+   "title": "Actively exploited sandbox RCE in all Chromium versions",
+   "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+   "points": 778,
+   "comment_count": 472,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 19,
+   "title": "A Computer History Time Capsule",
+   "url": "https://blog.archive.org/2026/08/27/a-computer-history-time-capsule/",
+   "points": 10,
    "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
+   "rank": 20,
+   "title": "Nitter has more working instances than before the takedowns",
+   "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
+   "points": 684,
+   "comment_count": 356,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 21,
+   "title": "Topologist's Map of the World",
+   "url": "https://www.futilitycloset.com/2026/09/01/small-world-20/",
+   "points": 99,
+   "comment_count": 25,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 22,
+   "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+   "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+   "points": 177,
+   "comment_count": 36,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 23,
+   "title": "LLMs as a Cognitive Virus",
+   "url": "https://arxiv.org/abs/2609.03344",
+   "points": 281,
+   "comment_count": 204,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
    "rank": 24,
-   "title": "Show HN: Fly By – retro biplane flying game",
-   "url": "https://michaelteter.com/flyby.html",
-   "points": 71,
-   "comment_count": 45,
+   "title": "GPT-6 Astra on robot arms",
+   "url": "https://openai.robocurve.org/gpt-6-astra/",
+   "points": 196,
+   "comment_count": 145,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 25,
-   "title": "Terpstra Keyboard",
-   "url": "http://terpstrakeyboard.com/",
-   "points": 127,
-   "comment_count": 58,
+   "title": "RecurseCenter.return()",
+   "url": "https://mm-dev.rocks/series/recursecenter.return/",
+   "points": 53,
+   "comment_count": 8,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 26,
-   "title": "Statichost.eu – European static site hosting",
-   "url": "https://www.statichost.eu/",
-   "points": 458,
-   "comment_count": 208,
+   "title": "How Swiss tables work in Go built-in map",
+   "url": "https://victoriametrics.com/blog/go-swiss-table-map/index.html",
+   "points": 81,
+   "comment_count": 6,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 27,
-   "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-   "url": "https://github.com/okf-memory/okf-agent-memory",
-   "points": 58,
-   "comment_count": 18,
+   "title": "Delidded Intel I9-14900KS CT Scan",
+   "url": "https://www.lttlabs.com/articles/2026/09/02/delidded-intel-i9-14900ks",
+   "points": 109,
+   "comment_count": 11,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 28,
-   "title": "Can AI design circuit boards yet?",
-   "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-   "points": 400,
-   "comment_count": 213,
+   "title": "Balrogg: Demonically compacting (up to 15%) lossless Vorbis/Opus recompressor",
+   "url": "https://github.com/iczelia/balrogg",
+   "points": 88,
+   "comment_count": 11,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 29,
-   "title": "ISAR Aerospace 5 Sept Mission Onward and Upward",
-   "url": "https://isaraerospace.com/mission-updates-overview",
-   "points": 32,
-   "comment_count": 4,
+   "title": "Statichost.eu – European static site hosting",
+   "url": "https://www.statichost.eu/",
+   "points": 486,
+   "comment_count": 228,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 30,
-   "title": "Stopping the Unstoppable: When an unstoppable force meets a dashpot snubber",
-   "url": "https://practical.engineering/blog/2026/9/1/stopping-the-unstoppable",
-   "points": 61,
-   "comment_count": 7,
+   "title": "\"Catching Crumbs from the Table\"",
+   "url": "https://www.nature.com/articles/35014679",
+   "points": 4,
+   "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
    }

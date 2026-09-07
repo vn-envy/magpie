@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mtqh8epp2kg8208vw4",
+ "snapshot_id": "j_mtqrnvy1fqpula7e",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-09-07T00:03:14.812Z",
+ "captured_at": "2026-09-07T04:54:53.267Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,306 +14,306 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-09-07T00:02:44.360Z",
-  "finished": "2026-09-07T00:03:12.136Z"
+  "started": "2026-09-07T04:54:42.693Z",
+  "finished": "2026-09-07T04:54:45.226Z"
  },
  "rows": [
   {
    "rank": 1,
-   "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
-   "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
-   "points": 150,
-   "comment_count": 65,
+   "title": "Keep Our Servers Running: Your Recurring Donation Goes 3X This September",
+   "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+   "points": 98,
+   "comment_count": 24,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 2,
-   "title": "Four Weeks of a Vegan Diet Alter Signs of Inflammation and Aging",
-   "url": "https://www.uniklinik-freiburg.de/en/press/press-releases/detailed-view/6938-vier-wochen-vegane-ernaehrung-veraendern-entzuendungs-und-alterungssignale.html",
-   "points": 14,
-   "comment_count": 5,
+   "title": "Making a Python interpreter in 1024 bytes",
+   "url": "https://austinhenley.com/blog/python1024.html",
+   "points": 146,
+   "comment_count": 57,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 3,
-   "title": "Making a Python interpreter in 1024 bytes",
-   "url": "https://austinhenley.com/blog/python1024.html",
-   "points": 33,
-   "comment_count": 8,
+   "title": "The NX bit is not just about security",
+   "url": "https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/",
+   "points": 43,
+   "comment_count": 31,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 4,
-   "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
-   "url": "https://github.com/marsbos/mador",
-   "points": 58,
-   "comment_count": 21,
+   "title": "It took a year to ship WebAssembly in Anubis",
+   "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+   "points": 192,
+   "comment_count": 105,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 5,
-   "title": "Your intellectual fly is open (2025)",
-   "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
-   "points": 486,
-   "comment_count": 316,
+   "title": "I'm a seeing-eye dog for a computer",
+   "url": "https://claytonwramsey.com/blog/seeing-eye/",
+   "points": 13,
+   "comment_count": 1,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 6,
-   "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
-   "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
-   "points": 552,
-   "comment_count": 178,
+   "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
+   "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+   "points": 603,
+   "comment_count": 392,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 7,
-   "title": "Harnessing the Universal Geometry of Embeddings",
-   "url": "https://arxiv.org/abs/2505.12540",
-   "points": 32,
-   "comment_count": 3,
+   "title": "Ask HN: Fable hacked my piano, can I release the results?",
+   "url": "https://news.ycombinator.com/item?id=49577129",
+   "points": 41,
+   "comment_count": 24,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 8,
-   "title": "Black Hole of Los Alamos Seller of surplus nuclear research materials (2011)",
-   "url": "https://www.atlasobscura.com/places/black-hole-of-los-alamos",
-   "points": 32,
-   "comment_count": 6,
+   "title": "Nitter and XCancel resume service after legal advice",
+   "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+   "points": 564,
+   "comment_count": 284,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 9,
-   "title": "NetBSD 9.5 released and EOL for NetBSD-9",
-   "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
-   "points": 99,
-   "comment_count": 4,
+   "title": "Babylonian Lamb Stew with Beets (1750–1730 BCE)",
+   "url": "https://babylonian-collection.yale.edu/about/babylonian-cooking",
+   "points": 122,
+   "comment_count": 64,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 10,
-   "title": "Babylonian Lamb Stew with Beets (1750–1730 BCE)",
-   "url": "https://babylonian-collection.yale.edu/about/babylonian-cooking",
-   "points": 83,
-   "comment_count": 34,
+   "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
+   "url": "https://github.com/marsbos/mador",
+   "points": 82,
+   "comment_count": 23,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 11,
-   "title": "Reverse engineering the storage format for an undocumented database",
-   "url": "https://blog.glazer.ee/posts/converting-cronos/",
-   "points": 14,
-   "comment_count": 0,
+   "title": "Ask HN: How do you manage skills files?",
+   "url": "https://news.ycombinator.com/item?id=49589914",
+   "points": 34,
+   "comment_count": 25,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 12,
-   "title": "Asahi Linux on M3",
-   "url": "https://asahilinux.org/2026/09/m2-episode-1/",
-   "points": 331,
-   "comment_count": 185,
+   "title": "Harnessing the Universal Geometry of Embeddings",
+   "url": "https://arxiv.org/abs/2505.12540",
+   "points": 59,
+   "comment_count": 19,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 13,
-   "title": "Show HN: Sol, my macOS music player and jukebox app, is now free and open source",
-   "url": "https://github.com/FulltimeFeline/Sol",
+   "title": "Ask HN: Would you read a statistics textbook?",
+   "url": "https://news.ycombinator.com/item?id=49583440",
    "points": 21,
-   "comment_count": 7,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 14,
-   "title": "Research carried out using NetBSD",
-   "url": "https://www.netbsd.org/gallery/research.html",
-   "points": 73,
-   "comment_count": 16,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 15,
-   "title": "Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet",
-   "url": "https://twitter.com/Liquid_BTC/status/2096696272447218108",
-   "points": 30,
-   "comment_count": 13,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 16,
-   "title": "Political meddling at the Census Bureau damages the US statistical system",
-   "url": "https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system",
-   "points": 44,
    "comment_count": 9,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
+   "rank": 14,
+   "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+   "url": "https://github.com/Staatsgeheim/MathKernel",
+   "points": 20,
+   "comment_count": 5,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 15,
+   "title": "An Alien Mind",
+   "url": "https://openai.com/index/an-alien-mind/",
+   "points": 364,
+   "comment_count": 316,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 16,
+   "title": "Research acceleration: The view inside OpenAI",
+   "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+   "points": 134,
+   "comment_count": 89,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
    "rank": 17,
-   "title": "A/I shuts down – Stay human",
-   "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
-   "points": 495,
-   "comment_count": 355,
+   "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+   "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
+   "points": 232,
+   "comment_count": 170,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 18,
-   "title": "Electronic skin for prosthetics to sense temperature and pressure",
-   "url": "https://news.wsu.edu/press-release/2026/08/20/researchers-develop-electronic-skin-for-prosthetics-to-sense-temperature-and-pressure/",
-   "points": 44,
-   "comment_count": 5,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 19,
-   "title": "Vidact – a compiler that turns React into direct DOM operations",
-   "url": "https://www.vidact.dev/",
-   "points": 44,
-   "comment_count": 21,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 20,
-   "title": "Opalite Health (YC W26) Is Hiring – Founding GTM",
-   "url": "https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm",
-   "points": 0,
+   "title": "Show HN: GET Together – A social network where you don't need POST to Post",
+   "url": "https://gettogether.dev/",
+   "points": 16,
    "comment_count": 7,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
+   "rank": 19,
+   "title": "Asahi Linux on M3",
+   "url": "https://asahilinux.org/2026/09/m2-episode-1/",
+   "points": 391,
+   "comment_count": 234,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 20,
+   "title": "YouTube had a bug – I used ChatGPT to investigate",
+   "url": "https://blog.thezilber.com/3-youtube-had-a-bug-chatgpt-helped-me-to-investigate",
+   "points": 10,
+   "comment_count": 8,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
    "rank": 21,
-   "title": "Adverse Selection and Markouts",
-   "url": "https://machow.ski/posts/markouts_and_adverse_selection/",
-   "points": 3,
-   "comment_count": 0,
+   "title": "Signing TLS handshakes inside a TPM",
+   "url": "https://bschaatsbergen.com/posts/go-tpm-tls/",
+   "points": 10,
+   "comment_count": 4,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 22,
-   "title": "It took a year to ship WebAssembly in Anubis",
-   "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
-   "points": 113,
-   "comment_count": 77,
+   "title": "NetBSD 9.5 released and EOL for NetBSD-9",
+   "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
+   "points": 122,
+   "comment_count": 11,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 23,
-   "title": "M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years",
-   "url": "https://en.wikipedia.org/wiki/M-DISC",
-   "points": 178,
-   "comment_count": 82,
+   "title": "Black Hole of Los Alamos: Seller of surplus nuclear research materials (2011)",
+   "url": "https://www.atlasobscura.com/places/black-hole-of-los-alamos",
+   "points": 49,
+   "comment_count": 14,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 24,
-   "title": "Doomscrolling Ourselves to Death",
-   "url": "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death",
-   "points": 351,
-   "comment_count": 252,
+   "title": "Every Novel Is Boring–Until It Isn't",
+   "url": "https://www.publicbooks.org/every-novel-is-boring-until-it-isnt/",
+   "points": 25,
+   "comment_count": 21,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 25,
-   "title": "Windows 11's \"special\" developer edition looks like another marketing misfire",
-   "url": "https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/",
-   "points": 47,
-   "comment_count": 34,
+   "title": "Reverse engineering the storage format for an undocumented database",
+   "url": "https://blog.glazer.ee/posts/converting-cronos/",
+   "points": 35,
+   "comment_count": 3,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 26,
-   "title": "D2 Is Non-Profit",
-   "url": "https://d2lang.com/blog/d2-non-profit/",
-   "points": 16,
-   "comment_count": 5,
+   "title": "Research carried out using NetBSD",
+   "url": "https://www.netbsd.org/gallery/research.html",
+   "points": 86,
+   "comment_count": 24,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 27,
-   "title": "An Alien Mind",
-   "url": "https://openai.com/index/an-alien-mind/",
-   "points": 298,
-   "comment_count": 258,
+   "title": "Vidact – a compiler that turns React into direct DOM operations",
+   "url": "https://www.vidact.dev/",
+   "points": 59,
+   "comment_count": 28,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 28,
-   "title": "Research acceleration: The view inside OpenAI",
-   "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-   "points": 98,
-   "comment_count": 69,
+   "title": "Opalite Health (YC W26) Is Hiring – Founding GTM",
+   "url": "https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm",
+   "points": 0,
+   "comment_count": 11,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 29,
-   "title": "Nitter and XCancel resume service after legal advice",
-   "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
-   "points": 407,
-   "comment_count": 228,
+   "title": "A/I shuts down",
+   "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+   "points": 552,
+   "comment_count": 436,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 30,
-   "title": "A Week of Bug Reporting",
-   "url": "https://tratt.net/laurie/blog/2022/a_week_of_bug_reporting.html",
-   "points": 4,
-   "comment_count": 1,
+   "title": "M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years",
+   "url": "https://en.wikipedia.org/wiki/M-DISC",
+   "points": 192,
+   "comment_count": 92,
    "input": {
     "url": "https://news.ycombinator.com"
    }

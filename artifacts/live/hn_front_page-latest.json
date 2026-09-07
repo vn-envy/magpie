@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mtrgkzcwkxjkkwnlu",
+ "snapshot_id": "j_mtrpee7l98fqpw6co",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-09-07T16:32:37.670Z",
+ "captured_at": "2026-09-07T20:39:27.594Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,145 +14,145 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-09-07T16:32:17.564Z",
-  "finished": "2026-09-07T16:32:30.113Z"
+  "started": "2026-09-07T20:39:06.787Z",
+  "finished": "2026-09-07T20:39:18.168Z"
  },
  "rows": [
   {
    "rank": 1,
-   "title": "De-Brainrot Vacations",
-   "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
-   "points": 315,
-   "comment_count": 134,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 2,
-   "title": "bzip3",
-   "url": "https://github.com/iczelia/bzip3",
-   "points": 150,
-   "comment_count": 47,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 3,
-   "title": "Keep Our Servers Running",
-   "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
-   "points": 770,
-   "comment_count": 195,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 4,
-   "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
-   "url": "https://mathathonchallenge.com/index.html",
-   "points": 135,
+   "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
+   "url": "https://lax-skyline.parcelscope.net/",
+   "points": 91,
    "comment_count": 29,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
+   "rank": 2,
+   "title": "Finding a bug in Dummit and Foote's Abstract Algebra",
+   "url": "https://kallus.org/blog/dummit_and_foote.html",
+   "points": 17,
+   "comment_count": 0,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 3,
+   "title": "Macbeth and His Problems",
+   "url": "https://porticoquarterly.com/essay/macbeth-and-his-problems/",
+   "points": 3,
+   "comment_count": 0,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 4,
+   "title": "WeatherNext 3",
+   "url": "https://deepmind.google/science/weathernext/",
+   "points": 69,
+   "comment_count": 7,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
    "rank": 5,
-   "title": "Simple Is Not Small",
-   "url": "https://jyn.dev/simple-is-not-the-same-as-small/",
-   "points": 55,
-   "comment_count": 16,
+   "title": "Methods for Random Gradients (2024)",
+   "url": "https://justinjay.wang/methods-for-random-gradients/",
+   "points": 28,
+   "comment_count": 3,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 6,
-   "title": "Live map of public transport in Belgium",
-   "url": "https://openbaarvervoerbelgie.be/",
-   "points": 133,
-   "comment_count": 60,
+   "title": "Simple Is Not Small",
+   "url": "https://jyn.dev/simple-is-not-the-same-as-small/",
+   "points": 138,
+   "comment_count": 43,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 7,
-   "title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
-   "url": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html",
-   "points": 804,
-   "comment_count": 398,
+   "title": "Decoding the NEC V20 Microcode",
+   "url": "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html",
+   "points": 76,
+   "comment_count": 3,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 8,
-   "title": "Speculative Decoding in vLLM on AMD GPUs",
-   "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-   "points": 88,
-   "comment_count": 31,
+   "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
+   "url": "https://mathathonchallenge.com/index.html",
+   "points": 190,
+   "comment_count": 58,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 9,
-   "title": "Splash-free urinals (2025)",
-   "url": "https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false",
-   "points": 151,
-   "comment_count": 84,
+   "title": "bzip3",
+   "url": "https://github.com/iczelia/bzip3",
+   "points": 328,
+   "comment_count": 92,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 10,
-   "title": "Smartphone makers don't bother to comply with EU repairability requirements",
-   "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
-   "points": 183,
-   "comment_count": 102,
+   "title": "Icy Moons Are Ocean Worlds",
+   "url": "https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds",
+   "points": 75,
+   "comment_count": 10,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 11,
-   "title": "Bing Wallpaper showing Ad for Harry Potter and Fantastic beasts box set",
-   "url": "https://www.thurrott.com/forums/microsoft/windows/thread/bing-wallpaper-showing-ad-for-harry-potter-and-fantastic-beasts-box-set",
-   "points": 24,
-   "comment_count": 12,
+   "title": "The Dataflow Model Revisited",
+   "url": "https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited",
+   "points": 62,
+   "comment_count": 11,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 12,
-   "title": "Impedance Matching (2017)",
-   "url": "https://www.edge.org/response-detail/27238",
-   "points": 57,
-   "comment_count": 18,
+   "title": "Decapitating a MacBook (2025)",
+   "url": "https://mm-dev.rocks/series/decapitating-macbook-an-odyssey/",
+   "points": 23,
+   "comment_count": 12,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 13,
-   "title": "The Dataflow Model Revisited",
-   "url": "https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited",
-   "points": 3,
-   "comment_count": 1,
+   "title": "216M Spy TVs – The LG Smart TV Problem [video]",
+   "url": "https://www.youtube.com/watch?v=6IFVTcM28KA",
+   "points": 273,
+   "comment_count": 596,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 14,
-   "title": "Whistle Synth",
-   "url": "https://www.jefftk.com/p/whistle-synth-mac-app",
-   "points": 12,
+   "title": "Trusting-Trust Attack against an Entire Linux Distribution",
+   "url": "https://arxiv.org/abs/2607.24888",
+   "points": 37,
    "comment_count": 3,
    "input": {
     "url": "https://news.ycombinator.com"
@@ -160,160 +160,160 @@
   },
   {
    "rank": 15,
-   "title": "Making a Python interpreter in 1024 bytes",
-   "url": "https://austinhenley.com/blog/python1024.html",
-   "points": 283,
-   "comment_count": 100,
+   "title": "Academia as a d-index measuring contest",
+   "url": "https://kevinmunger.substack.com/p/introducing-the-k-index",
+   "points": 22,
+   "comment_count": 1,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 16,
-   "title": "Tiny $70 Xteink X3 e-reader",
-   "url": "https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/",
-   "points": 143,
-   "comment_count": 139,
+   "title": "Scientists observe Einstein's gravity in the quantum world",
+   "url": "https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world",
+   "points": 27,
+   "comment_count": 5,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 17,
-   "title": "Unified Arabic",
-   "url": "https://worksthatwork.com/6/unified-arabic",
-   "points": 81,
-   "comment_count": 22,
+   "title": "Keep Our Servers Running",
+   "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+   "points": 903,
+   "comment_count": 223,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 18,
-   "title": "Ask HN: How do you manage skills files?",
-   "url": "https://news.ycombinator.com/item?id=49589914",
-   "points": 239,
-   "comment_count": 226,
+   "title": "My practical approach to surfing the web safely",
+   "url": "https://molily.de/safe-websurfing/",
+   "points": 33,
+   "comment_count": 11,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 19,
-   "title": "It took a year to ship WebAssembly in Anubis",
-   "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
-   "points": 328,
-   "comment_count": 165,
+   "title": "Replaceable but Employed: Automation and the Meaning of Work",
+   "url": "https://www.nber.org/papers/w35559",
+   "points": 14,
+   "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 20,
-   "title": "Ask HN: Fable hacked my piano, can I release the results?",
-   "url": "https://news.ycombinator.com/item?id=49577129",
-   "points": 226,
-   "comment_count": 136,
+   "title": "This Month in Ladybird – August 2026",
+   "url": "https://ladybird.org/newsletter/2026-08-31/",
+   "points": 74,
+   "comment_count": 6,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 21,
-   "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
-   "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
-   "points": 362,
-   "comment_count": 229,
+   "title": "Whistle Synth Mac App",
+   "url": "https://www.jefftk.com/p/whistle-synth-mac-app",
+   "points": 47,
+   "comment_count": 12,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 22,
-   "title": "I Connected My Withings Body+ to Home Assistant with an ESP32",
-   "url": "https://didac.dev/blog/i-made-my-withings-scale-sync-to-home-assistant-without-the-cloud",
-   "points": 55,
-   "comment_count": 18,
+   "title": "How to bring up the Linux Kernel on a new platform",
+   "url": "https://werwolv.net/posts/linux_bringup/",
+   "points": 35,
+   "comment_count": 4,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 23,
-   "title": "Apparently CodePen 2.0 sends data to their servers as you type",
-   "url": "https://news.ycombinator.com/item?id=49596976",
-   "points": 83,
-   "comment_count": 38,
+   "title": "Catching Crumbs from the Table (2000)",
+   "url": "https://www.nature.com/articles/35014679",
+   "points": 8,
+   "comment_count": 3,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 24,
-   "title": "VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent",
-   "url": "https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/",
-   "points": 70,
-   "comment_count": 33,
+   "title": "Live map of public transport in Belgium",
+   "url": "https://openbaarvervoerbelgie.be/",
+   "points": 169,
+   "comment_count": 72,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 25,
-   "title": "'You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes",
-   "url": "https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/",
-   "points": 250,
-   "comment_count": 166,
+   "title": "Schemy Lisp En DOS",
+   "url": "https://sled.neocities.org/",
+   "points": 19,
+   "comment_count": 1,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 26,
-   "title": "Why are there no flow batteries with symmetric ferrocyanide electrolytes?",
-   "url": "https://chemisting.com/2026/09/02/why-are-there-no-flow-batteries-with-symmetric-ferrocyanide-electrolytes/",
-   "points": 44,
-   "comment_count": 29,
+   "title": "Show HN: HomeCat – Design your backyard office",
+   "url": "https://myhomecat.com/",
+   "points": 16,
+   "comment_count": 9,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 27,
-   "title": "Is mathematics about to enter the conservatory?",
-   "url": "https://mbmccoy.dev/posts/mathematical-conservatory/",
-   "points": 100,
-   "comment_count": 116,
+   "title": "Show HN: Wg-admin – web UI for an existing WireGuard host",
+   "url": "https://github.com/logimaxx/wg-admin",
+   "points": 15,
+   "comment_count": 3,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 28,
-   "title": "Nitter and XCancel resume service after legal advice",
-   "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
-   "points": 858,
-   "comment_count": 367,
+   "title": "Bill Gates tries to install MovieMaker (2003)",
+   "url": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
+   "points": 260,
+   "comment_count": 170,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 29,
-   "title": "I'm a seeing-eye dog for a computer",
-   "url": "https://claytonwramsey.com/blog/seeing-eye/",
-   "points": 95,
-   "comment_count": 83,
+   "title": "Rebuilding a 1995 GPS Time Server so I don't get Telstra'd",
+   "url": "https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/",
+   "points": 15,
+   "comment_count": 6,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 30,
-   "title": "Bill Gates tries to install MovieMaker",
-   "url": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
-   "points": 15,
-   "comment_count": 6,
+   "title": "Speculative Decoding in vLLM on AMD GPUs",
+   "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+   "points": 120,
+   "comment_count": 40,
    "input": {
     "url": "https://news.ycombinator.com"
    }

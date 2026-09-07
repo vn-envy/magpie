@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mtrpee7l98fqpw6co",
+ "snapshot_id": "j_mtrvopxb1g9bjvgrh1",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-09-07T20:39:27.594Z",
+ "captured_at": "2026-09-07T23:35:16.392Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,36 +14,36 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-09-07T20:39:06.787Z",
-  "finished": "2026-09-07T20:39:18.168Z"
+  "started": "2026-09-07T23:35:06.220Z",
+  "finished": "2026-09-07T23:35:08.247Z"
  },
  "rows": [
   {
    "rank": 1,
    "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
    "url": "https://lax-skyline.parcelscope.net/",
-   "points": 91,
-   "comment_count": 29,
+   "points": 178,
+   "comment_count": 84,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 2,
-   "title": "Finding a bug in Dummit and Foote's Abstract Algebra",
-   "url": "https://kallus.org/blog/dummit_and_foote.html",
-   "points": 17,
-   "comment_count": 0,
+   "title": "Trusting-Trust Attack against an Entire Linux Distribution",
+   "url": "https://arxiv.org/abs/2607.24888",
+   "points": 117,
+   "comment_count": 27,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 3,
-   "title": "Macbeth and His Problems",
-   "url": "https://porticoquarterly.com/essay/macbeth-and-his-problems/",
-   "points": 3,
-   "comment_count": 0,
+   "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
+   "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
+   "points": 46,
+   "comment_count": 19,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -52,268 +52,268 @@
    "rank": 4,
    "title": "WeatherNext 3",
    "url": "https://deepmind.google/science/weathernext/",
-   "points": 69,
-   "comment_count": 7,
+   "points": 193,
+   "comment_count": 37,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 5,
-   "title": "Methods for Random Gradients (2024)",
-   "url": "https://justinjay.wang/methods-for-random-gradients/",
-   "points": 28,
-   "comment_count": 3,
+   "title": "Scientists observe Einstein's gravity in the quantum world",
+   "url": "https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world",
+   "points": 107,
+   "comment_count": 26,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 6,
-   "title": "Simple Is Not Small",
-   "url": "https://jyn.dev/simple-is-not-the-same-as-small/",
-   "points": 138,
-   "comment_count": 43,
+   "title": "Working on Economics with Fable 5",
+   "url": "https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/",
+   "points": 32,
+   "comment_count": 14,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 7,
-   "title": "Decoding the NEC V20 Microcode",
-   "url": "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html",
-   "points": 76,
-   "comment_count": 3,
+   "title": "Finding a bug in Dummit and Foote's Abstract Algebra",
+   "url": "https://kallus.org/blog/dummit_and_foote.html",
+   "points": 56,
+   "comment_count": 32,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 8,
-   "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
-   "url": "https://mathathonchallenge.com/index.html",
-   "points": 190,
-   "comment_count": 58,
+   "title": "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
+   "url": "https://github.com/Sadpainy/Stuxnet",
+   "points": 13,
+   "comment_count": 3,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 9,
-   "title": "bzip3",
-   "url": "https://github.com/iczelia/bzip3",
-   "points": 328,
-   "comment_count": 92,
+   "title": "Show HN: Interactive Tree of Life",
+   "url": "https://ptree.org/",
+   "points": 44,
+   "comment_count": 14,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 10,
-   "title": "Icy Moons Are Ocean Worlds",
-   "url": "https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds",
-   "points": 75,
-   "comment_count": 10,
+   "title": "216M Spy TVs – The LG Smart TV Problem [video]",
+   "url": "https://www.youtube.com/watch?v=6IFVTcM28KA",
+   "points": 430,
+   "comment_count": 694,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 11,
-   "title": "The Dataflow Model Revisited",
-   "url": "https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited",
-   "points": 62,
-   "comment_count": 11,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 12,
-   "title": "Decapitating a MacBook (2025)",
-   "url": "https://mm-dev.rocks/series/decapitating-macbook-an-odyssey/",
-   "points": 23,
-   "comment_count": 12,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 13,
-   "title": "216M Spy TVs – The LG Smart TV Problem [video]",
-   "url": "https://www.youtube.com/watch?v=6IFVTcM28KA",
-   "points": 273,
-   "comment_count": 596,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 14,
-   "title": "Trusting-Trust Attack against an Entire Linux Distribution",
-   "url": "https://arxiv.org/abs/2607.24888",
-   "points": 37,
-   "comment_count": 3,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 15,
-   "title": "Academia as a d-index measuring contest",
-   "url": "https://kevinmunger.substack.com/p/introducing-the-k-index",
-   "points": 22,
-   "comment_count": 1,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 16,
-   "title": "Scientists observe Einstein's gravity in the quantum world",
-   "url": "https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world",
-   "points": 27,
-   "comment_count": 5,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 17,
-   "title": "Keep Our Servers Running",
-   "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
-   "points": 903,
-   "comment_count": 223,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 18,
-   "title": "My practical approach to surfing the web safely",
-   "url": "https://molily.de/safe-websurfing/",
-   "points": 33,
-   "comment_count": 11,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 19,
-   "title": "Replaceable but Employed: Automation and the Meaning of Work",
-   "url": "https://www.nber.org/papers/w35559",
-   "points": 14,
-   "comment_count": 0,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 20,
-   "title": "This Month in Ladybird – August 2026",
-   "url": "https://ladybird.org/newsletter/2026-08-31/",
-   "points": 74,
-   "comment_count": 6,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 21,
-   "title": "Whistle Synth Mac App",
-   "url": "https://www.jefftk.com/p/whistle-synth-mac-app",
-   "points": 47,
-   "comment_count": 12,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 22,
-   "title": "How to bring up the Linux Kernel on a new platform",
-   "url": "https://werwolv.net/posts/linux_bringup/",
-   "points": 35,
-   "comment_count": 4,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 23,
-   "title": "Catching Crumbs from the Table (2000)",
-   "url": "https://www.nature.com/articles/35014679",
-   "points": 8,
-   "comment_count": 3,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 24,
-   "title": "Live map of public transport in Belgium",
-   "url": "https://openbaarvervoerbelgie.be/",
-   "points": 169,
-   "comment_count": 72,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 25,
-   "title": "Schemy Lisp En DOS",
-   "url": "https://sled.neocities.org/",
-   "points": 19,
-   "comment_count": 1,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 26,
-   "title": "Show HN: HomeCat – Design your backyard office",
-   "url": "https://myhomecat.com/",
-   "points": 16,
+   "title": "Macbeth and His Problems",
+   "url": "https://porticoquarterly.com/essay/macbeth-and-his-problems/",
+   "points": 30,
    "comment_count": 9,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 27,
-   "title": "Show HN: Wg-admin – web UI for an existing WireGuard host",
-   "url": "https://github.com/logimaxx/wg-admin",
-   "points": 15,
-   "comment_count": 3,
+   "rank": 12,
+   "title": "The Education of a Doomer",
+   "url": "https://borretti.me/article/the-education-of-a-doomer",
+   "points": 45,
+   "comment_count": 34,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 28,
-   "title": "Bill Gates tries to install MovieMaker (2003)",
-   "url": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
-   "points": 260,
-   "comment_count": 170,
+   "rank": 13,
+   "title": "Decoding the NEC V20 Microcode",
+   "url": "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html",
+   "points": 104,
+   "comment_count": 7,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 29,
-   "title": "Rebuilding a 1995 GPS Time Server so I don't get Telstra'd",
-   "url": "https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/",
-   "points": 15,
+   "rank": 14,
+   "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
+   "url": "https://mathathonchallenge.com/index.html",
+   "points": 215,
+   "comment_count": 74,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 15,
+   "title": "Decapitating a MacBook (2025)",
+   "url": "https://mm-dev.rocks/series/decapitating-macbook-an-odyssey/",
+   "points": 51,
+   "comment_count": 35,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 16,
+   "title": "This Month in Ladybird – August 2026",
+   "url": "https://ladybird.org/newsletter/2026-08-31/",
+   "points": 134,
+   "comment_count": 25,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 17,
+   "title": "Icy Moons Are Ocean Worlds",
+   "url": "https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds",
+   "points": 117,
+   "comment_count": 10,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 18,
+   "title": "Methods for Random Gradients (2024)",
+   "url": "https://justinjay.wang/methods-for-random-gradients/",
+   "points": 42,
+   "comment_count": 4,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 19,
+   "title": "Show HN: I built an aesthetically pleasing puzzle",
+   "url": "https://jigsawhaiku.com/",
+   "points": 18,
    "comment_count": 6,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
+   "rank": 20,
+   "title": "Simple Is Not Small",
+   "url": "https://jyn.dev/simple-is-not-the-same-as-small/",
+   "points": 171,
+   "comment_count": 56,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 21,
+   "title": "My practical approach to surfing the web safely",
+   "url": "https://molily.de/safe-websurfing/",
+   "points": 59,
+   "comment_count": 27,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 22,
+   "title": "bzip3",
+   "url": "https://github.com/iczelia/bzip3",
+   "points": 363,
+   "comment_count": 103,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 23,
+   "title": "The Dataflow Model Revisited",
+   "url": "https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited",
+   "points": 78,
+   "comment_count": 14,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 24,
+   "title": "Keep Our Servers Running",
+   "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+   "points": 934,
+   "comment_count": 242,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 25,
+   "title": "Catching Crumbs from the Table (2000)",
+   "url": "https://www.nature.com/articles/35014679",
+   "points": 11,
+   "comment_count": 3,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 26,
+   "title": "Replaceable but Employed: Automation and the Meaning of Work",
+   "url": "https://www.nber.org/papers/w35559",
+   "points": 48,
+   "comment_count": 29,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 27,
+   "title": "She Also Found It at the Movies",
+   "url": "https://hedgehogreview.com/web-features/thr/posts/she-also-found-it-at-the-movies",
+   "points": 19,
+   "comment_count": 2,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 28,
+   "title": "Whistle Synth Mac App",
+   "url": "https://www.jefftk.com/p/whistle-synth-mac-app",
+   "points": 58,
+   "comment_count": 13,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 29,
+   "title": "Live map of public transport in Belgium",
+   "url": "https://openbaarvervoerbelgie.be/",
+   "points": 182,
+   "comment_count": 74,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
    "rank": 30,
-   "title": "Speculative Decoding in vLLM on AMD GPUs",
-   "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-   "points": 120,
-   "comment_count": 40,
+   "title": "How to bring up the Linux Kernel on a new platform",
+   "url": "https://werwolv.net/posts/linux_bringup/",
+   "points": 64,
+   "comment_count": 4,
    "input": {
     "url": "https://news.ycombinator.com"
    }

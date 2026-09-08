@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mtshn2qu224y40nuw8",
+ "snapshot_id": "j_mtsryemx27tsoxeex5",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-09-08T09:49:51.337Z",
+ "captured_at": "2026-09-08T14:38:46.593Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,54 +14,54 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-09-08T09:49:41.049Z",
-  "finished": "2026-09-08T09:49:46.013Z"
+  "started": "2026-09-08T14:38:25.839Z",
+  "finished": "2026-09-08T14:38:37.248Z"
  },
  "rows": [
   {
    "rank": 1,
-   "title": "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
-   "url": "https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten",
-   "points": 54,
-   "comment_count": 51,
+   "title": "DaVinci Resolve 21.1",
+   "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
+   "points": 71,
+   "comment_count": 18,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 2,
-   "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
-   "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-   "points": 328,
-   "comment_count": 56,
+   "title": "Show HN: Copperhead – Hardware as Fast as Software",
+   "url": "https://copperhead.sh/",
+   "points": 54,
+   "comment_count": 20,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 3,
-   "title": "We built our house for LAN parties",
-   "url": "https://lanparty.house/",
-   "points": 76,
-   "comment_count": 29,
+   "title": "LibreOffice breaks download records after declaring it has no AI features",
+   "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
+   "points": 97,
+   "comment_count": 20,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 4,
-   "title": "Mistral raises €3B",
-   "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
-   "points": 447,
-   "comment_count": 311,
+   "title": "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
+   "url": "https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten",
+   "points": 305,
+   "comment_count": 250,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 5,
-   "title": "There's a new \"Google Jail\" for independent wikis",
-   "url": "https://weirdgloop.org/blog/google-jail",
+   "title": "Antiquated HTML Snippets and Artefacts",
+   "url": "https://vale.rocks/posts/html-relics",
    "points": 140,
    "comment_count": 47,
    "input": {
@@ -70,148 +70,168 @@
   },
   {
    "rank": 6,
-   "title": "Multi-Agents LLM Financial Trading Framework",
-   "url": "https://github.com/TauricResearch/TradingAgents",
-   "points": 48,
-   "comment_count": 32,
+   "title": "Extracting Steering Vectors from J space",
+   "url": "https://darshanmakwana412.github.io/2026/09/extracting-steering-vectors-from-j-space/",
+   "points": 17,
+   "comment_count": 5,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 7,
-   "title": "TALA Is Open-Source",
-   "url": "https://d2lang.com/blog/tala-is-open-source/",
-   "points": 223,
-   "comment_count": 15,
+   "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
+   "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+   "points": 423,
+   "comment_count": 88,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 8,
-   "title": "How well do agents use test/verification techniques?",
-   "url": "https://danluu.com/agentic-testing/",
-   "points": 84,
-   "comment_count": 25,
+   "title": "There's a new \"Google Jail\" for independent wikis",
+   "url": "https://weirdgloop.org/blog/google-jail",
+   "points": 345,
+   "comment_count": 124,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 9,
-   "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
-   "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
-   "points": 41,
-   "comment_count": 23,
+   "title": "Ask HN: Are others seeing Google's reCAPTCHA rejecting Firefox users?",
+   "url": "https://news.ycombinator.com/item?id=49555592",
+   "points": 141,
+   "comment_count": 59,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 10,
-   "title": "We have a year to fix security everywhere",
-   "url": "https://jyn.dev/a-year-to-fix-security/",
-   "points": 225,
-   "comment_count": 190,
+   "title": "Picolibrary: A Small Press",
+   "url": "https://novalis.org/blog/2026-08-31-picolibrary-a-very-small-press.html",
+   "points": 25,
+   "comment_count": 3,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 11,
-   "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
-   "url": "https://lax-skyline.parcelscope.net/",
-   "points": 290,
-   "comment_count": 142,
+   "title": "Why getting your hands dirty is good for you",
+   "url": "https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks",
+   "points": 128,
+   "comment_count": 100,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 12,
-   "title": "My Feed, My Way",
-   "url": "https://www.pm.gov.au/media/my-feed-my-way",
-   "points": 118,
-   "comment_count": 85,
+   "title": "We built our house for LAN parties (2024)",
+   "url": "https://lanparty.house/",
+   "points": 291,
+   "comment_count": 195,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 13,
-   "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
-   "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
-   "points": 198,
-   "comment_count": 81,
+   "title": "End-to-end infrastructure for training and inferencing open weight models",
+   "url": "https://docs.appliedcompute.com/",
+   "points": 45,
+   "comment_count": 7,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 14,
-   "title": "Jellyfin 12.0",
-   "url": "https://jellyfin.org/posts/jellyfin-release-12.0/",
-   "points": 366,
-   "comment_count": 150,
+   "title": "TALA Is Open-Source",
+   "url": "https://d2lang.com/blog/tala-is-open-source/",
+   "points": 274,
+   "comment_count": 23,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 15,
-   "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
-   "url": "https://rohanadwankar.github.io/posts/platforms.html",
-   "points": 29,
-   "comment_count": 6,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 16,
-   "title": "216M Spy TVs – The LG Smart TV Problem [video]",
-   "url": "https://www.youtube.com/watch?v=6IFVTcM28KA",
-   "points": 760,
-   "comment_count": 910,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 17,
-   "title": "Understanding Computer Memory Architecture and SSD Internals",
-   "url": "https://codingpirate.com/understanding-computer-memory-architecture-ac9320110787",
-   "points": 39,
-   "comment_count": 2,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 18,
-   "title": "WeatherNext 3",
-   "url": "https://deepmind.google/science/weathernext/",
-   "points": 324,
+   "title": "PISA 2025 Students' reading and mathematics performance declined across the OECD",
+   "url": "https://www.oecd.org/en/about/news/press-releases/2026/09/pisa-2025-students-reading-and-mathematics-performance-declined-sharply-across-the-oecd.html",
+   "points": 88,
    "comment_count": 78,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
+   "rank": 16,
+   "title": "How well do agents use test/verification techniques?",
+   "url": "https://danluu.com/agentic-testing/",
+   "points": 141,
+   "comment_count": 55,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 17,
+   "title": "An overview of how our family is prepared",
+   "url": "https://michaelharley.net/posts/2026/08/29/an-overview-of-how-our-family-is-prepared/",
+   "points": 6,
+   "comment_count": 3,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 18,
+   "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
+   "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
+   "points": 72,
+   "comment_count": 54,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
    "rank": 19,
-   "title": "Scientists observe Einstein's gravity in the quantum world",
-   "url": "https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world",
-   "points": 221,
-   "comment_count": 57,
+   "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
+   "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
+   "points": 240,
+   "comment_count": 119,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 20,
-   "title": "End-to-end infrastructure for training and inferencing open weight models",
-   "url": "https://docs.appliedcompute.com/",
+   "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
+   "url": "https://lax-skyline.parcelscope.net/",
+   "points": 320,
+   "comment_count": 163,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 21,
+   "title": "Mistral raises €3B",
+   "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+   "points": 651,
+   "comment_count": 472,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 22,
+   "title": "Show HN: DriveSync – fast Git-styled Google Drive sync CLI",
+   "url": "https://github.com/scaleninja/drivesync",
    "points": 4,
    "comment_count": 0,
    "input": {
@@ -219,101 +239,81 @@
    }
   },
   {
-   "rank": 21,
-   "title": "anystation: Calling any station A public board shaped like a tree. No account",
-   "url": "https://anystation.net/",
-   "points": 6,
-   "comment_count": 6,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 22,
-   "title": "John Margolies' photographs of roadside America",
-   "url": "https://publicdomainreview.org/collection/john-margolies-photographs-of-roadside-america/",
-   "points": 81,
-   "comment_count": 20,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
    "rank": 23,
-   "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
-   "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
-   "points": 240,
-   "comment_count": 113,
+   "title": "WeatherNext 3",
+   "url": "https://deepmind.google/science/weathernext/",
+   "points": 387,
+   "comment_count": 96,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 24,
-   "title": "Trusting-Trust Attack against an Entire Linux Distribution",
-   "url": "https://arxiv.org/abs/2607.24888",
-   "points": 208,
-   "comment_count": 44,
+   "title": "Jellyfin 12.0",
+   "url": "https://jellyfin.org/posts/jellyfin-release-12.0/",
+   "points": 511,
+   "comment_count": 243,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 25,
-   "title": "Extinct Tasmanian tiger's 'snap' unlike any living mammal's bite",
-   "url": "https://www.cnn.com/2026/09/02/science/tasmanian-tiger-skull-bite-force",
-   "points": 29,
-   "comment_count": 6,
+   "title": "Scientists observe Einstein's gravity in the quantum world",
+   "url": "https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world",
+   "points": 249,
+   "comment_count": 86,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 26,
-   "title": "I tested 10 model/harness combinations on the same Three.js task",
-   "url": "https://alvins82.github.io/hangar-harness-model-tests/",
-   "points": 79,
-   "comment_count": 48,
+   "title": "Multi-Agents LLM Financial Trading Framework",
+   "url": "https://github.com/TauricResearch/TradingAgents",
+   "points": 95,
+   "comment_count": 64,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 27,
-   "title": "Feather Atlas",
-   "url": "https://www.fws.gov/lab/featheratlas/identify.html",
-   "points": 11,
-   "comment_count": 1,
+   "title": "We Must Return to the Office to Use AI in Person",
+   "url": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
+   "points": 14,
+   "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 28,
-   "title": "Emacs Bedrock 2.0",
-   "url": "https://lambdaland.org/posts/2026-09-06-bedrock-v2/",
-   "points": 118,
-   "comment_count": 25,
+   "title": "Robot writes in languages it has never seen before (2019)",
+   "url": "https://www.wired.com/story/robot-writing/",
+   "points": 17,
+   "comment_count": 11,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 29,
-   "title": "Icy Moons Are Ocean Worlds",
-   "url": "https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds",
-   "points": 181,
-   "comment_count": 24,
+   "title": "John Margolies' photographs of roadside America",
+   "url": "https://publicdomainreview.org/collection/john-margolies-photographs-of-roadside-america/",
+   "points": 108,
+   "comment_count": 38,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 30,
-   "title": "Show HN: Jigsaw Haiku",
-   "url": "https://jigsawhaiku.com/",
-   "points": 94,
-   "comment_count": 29,
+   "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
+   "url": "https://rohanadwankar.github.io/posts/platforms.html",
+   "points": 58,
+   "comment_count": 20,
    "input": {
     "url": "https://news.ycombinator.com"
    }

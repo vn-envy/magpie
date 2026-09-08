@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mtsryemx27tsoxeex5",
+ "snapshot_id": "j_mtt0v6fj23o8i21d08",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-09-08T14:38:46.593Z",
+ "captured_at": "2026-09-08T18:48:01.952Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,306 +14,306 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-09-08T14:38:25.839Z",
-  "finished": "2026-09-08T14:38:37.248Z"
+  "started": "2026-09-08T18:47:51.834Z",
+  "finished": "2026-09-08T18:47:54.578Z"
  },
  "rows": [
   {
    "rank": 1,
-   "title": "DaVinci Resolve 21.1",
-   "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
-   "points": 71,
-   "comment_count": 18,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 2,
-   "title": "Show HN: Copperhead – Hardware as Fast as Software",
-   "url": "https://copperhead.sh/",
-   "points": 54,
-   "comment_count": 20,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 3,
-   "title": "LibreOffice breaks download records after declaring it has no AI features",
-   "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
-   "points": 97,
-   "comment_count": 20,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 4,
-   "title": "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
-   "url": "https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten",
-   "points": 305,
-   "comment_count": 250,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 5,
-   "title": "Antiquated HTML Snippets and Artefacts",
-   "url": "https://vale.rocks/posts/html-relics",
-   "points": 140,
-   "comment_count": 47,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 6,
-   "title": "Extracting Steering Vectors from J space",
-   "url": "https://darshanmakwana412.github.io/2026/09/extracting-steering-vectors-from-j-space/",
-   "points": 17,
-   "comment_count": 5,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 7,
-   "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
-   "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-   "points": 423,
-   "comment_count": 88,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 8,
-   "title": "There's a new \"Google Jail\" for independent wikis",
-   "url": "https://weirdgloop.org/blog/google-jail",
-   "points": 345,
-   "comment_count": 124,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 9,
-   "title": "Ask HN: Are others seeing Google's reCAPTCHA rejecting Firefox users?",
-   "url": "https://news.ycombinator.com/item?id=49555592",
-   "points": 141,
-   "comment_count": 59,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 10,
-   "title": "Picolibrary: A Small Press",
-   "url": "https://novalis.org/blog/2026-08-31-picolibrary-a-very-small-press.html",
-   "points": 25,
-   "comment_count": 3,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 11,
-   "title": "Why getting your hands dirty is good for you",
-   "url": "https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks",
-   "points": 128,
-   "comment_count": 100,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 12,
-   "title": "We built our house for LAN parties (2024)",
-   "url": "https://lanparty.house/",
-   "points": 291,
-   "comment_count": 195,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 13,
-   "title": "End-to-end infrastructure for training and inferencing open weight models",
-   "url": "https://docs.appliedcompute.com/",
-   "points": 45,
-   "comment_count": 7,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 14,
-   "title": "TALA Is Open-Source",
-   "url": "https://d2lang.com/blog/tala-is-open-source/",
-   "points": 274,
-   "comment_count": 23,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 15,
-   "title": "PISA 2025 Students' reading and mathematics performance declined across the OECD",
-   "url": "https://www.oecd.org/en/about/news/press-releases/2026/09/pisa-2025-students-reading-and-mathematics-performance-declined-sharply-across-the-oecd.html",
-   "points": 88,
+   "title": "Google DeepMind Releases AlphaGenome Atlas",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+   "points": 318,
    "comment_count": 78,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
+   "rank": 2,
+   "title": "DaVinci Resolve 21.1",
+   "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
+   "points": 271,
+   "comment_count": 111,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 3,
+   "title": "On the Navier–Stokes Millennium Prize Problem",
+   "url": "https://openai.com/index/navier-stokes-solution/",
+   "points": 498,
+   "comment_count": 344,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 4,
+   "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
+   "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
+   "points": 115,
+   "comment_count": 72,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 5,
+   "title": "OUI-1: world's first model for Generative UI",
+   "url": "https://www.openui.com/blog/oui-1",
+   "points": 37,
+   "comment_count": 33,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 6,
+   "title": "The Helicopter with Radioactive Blades",
+   "url": "https://hackaday.com/2026/09/07/the-helicopter-with-radioactive-blades/",
+   "points": 87,
+   "comment_count": 18,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 7,
+   "title": "Show HN: LLM Attention Visualization",
+   "url": "https://ishamf.dev/p/llm-attention-visualizer/",
+   "points": 35,
+   "comment_count": 6,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 8,
+   "title": "Connecting the Machines",
+   "url": "https://herdr.dev/blog/connecting-the-machines/",
+   "points": 35,
+   "comment_count": 13,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 9,
+   "title": "LG TVs caught spying even when offline or on standby",
+   "url": "https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus",
+   "points": 252,
+   "comment_count": 128,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 10,
+   "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
+   "url": "https://github.com/ayghri/i-have-adhd",
+   "points": 140,
+   "comment_count": 109,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 11,
+   "title": "Show HN: Copperhead – Hardware as Fast as Software",
+   "url": "https://copperhead.sh/",
+   "points": 159,
+   "comment_count": 59,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 12,
+   "title": "The two Christian saints who are the Buddha",
+   "url": "https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/",
+   "points": 130,
+   "comment_count": 71,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 13,
+   "title": "Y Combinator Early Access Network",
+   "url": "https://events.ycombinator.com/yc-early-access-fall-26",
+   "points": 35,
+   "comment_count": 24,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 14,
+   "title": "ChatGPT Images 2.5",
+   "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+   "points": 6,
+   "comment_count": 0,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 15,
+   "title": "C*: Unifying Programming and Verification in C",
+   "url": "https://arxiv.org/abs/2504.02246",
+   "points": 38,
+   "comment_count": 27,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
    "rank": 16,
-   "title": "How well do agents use test/verification techniques?",
-   "url": "https://danluu.com/agentic-testing/",
-   "points": 141,
-   "comment_count": 55,
+   "title": "AlphaGenome Atlas predictive map of every DNA letter change in the human genome",
+   "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+   "points": 59,
+   "comment_count": 7,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 17,
-   "title": "An overview of how our family is prepared",
-   "url": "https://michaelharley.net/posts/2026/08/29/an-overview-of-how-our-family-is-prepared/",
-   "points": 6,
-   "comment_count": 3,
+   "title": "ZX Spectrum: Experimenting with 1-Bit Sound",
+   "url": "https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/",
+   "points": 59,
+   "comment_count": 18,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 18,
-   "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
-   "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
-   "points": 72,
-   "comment_count": 54,
+   "title": "Replacing a Rust Enum with a 64-Bit Word Made My Interpreter 17% Faster",
+   "url": "https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/",
+   "points": 16,
+   "comment_count": 6,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 19,
-   "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
-   "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
-   "points": 240,
-   "comment_count": 119,
+   "title": "Paramount Caught Using 'Astroturf' Group to Drum Up Fake Support for Merger",
+   "url": "https://www.techdirt.com/2026/09/08/paramount-caught-using-astroturf-group-to-drum-up-fake-support-for-merger/",
+   "points": 238,
+   "comment_count": 67,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 20,
-   "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
-   "url": "https://lax-skyline.parcelscope.net/",
-   "points": 320,
-   "comment_count": 163,
+   "title": "The 92-Year-Old Mathematician and the Teenage Apprentice",
+   "url": "https://www.nytimes.com/2026/09/06/science/92-year-old-mathematician-apprentice.html",
+   "points": 51,
+   "comment_count": 4,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 21,
-   "title": "Mistral raises €3B",
-   "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
-   "points": 651,
-   "comment_count": 472,
+   "title": "DHS 'Predictive Policing' Unit Is Analyzing Americans' Financial Habits",
+   "url": "https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over/",
+   "points": 238,
+   "comment_count": 110,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 22,
-   "title": "Show HN: DriveSync – fast Git-styled Google Drive sync CLI",
-   "url": "https://github.com/scaleninja/drivesync",
-   "points": 4,
-   "comment_count": 0,
+   "title": "Getting your hands dirty is good for you",
+   "url": "https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks",
+   "points": 175,
+   "comment_count": 148,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 23,
-   "title": "WeatherNext 3",
-   "url": "https://deepmind.google/science/weathernext/",
-   "points": 387,
-   "comment_count": 96,
+   "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+   "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+   "points": 592,
+   "comment_count": 323,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 24,
-   "title": "Jellyfin 12.0",
-   "url": "https://jellyfin.org/posts/jellyfin-release-12.0/",
-   "points": 511,
-   "comment_count": 243,
+   "title": "There's a new \"Google Jail\" for independent wikis",
+   "url": "https://weirdgloop.org/blog/google-jail",
+   "points": 458,
+   "comment_count": 195,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 25,
-   "title": "Scientists observe Einstein's gravity in the quantum world",
-   "url": "https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world",
-   "points": 249,
-   "comment_count": 86,
+   "title": "Disappointed Optimists",
+   "url": "https://cwodtke.com/disappointed-optimists/",
+   "points": 42,
+   "comment_count": 2,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 26,
-   "title": "Multi-Agents LLM Financial Trading Framework",
-   "url": "https://github.com/TauricResearch/TradingAgents",
-   "points": 95,
-   "comment_count": 64,
+   "title": "FreeBSD 14.5-Release",
+   "url": "https://www.freebsd.org/releases/14.5R/announce/",
+   "points": 65,
+   "comment_count": 7,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 27,
-   "title": "We Must Return to the Office to Use AI in Person",
-   "url": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
-   "points": 14,
-   "comment_count": 0,
+   "title": "Extracting Steering Vectors from J space",
+   "url": "https://darshanmakwana412.github.io/2026/09/extracting-steering-vectors-from-j-space/",
+   "points": 51,
+   "comment_count": 12,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 28,
-   "title": "Robot writes in languages it has never seen before (2019)",
-   "url": "https://www.wired.com/story/robot-writing/",
-   "points": 17,
-   "comment_count": 11,
+   "title": "Antiquated HTML Snippets and Artefacts",
+   "url": "https://vale.rocks/posts/html-relics",
+   "points": 198,
+   "comment_count": 68,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 29,
-   "title": "John Margolies' photographs of roadside America",
-   "url": "https://publicdomainreview.org/collection/john-margolies-photographs-of-roadside-america/",
-   "points": 108,
-   "comment_count": 38,
+   "title": "Reverse engineering the 2008 LogiCola, a logic drill program",
+   "url": "https://logicola.org/blog/the-new-logicola",
+   "points": 16,
+   "comment_count": 1,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 30,
-   "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
-   "url": "https://rohanadwankar.github.io/posts/platforms.html",
-   "points": 58,
-   "comment_count": 20,
+   "title": "Mistral raises €3B",
+   "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+   "points": 762,
+   "comment_count": 546,
    "input": {
     "url": "https://news.ycombinator.com"
    }

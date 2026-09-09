@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mttx78eafrdbllzgs",
+ "snapshot_id": "j_mtu7g4vm2n7wlvd1x1",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-09-09T09:53:22.706Z",
+ "captured_at": "2026-09-09T14:40:03.969Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,306 +14,306 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-09-09T09:53:01.920Z",
-  "finished": "2026-09-09T09:53:19.504Z"
+  "started": "2026-09-09T14:39:53.422Z",
+  "finished": "2026-09-09T14:39:55.432Z"
  },
  "rows": [
   {
    "rank": 1,
-   "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
-   "url": "https://openai.com/index/codex-quantum-computing-experiments/",
-   "points": 56,
-   "comment_count": 39,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 2,
-   "title": "Muse – Meta’s personal AI agent",
-   "url": "https://ai.meta.com/muse/",
-   "points": 505,
-   "comment_count": 546,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 3,
-   "title": "On Really Trying (2009)",
-   "url": "https://gwern.net/on-really-trying",
-   "points": 45,
-   "comment_count": 22,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 4,
-   "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
-   "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
-   "points": 1679,
-   "comment_count": 702,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 5,
-   "title": "Tension wood: A 'muscle' that can both bend and straighten plants",
-   "url": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
-   "points": 118,
-   "comment_count": 27,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 6,
-   "title": "Maak.el: Lisp machine command runner in Emacs, infinitely extensible and Scheme",
-   "url": "https://codeberg.org/jjba23/maak.el",
-   "points": 9,
-   "comment_count": 0,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 7,
-   "title": "Researchers Spot Fake Ancient Pottery Using the Earth's Magnetic Field",
-   "url": "https://www.smithsonianmag.com/smart-news/researchers-determine-how-to-spot-fake-ancient-pottery-using-the-earths-magnetic-field-180989441/",
-   "points": 46,
-   "comment_count": 21,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 8,
-   "title": "How to build a printer",
-   "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
-   "points": 330,
-   "comment_count": 65,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 9,
-   "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
-   "points": 562,
-   "comment_count": 120,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 10,
-   "title": "A Biography of Lee Holloway, the Architect of Cloudflare's Technology (Part 1)",
-   "url": "https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en",
-   "points": 51,
-   "comment_count": 13,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 11,
-   "title": "Gambling with our lives: AI researcher quits Anthropic with warning about safety",
-   "url": "https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/",
-   "points": 25,
-   "comment_count": 6,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 12,
-   "title": "Mercury 2.5",
-   "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
-   "points": 200,
-   "comment_count": 31,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 13,
-   "title": "Large language models develop novel social biases through adaptive exploration",
-   "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
-   "points": 163,
+   "title": "Tailwind Labs is joining Shopify",
+   "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+   "points": 222,
    "comment_count": 85,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 14,
-   "title": "“Tweet” and the bird logo apparently enter the public domain",
-   "url": "https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm",
-   "points": 87,
-   "comment_count": 47,
+   "rank": 2,
+   "title": "Flock Wants a Closely Surveilled World with No Exit",
+   "url": "https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit",
+   "points": 454,
+   "comment_count": 361,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 15,
-   "title": "DaVinci Resolve 21.1",
-   "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
-   "points": 403,
-   "comment_count": 178,
+   "rank": 3,
+   "title": "Desert Ant Labs: local, fast models that run on device",
+   "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
+   "points": 158,
+   "comment_count": 40,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 16,
-   "title": "27.5KB language-agnostic WebGPU syntax highlighter",
-   "url": "https://gpu-lexer.vercel.app/",
-   "points": 84,
-   "comment_count": 26,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 17,
-   "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
-   "url": "https://github.com/ayghri/i-have-adhd",
-   "points": 443,
-   "comment_count": 310,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 18,
-   "title": "Tao: Open math problems being non-renewably mined by AI",
-   "url": "https://mathstodon.xyz/@tao/117237320796901560",
-   "points": 367,
-   "comment_count": 321,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 19,
-   "title": "On the Navier–Stokes Millennium Prize Problem",
-   "url": "https://openai.com/index/navier-stokes-solution/",
-   "points": 1261,
-   "comment_count": 1010,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 20,
-   "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
-   "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
-   "points": 251,
-   "comment_count": 124,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 21,
-   "title": "An Accidental Blackboard",
-   "url": "https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html",
-   "points": 58,
-   "comment_count": 31,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 22,
-   "title": "The origins of Partner’s computer case",
-   "url": "https://www.racunalniski-muzej.si/en/the-origins-of-partners-computer-case/",
-   "points": 33,
-   "comment_count": 4,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 23,
-   "title": "Ganon's Mysterious Origins (Revisited)",
-   "url": "https://www.thrillingtalesofoldvideogames.com/blog/ganon-name-origin-kamen-rider",
-   "points": 34,
+   "rank": 4,
+   "title": "What will our economic future look like?",
+   "url": "https://www.anthropic.com/institute/econ-scenarios",
+   "points": 31,
    "comment_count": 18,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 24,
-   "title": "We built our house for LAN parties (2024)",
-   "url": "https://lanparty.house/",
-   "points": 516,
-   "comment_count": 337,
+   "rank": 5,
+   "title": "I advertise malicious software on Google Ads",
+   "url": "https://xlii.space/eng/malicious-software-on-google-ads/",
+   "points": 181,
+   "comment_count": 84,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 25,
-   "title": "Into the depths of C: Elaborating the de facto standards (2016)",
-   "url": "https://dl.acm.org/doi/10.1145/2980983.2908081",
-   "points": 20,
+   "rank": 6,
+   "title": "Claude, change the \"Add to Cart\" button to blue",
+   "url": "https://opusfived.dev/",
+   "points": 288,
+   "comment_count": 109,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 7,
+   "title": "DeepSeek launching v4.1 flash cheaper and more capable than v4 pro",
+   "url": "https://news.ycombinator.com/item?id=49624603",
+   "points": 206,
+   "comment_count": 92,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 8,
+   "title": "Muse – Meta’s personal AI agent",
+   "url": "https://ai.meta.com/muse/",
+   "points": 580,
+   "comment_count": 636,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 9,
+   "title": "Playing whack-a-mole is losing",
+   "url": "https://dadrian.io/blog/posts/whack-a-mole-is-losing/",
+   "points": 9,
+   "comment_count": 2,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 10,
+   "title": "Coyote v. Acme (1990)",
+   "url": "https://www.newyorker.com/magazine/1990/02/26/coyote-v-acme",
+   "points": 82,
+   "comment_count": 32,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 11,
+   "title": "Roame (YC S23) Is Hiring Viral Content Editor",
+   "url": "https://www.ycombinator.com/companies/roame/jobs/KuVVqSh-content-systems-builder-editor",
+   "points": 0,
+   "comment_count": 2,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 12,
+   "title": "Lotus Notes and the dangers of starting from scratch",
+   "url": "https://buttondown.com/blog/lotus-notes-email",
+   "points": 100,
+   "comment_count": 61,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 13,
+   "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+   "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+   "points": 1856,
+   "comment_count": 761,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 14,
+   "title": "Smolts: A pedagogical IDE for a teaching language",
+   "url": "https://eighty-twenty.org/2026/09/04/smolts",
+   "points": 18,
    "comment_count": 1,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 26,
-   "title": "Copyright does more harm than good and should be abolished",
-   "url": "https://grapheneos.social/@GrapheneOS/117231186011306184",
-   "points": 226,
-   "comment_count": 186,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 27,
-   "title": "The Microeconomics of Artificial Intelligence (2025)",
-   "url": "https://direct.mit.edu/books/oa-monograph/6067/The-Microeconomics-of-Artificial-Intelligence",
-   "points": 58,
-   "comment_count": 31,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 28,
-   "title": "A Topological Picture Book, Rendered",
-   "url": "https://e-infinity.space/picture-book/",
-   "points": 103,
+   "rank": 15,
+   "title": "Building a Wall Lamp from Scratch",
+   "url": "https://mbugert.de/posts/2026-09-09-bedroom-lamp-build/",
+   "points": 34,
    "comment_count": 11,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
+   "rank": 16,
+   "title": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes",
+   "url": "https://github.com/ashemag/human-atlas",
+   "points": 34,
+   "comment_count": 12,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 17,
+   "title": "Searching for the best silicone USB cable",
+   "url": "https://www.frankchiarulli.com/blog/best-silicone-usb-cable/",
+   "points": 35,
+   "comment_count": 18,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 18,
+   "title": "How An AI math breakthrough ignited a controversy",
+   "url": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
+   "points": 173,
+   "comment_count": 166,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 19,
+   "title": "Tension wood: A 'muscle' that can both bend and straighten plants",
+   "url": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
+   "points": 143,
+   "comment_count": 36,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 20,
+   "title": "How to build a printer",
+   "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+   "points": 406,
+   "comment_count": 87,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 21,
+   "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+   "points": 582,
+   "comment_count": 125,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 22,
+   "title": "Researchers Spot Fake Ancient Pottery Using the Earth's Magnetic Field",
+   "url": "https://www.smithsonianmag.com/smart-news/researchers-determine-how-to-spot-fake-ancient-pottery-using-the-earths-magnetic-field-180989441/",
+   "points": 69,
+   "comment_count": 28,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 23,
+   "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
+   "url": "https://openai.com/index/codex-quantum-computing-experiments/",
+   "points": 111,
+   "comment_count": 89,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 24,
+   "title": "A Biography of Lee Holloway, the Architect of Cloudflare's Technology (Part 1)",
+   "url": "https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en",
+   "points": 83,
+   "comment_count": 19,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 25,
+   "title": "Mercury 2.5",
+   "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
+   "points": 235,
+   "comment_count": 45,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 26,
+   "title": "The Ancient Greek Water Clock That Kept the Most Accurate Time for 1,800 Years",
+   "url": "https://www.openculture.com/2026/09/the-ancient-greek-water-clock-that-kept-the-most-accurate-time-for-1800-years.html",
+   "points": 9,
+   "comment_count": 1,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 27,
+   "title": "DaVinci Resolve 21.1",
+   "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
+   "points": 424,
+   "comment_count": 190,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 28,
+   "title": "Large language models develop novel social biases through adaptive exploration",
+   "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
+   "points": 190,
+   "comment_count": 97,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
    "rank": 29,
-   "title": "Replacing a Rust Enum with a 64-Bit Word Made My Interpreter 17% Faster",
-   "url": "https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/",
-   "points": 128,
-   "comment_count": 48,
+   "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
+   "url": "https://github.com/ayghri/i-have-adhd",
+   "points": 499,
+   "comment_count": 339,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 30,
-   "title": "The Helicopter with Radioactive Blades",
-   "url": "https://hackaday.com/2026/09/07/the-helicopter-with-radioactive-blades/",
-   "points": 182,
-   "comment_count": 55,
+   "title": "“Tweet” and the bird logo apparently enter the public domain",
+   "url": "https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm",
+   "points": 169,
+   "comment_count": 94,
    "input": {
     "url": "https://news.ycombinator.com"
    }

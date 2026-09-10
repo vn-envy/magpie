@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mtumn4qv2p27ska63n",
+ "snapshot_id": "j_mtus59gr1oycoi6ddw",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-09-09T21:45:34.767Z",
+ "captured_at": "2026-09-10T00:19:28.489Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,46 +14,46 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-09-09T21:45:14.110Z",
-  "finished": "2026-09-09T21:45:26.021Z"
+  "started": "2026-09-10T00:19:18.068Z",
+  "finished": "2026-09-10T00:19:21.986Z"
  },
  "rows": [
   {
    "rank": 1,
    "title": "iPhone Duo",
    "url": "https://www.apple.com/iphone-duo/",
-   "points": 632,
-   "comment_count": 1317,
+   "points": 817,
+   "comment_count": 1601,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 2,
-   "title": "AirPods 5",
-   "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
-   "points": 289,
-   "comment_count": 231,
+   "title": "Shopify acquires Tailwind",
+   "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+   "points": 858,
+   "comment_count": 344,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 3,
-   "title": "Shopify acquires Tailwind",
-   "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
-   "points": 785,
-   "comment_count": 319,
+   "title": "What do Visa and Mastercard do? An intro to card networks",
+   "url": "https://tautology.town/2026/06/01/card-networks.html",
+   "points": 332,
+   "comment_count": 209,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 4,
-   "title": "What do Visa and Mastercard do? An intro to card networks",
-   "url": "https://tautology.town/2026/06/01/card-networks.html",
-   "points": 245,
-   "comment_count": 145,
+   "title": "AirPods 5",
+   "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+   "points": 355,
+   "comment_count": 293,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -62,18 +62,18 @@
    "rank": 5,
    "title": "iPhone 18 Pro and iPhone 18 Pro Max",
    "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
-   "points": 197,
-   "comment_count": 177,
+   "points": 255,
+   "comment_count": 262,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 6,
-   "title": "Apple Watch Series 12",
-   "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
-   "points": 161,
-   "comment_count": 172,
+   "title": "Growing proof that autonomous cars save lives",
+   "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
+   "points": 181,
+   "comment_count": 301,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -82,58 +82,58 @@
    "rank": 7,
    "title": "No Man's Sky Cosmos",
    "url": "https://www.nomanssky.com/cosmos-update/",
-   "points": 223,
-   "comment_count": 227,
+   "points": 278,
+   "comment_count": 291,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 8,
-   "title": "Growing proof that autonomous cars save lives",
-   "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
-   "points": 107,
-   "comment_count": 178,
+   "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
+   "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+   "points": 331,
+   "comment_count": 118,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 9,
-   "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
-   "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
-   "points": 126,
-   "comment_count": 56,
+   "title": "Apple Watch Series 12",
+   "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
+   "points": 194,
+   "comment_count": 220,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 10,
-   "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
-   "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-   "points": 283,
-   "comment_count": 106,
+   "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+   "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
+   "points": 160,
+   "comment_count": 65,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 11,
-   "title": "GNU Radio in the browser",
-   "url": "https://gnuradioworld.com/",
-   "points": 144,
-   "comment_count": 19,
+   "title": "Desert Ant Labs: local, fast models that run on device",
+   "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
+   "points": 376,
+   "comment_count": 90,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 12,
-   "title": "Desert Ant Labs: local, fast models that run on device",
-   "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
-   "points": 353,
-   "comment_count": 86,
+   "title": "GNU Radio in the browser",
+   "url": "https://gnuradioworld.com/",
+   "points": 164,
+   "comment_count": 22,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -142,8 +142,8 @@
    "rank": 13,
    "title": "Understanding the recent DDoS attack against Read the Docs",
    "url": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/",
-   "points": 125,
-   "comment_count": 42,
+   "points": 146,
+   "comment_count": 48,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -152,168 +152,168 @@
    "rank": 14,
    "title": "How I advertise malicious software on Google Ads",
    "url": "https://xlii.space/eng/malicious-software-on-google-ads/",
-   "points": 321,
-   "comment_count": 199,
+   "points": 344,
+   "comment_count": 208,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 15,
-   "title": "Amazon refused to give pregnant workers bathroom breaks",
-   "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-amazon-refused-to-give-pregnant-workers-bathroom-breaks-and-chairs/",
-   "points": 43,
-   "comment_count": 3,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 16,
-   "title": "Planet Labs' open satellite feed",
-   "url": "https://tech.marksblogg.com/planet-labs-open-satellite-feed.html",
-   "points": 116,
-   "comment_count": 24,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 17,
-   "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
-   "url": "https://arxiv.org/abs/2609.09153",
-   "points": 35,
-   "comment_count": 10,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 18,
-   "title": "Ancient cave art suggests first known humans in Ireland walked over from Wales",
-   "url": "https://www.bbc.com/news/articles/c5y75dl0jpko",
-   "points": 26,
-   "comment_count": 7,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 19,
-   "title": "Bespoke: A programming language for people who say please",
-   "url": "https://blog.hofstede.it/bespoke-a-programming-language-for-people-who-say-please/",
-   "points": 94,
-   "comment_count": 25,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 20,
-   "title": "Microsoft says email spammers are adopting ASCII smuggling",
-   "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
-   "points": 17,
-   "comment_count": 6,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 21,
-   "title": "Why Emacs Consult async searches feel slow and how to speed them up",
-   "url": "https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/",
-   "points": 36,
-   "comment_count": 13,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 22,
-   "title": "Claude, change the “Add to Cart” button to blue",
-   "url": "https://opusfived.dev/",
-   "points": 895,
-   "comment_count": 368,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 23,
-   "title": "What will our economic future look like?",
-   "url": "https://www.anthropic.com/institute/econ-scenarios",
-   "points": 131,
-   "comment_count": 227,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 24,
-   "title": "Generating the P3 Tiling",
-   "url": "https://k-monk.org/blog/generating-the-p3-tiling/",
-   "points": 27,
+   "title": "Use Vsock with Libzmq",
+   "url": "https://blog.remijouan.net/posts/libzmq-vsock-pyzmq/",
+   "points": 22,
    "comment_count": 2,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 25,
-   "title": "Roame (YC S23) Is Hiring Viral Content Editor",
-   "url": "https://www.ycombinator.com/companies/roame/jobs/KuVVqSh-content-systems-builder-editor",
-   "points": 0,
+   "rank": 16,
+   "title": "Electrostatic Cathode Ray Tube Project 1 (2014)",
+   "url": "https://labguysworld.com/Project_ESCRTs_001.htm",
+   "points": 9,
+   "comment_count": 1,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 17,
+   "title": "Planet Labs' open satellite feed",
+   "url": "https://tech.marksblogg.com/planet-labs-open-satellite-feed.html",
+   "points": 140,
+   "comment_count": 25,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 18,
+   "title": "South Park creators rename show 'South America'",
+   "url": "https://www.bbc.co.uk/news/articles/cp9340rg7k8o",
+   "points": 106,
+   "comment_count": 20,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 19,
+   "title": "Scanned, segmented, and animated my keyboard. Now you can type on my keyboard",
+   "url": "https://chyuang.com/gaussian-splats/",
+   "points": 4,
+   "comment_count": 0,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 20,
+   "title": "Blizzard Workers Win Historic Union Contract",
+   "url": "https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers",
+   "points": 36,
+   "comment_count": 0,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 21,
+   "title": "Bespoke: A programming language for people who say please",
+   "url": "https://blog.hofstede.it/bespoke-a-programming-language-for-people-who-say-please/",
+   "points": 117,
+   "comment_count": 26,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 22,
+   "title": "Ancient cave art suggests first known humans in Ireland walked over from Wales",
+   "url": "https://www.bbc.com/news/articles/c5y75dl0jpko",
+   "points": 43,
    "comment_count": 9,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 26,
+   "rank": 23,
    "title": "Muse – Meta’s personal AI agent",
    "url": "https://ai.meta.com/muse/",
-   "points": 628,
-   "comment_count": 686,
+   "points": 637,
+   "comment_count": 701,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 24,
+   "title": "Microsoft says email spammers are adopting ASCII smuggling",
+   "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+   "points": 37,
+   "comment_count": 21,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 25,
+   "title": "Claude, change the “Add to Cart” button to blue",
+   "url": "https://opusfived.dev/",
+   "points": 980,
+   "comment_count": 389,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 26,
+   "title": "Factoring RSA 260",
+   "url": "https://cognition.com/blog/factoring-rsa-260",
+   "points": 3,
+   "comment_count": 1,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 27,
-   "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
-   "url": "https://github.com/OtoDock/oto-dock",
-   "points": 26,
-   "comment_count": 7,
+   "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
+   "url": "https://arxiv.org/abs/2609.09153",
+   "points": 40,
+   "comment_count": 12,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 28,
-   "title": "We accidentally built a synthetic cell factory",
-   "url": "https://bnext.bio/post/we-accidentally-built-a-synthetic-cell-factory",
-   "points": 64,
-   "comment_count": 4,
+   "title": "Why Emacs Consult async searches feel slow and how to speed them up",
+   "url": "https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/",
+   "points": 44,
+   "comment_count": 18,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 29,
-   "title": "Coyote v. Acme (1990)",
-   "url": "https://www.newyorker.com/magazine/1990/02/26/coyote-v-acme",
-   "points": 153,
-   "comment_count": 77,
+   "title": "What will our economic future look like?",
+   "url": "https://www.anthropic.com/institute/econ-scenarios",
+   "points": 165,
+   "comment_count": 308,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 30,
-   "title": "Automattic CEO Matt Mullenweg Put on 'Leave of Absence'",
-   "url": "https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/",
-   "points": 13,
-   "comment_count": 0,
+   "title": "Coyote v. Acme (1990)",
+   "url": "https://www.newyorker.com/magazine/1990/02/26/coyote-v-acme",
+   "points": 166,
+   "comment_count": 82,
    "input": {
     "url": "https://news.ycombinator.com"
    }

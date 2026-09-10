@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mtvmk7bi1ut7rt8r9h",
+ "snapshot_id": "j_mtvv8fgl1sw8o7mfxm",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-09-10T14:30:54.580Z",
+ "captured_at": "2026-09-10T18:34:41.989Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,146 +14,146 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-09-10T14:30:44.387Z",
-  "finished": "2026-09-10T14:30:49.560Z"
+  "started": "2026-09-10T18:33:30.846Z",
+  "finished": "2026-09-10T18:34:39.682Z"
  },
  "rows": [
   {
    "rank": 1,
-   "title": "Shopify moves back to Native from React Native",
-   "url": "https://shopify.engineering/back-to-native",
-   "points": 40,
-   "comment_count": 13,
+   "title": "Rust is tier-1 language at Microsoft",
+   "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+   "points": 389,
+   "comment_count": 203,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 2,
-   "title": "Rust Is Tier-1 Language at Microsoft",
-   "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
-   "points": 47,
-   "comment_count": 8,
+   "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+   "url": "https://cognition.com/blog/swe-2",
+   "points": 154,
+   "comment_count": 83,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 3,
-   "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
-   "url": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
-   "points": 136,
-   "comment_count": 101,
+   "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+   "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+   "points": 248,
+   "comment_count": 380,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 4,
-   "title": "Show HN: The same nine streaming subscriptions cost $702/year more than in 2021",
-   "url": "https://honestlyranked.com/guides/streaming-price-increases/",
-   "points": 312,
-   "comment_count": 273,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 5,
-   "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
-   "url": "https://news.ycombinator.com/item?id=49643556",
-   "points": 108,
-   "comment_count": 38,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 6,
-   "title": "Amazon pilots ad services in ChatGPT",
-   "url": "https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/",
-   "points": 9,
-   "comment_count": 2,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 7,
-   "title": "What algorithm did Windows XP use to choose your initial user picture?",
-   "url": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
-   "points": 206,
-   "comment_count": 103,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 8,
-   "title": "Show HN: I couldn't afford interview prep, so I built a free alternative",
-   "url": "https://learningto.co/",
-   "points": 8,
-   "comment_count": 3,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 9,
-   "title": "List of references on Sony websites to players \"owning\" their digital games",
-   "url": "https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit",
-   "points": 110,
-   "comment_count": 24,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 10,
-   "title": "Bending Spoons buying Miro for $1.355B",
-   "url": "https://investors.bendingspoons.com/newsroom/bending-spoons-agrees-to-acquire-miro",
-   "points": 18,
-   "comment_count": 12,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 11,
-   "title": "Who People Talk to When They're Struggling",
-   "url": "https://www.graphsaboutreligion.com/p/who-do-you-talk-to-when-youre-struggling",
-   "points": 27,
-   "comment_count": 16,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 12,
-   "title": "Another researcher says OpenAI trained on conversations, then claimed breakthrou",
-   "url": "https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d",
-   "points": 134,
+   "title": "I have a theory that software drives people insane",
+   "url": "https://graybeard.ing/software-drives-people-insane/",
+   "points": 112,
    "comment_count": 55,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
+   "rank": 5,
+   "title": "NASA Color Trick Was Meant for Mars. Now It's Unveiling Rock Art on Earth",
+   "url": "https://gizmodo.com/this-nasa-color-trick-was-meant-for-mars-now-its-unveiling-rock-art-on-earth-2000809844",
+   "points": 99,
+   "comment_count": 16,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 6,
+   "title": "Shopify moves back to Native from React Native",
+   "url": "https://shopify.engineering/back-to-native",
+   "points": 503,
+   "comment_count": 357,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 7,
+   "title": "Neki",
+   "url": "https://planetscale.com/blog/introducing-neki",
+   "points": 103,
+   "comment_count": 32,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 8,
+   "title": "Forgejo <=16.0.3 Critical RCE",
+   "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
+   "points": 47,
+   "comment_count": 24,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 9,
+   "title": "Douglas Hofstadter: Analogy as the Core of Cognition [video]",
+   "url": "https://www.youtube.com/watch?v=n8m7lFQ3njk",
+   "points": 52,
+   "comment_count": 22,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 10,
+   "title": "Silicon Valley Is Transforming the Military-Industrial Complex",
+   "url": "https://costsofwar.watson.brown.edu/paper/how-big-tech-and-silicon-valley-are-transforming-military-industrial-complex",
+   "points": 57,
+   "comment_count": 71,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 11,
+   "title": "Music Theory for the 21st-Century Classroom",
+   "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
+   "points": 14,
+   "comment_count": 3,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 12,
+   "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
+   "url": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
+   "points": 229,
+   "comment_count": 191,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
    "rank": 13,
-   "title": "iPhone Duo",
-   "url": "https://www.apple.com/iphone-duo/",
-   "points": 1298,
-   "comment_count": 2254,
+   "title": ">10x More Efficient Pretraining",
+   "url": "https://magic.dev/blog/pretraining#",
+   "points": 78,
+   "comment_count": 45,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 14,
-   "title": "To write non-fiction, draw the trunk, then the rest of the tree",
-   "url": "https://devz.cl/posts/how-to-write/",
-   "points": 21,
-   "comment_count": 1,
+   "title": "Neki is sharded Postgres by PlanetScale",
+   "url": "https://neki.dev/",
+   "points": 76,
+   "comment_count": 19,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -162,158 +162,158 @@
    "rank": 15,
    "title": "DeepSeek v4.1 Flash",
    "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
-   "points": 649,
-   "comment_count": 351,
+   "points": 815,
+   "comment_count": 457,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 16,
-   "title": "Stockfish 19",
-   "url": "https://stockfishchess.org/blog/2026/stockfish-19/",
-   "points": 151,
-   "comment_count": 102,
+   "title": "Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1",
+   "url": "https://tokenstead.ai/models/swe-2",
+   "points": 13,
+   "comment_count": 4,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 17,
-   "title": "Show HN: What if the speed of light was 5 km/h?",
-   "url": "https://rivendell.dmitrybrant.com/relativity/",
-   "points": 479,
-   "comment_count": 202,
+   "title": "What algorithm did Windows XP use to choose your initial user picture?",
+   "url": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
+   "points": 288,
+   "comment_count": 140,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 18,
-   "title": "Liesegang Rings",
-   "url": "https://chillphysicsenjoyer.substack.com/p/liesegang-rings",
-   "points": 14,
-   "comment_count": 1,
+   "title": "Macbeth and His Problems",
+   "url": "https://porticoquarterly.com/essay/macbeth-and-his-problems/",
+   "points": 60,
+   "comment_count": 23,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 19,
-   "title": "Shopify acquires Tailwind",
-   "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
-   "points": 1094,
-   "comment_count": 423,
+   "title": "Casablanca: How an unproduced play marched into movie history",
+   "url": "https://www.thecollector.com/casablanca-unproduced-play-movie-history/",
+   "points": 33,
+   "comment_count": 10,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 20,
-   "title": "Discrete Dipole Approximation Code Ddscat 7.2 (2012)",
-   "url": "https://arxiv.org/abs/1202.3424",
-   "points": 4,
-   "comment_count": 0,
+   "title": "List of references on Sony websites to players \"owning\" their digital games",
+   "url": "https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit",
+   "points": 262,
+   "comment_count": 88,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 21,
-   "title": "What do Visa and Mastercard do? An intro to card networks",
-   "url": "https://tautology.town/2026/06/01/card-networks.html",
-   "points": 598,
-   "comment_count": 364,
+   "title": "Python sets and dictionaries can have quadratic-time performance",
+   "url": "https://lemire.me/blog/2026/09/03/python-sets-and-dictionaries-can-have-quadratic-time-performance/",
+   "points": 51,
+   "comment_count": 22,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 22,
-   "title": "Larger Pacific Striped Octopus",
-   "url": "https://en.wikipedia.org/wiki/Larger_Pacific_striped_octopus",
-   "points": 102,
-   "comment_count": 50,
+   "title": "Stockfish 19",
+   "url": "https://stockfishchess.org/blog/2026/stockfish-19/",
+   "points": 222,
+   "comment_count": 130,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 23,
-   "title": "Thanks to Siri Recaps, your Apple Watch is always listening",
-   "url": "https://www.techradar.com/health-fitness/smartwatches/thanks-to-siri-recaps-your-apple-watch-is-always-listening-as-you-go-about-your-day-but-apple-may-be-risking-a-meta-glasses-style-backlash",
-   "points": 109,
-   "comment_count": 74,
+   "title": "iPhone Duo",
+   "url": "https://www.apple.com/iphone-duo/",
+   "points": 1358,
+   "comment_count": 2364,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 24,
-   "title": "Growing proof that autonomous cars save lives",
-   "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
-   "points": 397,
-   "comment_count": 691,
+   "title": "To write non-fiction, draw the trunk, then the rest of the tree",
+   "url": "https://devz.cl/posts/how-to-write/",
+   "points": 62,
+   "comment_count": 21,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 25,
-   "title": "Show HN: Art – draw one stroke, let symmetry complete it",
-   "url": "https://mrdee.in/mandala/",
-   "points": 39,
-   "comment_count": 19,
+   "title": "JEP 544: Ahead-of-Time Code Compilation",
+   "url": "https://openjdk.org/jeps/544",
+   "points": 9,
+   "comment_count": 7,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 26,
-   "title": "Object storage is all you need",
-   "url": "https://www.tigrisdata.com/blog/object-storage-all-need/",
-   "points": 50,
-   "comment_count": 29,
+   "title": "Show HN: DOOM in the kernel, or fibers in eBPF",
+   "url": "https://ayles.github.io/doom-in-kernel/",
+   "points": 12,
+   "comment_count": 4,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 27,
-   "title": "No Man's Sky Cosmos",
-   "url": "https://www.nomanssky.com/cosmos-update/",
-   "points": 422,
-   "comment_count": 426,
+   "title": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons",
+   "url": "https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html",
+   "points": 39,
+   "comment_count": 33,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 28,
-   "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
-   "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-   "points": 477,
-   "comment_count": 155,
+   "title": "Show HN: MultiMatte, a Promptable Image Background Removal Model",
+   "url": "https://usefeyn.com/blog/multimatte/",
+   "points": 10,
+   "comment_count": 4,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 29,
-   "title": "Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators",
-   "url": "https://www.thelec.net/news/articleView.html?idxno=12835",
-   "points": 42,
-   "comment_count": 8,
+   "title": "The Four-Color Theorem Gets a Rare New Proof",
+   "url": "https://www.quantamagazine.org/the-four-color-theorem-gets-a-rare-new-proof-20260910/",
+   "points": 16,
+   "comment_count": 4,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 30,
-   "title": "AirPods 5",
-   "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
-   "points": 491,
-   "comment_count": 419,
+   "title": "Show HN: Syq – copy files between machines fast (better than rsync)",
+   "url": "https://greaber.github.io/syq/",
+   "points": 21,
+   "comment_count": 22,
    "input": {
     "url": "https://news.ycombinator.com"
    }

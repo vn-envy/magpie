@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mtwha9sk2bjg7e9kxz",
+ "snapshot_id": "j_mtwrzhhj25xeb8lvxu",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-09-11T04:50:58.747Z",
+ "captured_at": "2026-09-11T09:50:31.469Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,26 +14,26 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-09-11T04:50:48.348Z",
-  "finished": "2026-09-11T04:50:50.456Z"
+  "started": "2026-09-11T09:50:20.945Z",
+  "finished": "2026-09-11T09:50:24.564Z"
  },
  "rows": [
   {
    "rank": 1,
-   "title": "Shopify is moving from React Native back to Swift and Kotlin",
-   "url": "https://shopify.engineering/back-to-native",
-   "points": 900,
-   "comment_count": 609,
+   "title": "Cherenkov Radiation - traveling faster than light",
+   "url": "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation",
+   "points": 31,
+   "comment_count": 19,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 2,
-   "title": "Exercise intensity is associated with cardiometabolic health",
-   "url": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2",
-   "points": 14,
-   "comment_count": 1,
+   "title": "Shopify is moving from React Native back to Swift and Kotlin",
+   "url": "https://shopify.engineering/back-to-native",
+   "points": 1069,
+   "comment_count": 743,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -42,58 +42,58 @@
    "rank": 3,
    "title": "Don't let anyone take away your big box of cables",
    "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
-   "points": 392,
-   "comment_count": 283,
+   "points": 527,
+   "comment_count": 339,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 4,
-   "title": "OpenAI Agents API",
-   "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-   "points": 186,
-   "comment_count": 117,
+   "title": "Working with Git Worktrees in Magit",
+   "url": "https://emacsredux.com/blog/2026/09/02/working-with-git-worktrees-in-magit/",
+   "points": 46,
+   "comment_count": 13,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 5,
-   "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
-   "url": "https://auberon.xyz/blog/posts/deathray/",
-   "points": 121,
-   "comment_count": 75,
+   "title": "OpenAI Agents API",
+   "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+   "points": 265,
+   "comment_count": 145,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 6,
-   "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-   "url": "https://cognition.com/blog/swe-2",
-   "points": 379,
-   "comment_count": 160,
+   "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
+   "url": "https://auberon.xyz/blog/posts/deathray/",
+   "points": 190,
+   "comment_count": 116,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 7,
-   "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
-   "url": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
-   "points": 292,
-   "comment_count": 46,
+   "title": "The Gemini app is now available for Windows",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
+   "points": 48,
+   "comment_count": 35,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 8,
-   "title": "YuE2 · Frontier Music with Symbolic Planning",
-   "url": "https://map-yue2.github.io/",
-   "points": 69,
-   "comment_count": 57,
+   "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
+   "url": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
+   "points": 336,
+   "comment_count": 55,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -102,28 +102,28 @@
    "rank": 9,
    "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
    "url": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
-   "points": 101,
-   "comment_count": 43,
+   "points": 208,
+   "comment_count": 75,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 10,
-   "title": "Google will buy half the electricity from one of Finland's nuclear power plants",
-   "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
-   "points": 145,
-   "comment_count": 104,
+   "title": "Nine coding harnesses vs. your laptop",
+   "url": "https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74",
+   "points": 96,
+   "comment_count": 25,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 11,
-   "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
-   "url": "https://system76.com/workstations/thelio-mira-ai",
-   "points": 65,
-   "comment_count": 41,
+   "title": "Neijuan",
+   "url": "https://en.wikipedia.org/wiki/Neijuan",
+   "points": 21,
+   "comment_count": 8,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -132,138 +132,138 @@
    "rank": 12,
    "title": "NTSB issues investigative update on B-767 runway excursion accident in Miami",
    "url": "https://www.ntsb.gov/news/press-releases/Pages/NR20260909.aspx",
-   "points": 79,
-   "comment_count": 125,
+   "points": 104,
+   "comment_count": 177,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 13,
-   "title": "Nine coding harnesses vs. your laptop",
-   "url": "https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74",
-   "points": 13,
-   "comment_count": 0,
+   "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+   "url": "https://cognition.com/blog/swe-2",
+   "points": 414,
+   "comment_count": 173,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 14,
-   "title": "Music Theory for the 21st-Century Classroom",
-   "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
-   "points": 183,
-   "comment_count": 83,
+   "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+   "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+   "points": 809,
+   "comment_count": 742,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 15,
-   "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-   "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
-   "points": 757,
-   "comment_count": 693,
+   "title": "GPT‑Live‑1 in the API",
+   "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api/",
+   "points": 15,
+   "comment_count": 6,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 16,
-   "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
-   "url": "https://merybenavente.me/blog/proof-of-capture",
-   "points": 81,
-   "comment_count": 51,
+   "title": "Music Theory for the 21st-Century Classroom",
+   "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
+   "points": 224,
+   "comment_count": 95,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 17,
-   "title": "Neki – Sharded Postgres",
-   "url": "https://planetscale.com/blog/introducing-neki",
-   "points": 218,
-   "comment_count": 120,
+   "title": "Forgejo <=16.0.3 Critical RCE",
+   "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
+   "points": 185,
+   "comment_count": 68,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 18,
-   "title": "iPhone Duo",
-   "url": "https://www.apple.com/iphone-duo/",
-   "points": 1425,
-   "comment_count": 2455,
+   "title": "So you want to use OpenRouter?",
+   "url": "https://mmoustafa.com/blog/so-you-want-to-use-openrouter/",
+   "points": 73,
+   "comment_count": 5,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 19,
-   "title": "Forgejo <=16.0.3 Critical RCE",
-   "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
-   "points": 159,
-   "comment_count": 59,
+   "title": "Neki – Sharded Postgres",
+   "url": "https://planetscale.com/blog/introducing-neki",
+   "points": 243,
+   "comment_count": 131,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 20,
-   "title": "Customizing my Compaq MX-11800 keyboard",
-   "url": "https://blog.webb.page/WM-102",
-   "points": 18,
-   "comment_count": 4,
+   "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
+   "url": "https://merybenavente.me/blog/proof-of-capture",
+   "points": 106,
+   "comment_count": 58,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 21,
-   "title": "Herdr Studio",
-   "url": "https://powerfooi.github.io/herdr-studio/",
-   "points": 16,
-   "comment_count": 7,
+   "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
+   "url": "https://system76.com/workstations/thelio-mira-ai",
+   "points": 105,
+   "comment_count": 86,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 22,
-   "title": "Rust is tier-1 language at Microsoft",
-   "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
-   "points": 633,
-   "comment_count": 363,
+   "title": "Testing race conditions with mem access tracing and stack-based delay injection",
+   "url": "https://projectzero.google/2026/09/maccconc-race-condition.html",
+   "points": 8,
+   "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 23,
-   "title": "Setting up OpenCode with Ollama and sbx on Mac",
-   "url": "https://tensorsandtokens.com/posts/opencode-ollama/",
-   "points": 20,
-   "comment_count": 11,
+   "title": "Rust is tier-1 language at Microsoft",
+   "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+   "points": 675,
+   "comment_count": 422,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 24,
-   "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
-   "url": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
-   "points": 294,
-   "comment_count": 243,
+   "title": "Douglas Hofstadter: Analogy as the Core of Cognition [video]",
+   "url": "https://www.youtube.com/watch?v=n8m7lFQ3njk",
+   "points": 181,
+   "comment_count": 79,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 25,
-   "title": "Douglas Hofstadter: Analogy as the Core of Cognition [video]",
-   "url": "https://www.youtube.com/watch?v=n8m7lFQ3njk",
-   "points": 158,
-   "comment_count": 76,
+   "title": "Astra for Coding: Why Are We Doing This Again?",
+   "url": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
+   "points": 320,
+   "comment_count": 238,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -272,48 +272,48 @@
    "rank": 26,
    "title": "Detecting and countering misuse of AI: September 2026",
    "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
-   "points": 103,
-   "comment_count": 174,
+   "points": 131,
+   "comment_count": 200,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 27,
-   "title": "JEP 544: Ahead-of-Time Code Compilation",
-   "url": "https://openjdk.org/jeps/544",
-   "points": 83,
-   "comment_count": 29,
+   "title": "Exercise intensity is associated with cardiometabolic health",
+   "url": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2",
+   "points": 97,
+   "comment_count": 44,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 28,
-   "title": "Recursion into madness",
-   "url": "https://blog.coredump.cx/p/recursion-into-madness",
-   "points": 52,
-   "comment_count": 14,
+   "title": "YuE2 · Frontier Music with Symbolic Planning",
+   "url": "https://map-yue2.github.io/",
+   "points": 95,
+   "comment_count": 78,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 29,
-   "title": "What happens when a GPU writes memory",
-   "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-writes-memory",
-   "points": 54,
-   "comment_count": 1,
+   "title": "Recursion into madness",
+   "url": "https://blog.coredump.cx/p/recursion-into-madness",
+   "points": 70,
+   "comment_count": 17,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 30,
-   "title": "Bitap: My favorite string matching algorithm",
-   "url": "https://jo3-l.dev/posts/bitap/",
-   "points": 10,
-   "comment_count": 1,
+   "title": "DeepSeek v4.1 Flash Uncensored",
+   "url": "https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8",
+   "points": 39,
+   "comment_count": 7,
    "input": {
     "url": "https://news.ycombinator.com"
    }

@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mtw7frbr2o9qs1kcxk",
+ "snapshot_id": "j_mtwha9sk2bjg7e9kxz",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-09-11T00:15:28.943Z",
+ "captured_at": "2026-09-11T04:50:58.747Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,36 +14,36 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-09-11T00:15:08.254Z",
-  "finished": "2026-09-11T00:15:27.634Z"
+  "started": "2026-09-11T04:50:48.348Z",
+  "finished": "2026-09-11T04:50:50.456Z"
  },
  "rows": [
   {
    "rank": 1,
    "title": "Shopify is moving from React Native back to Swift and Kotlin",
    "url": "https://shopify.engineering/back-to-native",
-   "points": 720,
-   "comment_count": 476,
+   "points": 900,
+   "comment_count": 609,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 2,
-   "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-   "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
-   "points": 602,
-   "comment_count": 601,
+   "title": "Exercise intensity is associated with cardiometabolic health",
+   "url": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2",
+   "points": 14,
+   "comment_count": 1,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 3,
-   "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
-   "url": "https://auberon.xyz/blog/posts/deathray/",
-   "points": 58,
-   "comment_count": 31,
+   "title": "Don't let anyone take away your big box of cables",
+   "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
+   "points": 392,
+   "comment_count": 283,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -52,28 +52,28 @@
    "rank": 4,
    "title": "OpenAI Agents API",
    "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-   "points": 93,
-   "comment_count": 65,
+   "points": 186,
+   "comment_count": 117,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 5,
-   "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-   "url": "https://cognition.com/blog/swe-2",
-   "points": 342,
-   "comment_count": 140,
+   "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
+   "url": "https://auberon.xyz/blog/posts/deathray/",
+   "points": 121,
+   "comment_count": 75,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 6,
-   "title": "Don't let anyone take away your big box of cables",
-   "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
-   "points": 288,
-   "comment_count": 223,
+   "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+   "url": "https://cognition.com/blog/swe-2",
+   "points": 379,
+   "comment_count": 160,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -82,238 +82,238 @@
    "rank": 7,
    "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
    "url": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
-   "points": 255,
-   "comment_count": 38,
+   "points": 292,
+   "comment_count": 46,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 8,
-   "title": "NTSB issues investigative update on B-767 runway excursion accident in Miami",
-   "url": "https://www.ntsb.gov/news/press-releases/Pages/NR20260909.aspx",
-   "points": 41,
-   "comment_count": 53,
+   "title": "YuE2 · Frontier Music with Symbolic Planning",
+   "url": "https://map-yue2.github.io/",
+   "points": 69,
+   "comment_count": 57,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 9,
-   "title": "Music Theory for the 21st-Century Classroom",
-   "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
-   "points": 143,
-   "comment_count": 70,
+   "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
+   "url": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
+   "points": 101,
+   "comment_count": 43,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 10,
-   "title": "Forgejo <=16.0.3 Critical RCE",
-   "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
+   "title": "Google will buy half the electricity from one of Finland's nuclear power plants",
+   "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
    "points": 145,
-   "comment_count": 53,
+   "comment_count": 104,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 11,
-   "title": "Bodily Oddities",
-   "url": "https://vester.si/bodily-oddities/",
-   "points": 45,
-   "comment_count": 36,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 12,
-   "title": "Recursion into madness",
-   "url": "https://blog.coredump.cx/p/recursion-into-madness",
-   "points": 27,
-   "comment_count": 6,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 13,
-   "title": "Neki – Sharded Postgres",
-   "url": "https://planetscale.com/blog/introducing-neki",
-   "points": 189,
-   "comment_count": 97,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 14,
-   "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
-   "url": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
-   "points": 281,
-   "comment_count": 220,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 15,
-   "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
-   "url": "https://merybenavente.me/blog/proof-of-capture",
-   "points": 58,
+   "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
+   "url": "https://system76.com/workstations/thelio-mira-ai",
+   "points": 65,
    "comment_count": 41,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
+   "rank": 12,
+   "title": "NTSB issues investigative update on B-767 runway excursion accident in Miami",
+   "url": "https://www.ntsb.gov/news/press-releases/Pages/NR20260909.aspx",
+   "points": 79,
+   "comment_count": 125,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 13,
+   "title": "Nine coding harnesses vs. your laptop",
+   "url": "https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74",
+   "points": 13,
+   "comment_count": 0,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 14,
+   "title": "Music Theory for the 21st-Century Classroom",
+   "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
+   "points": 183,
+   "comment_count": 83,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 15,
+   "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+   "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+   "points": 757,
+   "comment_count": 693,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
    "rank": 16,
-   "title": "OpenAI’s Navier-Stokes release included a Lean 4 formal proof",
-   "url": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
-   "points": 126,
-   "comment_count": 122,
+   "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
+   "url": "https://merybenavente.me/blog/proof-of-capture",
+   "points": 81,
+   "comment_count": 51,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 17,
-   "title": "Rust is tier-1 language at Microsoft",
-   "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
-   "points": 585,
-   "comment_count": 322,
+   "title": "Neki – Sharded Postgres",
+   "url": "https://planetscale.com/blog/introducing-neki",
+   "points": 218,
+   "comment_count": 120,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 18,
-   "title": "What happens when a GPU writes memory",
-   "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-writes-memory",
-   "points": 38,
-   "comment_count": 1,
+   "title": "iPhone Duo",
+   "url": "https://www.apple.com/iphone-duo/",
+   "points": 1425,
+   "comment_count": 2455,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 19,
-   "title": "JEP 544: Ahead-of-Time Code Compilation",
-   "url": "https://openjdk.org/jeps/544",
-   "points": 70,
-   "comment_count": 24,
+   "title": "Forgejo <=16.0.3 Critical RCE",
+   "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
+   "points": 159,
+   "comment_count": 59,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 20,
-   "title": "Show HN: Vertumnus – printable posters of farmers' market produce seasonality",
-   "url": "https://vertumnus.fyi/",
-   "points": 23,
-   "comment_count": 10,
+   "title": "Customizing my Compaq MX-11800 keyboard",
+   "url": "https://blog.webb.page/WM-102",
+   "points": 18,
+   "comment_count": 4,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 21,
-   "title": "Detecting and countering misuse of AI: September 2026",
-   "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
-   "points": 71,
-   "comment_count": 136,
+   "title": "Herdr Studio",
+   "url": "https://powerfooi.github.io/herdr-studio/",
+   "points": 16,
+   "comment_count": 7,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 22,
-   "title": "Silicon Valley is transforming the military-industrial complex?",
-   "url": "https://costsofwar.watson.brown.edu/paper/how-big-tech-and-silicon-valley-are-transforming-military-industrial-complex",
-   "points": 143,
-   "comment_count": 276,
+   "title": "Rust is tier-1 language at Microsoft",
+   "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+   "points": 633,
+   "comment_count": 363,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 23,
-   "title": "iPhone Duo",
-   "url": "https://www.apple.com/iphone-duo/",
-   "points": 1407,
-   "comment_count": 2425,
+   "title": "Setting up OpenCode with Ollama and sbx on Mac",
+   "url": "https://tensorsandtokens.com/posts/opencode-ollama/",
+   "points": 20,
+   "comment_count": 11,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 24,
-   "title": "Douglas Hofstadter: Analogy as the Core of Cognition [video]",
-   "url": "https://www.youtube.com/watch?v=n8m7lFQ3njk",
-   "points": 133,
-   "comment_count": 71,
+   "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
+   "url": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
+   "points": 294,
+   "comment_count": 243,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 25,
-   "title": "What algorithm did Windows XP use to choose your initial user picture?",
-   "url": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
-   "points": 336,
-   "comment_count": 165,
+   "title": "Douglas Hofstadter: Analogy as the Core of Cognition [video]",
+   "url": "https://www.youtube.com/watch?v=n8m7lFQ3njk",
+   "points": 158,
+   "comment_count": 76,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 26,
-   "title": "Show HN: A browser IDE for m68000, Z80 assembly (and more), with graphics",
-   "url": "https://asm-editor.specy.app/",
-   "points": 9,
-   "comment_count": 1,
+   "title": "Detecting and countering misuse of AI: September 2026",
+   "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+   "points": 103,
+   "comment_count": 174,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 27,
-   "title": "Creativity is the new moat",
-   "url": "https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat",
-   "points": 122,
-   "comment_count": 65,
+   "title": "JEP 544: Ahead-of-Time Code Compilation",
+   "url": "https://openjdk.org/jeps/544",
+   "points": 83,
+   "comment_count": 29,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 28,
-   "title": "Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1",
-   "url": "https://tokenstead.ai/models/swe-2",
-   "points": 54,
-   "comment_count": 25,
+   "title": "Recursion into madness",
+   "url": "https://blog.coredump.cx/p/recursion-into-madness",
+   "points": 52,
+   "comment_count": 14,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 29,
-   "title": "Stockfish 19",
-   "url": "https://stockfishchess.org/blog/2026/stockfish-19/",
-   "points": 263,
-   "comment_count": 149,
+   "title": "What happens when a GPU writes memory",
+   "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-writes-memory",
+   "points": 54,
+   "comment_count": 1,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 30,
-   "title": "List of references on Sony websites to players \"owning\" their digital games",
-   "url": "https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit",
-   "points": 352,
-   "comment_count": 118,
+   "title": "Bitap: My favorite string matching algorithm",
+   "url": "https://jo3-l.dev/posts/bitap/",
+   "points": 10,
+   "comment_count": 1,
    "input": {
     "url": "https://news.ycombinator.com"
    }

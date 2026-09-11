@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mtw1y9l123y2obtkwg",
+ "snapshot_id": "j_mtw7frbr2o9qs1kcxk",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-09-10T21:41:44.119Z",
+ "captured_at": "2026-09-11T00:15:28.943Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,86 +14,86 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-09-10T21:41:33.977Z",
-  "finished": "2026-09-10T21:41:35.175Z"
+  "started": "2026-09-11T00:15:08.254Z",
+  "finished": "2026-09-11T00:15:27.634Z"
  },
  "rows": [
   {
    "rank": 1,
-   "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-   "url": "https://cognition.com/blog/swe-2",
-   "points": 298,
-   "comment_count": 125,
+   "title": "Shopify is moving from React Native back to Swift and Kotlin",
+   "url": "https://shopify.engineering/back-to-native",
+   "points": 720,
+   "comment_count": 476,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 2,
-   "title": "The part of Navier-Stokes no one is talking about",
-   "url": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
-   "points": 13,
-   "comment_count": 1,
+   "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+   "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+   "points": 602,
+   "comment_count": 601,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 3,
-   "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-   "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
-   "points": 465,
-   "comment_count": 507,
+   "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
+   "url": "https://auberon.xyz/blog/posts/deathray/",
+   "points": 58,
+   "comment_count": 31,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 4,
-   "title": "NASA Color Trick Was Meant for Mars. Now It's Unveiling Rock Art on Earth",
-   "url": "https://gizmodo.com/this-nasa-color-trick-was-meant-for-mars-now-its-unveiling-rock-art-on-earth-2000809844",
-   "points": 213,
-   "comment_count": 34,
+   "title": "OpenAI Agents API",
+   "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+   "points": 93,
+   "comment_count": 65,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 5,
-   "title": "Don't let anyone take away your big box of cables",
-   "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
-   "points": 178,
-   "comment_count": 143,
+   "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+   "url": "https://cognition.com/blog/swe-2",
+   "points": 342,
+   "comment_count": 140,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 6,
-   "title": "Forgejo <=16.0.3 Critical RCE",
-   "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
-   "points": 118,
-   "comment_count": 42,
+   "title": "Don't let anyone take away your big box of cables",
+   "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
+   "points": 288,
+   "comment_count": 223,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 7,
-   "title": "Shopify moves back to Native from React Native",
-   "url": "https://shopify.engineering/back-to-native",
-   "points": 608,
-   "comment_count": 413,
+   "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
+   "url": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
+   "points": 255,
+   "comment_count": 38,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 8,
-   "title": "OpenAI Agents API",
-   "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-   "points": 21,
-   "comment_count": 17,
+   "title": "NTSB issues investigative update on B-767 runway excursion accident in Miami",
+   "url": "https://www.ntsb.gov/news/press-releases/Pages/NR20260909.aspx",
+   "points": 41,
+   "comment_count": 53,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -102,218 +102,218 @@
    "rank": 9,
    "title": "Music Theory for the 21st-Century Classroom",
    "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
-   "points": 104,
-   "comment_count": 52,
+   "points": 143,
+   "comment_count": 70,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 10,
-   "title": "What happens when a GPU writes memory",
-   "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-writes-memory",
-   "points": 22,
-   "comment_count": 0,
+   "title": "Forgejo <=16.0.3 Critical RCE",
+   "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
+   "points": 145,
+   "comment_count": 53,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 11,
-   "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
-   "url": "https://merybenavente.me/blog/proof-of-capture",
-   "points": 19,
-   "comment_count": 13,
+   "title": "Bodily Oddities",
+   "url": "https://vester.si/bodily-oddities/",
+   "points": 45,
+   "comment_count": 36,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 12,
-   "title": "Rust is tier-1 language at Microsoft",
-   "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
-   "points": 538,
-   "comment_count": 297,
+   "title": "Recursion into madness",
+   "url": "https://blog.coredump.cx/p/recursion-into-madness",
+   "points": 27,
+   "comment_count": 6,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 13,
-   "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
-   "url": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
-   "points": 261,
-   "comment_count": 206,
+   "title": "Neki – Sharded Postgres",
+   "url": "https://planetscale.com/blog/introducing-neki",
+   "points": 189,
+   "comment_count": 97,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 14,
-   "title": "DeepSeek v4.1 Flash",
-   "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
-   "points": 917,
-   "comment_count": 505,
+   "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
+   "url": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
+   "points": 281,
+   "comment_count": 220,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 15,
-   "title": "Neki",
-   "url": "https://planetscale.com/blog/introducing-neki",
-   "points": 171,
-   "comment_count": 69,
+   "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
+   "url": "https://merybenavente.me/blog/proof-of-capture",
+   "points": 58,
+   "comment_count": 41,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 16,
-   "title": "NTSB Issues Investigative Update on B-767 Runway Excursion Accident in Miami",
-   "url": "https://www.ntsb.gov/news/press-releases/Pages/NR20260909.aspx",
-   "points": 4,
-   "comment_count": 1,
+   "title": "OpenAI’s Navier-Stokes release included a Lean 4 formal proof",
+   "url": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
+   "points": 126,
+   "comment_count": 122,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 17,
-   "title": "Douglas Hofstadter: Analogy as the Core of Cognition [video]",
-   "url": "https://www.youtube.com/watch?v=n8m7lFQ3njk",
-   "points": 105,
-   "comment_count": 61,
+   "title": "Rust is tier-1 language at Microsoft",
+   "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+   "points": 585,
+   "comment_count": 322,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 18,
-   "title": "JEP 544: Ahead-of-Time Code Compilation",
-   "url": "https://openjdk.org/jeps/544",
-   "points": 49,
-   "comment_count": 21,
+   "title": "What happens when a GPU writes memory",
+   "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-writes-memory",
+   "points": 38,
+   "comment_count": 1,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 19,
-   "title": "Show HN: Vertumnus – printable posters of farmers' market produce seasonality",
-   "url": "https://vertumnus.fyi/",
-   "points": 9,
-   "comment_count": 2,
+   "title": "JEP 544: Ahead-of-Time Code Compilation",
+   "url": "https://openjdk.org/jeps/544",
+   "points": 70,
+   "comment_count": 24,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 20,
-   "title": "Silicon Valley Is Transforming the Military-Industrial Complex",
-   "url": "https://costsofwar.watson.brown.edu/paper/how-big-tech-and-silicon-valley-are-transforming-military-industrial-complex",
-   "points": 124,
-   "comment_count": 212,
+   "title": "Show HN: Vertumnus – printable posters of farmers' market produce seasonality",
+   "url": "https://vertumnus.fyi/",
+   "points": 23,
+   "comment_count": 10,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 21,
-   "title": "Creativity is the New Moat",
-   "url": "https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat",
-   "points": 89,
-   "comment_count": 44,
+   "title": "Detecting and countering misuse of AI: September 2026",
+   "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+   "points": 71,
+   "comment_count": 136,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 22,
-   "title": "Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1",
-   "url": "https://tokenstead.ai/models/swe-2",
-   "points": 42,
-   "comment_count": 19,
+   "title": "Silicon Valley is transforming the military-industrial complex?",
+   "url": "https://costsofwar.watson.brown.edu/paper/how-big-tech-and-silicon-valley-are-transforming-military-industrial-complex",
+   "points": 143,
+   "comment_count": 276,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 23,
-   "title": "What algorithm did Windows XP use to choose your initial user picture?",
-   "url": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
-   "points": 322,
-   "comment_count": 158,
+   "title": "iPhone Duo",
+   "url": "https://www.apple.com/iphone-duo/",
+   "points": 1407,
+   "comment_count": 2425,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 24,
-   "title": "iPhone Duo",
-   "url": "https://www.apple.com/iphone-duo/",
-   "points": 1397,
-   "comment_count": 2415,
+   "title": "Douglas Hofstadter: Analogy as the Core of Cognition [video]",
+   "url": "https://www.youtube.com/watch?v=n8m7lFQ3njk",
+   "points": 133,
+   "comment_count": 71,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 25,
-   "title": "Detecting and countering misuse of AI: September 2026",
-   "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
-   "points": 32,
-   "comment_count": 19,
+   "title": "What algorithm did Windows XP use to choose your initial user picture?",
+   "url": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
+   "points": 336,
+   "comment_count": 165,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 26,
-   "title": "Python sets and dictionaries can have quadratic-time performance",
-   "url": "https://lemire.me/blog/2026/09/03/python-sets-and-dictionaries-can-have-quadratic-time-performance/",
-   "points": 79,
-   "comment_count": 42,
+   "title": "Show HN: A browser IDE for m68000, Z80 assembly (and more), with graphics",
+   "url": "https://asm-editor.specy.app/",
+   "points": 9,
+   "comment_count": 1,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 27,
-   "title": "Compute-efficient pretraining and scaling to trillion-parameter models",
-   "url": "https://magic.dev/blog/pretraining#",
-   "points": 104,
-   "comment_count": 56,
+   "title": "Creativity is the new moat",
+   "url": "https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat",
+   "points": 122,
+   "comment_count": 65,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 28,
-   "title": "List of references on Sony websites to players \"owning\" their digital games",
-   "url": "https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit",
-   "points": 326,
-   "comment_count": 107,
+   "title": "Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1",
+   "url": "https://tokenstead.ai/models/swe-2",
+   "points": 54,
+   "comment_count": 25,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 29,
-   "title": "Schemy Lisp En DOS",
-   "url": "https://sled.neocities.org/",
-   "points": 72,
-   "comment_count": 14,
+   "title": "Stockfish 19",
+   "url": "https://stockfishchess.org/blog/2026/stockfish-19/",
+   "points": 263,
+   "comment_count": 149,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 30,
-   "title": "Stockfish 19",
-   "url": "https://stockfishchess.org/blog/2026/stockfish-19/",
-   "points": 252,
-   "comment_count": 144,
+   "title": "List of references on Sony websites to players \"owning\" their digital games",
+   "url": "https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit",
+   "points": 352,
+   "comment_count": 118,
    "input": {
     "url": "https://news.ycombinator.com"
    }

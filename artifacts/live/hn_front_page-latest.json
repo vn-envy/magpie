@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mtyncrsl16uprqflum",
+ "snapshot_id": "j_mtys1ly61mgtedus5o",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-09-12T17:16:25.595Z",
+ "captured_at": "2026-09-12T19:27:42.807Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,125 +14,125 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-09-12T17:16:15.070Z",
-  "finished": "2026-09-12T17:16:17.442Z"
+  "started": "2026-09-12T19:27:32.324Z",
+  "finished": "2026-09-12T19:27:35.545Z"
  },
  "rows": [
   {
    "rank": 1,
-   "title": "Nvidia is the central bank of AI",
-   "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-   "points": 133,
-   "comment_count": 106,
+   "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
+   "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
+   "points": 172,
+   "comment_count": 184,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 2,
-   "title": "Make Your First Edit to OpenStreetMap in the Next 15 Minutes",
+   "title": "Make your first edit to OpenStreetMap",
    "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
-   "points": 23,
-   "comment_count": 11,
+   "points": 119,
+   "comment_count": 39,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 3,
-   "title": "A Mathematical Framework for Transformer Circuits (2021)",
-   "url": "https://transformer-circuits.pub/2021/framework/index.html",
-   "points": 47,
-   "comment_count": 4,
+   "title": "Nvidia is the central bank of AI",
+   "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+   "points": 219,
+   "comment_count": 166,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 4,
-   "title": "IKEA made a mod for Skyrim [video]",
-   "url": "https://www.youtube.com/watch?v=iZODN0QUgjI",
-   "points": 437,
-   "comment_count": 106,
+   "title": "Will There Be a 7G?",
+   "url": "https://arxiv.org/abs/2609.01877",
+   "points": 40,
+   "comment_count": 62,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 5,
-   "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
-   "url": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
-   "points": 17,
-   "comment_count": 2,
+   "title": "We must pace the frontier",
+   "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+   "points": 314,
+   "comment_count": 414,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 6,
-   "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
-   "url": "https://eiln.github.io/posts/ane.html",
-   "points": 184,
-   "comment_count": 20,
+   "title": "IKEA made a mod for Skyrim [video]",
+   "url": "https://www.youtube.com/watch?v=iZODN0QUgjI",
+   "points": 479,
+   "comment_count": 122,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 7,
-   "title": "A misalignment of AI in mathematics",
-   "url": "https://mathandai.org/",
-   "points": 1134,
-   "comment_count": 1063,
+   "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
+   "url": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
+   "points": 51,
+   "comment_count": 17,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 8,
-   "title": "I refuse to let SPICE die",
-   "url": "https://github.com/nefarius/vd_agent/",
-   "points": 22,
-   "comment_count": 9,
+   "title": "I made a build visualizer to understand Bun's compile times",
+   "url": "https://lalitm.com/post/buildprof/",
+   "points": 24,
+   "comment_count": 8,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 9,
-   "title": "I spent $220 on Google app ads and 60% of the installs were robots",
-   "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
-   "points": 693,
-   "comment_count": 374,
+   "title": "google.com/goto: Google's anti-scraping update",
+   "url": "https://www.autom.dev/blog/google-search-goto-links",
+   "points": 576,
+   "comment_count": 456,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 10,
-   "title": "Fuck it, make it anyway",
-   "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
-   "points": 433,
-   "comment_count": 395,
+   "title": "A Mathematical Framework for Transformer Circuits (2021)",
+   "url": "https://transformer-circuits.pub/2021/framework/index.html",
+   "points": 58,
+   "comment_count": 12,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 11,
-   "title": "Performance of WebAssembly Runtimes in 2026",
-   "url": "https://00f.net/2026/06/23/webassembly-runtimes-2026/",
-   "points": 44,
-   "comment_count": 9,
+   "title": "A few good ideas in programming languages",
+   "url": "https://prydt.xyz/blog/a-few-good-ideas-in-pl/",
+   "points": 53,
+   "comment_count": 28,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 12,
-   "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-   "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
-   "points": 9,
+   "title": "How Trail of Bits helps verify the integrity of Signal chats",
+   "url": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
+   "points": 13,
    "comment_count": 6,
    "input": {
     "url": "https://news.ycombinator.com"
@@ -140,79 +140,79 @@
   },
   {
    "rank": 13,
-   "title": "LRU is harder to beat than the KV-cache papers suggest",
-   "url": "https://github.com/gauravapiscean/agentic-kv-cache",
-   "points": 60,
-   "comment_count": 28,
+   "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+   "url": "https://eiln.github.io/posts/ane.html",
+   "points": 196,
+   "comment_count": 26,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 14,
-   "title": "Europe's \"Less\" Is Doing More Than Anyone Gives It Credit For",
-   "url": "https://oilprice.com/Energy/Energy-General/Europes-Less-Is-Doing-More-Than-Anyone-Gives-It-Credit-For.html",
-   "points": 50,
-   "comment_count": 24,
+   "title": "Eating Fruit Skins",
+   "url": "https://pgadey.ca/blog/eating-fruit-skins/",
+   "points": 37,
+   "comment_count": 102,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 15,
-   "title": "A Design Space Exploration of Async/Await",
-   "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-   "points": 384,
-   "comment_count": 110,
+   "title": "Android NAT-T keepalive offload bypasses VPN lockdown",
+   "url": "https://supuk.ch/papers/android-natt-keepalive-vpn-bypass",
+   "points": 132,
+   "comment_count": 34,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 16,
-   "title": "Is it time for a Luddite Renaissance?",
-   "url": "https://www.npr.org/2026/09/08/nx-s1-5955618/is-it-time-for-a-luddite-renaissance",
-   "points": 34,
-   "comment_count": 22,
+   "title": "Performance of WebAssembly Runtimes in 2026",
+   "url": "https://00f.net/2026/06/23/webassembly-runtimes-2026/",
+   "points": 60,
+   "comment_count": 14,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 17,
-   "title": "Reconstructing Concurrency Invariants Through Medieval East Asian Logic",
-   "url": "https://oborona.zip/post/a-middle-period-engine-reconstructing-concurrency-invariants-through-east-asian-structural-logic",
-   "points": 5,
-   "comment_count": 2,
+   "title": "I fixed a tractor using John Deere's self-repair service. Farmers aren't sold",
+   "url": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
+   "points": 54,
+   "comment_count": 74,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 18,
-   "title": "LG responds to TV spying allegations",
-   "url": "https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations",
-   "points": 84,
-   "comment_count": 66,
+   "title": "Navier-Stokes Announcement",
+   "url": "https://www.claymath.org/news/navier-stokes-announcement/",
+   "points": 263,
+   "comment_count": 208,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 19,
-   "title": "Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them",
-   "url": "https://www.cbc.ca/news/canada/ontario-great-lakes-sturgeon-lifespan-study-9.7329250",
-   "points": 121,
-   "comment_count": 35,
+   "title": "I refuse to let SPICE die",
+   "url": "https://github.com/nefarius/vd_agent/",
+   "points": 59,
+   "comment_count": 51,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 20,
-   "title": "A Few Good Ideas in Programming Languages",
-   "url": "https://prydt.xyz/blog/a-few-good-ideas-in-pl/",
-   "points": 9,
+   "title": "Stabilizing Rust's Never Type",
+   "url": "https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/",
+   "points": 7,
    "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
@@ -220,79 +220,79 @@
   },
   {
    "rank": 21,
-   "title": "Usenet rewind archive search engine",
-   "url": "https://www.usenet-rewind.com/",
-   "points": 111,
-   "comment_count": 33,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 22,
-   "title": "Forgotten Woodlands",
-   "url": "https://storymaps.arcgis.com/stories/9b790daf22ba4e87836f467abb1c7e49",
-   "points": 33,
-   "comment_count": 11,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 23,
-   "title": "Inverse Kinematics and Foot Locking",
-   "url": "https://theorangeduck.com/page/inverse-kinematics-foot-locking",
-   "points": 115,
-   "comment_count": 13,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 24,
-   "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+   "title": "The worst spam emails: iLands AI agent hustle",
    "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
-   "points": 75,
+   "points": 85,
    "comment_count": 42,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
+   "rank": 22,
+   "title": "LRU is harder to beat than the KV-cache papers suggest",
+   "url": "https://github.com/gauravapiscean/agentic-kv-cache",
+   "points": 76,
+   "comment_count": 37,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 23,
+   "title": "λ Snap – An inviting programming language for kids and adults for CS study",
+   "url": "https://snap.berkeley.edu/",
+   "points": 164,
+   "comment_count": 103,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 24,
+   "title": "An open letter to Dario: if you mean it, open the weights",
+   "url": "https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/",
+   "points": 5,
+   "comment_count": 0,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
    "rank": 25,
-   "title": "google.com/goto: Google's anti-scraping update",
-   "url": "https://www.autom.dev/blog/google-search-goto-links",
-   "points": 541,
-   "comment_count": 437,
+   "title": "How we manage and engage with our horses shapes their personality",
+   "url": "https://www.utu.fi/en/news/press-release/how-we-manage-and-engage-with-our-horses-shapes-their-personality",
+   "points": 21,
+   "comment_count": 5,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 26,
-   "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-   "url": "https://www.rubyhack.ai/",
-   "points": 879,
-   "comment_count": 516,
+   "title": "Reconstructing Concurrency Invariants Through Medieval East Asian Logic",
+   "url": "https://oborona.zip/post/a-middle-period-engine-reconstructing-concurrency-invariants-through-east-asian-structural-logic",
+   "points": 14,
+   "comment_count": 3,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 27,
-   "title": "Designing for Dual Screen and Foldable Devices with CSS (2023)",
-   "url": "https://blog.stephaniestimac.com/posts/2023/05/design-foldable-devices/",
-   "points": 53,
-   "comment_count": 14,
+   "title": "A Design Space Exploration of Async/Await",
+   "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+   "points": 398,
+   "comment_count": 114,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 28,
-   "title": "Mind-altering drugs played key role in rise of Andean civilization",
-   "url": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
-   "points": 201,
+   "title": "Waymo pulls over, calls cops on juvenile riders who had 'ghost gun\"",
+   "url": "https://www.latimes.com/california/story/2026-09-12/juveniles-riding-in-waymo-arrested-after-police-find-ghost-gun",
+   "points": 87,
    "comment_count": 134,
    "input": {
     "url": "https://news.ycombinator.com"
@@ -300,20 +300,20 @@
   },
   {
    "rank": 29,
-   "title": "Compiler Can Undo Your Security Checks",
-   "url": "https://davidbombal.com/your-compiler-can-undo-your-security-checks/",
-   "points": 24,
-   "comment_count": 30,
+   "title": "Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them",
+   "url": "https://www.cbc.ca/news/canada/ontario-great-lakes-sturgeon-lifespan-study-9.7329250",
+   "points": 132,
+   "comment_count": 39,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 30,
-   "title": "Litelm: LiteLLM Without the Bloat",
-   "url": "https://github.com/kennethwolters/litelm",
-   "points": 167,
-   "comment_count": 59,
+   "title": "Fuck it, make it anyway",
+   "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
+   "points": 489,
+   "comment_count": 478,
    "input": {
     "url": "https://news.ycombinator.com"
    }

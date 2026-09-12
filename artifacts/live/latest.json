@@ -1,27 +1,27 @@
 {
- "updatedAt": "2026-09-12T00:23:24.349Z",
+ "updatedAt": "2026-09-12T04:48:01.963Z",
  "sources": {
   "hn_front_page": {
    "label": "Hacker News front page",
    "collector_id": "c_mt5t6oj816r5d7yvfy",
-   "snapshot_id": "j_mtxn695d2eyx5edne8",
-   "captured_at": "2026-09-12T00:23:34.954Z",
+   "snapshot_id": "j_mtxwmkkx1ecwrnnjx9",
+   "captured_at": "2026-09-12T04:48:23.366Z",
    "verdict": "TRUSTED",
    "row_count": 30
   },
   "real_competition": {
    "label": "awesome-selfhosted — the real open-source software market",
    "collector_id": "c_mt5z86yu2jvo2kv0yf",
-   "snapshot_id": "j_mtxn6h5419dp4yc9k0",
-   "captured_at": "2026-09-12T00:25:55.928Z",
+   "snapshot_id": "j_mtxwn0qp232ahr0983",
+   "captured_at": "2026-09-12T04:50:47.560Z",
    "verdict": "TRUSTED",
    "row_count": 234
   },
   "b2b_source": {
    "label": "Enterprise Support Platforms 2026",
    "collector_id": "c_mt4m8fix1gze0scg44",
-   "snapshot_id": "j_mtxn9hww4yo7ue26z",
-   "captured_at": "2026-09-12T00:26:16.267Z",
+   "snapshot_id": "j_mtxwq4091l1uaypmel",
+   "captured_at": "2026-09-12T04:51:08.512Z",
    "verdict": "TRUSTED",
    "row_count": 10
   }

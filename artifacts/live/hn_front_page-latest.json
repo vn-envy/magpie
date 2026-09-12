@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mtxhkqek24064hlr51",
+ "snapshot_id": "j_mtxn695d2eyx5edne8",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-09-11T21:46:52.893Z",
+ "captured_at": "2026-09-12T00:23:34.954Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,36 +14,36 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-09-11T21:46:42.640Z",
-  "finished": "2026-09-11T21:46:44.990Z"
+  "started": "2026-09-12T00:23:24.786Z",
+  "finished": "2026-09-12T00:23:27.475Z"
  },
  "rows": [
   {
    "rank": 1,
-   "title": "A misalignment of AI in mathematics",
-   "url": "https://mathandai.org/",
-   "points": 388,
-   "comment_count": 460,
+   "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+   "url": "https://www.rubyhack.ai/",
+   "points": 139,
+   "comment_count": 66,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 2,
-   "title": "GrapheneOS' rewritten Messages app is released",
-   "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
-   "points": 120,
-   "comment_count": 68,
+   "title": "A misalignment of AI in mathematics",
+   "url": "https://mathandai.org/",
+   "points": 572,
+   "comment_count": 635,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 3,
-   "title": "I spent $220 on Google app ads. 60% of the installs were robots",
+   "title": "I spent $220 on Google app ads and 60% of the installs were robots",
    "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
-   "points": 92,
-   "comment_count": 44,
+   "points": 243,
+   "comment_count": 134,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -52,268 +52,268 @@
    "rank": 4,
    "title": "A Design Space Exploration of Async/Await",
    "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-   "points": 36,
-   "comment_count": 4,
+   "points": 107,
+   "comment_count": 22,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 5,
-   "title": "Litelm: LiteLLM Without the Bloat",
-   "url": "https://github.com/kennethwolters/litelm",
-   "points": 65,
-   "comment_count": 23,
+   "title": "GrapheneOS' rewritten Messages app is released",
+   "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
+   "points": 179,
+   "comment_count": 105,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 6,
-   "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
-   "url": "https://snap.berkeley.edu/",
-   "points": 82,
-   "comment_count": 48,
+   "title": "Project Blinkenlights",
+   "url": "https://blinkenlights.de/en/",
+   "points": 32,
+   "comment_count": 13,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 7,
-   "title": "Mind-altering drugs played key role in rise of Andean civilization",
-   "url": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
-   "points": 65,
-   "comment_count": 46,
+   "title": "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
+   "url": "https://github.com/mirza-rizvi/ResolveHQ",
+   "points": 21,
+   "comment_count": 8,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 8,
-   "title": "AlphaGenome maps 9B DNA variants",
-   "url": "https://spectrum.ieee.org/alphagenome-atlas",
-   "points": 43,
-   "comment_count": 5,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 9,
-   "title": "ElevenLabs Music v2.5",
-   "url": "https://elevenmusic.io/blog/introducing-music-v2-5",
-   "points": 46,
-   "comment_count": 42,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 10,
-   "title": "The EPA is planning to scrap public review rules for data center pollution",
-   "url": "https://capitalbnews.org/data-centers-permit-rules-epa/",
-   "points": 230,
-   "comment_count": 152,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 11,
-   "title": "Rune is now open source",
-   "url": "https://rune.build/blog/rune-is-now-open-source",
-   "points": 107,
-   "comment_count": 42,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 12,
-   "title": "I've operated petabyte-scale ClickHouse clusters for 5 years",
-   "url": "https://www.tinybird.co/blog/what-i-learned-operating-clickhouse",
-   "points": 153,
-   "comment_count": 54,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 13,
-   "title": "So you want to use OpenRouter?",
-   "url": "https://mmoustafa.com/blog/so-you-want-to-use-openrouter/",
-   "points": 657,
-   "comment_count": 180,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 14,
-   "title": "118M Queries per Second on Neki",
-   "url": "https://planetscale.com/blog/118-million-queries-per-second-on-neki",
-   "points": 81,
-   "comment_count": 37,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 15,
-   "title": "Show HN: Godot and Rust based multiplexer (terminal panes and more)",
-   "url": "https://github.com/godot-pty/gpty",
-   "points": 70,
-   "comment_count": 36,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 16,
-   "title": "Zep AI (YC W24) Is Hiring a Head of Forward Deployed Engineering",
-   "url": "https://www.getzep.com/careers/",
-   "points": 0,
-   "comment_count": 4,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 17,
-   "title": "Logo Programming Language",
-   "url": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
-   "points": 204,
-   "comment_count": 91,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 18,
-   "title": "CIA Releases President's Daily Briefs in Commemoration of 9/11",
-   "url": "https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/",
-   "points": 62,
+   "title": "Litelm: LiteLLM Without the Bloat",
+   "url": "https://github.com/kennethwolters/litelm",
+   "points": 89,
    "comment_count": 34,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 19,
-   "title": "Stop making swap partitions—use swap files instead",
-   "url": "https://gist.github.com/joshenders/c4960cec9c63a7b7d68ffa9543356c43",
-   "points": 97,
-   "comment_count": 153,
+   "rank": 9,
+   "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
+   "url": "https://snap.berkeley.edu/",
+   "points": 103,
+   "comment_count": 53,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 20,
-   "title": "Claude is only available to people over 18 years",
-   "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-   "points": 519,
-   "comment_count": 557,
+   "rank": 10,
+   "title": "AlphaGenome maps 9B DNA variants",
+   "url": "https://spectrum.ieee.org/alphagenome-atlas",
+   "points": 64,
+   "comment_count": 6,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 21,
-   "title": "RTK reports token savings, but our cost benchmarks disagree",
-   "url": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
-   "points": 134,
+   "rank": 11,
+   "title": "Hepburn Romanization: How to Read Japanese in the Latin Alphabet",
+   "url": "https://www.fink-translate.com/blog/hepburn-romanization.html",
+   "points": 14,
+   "comment_count": 3,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 12,
+   "title": "Rune is now open source",
+   "url": "https://rune.build/blog/rune-is-now-open-source",
+   "points": 132,
+   "comment_count": 53,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 13,
+   "title": "QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]",
+   "url": "https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf",
+   "points": 12,
+   "comment_count": 3,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 14,
+   "title": "The EPA is planning to scrap public review rules for data center pollution",
+   "url": "https://capitalbnews.org/data-centers-permit-rules-epa/",
+   "points": 318,
+   "comment_count": 214,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 15,
+   "title": "I've operated petabyte-scale ClickHouse clusters for 5 years",
+   "url": "https://www.tinybird.co/blog/what-i-learned-operating-clickhouse",
+   "points": 171,
+   "comment_count": 63,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 16,
+   "title": "How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs",
+   "url": "https://www.firecrawl.dev/blog/ai-software-factory",
+   "points": 3,
+   "comment_count": 0,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 17,
+   "title": "So you want to use OpenRouter?",
+   "url": "https://mmoustafa.com/blog/so-you-want-to-use-openrouter/",
+   "points": 692,
+   "comment_count": 189,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 18,
+   "title": "Mind-altering drugs played key role in rise of Andean civilization",
+   "url": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
+   "points": 89,
    "comment_count": 65,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
+   "rank": 19,
+   "title": "Zep AI (YC W24) Is Hiring a Head of Forward Deployed Engineering",
+   "url": "https://www.getzep.com/careers/",
+   "points": 0,
+   "comment_count": 7,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 20,
+   "title": "Logo Programming Language",
+   "url": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
+   "points": 236,
+   "comment_count": 95,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 21,
+   "title": "Testing Race Conditions",
+   "url": "https://projectzero.google/2026/09/maccconc-race-condition.html",
+   "points": 3,
+   "comment_count": 0,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
    "rank": 22,
-   "title": "Show HN: Bodily Oddities",
-   "url": "https://vester.si/bodily-oddities/",
-   "points": 133,
-   "comment_count": 111,
+   "title": "CIA Releases President's Daily Briefs in Commemoration of 9/11",
+   "url": "https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/",
+   "points": 104,
+   "comment_count": 54,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 23,
-   "title": "Global Glacier Extinction Explorer",
-   "url": "https://glacierextinction.com/",
-   "points": 139,
-   "comment_count": 47,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 24,
-   "title": "From Front Panel to Program: Thinking Like a PDP-8",
-   "url": "https://pikuma.com/blog/pdp-8-minicomputer",
-   "points": 8,
-   "comment_count": 0,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 25,
-   "title": "Measuring the sloppiness of code",
-   "url": "https://earendil.com/posts/measuring-code-sloppiness/",
-   "points": 215,
-   "comment_count": 215,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 26,
-   "title": "Copper lined vest to help penguins with recovery",
-   "url": "https://apnews.com/article/chile-el-nino-humboldt-penguins-vulnerable-injuries-rehabilitation-6e93b8d4eaef903e4c85d16ade7d5881",
-   "points": 44,
-   "comment_count": 14,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 27,
-   "title": "Txt: A fast, keyboard-driven terminal text editor for engineers",
-   "url": "https://txt.hellman.io/",
-   "points": 5,
-   "comment_count": 0,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 28,
-   "title": "Room 641A",
-   "url": "https://en.wikipedia.org/wiki/Room_641A",
-   "points": 127,
+   "title": "Show HN: Godot and Rust based multiplexer (terminal panes and more)",
+   "url": "https://github.com/godot-pty/gpty",
+   "points": 76,
    "comment_count": 41,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 29,
+   "rank": 24,
+   "title": "Claude is only available to people over 18 years",
+   "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+   "points": 560,
+   "comment_count": 585,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 25,
+   "title": "Show HN: Bodily Oddities",
+   "url": "https://vester.si/bodily-oddities/",
+   "points": 155,
+   "comment_count": 126,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 26,
+   "title": "RTK reports token savings, but our cost benchmarks disagree",
+   "url": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
+   "points": 145,
+   "comment_count": 71,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 27,
+   "title": "There is no 10x RBAC",
+   "url": "https://infisical.com/blog/folder-based-rbac",
+   "points": 16,
+   "comment_count": 5,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 28,
    "title": "How the Chorleywood Bread Process transformed British bread",
    "url": "https://edconway.substack.com/p/the-little-holes-in-your-bread-are",
-   "points": 87,
-   "comment_count": 85,
+   "points": 97,
+   "comment_count": 102,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 29,
+   "title": "Copper lined vest to help penguins with recovery",
+   "url": "https://apnews.com/article/chile-el-nino-humboldt-penguins-vulnerable-injuries-rehabilitation-6e93b8d4eaef903e4c85d16ade7d5881",
+   "points": 56,
+   "comment_count": 17,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 30,
-   "title": "HuggingFace: Security.txt",
-   "url": "https://huggingface.co/security.txt",
-   "points": 235,
-   "comment_count": 60,
+   "title": "Stop making swap partitions—use swap files instead",
+   "url": "https://gist.github.com/joshenders/c4960cec9c63a7b7d68ffa9543356c43",
+   "points": 112,
+   "comment_count": 183,
    "input": {
     "url": "https://news.ycombinator.com"
    }

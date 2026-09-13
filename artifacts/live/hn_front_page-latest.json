@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mtyyc8pe2cq5hpuro0",
+ "snapshot_id": "j_mtz48uebgneoek397",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-09-12T22:24:01.461Z",
+ "captured_at": "2026-09-13T01:09:15.536Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,36 +14,36 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-09-12T22:23:50.988Z",
-  "finished": "2026-09-12T22:23:53.514Z"
+  "started": "2026-09-13T01:09:05.253Z",
+  "finished": "2026-09-13T01:09:11.146Z"
  },
  "rows": [
   {
    "rank": 1,
    "title": "Make your first edit to OpenStreetMap",
    "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
-   "points": 239,
-   "comment_count": 66,
+   "points": 315,
+   "comment_count": 75,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 2,
-   "title": "Nvidia is the central bank of AI",
-   "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-   "points": 320,
-   "comment_count": 217,
+   "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+   "url": "https://withspecific.com/benchmarks/real-swe",
+   "points": 100,
+   "comment_count": 59,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 3,
-   "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-   "url": "https://withspecific.com/benchmarks/real-swe",
-   "points": 36,
-   "comment_count": 26,
+   "title": "Nvidia is the central bank of AI",
+   "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+   "points": 386,
+   "comment_count": 263,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -52,28 +52,28 @@
    "rank": 4,
    "title": "Apple iPod Engraver (2019)",
    "url": "https://dunstanorchard.com/apple-ipod-engraver/",
-   "points": 43,
-   "comment_count": 4,
+   "points": 112,
+   "comment_count": 22,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 5,
-   "title": "Stabilizing Rust's Never Type",
-   "url": "https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/",
-   "points": 99,
-   "comment_count": 12,
+   "title": "Getting 50 GB/S Back from the Apple Neural Engine",
+   "url": "https://eiln.github.io/posts/ane-dma.html",
+   "points": 65,
+   "comment_count": 11,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 6,
-   "title": "Benchmark: CadQuery vs. OpenSCAD for agentic CAD work",
-   "url": "https://modelrift.com/blog/cadquery-vs-openscad/",
-   "points": 22,
-   "comment_count": 27,
+   "title": "Stabilizing Rust's Never Type",
+   "url": "https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/",
+   "points": 125,
+   "comment_count": 30,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -82,48 +82,48 @@
    "rank": 7,
    "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
    "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
-   "points": 341,
-   "comment_count": 295,
+   "points": 429,
+   "comment_count": 350,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 8,
-   "title": "Will There Be a 7G?",
-   "url": "https://arxiv.org/abs/2609.01877",
-   "points": 64,
-   "comment_count": 110,
+   "title": "IKEA made a mod for Skyrim [video]",
+   "url": "https://www.youtube.com/watch?v=iZODN0QUgjI",
+   "points": 557,
+   "comment_count": 150,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 9,
-   "title": "IKEA made a mod for Skyrim [video]",
-   "url": "https://www.youtube.com/watch?v=iZODN0QUgjI",
-   "points": 528,
-   "comment_count": 136,
+   "title": "We must pace the frontier",
+   "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+   "points": 532,
+   "comment_count": 751,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 10,
-   "title": "I made a build visualizer to understand Bun's compile times",
-   "url": "https://lalitm.com/post/buildprof/",
-   "points": 70,
-   "comment_count": 14,
+   "title": "Will There Be a 7G?",
+   "url": "https://arxiv.org/abs/2609.01877",
+   "points": 82,
+   "comment_count": 138,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 11,
-   "title": "We must pace the frontier",
-   "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
-   "points": 456,
-   "comment_count": 634,
+   "title": "I made a build visualizer to understand Bun's compile times",
+   "url": "https://lalitm.com/post/buildprof/",
+   "points": 91,
+   "comment_count": 17,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -132,28 +132,28 @@
    "rank": 12,
    "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
    "url": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
-   "points": 72,
-   "comment_count": 21,
+   "points": 88,
+   "comment_count": 24,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 13,
-   "title": "Linux Zoom client proactively reading everything written to X11 clipboard",
-   "url": "https://hachyderm.io/@simontatham/117201594980991062",
-   "points": 86,
-   "comment_count": 28,
+   "title": "Tree Calculus",
+   "url": "https://olydis.medium.com/a-visual-introduction-to-tree-calculus-2f4a34ceffc2",
+   "points": 9,
+   "comment_count": 1,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 14,
-   "title": "How Trail of Bits helps verify the integrity of Signal chats",
-   "url": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
-   "points": 38,
-   "comment_count": 15,
+   "title": "Linux Zoom client proactively reading everything written to X11 clipboard",
+   "url": "https://hachyderm.io/@simontatham/117201594980991062",
+   "points": 179,
+   "comment_count": 56,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -162,28 +162,28 @@
    "rank": 15,
    "title": "LG Says We're Fake News [video]",
    "url": "https://www.youtube.com/watch?v=ToP9xfLDSME",
-   "points": 57,
-   "comment_count": 6,
+   "points": 151,
+   "comment_count": 58,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 16,
-   "title": "I fixed a tractor using John Deere's self-repair service. Farmers aren't sold",
-   "url": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
-   "points": 85,
-   "comment_count": 99,
+   "title": "How Trail of Bits helps verify the integrity of Signal chats",
+   "url": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
+   "points": 52,
+   "comment_count": 29,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 17,
-   "title": "A Mathematical Framework for Transformer Circuits (2021)",
-   "url": "https://transformer-circuits.pub/2021/framework/index.html",
-   "points": 70,
-   "comment_count": 17,
+   "title": "I fixed a tractor using John Deere's self-repair service. Farmers aren't sold",
+   "url": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
+   "points": 102,
+   "comment_count": 106,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -192,38 +192,38 @@
    "rank": 18,
    "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
    "url": "https://eiln.github.io/posts/ane.html",
-   "points": 209,
-   "comment_count": 30,
+   "points": 222,
+   "comment_count": 31,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 19,
-   "title": "Getting 50 GB/S Back from the Apple Neural Engine",
-   "url": "https://eiln.github.io/posts/ane-dma.html",
-   "points": 4,
-   "comment_count": 1,
+   "title": "Android NAT-T keepalive offload bypasses VPN lockdown",
+   "url": "https://supuk.ch/papers/android-natt-keepalive-vpn-bypass",
+   "points": 173,
+   "comment_count": 44,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 20,
-   "title": "Android NAT-T keepalive offload bypasses VPN lockdown",
-   "url": "https://supuk.ch/papers/android-natt-keepalive-vpn-bypass",
-   "points": 161,
-   "comment_count": 42,
+   "title": "A Mathematical Framework for Transformer Circuits (2021)",
+   "url": "https://transformer-circuits.pub/2021/framework/index.html",
+   "points": 83,
+   "comment_count": 17,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 21,
-   "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
-   "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-   "points": 20,
-   "comment_count": 17,
+   "title": "Eating Fruit Skins",
+   "url": "https://pgadey.ca/blog/eating-fruit-skins/",
+   "points": 80,
+   "comment_count": 173,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -232,78 +232,78 @@
    "rank": 22,
    "title": "Performance of WebAssembly Runtimes in 2026",
    "url": "https://00f.net/2026/06/23/webassembly-runtimes-2026/",
-   "points": 80,
-   "comment_count": 19,
+   "points": 90,
+   "comment_count": 20,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 23,
-   "title": "Eating Fruit Skins",
-   "url": "https://pgadey.ca/blog/eating-fruit-skins/",
-   "points": 64,
-   "comment_count": 151,
+   "title": "The Magic Behind Cubacadabra",
+   "url": "https://andrewarrow.dev/2026/moon/2/day/19/the-magic-behind-cubacadabra/",
+   "points": 11,
+   "comment_count": 3,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 24,
-   "title": "Navier-Stokes Announcement",
-   "url": "https://www.claymath.org/news/navier-stokes-announcement/",
-   "points": 298,
-   "comment_count": 240,
+   "title": "A Design Space Exploration of Async/Await",
+   "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+   "points": 423,
+   "comment_count": 123,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 25,
-   "title": "The Magic Behind Cubacadabra",
-   "url": "https://andrewarrow.dev/2026/moon/2/day/19/the-magic-behind-cubacadabra/",
-   "points": 6,
-   "comment_count": 1,
+   "title": "λ Snap – An inviting programming language for kids and adults for CS study",
+   "url": "https://snap.berkeley.edu/",
+   "points": 176,
+   "comment_count": 112,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 26,
-   "title": "LRU is harder to beat than the KV-cache papers suggest",
-   "url": "https://github.com/gauravapiscean/agentic-kv-cache",
-   "points": 90,
-   "comment_count": 41,
+   "title": "The worst spam emails: iLands AI agent hustle",
+   "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
+   "points": 102,
+   "comment_count": 49,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 27,
-   "title": "The worst spam emails: iLands AI agent hustle",
-   "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
-   "points": 98,
-   "comment_count": 44,
+   "title": "LRU is harder to beat than the KV-cache papers suggest",
+   "url": "https://github.com/gauravapiscean/agentic-kv-cache",
+   "points": 100,
+   "comment_count": 47,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 28,
-   "title": "λ Snap – An inviting programming language for kids and adults for CS study",
-   "url": "https://snap.berkeley.edu/",
-   "points": 170,
-   "comment_count": 107,
+   "title": "google.com/goto: Google's anti-scraping update",
+   "url": "https://www.autom.dev/blog/google-search-goto-links",
+   "points": 631,
+   "comment_count": 488,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 29,
-   "title": "A Design Space Exploration of Async/Await",
-   "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-   "points": 412,
-   "comment_count": 120,
+   "title": "Show HN: See Sounds on Your Webcam",
+   "url": "https://soundmap.darebuild.com/",
+   "points": 6,
+   "comment_count": 2,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -312,8 +312,8 @@
    "rank": 30,
    "title": "How we manage and engage with our horses shapes their personality",
    "url": "https://www.utu.fi/en/news/press-release/how-we-manage-and-engage-with-our-horses-shapes-their-personality",
-   "points": 32,
-   "comment_count": 13,
+   "points": 36,
+   "comment_count": 14,
    "input": {
     "url": "https://news.ycombinator.com"
    }

@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mtzfaol8fl83r0azy",
+ "snapshot_id": "j_mtzrngo4du650o2wa",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-09-13T06:18:36.969Z",
+ "captured_at": "2026-09-13T12:04:28.572Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,165 +14,165 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-09-13T06:18:26.826Z",
-  "finished": "2026-09-13T06:18:30.131Z"
+  "started": "2026-09-13T12:04:18.491Z",
+  "finished": "2026-09-13T12:04:21.389Z"
  },
  "rows": [
   {
    "rank": 1,
-   "title": "The Interim Computer Museum",
-   "url": "https://icm.museum/",
-   "points": 69,
-   "comment_count": 7,
+   "title": "JetKVM Mini",
+   "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
+   "points": 182,
+   "comment_count": 79,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 2,
-   "title": "Make your first edit to OpenStreetMap",
-   "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
-   "points": 408,
-   "comment_count": 93,
+   "title": "Nvidia dismisses \"circular financing\", says every $1 it invests brings back $100",
+   "url": "https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/",
+   "points": 59,
+   "comment_count": 46,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 3,
-   "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-   "url": "https://withspecific.com/benchmarks/real-swe",
-   "points": 198,
-   "comment_count": 105,
+   "title": "Why are AI agents lying, cheating and coordinating?",
+   "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+   "points": 294,
+   "comment_count": 345,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 4,
-   "title": "Why are AI agents lying, cheating and coordinating?",
-   "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-   "points": 69,
-   "comment_count": 63,
+   "title": "Make your first edit to OpenStreetMap",
+   "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
+   "points": 492,
+   "comment_count": 126,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 5,
-   "title": "I Made a Non-Wi-Fi Mitsubishi AC Smart with an ESP32",
-   "url": "https://medium.com/@ivangomezarnedo/how-i-added-a-non-wi-fi-mitsubishi-ac-to-home-assistant-22770661dd77",
-   "points": 36,
-   "comment_count": 6,
+   "title": "The Interim Computer Museum",
+   "url": "https://icm.museum/",
+   "points": 127,
+   "comment_count": 13,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 6,
-   "title": "Nvidia is the central bank of AI",
-   "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-   "points": 445,
-   "comment_count": 313,
+   "title": "I Added a Non-Wi-Fi Mitsubishi AC to Home Assistant",
+   "url": "https://medium.com/@ivangomezarnedo/how-i-added-a-non-wi-fi-mitsubishi-ac-to-home-assistant-22770661dd77",
+   "points": 104,
+   "comment_count": 50,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 7,
-   "title": "Don't call yourself an artisanal programmer",
-   "url": "https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer/",
-   "points": 34,
-   "comment_count": 35,
+   "title": "How to Use Three.js's New Native Gaussian Splats",
+   "url": "https://ben3d.ca/blog/how-to-use-threejs-native-gaussian-splats",
+   "points": 18,
+   "comment_count": 2,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 8,
-   "title": "Apple iPod Engraver (2019)",
-   "url": "https://dunstanorchard.com/apple-ipod-engraver/",
-   "points": 181,
-   "comment_count": 42,
+   "title": "Homebrew 7.0.0",
+   "url": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
+   "points": 90,
+   "comment_count": 34,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 9,
-   "title": "Everyone should slow down AI development except for me",
-   "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
-   "points": 342,
-   "comment_count": 189,
+   "title": "Revolut confirms customer data breach through fake government requests",
+   "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+   "points": 35,
+   "comment_count": 22,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 10,
-   "title": "A succession crisis that tore England apart",
-   "url": "https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart",
-   "points": 16,
-   "comment_count": 9,
+   "title": "Apple iPod Engraver (2019)",
+   "url": "https://dunstanorchard.com/apple-ipod-engraver/",
+   "points": 238,
+   "comment_count": 61,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 11,
-   "title": "Durable execution without history replay",
-   "url": "https://trigora.dev/blog/durable-execution-without-history-replay/",
-   "points": 11,
-   "comment_count": 1,
+   "title": "Nvidia is the central bank of AI",
+   "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+   "points": 504,
+   "comment_count": 353,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 12,
-   "title": "Stabilizing Rust's Never Type",
-   "url": "https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/",
-   "points": 166,
-   "comment_count": 45,
+   "title": "Aligned to whom?",
+   "url": "https://hyperbo.la/w/aligned-to-whom/",
+   "points": 73,
+   "comment_count": 44,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 13,
-   "title": "From Git to Fossil",
-   "url": "https://lucio.albenga.es/web-en/posts/2025/from-git-to-fossil.html",
-   "points": 41,
-   "comment_count": 18,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 14,
-   "title": "AgentsDock: An IDE designed for agentic AI research",
-   "url": "https://agentsdock.net/",
-   "points": 34,
+   "title": "Operation Smart Kettle – Börzels Blog",
+   "url": "https://blog.boerzel.de/de/blog/operation-smart-kettle",
+   "points": 25,
    "comment_count": 10,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
+   "rank": 14,
+   "title": "Stabilizing Rust's Never Type",
+   "url": "https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/",
+   "points": 208,
+   "comment_count": 66,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
    "rank": 15,
-   "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
-   "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
-   "points": 488,
-   "comment_count": 385,
+   "title": "Everyone should slow down AI development except for me",
+   "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+   "points": 551,
+   "comment_count": 326,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 16,
-   "title": "Aligned to Whom?",
-   "url": "https://hyperbo.la/w/aligned-to-whom/",
-   "points": 9,
+   "title": "U.S. in Highest-Risk Category for Civil War, Coup, or Collapse in CIA Model",
+   "url": "https://cmarmitage.substack.com/p/scored-on-the-cias-instability-model",
+   "points": 8,
    "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
@@ -180,20 +180,20 @@
   },
   {
    "rank": 17,
-   "title": "Vintage Scientific Papers with LaTeX",
-   "url": "https://github.com/Foadsf/vintage-latex",
-   "points": 50,
-   "comment_count": 3,
+   "title": "Don't be the out of touch Kung Fu master",
+   "url": "https://twitter.com/ID_AA_Carmack/status/2098443262214230095",
+   "points": 145,
+   "comment_count": 182,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 18,
-   "title": "Getting 50 GB/S Back from the Apple Neural Engine",
-   "url": "https://eiln.github.io/posts/ane-dma.html",
-   "points": 120,
-   "comment_count": 26,
+   "title": "AgentsDock: An IDE designed for agentic AI research",
+   "url": "https://agentsdock.net/",
+   "points": 66,
+   "comment_count": 29,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -202,118 +202,118 @@
    "rank": 19,
    "title": "P(doom)",
    "url": "https://lucumr.pocoo.org/2026/9/12/pdoom/",
-   "points": 49,
-   "comment_count": 21,
+   "points": 109,
+   "comment_count": 76,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 20,
-   "title": "We must pace the frontier",
-   "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
-   "points": 612,
-   "comment_count": 857,
+   "title": "Vintage Scientific Papers with LaTeX",
+   "url": "https://github.com/Foadsf/vintage-latex",
+   "points": 78,
+   "comment_count": 7,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 21,
-   "title": "Günther Anders, the Philosopher at the End of the World",
-   "url": "https://www.compactmag.com/article/gunther-anders-the-philosopher-at-the-end-of-the-world/",
-   "points": 6,
-   "comment_count": 0,
+   "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
+   "url": "https://bensimms.moe/reverse-engineering-scooter/",
+   "points": 7,
+   "comment_count": 1,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 22,
-   "title": "Metamorphosis: Transformations in the Early Modern Flap Book (19th Century)",
-   "url": "https://publicdomainreview.org/collection/metamorphosis-early-modern-flap-book/",
-   "points": 4,
-   "comment_count": 0,
+   "title": "A wandering black hole caught feeding on the run",
+   "url": "https://phys.org/news/2026-08-black-hole-caught.html",
+   "points": 28,
+   "comment_count": 12,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 23,
-   "title": "I made a build visualizer to understand Bun's compile times",
-   "url": "https://lalitm.com/post/buildprof/",
-   "points": 114,
-   "comment_count": 22,
+   "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
+   "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
+   "points": 553,
+   "comment_count": 425,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 24,
-   "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
-   "url": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
-   "points": 101,
-   "comment_count": 32,
+   "title": "Getting 50 GB/S Back from the Apple Neural Engine",
+   "url": "https://eiln.github.io/posts/ane-dma.html",
+   "points": 161,
+   "comment_count": 27,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 25,
-   "title": "Android NAT-T keepalive offload bypasses VPN lockdown",
-   "url": "https://supuk.ch/papers/android-natt-keepalive-vpn-bypass",
-   "points": 193,
-   "comment_count": 45,
+   "title": "Ask HN: Career paths to consider if I am better at supporting than creating?",
+   "url": "https://news.ycombinator.com/item?id=49682920",
+   "points": 9,
+   "comment_count": 2,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 26,
-   "title": "Will There Be a 7G?",
-   "url": "https://arxiv.org/abs/2609.01877",
-   "points": 90,
-   "comment_count": 153,
+   "title": "A succession crisis that tore England apart (2023)",
+   "url": "https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart",
+   "points": 38,
+   "comment_count": 33,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 27,
-   "title": "Linux Zoom client proactively reading everything written to X11 clipboard",
-   "url": "https://hachyderm.io/@simontatham/117201594980991062",
-   "points": 254,
-   "comment_count": 83,
+   "title": "We must pace the frontier",
+   "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+   "points": 669,
+   "comment_count": 937,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 28,
-   "title": "I fixed a tractor using John Deere's self-repair service. Farmers aren't sold",
-   "url": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
-   "points": 121,
-   "comment_count": 124,
+   "title": "Durable execution without history replay",
+   "url": "https://trigora.dev/blog/durable-execution-without-history-replay/",
+   "points": 26,
+   "comment_count": 10,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 29,
-   "title": "Don't be the out of touch Kung Fu master",
-   "url": "https://twitter.com/ID_AA_Carmack/status/2098443262214230095",
-   "points": 87,
-   "comment_count": 63,
+   "title": "Liesegang Rings",
+   "url": "https://chillphysicsenjoyer.substack.com/p/liesegang-rings",
+   "points": 42,
+   "comment_count": 4,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 30,
-   "title": "After Math",
-   "url": "https://terrytao.wordpress.com/2026/09/12/after-math/",
-   "points": 12,
-   "comment_count": 6,
+   "title": "I made a build visualizer to understand Bun's compile times",
+   "url": "https://lalitm.com/post/buildprof/",
+   "points": 143,
+   "comment_count": 28,
    "input": {
     "url": "https://news.ycombinator.com"
    }

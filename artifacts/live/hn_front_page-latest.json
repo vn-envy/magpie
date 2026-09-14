@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mu1bq5bn2c6yt2p6g1",
+ "snapshot_id": "j_mu1myq3g1mqdl8exiv",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-09-14T14:14:12.432Z",
+ "captured_at": "2026-09-14T19:28:48.598Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,35 +14,35 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-09-14T14:14:02.240Z",
-  "finished": "2026-09-14T14:14:04.338Z"
+  "started": "2026-09-14T19:28:38.198Z",
+  "finished": "2026-09-14T19:28:40.313Z"
  },
  "rows": [
   {
    "rank": 1,
-   "title": "EuroBirdPortal – Live bird movements across Europe",
-   "url": "https://www.eurobirdportal.org/ebp/en/",
-   "points": 160,
-   "comment_count": 52,
+   "title": "Pion, an agent designed to run any company autonomously",
+   "url": "https://andonlabs.com/blog/why-we-built-pion",
+   "points": 137,
+   "comment_count": 130,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 2,
-   "title": "A 386 PC for Your RP2350",
-   "url": "https://github.com/rh1tech/frank-386",
-   "points": 124,
-   "comment_count": 31,
+   "title": "Distributed Systems Classics (2017)",
+   "url": "https://nvartolomei.com/dist-sys-classics/",
+   "points": 132,
+   "comment_count": 27,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 3,
-   "title": "An atlas of periodic solutions to the three-body problem",
-   "url": "https://www.threebodyorbits.com/",
-   "points": 141,
+   "title": "Why don't machine learning research agents overfit?",
+   "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+   "points": 64,
    "comment_count": 32,
    "input": {
     "url": "https://news.ycombinator.com"
@@ -50,270 +50,270 @@
   },
   {
    "rank": 4,
-   "title": "Show HN: Kinesis – Control your Mac with the Meta Neural Band",
-   "url": "https://github.com/callbacked/kinesis",
-   "points": 72,
-   "comment_count": 23,
+   "title": "Steam Frame starts at $1059",
+   "url": "https://store.steampowered.com/hardware/steamframe",
+   "points": 219,
+   "comment_count": 114,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 5,
-   "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
-   "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
-   "points": 108,
-   "comment_count": 44,
+   "title": "Principles for Fast Tokio Applications",
+   "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
+   "points": 94,
+   "comment_count": 15,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 6,
-   "title": "Devil's Arrows: Ancient builders hauled 55k-lb stones 11 miles for UK stone row",
-   "url": "https://www.sciencedaily.com/releases/2026/09/260909005152.htm",
-   "points": 11,
-   "comment_count": 8,
+   "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+   "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+   "points": 238,
+   "comment_count": 216,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 7,
-   "title": "Texas judge rules TikTok misled users on child safety feature",
-   "url": "https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/",
-   "points": 56,
-   "comment_count": 9,
+   "title": "A Beginning for Mathematics",
+   "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
+   "points": 69,
+   "comment_count": 15,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 8,
-   "title": "Drawably: Hand-Drawn UI Controls",
-   "url": "https://github.com/Danilaa1/drawably",
-   "points": 30,
-   "comment_count": 16,
+   "title": "How my e-reader lost its stripes",
+   "url": "https://www.serpentine.com/posts/2026/x3-stripes/",
+   "points": 50,
+   "comment_count": 3,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 9,
-   "title": "OpenArch – PyTorch implementations of modern LLM architectures",
-   "url": "https://github.com/anuj0456/OpenArch",
-   "points": 92,
-   "comment_count": 18,
+   "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%",
+   "url": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
+   "points": 27,
+   "comment_count": 7,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 10,
-   "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
-   "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
-   "points": 339,
-   "comment_count": 170,
+   "title": "iOS 27, iPadOS 27, and macOS 27",
+   "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+   "points": 188,
+   "comment_count": 178,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 11,
-   "title": "People Who Can't Picture Anything Are Rewriting the Science of Imagination",
-   "url": "https://dailyneuron.com/aphantasia-mental-imagery-brain-network/",
-   "points": 3,
-   "comment_count": 0,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 12,
-   "title": "Spaceships (Reverse Asteroid)",
-   "url": "https://spaceships.treybastian.com/",
-   "points": 304,
-   "comment_count": 56,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 13,
-   "title": "Apple's Dimensional Drawings",
-   "url": "https://developer.apple.com/accessories/dimensional-drawings/",
-   "points": 294,
-   "comment_count": 98,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 14,
-   "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-   "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-   "points": 1106,
-   "comment_count": 506,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 15,
-   "title": "XCancel suspended \"due to a new development in the ongoing legal proceedings\"",
-   "url": "https://xcancel.com/twitter",
-   "points": 191,
-   "comment_count": 151,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 16,
-   "title": "The case against JPEG XL",
-   "url": "https://giannirosato.com/blog/post/case-against-jxl/",
-   "points": 223,
-   "comment_count": 285,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 17,
-   "title": "Temporal raises $550M at a $12.55B valuation",
-   "url": "https://temporal.io/blog/temporal-raises-usd550m-series-e-at-usd12-55b-valuation-ai",
-   "points": 24,
-   "comment_count": 5,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 18,
-   "title": "Optimizing Anamorphic Sculptures",
-   "url": "https://tncardoso.com/blog/2026/09/optimizing-anamorphic-sculptures/",
-   "points": 5,
-   "comment_count": 0,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 19,
-   "title": "Mullenweg has returned as CEO after attempted board ouster",
-   "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
-   "points": 228,
-   "comment_count": 300,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 20,
-   "title": "What a time to be alive – rouge AI agents attack RubyGems.org",
-   "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-   "points": 81,
-   "comment_count": 105,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 21,
-   "title": "Ask HN: What are you working on? (September 2026)",
-   "url": "https://news.ycombinator.com/item?id=49686380",
-   "points": 226,
-   "comment_count": 680,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 22,
-   "title": "Big AI sets out its terms for regulatory capture",
-   "url": "https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067",
-   "points": 50,
-   "comment_count": 14,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 23,
-   "title": "Ubuntu 26.10 completes transition to Rust-based coreutils",
-   "url": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
-   "points": 5,
-   "comment_count": 1,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 24,
-   "title": "A Vacuum Diode for Make: Magazine",
-   "url": "https://www.nickpoole.me/2023/12/10/a-vacuum-diode-for-make-magazine/",
-   "points": 28,
+   "title": "Cua (YC P25) Is Hiring a Founding Technical GTM Lead",
+   "url": "https://www.ycombinator.com/companies/cua/jobs/1IWEKVH-founding-technical-gtm-lead",
+   "points": 0,
    "comment_count": 2,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 25,
-   "title": "'Offensively cheap': solar power is looking up",
-   "url": "https://www.ft.com/content/8b704ae0-1fa2-4303-925f-170fa5d935b3",
-   "points": 29,
+   "rank": 12,
+   "title": "Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost",
+   "url": "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/",
+   "points": 20,
    "comment_count": 6,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 13,
+   "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
+   "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
+   "points": 90,
+   "comment_count": 40,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 14,
+   "title": "XCancel service is suspended until further notice",
+   "url": "https://xcancel.com/#",
+   "points": 233,
+   "comment_count": 509,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 15,
+   "title": "When LLM judges agree, should we believe them?",
+   "url": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them",
+   "points": 35,
+   "comment_count": 16,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 16,
+   "title": "Truncated SVD (2023)",
+   "url": "https://brashandplucky.com/2023/09/09/truncated-svd.html",
+   "points": 26,
+   "comment_count": 1,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 17,
+   "title": "An atlas of periodic solutions to the three-body problem",
+   "url": "https://www.threebodyorbits.com/",
+   "points": 276,
+   "comment_count": 64,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 18,
+   "title": "The Tudor Kings",
+   "url": "https://analog-antiquarian.net/2026/09/11/the-tudor-kings/",
+   "points": 18,
+   "comment_count": 1,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 19,
+   "title": "Ask HN: What are you working on? (September 2026)",
+   "url": "https://news.ycombinator.com/item?id=49686380",
+   "points": 262,
+   "comment_count": 802,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 20,
+   "title": "Show HN: Apollo Lunar Module landing simulation",
+   "url": "https://gosandeep.com/eagles-descent/",
+   "points": 10,
+   "comment_count": 0,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 21,
+   "title": "Adversarial Fashion Makes a Statement on AI Panopticon",
+   "url": "https://spectrum.ieee.org/adversarial-fashion",
+   "points": 66,
+   "comment_count": 28,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 22,
+   "title": "EuroBirdPortal – Live bird movements across Europe",
+   "url": "https://www.eurobirdportal.org/ebp/en/",
+   "points": 200,
+   "comment_count": 60,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 23,
+   "title": "Trying to Make a Loop Auto-Vectorize",
+   "url": "https://jsgroth.dev/blog/posts/trying-to-make-a-loop-auto-vectorize/",
+   "points": 39,
+   "comment_count": 13,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 24,
+   "title": "Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme",
+   "url": "https://www.neobrutalism.dev/",
+   "points": 74,
+   "comment_count": 43,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 25,
+   "title": "NüshuRescue: Reviving the Endangered Nüshu Language with AI",
+   "url": "https://aclanthology.org/2025.coling-main.468/",
+   "points": 4,
+   "comment_count": 1,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 26,
-   "title": "Rope, twine and thread: Invisible technologies of the Stone Age",
-   "url": "https://knowablemagazine.org/content/article/society/2026/prehistory-lost-threads",
-   "points": 103,
-   "comment_count": 41,
+   "title": "A 386 PC for Your RP2350",
+   "url": "https://github.com/rh1tech/frank-386",
+   "points": 186,
+   "comment_count": 61,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 27,
-   "title": "The GDR and Vietnam: From Fake Coffee to Coffee Empire",
-   "url": "https://www.katjahoyer.uk/p/the-gdr-and-vietnam-from-fake-coffee",
-   "points": 103,
-   "comment_count": 58,
+   "title": "Show HN: Pelican-bicycle alternatives",
+   "url": "https://gally.net/temp/20260914pelican-alternatives/index.html",
+   "points": 71,
+   "comment_count": 28,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 28,
-   "title": "Rockstar had a mole in the union worker discord server",
-   "url": "https://www.rockpapershotgun.com/rockstar-had-a-mole-in-the-union-worker-discord-server-for-over-two-and-a-half-years-gta-6-company-reveals-during-legal-battle",
-   "points": 41,
-   "comment_count": 6,
+   "title": "Claude is a Contrarian",
+   "url": "https://medium.com/@rdsubhas/claude-is-a-contrarian-dbce4de5cada",
+   "points": 87,
+   "comment_count": 116,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 29,
-   "title": "Bad benchmarks and evals: Senior SWE-Bench, napkin math, and winter tires",
-   "url": "https://danluu.com/exercise-7/",
-   "points": 50,
-   "comment_count": 34,
+   "title": "Devil's Arrows: Ancient builders hauled 55k-lb stones 11 miles for UK stone row",
+   "url": "https://www.sciencedaily.com/releases/2026/09/260909005152.htm",
+   "points": 45,
+   "comment_count": 36,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 30,
-   "title": "Nike exits the S&P 100 after 18 years and a $200B market-cap wipeout",
-   "url": "https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/",
-   "points": 242,
-   "comment_count": 316,
+   "title": "Microsoft patches Windows and Excel – breaks audio, remote access, and paste",
+   "url": "https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085",
+   "points": 92,
+   "comment_count": 34,
    "input": {
     "url": "https://news.ycombinator.com"
    }

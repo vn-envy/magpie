@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mu0jul0722u9wmbg3l",
+ "snapshot_id": "j_mu0v251dvf73fwbd1",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-09-14T01:13:50.449Z",
+ "captured_at": "2026-09-14T06:27:48.779Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,26 +14,26 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-09-14T01:13:39.978Z",
-  "finished": "2026-09-14T01:13:42.736Z"
+  "started": "2026-09-14T06:27:28.289Z",
+  "finished": "2026-09-14T06:27:43.398Z"
  },
  "rows": [
   {
    "rank": 1,
    "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
    "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-   "points": 421,
-   "comment_count": 169,
+   "points": 739,
+   "comment_count": 314,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 2,
-   "title": "Why is Google still serving dodgy ads?",
-   "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
-   "points": 567,
-   "comment_count": 267,
+   "title": "Spaceships (Reverse Asteroid)",
+   "url": "https://spaceships.treybastian.com/",
+   "points": 145,
+   "comment_count": 28,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -42,278 +42,278 @@
    "rank": 3,
    "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
    "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
-   "points": 59,
-   "comment_count": 26,
+   "points": 195,
+   "comment_count": 86,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 4,
-   "title": "Julia 1.13 highlights",
-   "url": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
-   "points": 147,
-   "comment_count": 11,
+   "title": "The case against JPEG XL",
+   "url": "https://giannirosato.com/blog/post/case-against-jxl/",
+   "points": 103,
+   "comment_count": 121,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 5,
-   "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
-   "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
-   "points": 368,
-   "comment_count": 175,
+   "title": "Apple's Dimensional Drawings",
+   "url": "https://developer.apple.com/accessories/dimensional-drawings/",
+   "points": 121,
+   "comment_count": 39,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 6,
-   "title": "Open-Source AI and Open Models Reading List",
-   "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-   "points": 8,
-   "comment_count": 0,
+   "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
+   "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
+   "points": 418,
+   "comment_count": 188,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 7,
-   "title": "Data collected by cars and sold to third parties",
-   "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
-   "points": 295,
-   "comment_count": 154,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 8,
-   "title": "Flawed routers flood University of Wisconsin internet time server (2003)",
-   "url": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
-   "points": 53,
-   "comment_count": 6,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 9,
-   "title": "The GDR and Vietnam: From Fake Coffee to Coffee Empire",
-   "url": "https://www.katjahoyer.uk/p/the-gdr-and-vietnam-from-fake-coffee",
-   "points": 24,
-   "comment_count": 5,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 10,
-   "title": "Ask HN: What are you working on? (September 2026)",
-   "url": "https://news.ycombinator.com/item?id=49686380",
-   "points": 76,
-   "comment_count": 146,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 11,
-   "title": "Mullenweg has returned as CEO after attempted board ouster",
-   "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
-   "points": 29,
-   "comment_count": 69,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 12,
-   "title": "The Coming War on General Computation (2011)",
-   "url": "https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation",
-   "points": 30,
-   "comment_count": 3,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 13,
-   "title": "Making Startups Powerful",
-   "url": "https://paulgraham.com/powerful.html",
-   "points": 154,
-   "comment_count": 72,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 14,
-   "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
-   "url": "https://bensimms.moe/reverse-engineering-scooter/",
-   "points": 369,
-   "comment_count": 88,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 15,
-   "title": "I added a non-wi-fi Mitsubishi AC to Home Assistant",
-   "url": "https://medium.com/@ivangomezarnedo/how-i-added-a-non-wi-fi-mitsubishi-ac-to-home-assistant-22770661dd77",
-   "points": 170,
-   "comment_count": 84,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 16,
-   "title": "I build a mechanical watch face: a real gear train for a watch with no gears",
-   "url": "https://myday24.com/blog/how-a-mechanical-watch-face-is-built/",
-   "points": 10,
-   "comment_count": 4,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 17,
-   "title": "Why is the x86 undefined instruction called ud2? Why 2?",
-   "url": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
-   "points": 198,
-   "comment_count": 47,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 18,
-   "title": "The contagion of fear",
-   "url": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
-   "points": 122,
-   "comment_count": 84,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 19,
-   "title": "CUDA for AMD on Windows",
-   "url": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
-   "points": 137,
-   "comment_count": 69,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 20,
-   "title": "Why is privacy so hard?",
-   "url": "https://cacm.acm.org/blogcacm/why-is-privacy-so-hard/",
-   "points": 21,
-   "comment_count": 13,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 21,
-   "title": "Necker, 1832: \"An optical phænomenon on viewing a figure of a geometrical solid\"",
-   "url": "https://zenodo.org/records/1430991",
-   "points": 4,
+   "title": "Rope, twine and thread: Invisible technologies of the Stone Age",
+   "url": "https://knowablemagazine.org/content/article/society/2026/prehistory-lost-threads",
+   "points": 31,
    "comment_count": 1,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 22,
-   "title": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace",
-   "url": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
-   "points": 55,
-   "comment_count": 12,
+   "rank": 8,
+   "title": "Data collected by cars and sold to third parties",
+   "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+   "points": 377,
+   "comment_count": 200,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 23,
-   "title": "Sean Carroll explains the biggest ideas in the universe – Full Interview [video] (2025)",
-   "url": "https://www.youtube.com/watch?v=_TBNJyztai0",
-   "points": 73,
-   "comment_count": 17,
+   "rank": 9,
+   "title": "Julia 1.13 highlights",
+   "url": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
+   "points": 198,
+   "comment_count": 18,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 24,
-   "title": "Bad Code Is Kudzu",
-   "url": "https://vickiboykis.com/2026/09/01/bad-code-is-kudzu/",
-   "points": 35,
+   "rank": 10,
+   "title": "The Malicious Use of Artificial Intelligence",
+   "url": "https://arxiv.org/abs/1802.07228",
+   "points": 41,
+   "comment_count": 9,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 11,
+   "title": "Writing a better reality: The case for optimistic sci-fi (2022)",
+   "url": "https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic-sci-fi/",
+   "points": 50,
+   "comment_count": 25,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 12,
+   "title": "Bad benchmarks and evals: Senior SWE-Bench, napkin math, and winter tires",
+   "url": "https://danluu.com/exercise-7/",
+   "points": 8,
+   "comment_count": 1,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 13,
+   "title": "Ask HN: What are you working on? (September 2026)",
+   "url": "https://news.ycombinator.com/item?id=49686380",
+   "points": 131,
+   "comment_count": 365,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 14,
+   "title": "Why is Google still serving dodgy ads?",
+   "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+   "points": 746,
+   "comment_count": 335,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 15,
+   "title": "Mullenweg has returned as CEO after attempted board ouster",
+   "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+   "points": 99,
+   "comment_count": 152,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 16,
+   "title": "Flawed routers flood University of Wisconsin internet time server (2003)",
+   "url": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
+   "points": 77,
+   "comment_count": 9,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 17,
+   "title": "The GDR and Vietnam: From Fake Coffee to Coffee Empire",
+   "url": "https://www.katjahoyer.uk/p/the-gdr-and-vietnam-from-fake-coffee",
+   "points": 56,
+   "comment_count": 18,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 18,
+   "title": "Show HN: EterDB, a Postgres fork that makes it easy to recover from incidents",
+   "url": "https://eterdb.com/",
+   "points": 19,
+   "comment_count": 2,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 19,
+   "title": "Open-source AI and open models reading list",
+   "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+   "points": 80,
+   "comment_count": 9,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 20,
+   "title": "Making Startups Powerful",
+   "url": "https://paulgraham.com/powerful.html",
+   "points": 196,
+   "comment_count": 90,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 21,
+   "title": "Who gets to define the rules for AI?",
+   "url": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
+   "points": 16,
    "comment_count": 11,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
+   "rank": 22,
+   "title": "Why is the x86 undefined instruction called ud2? Why 2?",
+   "url": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
+   "points": 241,
+   "comment_count": 55,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 23,
+   "title": "CUDA for AMD on Windows",
+   "url": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
+   "points": 152,
+   "comment_count": 79,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 24,
+   "title": "“Chilling” warning or overreaction? AI bioweapons report divides experts",
+   "url": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
+   "points": 24,
+   "comment_count": 10,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
    "rank": 25,
-   "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-   "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-   "points": 352,
-   "comment_count": 185,
+   "title": "Nike exits the S&P 100 after 18 years and a $200B market-cap wipeout",
+   "url": "https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/",
+   "points": 64,
+   "comment_count": 64,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 26,
-   "title": "Mark Zuckerberg: \"Cambridge Analytica\" (2017)",
-   "url": "https://twitter.com/TechEmails/status/2099214399840059428",
-   "points": 270,
-   "comment_count": 113,
+   "title": "Necker, 1832: \"An optical phænomenon on viewing a figure of a geometrical solid\"",
+   "url": "https://zenodo.org/records/1430991",
+   "points": 21,
+   "comment_count": 4,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 27,
-   "title": "Base84 deserves a place in file names",
-   "url": "https://00f.net/2026/09/09/base84/",
-   "points": 58,
-   "comment_count": 50,
+   "title": "Chess.com Leak Exposes 7.3M Users, Evidence Points to Scraping",
+   "url": "https://securityaffairs.com/197174/breaking-news/chess-com-leak-exposes-7-3-million-users-evidence-points-to-scraping.html",
+   "points": 31,
+   "comment_count": 10,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 28,
-   "title": "JetKVM Mini",
-   "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
-   "points": 525,
-   "comment_count": 212,
+   "title": "OEMpocalypse: Unprivileged Android app to root on Samsung, Xiaomi, others",
+   "url": "https://calif.io/research/oempocalypse",
+   "points": 17,
+   "comment_count": 2,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 29,
-   "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
-   "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
-   "points": 244,
-   "comment_count": 184,
+   "title": "Show HN: Exploring the intersection of prediction markets and social media",
+   "url": "https://www.thevidmarket.com/",
+   "points": 10,
+   "comment_count": 1,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 30,
-   "title": "Device Drivers lab exercise – COSC562",
-   "url": "https://web.eecs.utk.edu/~smarz1/courses/cosc562/drivers.html",
-   "points": 30,
-   "comment_count": 2,
+   "title": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace",
+   "url": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
+   "points": 76,
+   "comment_count": 18,
    "input": {
     "url": "https://news.ycombinator.com"
    }

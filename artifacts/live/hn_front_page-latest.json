@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mu1myq3g1mqdl8exiv",
+ "snapshot_id": "j_mu1uyto0hcl3qnep8",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-09-14T19:28:48.598Z",
+ "captured_at": "2026-09-14T23:12:50.272Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,56 +14,56 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-09-14T19:28:38.198Z",
-  "finished": "2026-09-14T19:28:40.313Z"
+  "started": "2026-09-14T23:12:39.758Z",
+  "finished": "2026-09-14T23:12:44.151Z"
  },
  "rows": [
   {
    "rank": 1,
    "title": "Pion, an agent designed to run any company autonomously",
    "url": "https://andonlabs.com/blog/why-we-built-pion",
-   "points": 137,
-   "comment_count": 130,
+   "points": 239,
+   "comment_count": 250,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 2,
-   "title": "Distributed Systems Classics (2017)",
-   "url": "https://nvartolomei.com/dist-sys-classics/",
-   "points": 132,
-   "comment_count": 27,
+   "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
+   "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
+   "points": 139,
+   "comment_count": 144,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 3,
-   "title": "Why don't machine learning research agents overfit?",
-   "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-   "points": 64,
-   "comment_count": 32,
+   "title": "Distributed Systems Classics (2017)",
+   "url": "https://nvartolomei.com/dist-sys-classics/",
+   "points": 212,
+   "comment_count": 42,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 4,
-   "title": "Steam Frame starts at $1059",
-   "url": "https://store.steampowered.com/hardware/steamframe",
-   "points": 219,
-   "comment_count": 114,
+   "title": "US coal 'biggest contributor by far' to rise in global emissions",
+   "url": "https://www.thechemicalengineer.com/news/us-coal-biggest-contributor-by-far-to-rise-in-global-emissions/",
+   "points": 18,
+   "comment_count": 1,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 5,
-   "title": "Principles for Fast Tokio Applications",
-   "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
-   "points": 94,
-   "comment_count": 15,
+   "title": "Compressing a Flag to 11 Bits",
+   "url": "https://read.vantezzen.io/miniflags",
+   "points": 25,
+   "comment_count": 8,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -72,8 +72,8 @@
    "rank": 6,
    "title": "OpenAI bots knew about the RubyGems caching vulnerability",
    "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-   "points": 238,
-   "comment_count": 216,
+   "points": 339,
+   "comment_count": 289,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -82,238 +82,238 @@
    "rank": 7,
    "title": "A Beginning for Mathematics",
    "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
-   "points": 69,
-   "comment_count": 15,
+   "points": 151,
+   "comment_count": 87,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 8,
-   "title": "How my e-reader lost its stripes",
-   "url": "https://www.serpentine.com/posts/2026/x3-stripes/",
-   "points": 50,
-   "comment_count": 3,
+   "title": "Charts built for Chat",
+   "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
+   "points": 29,
+   "comment_count": 10,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 9,
-   "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%",
-   "url": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
-   "points": 27,
-   "comment_count": 7,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 10,
-   "title": "iOS 27, iPadOS 27, and macOS 27",
-   "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
-   "points": 188,
-   "comment_count": 178,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 11,
-   "title": "Cua (YC P25) Is Hiring a Founding Technical GTM Lead",
-   "url": "https://www.ycombinator.com/companies/cua/jobs/1IWEKVH-founding-technical-gtm-lead",
-   "points": 0,
-   "comment_count": 2,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 12,
-   "title": "Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost",
-   "url": "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/",
-   "points": 20,
-   "comment_count": 6,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 13,
-   "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
-   "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
-   "points": 90,
-   "comment_count": 40,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 14,
-   "title": "XCancel service is suspended until further notice",
-   "url": "https://xcancel.com/#",
-   "points": 233,
-   "comment_count": 509,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 15,
-   "title": "When LLM judges agree, should we believe them?",
-   "url": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them",
-   "points": 35,
-   "comment_count": 16,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 16,
-   "title": "Truncated SVD (2023)",
-   "url": "https://brashandplucky.com/2023/09/09/truncated-svd.html",
-   "points": 26,
-   "comment_count": 1,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 17,
-   "title": "An atlas of periodic solutions to the three-body problem",
-   "url": "https://www.threebodyorbits.com/",
-   "points": 276,
-   "comment_count": 64,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 18,
-   "title": "The Tudor Kings",
-   "url": "https://analog-antiquarian.net/2026/09/11/the-tudor-kings/",
-   "points": 18,
-   "comment_count": 1,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 19,
-   "title": "Ask HN: What are you working on? (September 2026)",
-   "url": "https://news.ycombinator.com/item?id=49686380",
-   "points": 262,
-   "comment_count": 802,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 20,
-   "title": "Show HN: Apollo Lunar Module landing simulation",
-   "url": "https://gosandeep.com/eagles-descent/",
-   "points": 10,
+   "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+   "url": "https://github.com/JamesRyanATX/fcbnerd",
+   "points": 3,
    "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
+   "rank": 10,
+   "title": "How my e-reader lost its stripes",
+   "url": "https://www.serpentine.com/posts/2026/x3-stripes/",
+   "points": 129,
+   "comment_count": 18,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 11,
+   "title": "Principles for Fast Tokio Applications",
+   "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
+   "points": 153,
+   "comment_count": 34,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 12,
+   "title": "XCancel service is suspended until further notice",
+   "url": "https://xcancel.com/#",
+   "points": 391,
+   "comment_count": 709,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 13,
+   "title": "Why don't machine learning research agents overfit?",
+   "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+   "points": 92,
+   "comment_count": 53,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 14,
+   "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%",
+   "url": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
+   "points": 73,
+   "comment_count": 20,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 15,
+   "title": "Optimizing a Spin-Lock",
+   "url": "https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/",
+   "points": 26,
+   "comment_count": 11,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 16,
+   "title": "Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme",
+   "url": "https://www.neobrutalism.dev/",
+   "points": 127,
+   "comment_count": 57,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 17,
+   "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+   "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+   "points": 78,
+   "comment_count": 97,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 18,
+   "title": "Cua (YC P25) Is Hiring a Founding Technical GTM Lead",
+   "url": "https://www.ycombinator.com/companies/cua/jobs/1IWEKVH-founding-technical-gtm-lead",
+   "points": 0,
+   "comment_count": 6,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 19,
+   "title": "An atlas of periodic solutions to the three-body problem",
+   "url": "https://www.threebodyorbits.com/",
+   "points": 325,
+   "comment_count": 74,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 20,
+   "title": "Largest known Roman mosaic, beneath Baths of Trajan, opens to the public",
+   "url": "https://www.theartnewspaper.com/2026/09/14/largest-roman-mosaic-opens-to-the-public",
+   "points": 39,
+   "comment_count": 5,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
    "rank": 21,
-   "title": "Adversarial Fashion Makes a Statement on AI Panopticon",
-   "url": "https://spectrum.ieee.org/adversarial-fashion",
-   "points": 66,
-   "comment_count": 28,
+   "title": "Ask HN: What are you working on? (September 2026)",
+   "url": "https://news.ycombinator.com/item?id=49686380",
+   "points": 286,
+   "comment_count": 899,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 22,
-   "title": "EuroBirdPortal – Live bird movements across Europe",
-   "url": "https://www.eurobirdportal.org/ebp/en/",
-   "points": 200,
-   "comment_count": 60,
+   "title": "Microsoft patches Windows and Excel – breaks audio, remote access, and paste",
+   "url": "https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085",
+   "points": 178,
+   "comment_count": 96,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 23,
-   "title": "Trying to Make a Loop Auto-Vectorize",
-   "url": "https://jsgroth.dev/blog/posts/trying-to-make-a-loop-auto-vectorize/",
-   "points": 39,
-   "comment_count": 13,
+   "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
+   "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
+   "points": 106,
+   "comment_count": 58,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 24,
-   "title": "Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme",
-   "url": "https://www.neobrutalism.dev/",
-   "points": 74,
-   "comment_count": 43,
+   "title": "Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost",
+   "url": "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/",
+   "points": 58,
+   "comment_count": 12,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 25,
-   "title": "NüshuRescue: Reviving the Endangered Nüshu Language with AI",
-   "url": "https://aclanthology.org/2025.coling-main.468/",
-   "points": 4,
-   "comment_count": 1,
+   "title": "EuroBirdPortal – Live bird movements across Europe",
+   "url": "https://www.eurobirdportal.org/ebp/en/",
+   "points": 212,
+   "comment_count": 63,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 26,
-   "title": "A 386 PC for Your RP2350",
-   "url": "https://github.com/rh1tech/frank-386",
-   "points": 186,
-   "comment_count": 61,
+   "title": "Adversarial Fashion Makes a Statement on AI Panopticon",
+   "url": "https://spectrum.ieee.org/adversarial-fashion",
+   "points": 89,
+   "comment_count": 43,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 27,
-   "title": "Show HN: Pelican-bicycle alternatives",
-   "url": "https://gally.net/temp/20260914pelican-alternatives/index.html",
-   "points": 71,
-   "comment_count": 28,
+   "title": "Truncated SVD (2023)",
+   "url": "https://brashandplucky.com/2023/09/09/truncated-svd.html",
+   "points": 40,
+   "comment_count": 7,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 28,
-   "title": "Claude is a Contrarian",
-   "url": "https://medium.com/@rdsubhas/claude-is-a-contrarian-dbce4de5cada",
-   "points": 87,
-   "comment_count": 116,
+   "title": "Dario, Please",
+   "url": "https://pop.rdi.sh/dario-please/",
+   "points": 200,
+   "comment_count": 93,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 29,
-   "title": "Devil's Arrows: Ancient builders hauled 55k-lb stones 11 miles for UK stone row",
-   "url": "https://www.sciencedaily.com/releases/2026/09/260909005152.htm",
-   "points": 45,
-   "comment_count": 36,
+   "title": "Show HN: Pelican-bicycle alternatives",
+   "url": "https://gally.net/temp/20260914pelican-alternatives/index.html",
+   "points": 105,
+   "comment_count": 41,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 30,
-   "title": "Microsoft patches Windows and Excel – breaks audio, remote access, and paste",
-   "url": "https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085",
-   "points": 92,
-   "comment_count": 34,
+   "title": "Trying to Make a Loop Auto-Vectorize",
+   "url": "https://jsgroth.dev/blog/posts/trying-to-make-a-loop-auto-vectorize/",
+   "points": 65,
+   "comment_count": 15,
    "input": {
     "url": "https://news.ycombinator.com"
    }

@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mu200hg91htmub01vr",
+ "snapshot_id": "j_mu2dj3o51r5stwffjk",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-09-15T01:34:05.803Z",
+ "captured_at": "2026-09-15T07:52:28.993Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,186 +14,186 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-09-15T01:33:55.310Z",
-  "finished": "2026-09-15T01:33:58.640Z"
+  "started": "2026-09-15T07:52:18.920Z",
+  "finished": "2026-09-15T07:52:24.526Z"
  },
  "rows": [
   {
    "rank": 1,
    "title": "iOS 27, iPadOS 27, and macOS 27",
    "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
-   "points": 374,
-   "comment_count": 418,
+   "points": 561,
+   "comment_count": 625,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 2,
-   "title": "Pion, an agent designed to run any company autonomously",
-   "url": "https://andonlabs.com/blog/why-we-built-pion",
-   "points": 282,
-   "comment_count": 306,
+   "title": "Linux from Scratch",
+   "url": "https://www.linuxfromscratch.org/",
+   "points": 119,
+   "comment_count": 39,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 3,
-   "title": "Charts built for Chat",
-   "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
-   "points": 92,
-   "comment_count": 28,
+   "title": "OpenArm: An open-source 7DOF humanoid arm",
+   "url": "https://github.com/enactic/OpenArm",
+   "points": 56,
+   "comment_count": 12,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 4,
-   "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
-   "url": "https://github.com/JamesRyanATX/fcbnerd",
-   "points": 32,
-   "comment_count": 3,
+   "title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
+   "url": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
+   "points": 114,
+   "comment_count": 29,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 5,
-   "title": "Compressing a Flag to 11 Bits",
-   "url": "https://read.vantezzen.io/miniflags",
-   "points": 65,
-   "comment_count": 28,
+   "title": "Pion, an agent designed to run any company autonomously",
+   "url": "https://andonlabs.com/blog/why-we-built-pion",
+   "points": 381,
+   "comment_count": 446,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 6,
-   "title": "Distributed Systems Classics (2017)",
-   "url": "https://nvartolomei.com/dist-sys-classics/",
-   "points": 232,
-   "comment_count": 52,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 7,
-   "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-   "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-   "points": 373,
-   "comment_count": 321,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 8,
-   "title": "XCancel service is suspended until further notice",
-   "url": "https://xcancel.com/#",
-   "points": 448,
-   "comment_count": 762,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 9,
-   "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
-   "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
-   "points": 24,
-   "comment_count": 5,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 10,
-   "title": "Principles for Fast Tokio Applications",
-   "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
-   "points": 162,
-   "comment_count": 41,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 11,
-   "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
-   "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
-   "points": 171,
-   "comment_count": 171,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 12,
-   "title": "Optimizing a Spin-Lock",
-   "url": "https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/",
-   "points": 42,
-   "comment_count": 19,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 13,
-   "title": "How my e-reader lost its stripes",
-   "url": "https://www.serpentine.com/posts/2026/x3-stripes/",
-   "points": 151,
+   "title": "When code is a maze, smart developers make maps (2025)",
+   "url": "https://medium.com/@simonsmartiom/when-code-is-a-maze-smart-developers-make-maps-fbc452a48c1b",
+   "points": 20,
    "comment_count": 25,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
+   "rank": 7,
+   "title": "Charts built for Chat",
+   "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
+   "points": 206,
+   "comment_count": 64,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 8,
+   "title": "Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)",
+   "url": "https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013",
+   "points": 0,
+   "comment_count": 50,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 9,
+   "title": "XCancel service is suspended until further notice",
+   "url": "https://xcancel.com/#",
+   "points": 591,
+   "comment_count": 884,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 10,
+   "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+   "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
+   "points": 96,
+   "comment_count": 25,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 11,
+   "title": "Show HN: Redis City – Explore how Redis works in an interactive 3D model",
+   "url": "https://poltora.dev/redis",
+   "points": 58,
+   "comment_count": 9,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 12,
+   "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+   "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+   "points": 436,
+   "comment_count": 346,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 13,
+   "title": "Distributed Systems Classics (2017)",
+   "url": "https://nvartolomei.com/dist-sys-classics/",
+   "points": 286,
+   "comment_count": 60,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
    "rank": 14,
-   "title": "Why don't machine learning research agents overfit?",
-   "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-   "points": 105,
-   "comment_count": 58,
+   "title": "A beginning for mathematics",
+   "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
+   "points": 207,
+   "comment_count": 114,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 15,
-   "title": "Steam Frame starts at $1059",
-   "url": "https://store.steampowered.com/hardware/steamframe",
-   "points": 494,
-   "comment_count": 367,
+   "title": "Compressing a flag to 11 bits",
+   "url": "https://read.vantezzen.io/miniflags",
+   "points": 127,
+   "comment_count": 53,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 16,
-   "title": "A Beginning for Mathematics",
-   "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
-   "points": 167,
-   "comment_count": 96,
+   "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+   "url": "https://github.com/JamesRyanATX/fcbnerd",
+   "points": 58,
+   "comment_count": 13,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 17,
-   "title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
-   "url": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
-   "points": 8,
-   "comment_count": 3,
+   "title": "Synthesizing Loop-Free Programs with Rust and Z3 (2020)",
+   "url": "https://fitzgen.com/2020/01/13/synthesizing-loop-free-programs.html",
+   "points": 9,
+   "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 18,
-   "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%",
-   "url": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
-   "points": 85,
-   "comment_count": 24,
+   "title": "Principles for Fast Tokio Applications",
+   "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
+   "points": 198,
+   "comment_count": 50,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -202,48 +202,48 @@
    "rank": 19,
    "title": "Ask HN: What are you working on? (September 2026)",
    "url": "https://news.ycombinator.com/item?id=49686380",
-   "points": 295,
-   "comment_count": 935,
+   "points": 326,
+   "comment_count": 998,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 20,
-   "title": "People who can't picture anything are rewriting the science of imagination",
-   "url": "https://dailyneuron.com/aphantasia-mental-imagery-brain-network/",
-   "points": 94,
-   "comment_count": 161,
+   "title": "Ubuntu 26.10 completes transition to Rust-based coreutils",
+   "url": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
+   "points": 156,
+   "comment_count": 156,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 21,
-   "title": "Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme",
-   "url": "https://www.neobrutalism.dev/",
-   "points": 142,
-   "comment_count": 66,
+   "title": "People who can't picture anything are rewriting the science of imagination",
+   "url": "https://dailyneuron.com/aphantasia-mental-imagery-brain-network/",
+   "points": 153,
+   "comment_count": 220,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 22,
-   "title": "Cua (YC P25) Is Hiring a Founding Technical GTM Lead",
-   "url": "https://www.ycombinator.com/companies/cua/jobs/1IWEKVH-founding-technical-gtm-lead",
-   "points": 0,
-   "comment_count": 8,
+   "title": "Steam Frame starts at $1059",
+   "url": "https://store.steampowered.com/hardware/steamframe",
+   "points": 639,
+   "comment_count": 478,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 23,
-   "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
-   "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
-   "points": 114,
-   "comment_count": 64,
+   "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%",
+   "url": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
+   "points": 106,
+   "comment_count": 30,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -252,28 +252,28 @@
    "rank": 24,
    "title": "Backprop Alternative: Augmented Lagrangian Predictive Coding",
    "url": "https://pub.sakana.ai/pc-alm/",
-   "points": 39,
-   "comment_count": 6,
+   "points": 84,
+   "comment_count": 26,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 25,
-   "title": "Largest known Roman mosaic, beneath Baths of Trajan, opens to the public",
-   "url": "https://www.theartnewspaper.com/2026/09/14/largest-roman-mosaic-opens-to-the-public",
-   "points": 46,
-   "comment_count": 8,
+   "title": "How my e-reader lost its stripes",
+   "url": "https://www.serpentine.com/posts/2026/x3-stripes/",
+   "points": 193,
+   "comment_count": 35,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 26,
-   "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
-   "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
-   "points": 106,
-   "comment_count": 110,
+   "title": "Optimizing a Spin-Lock",
+   "url": "https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/",
+   "points": 62,
+   "comment_count": 29,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -282,38 +282,38 @@
    "rank": 27,
    "title": "Dario, Please",
    "url": "https://pop.rdi.sh/dario-please/",
-   "points": 272,
-   "comment_count": 142,
+   "points": 477,
+   "comment_count": 231,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 28,
-   "title": "Microsoft patches Windows and Excel – breaks audio, remote access, and paste",
-   "url": "https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085",
-   "points": 202,
-   "comment_count": 124,
+   "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
+   "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
+   "points": 153,
+   "comment_count": 82,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 29,
-   "title": "Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost",
-   "url": "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/",
-   "points": 66,
-   "comment_count": 19,
+   "title": "Why don't machine learning research agents overfit?",
+   "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+   "points": 124,
+   "comment_count": 68,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 30,
-   "title": "Trying to Make a Loop Auto-Vectorize",
-   "url": "https://jsgroth.dev/blog/posts/trying-to-make-a-loop-auto-vectorize/",
-   "points": 70,
-   "comment_count": 15,
+   "title": "The biggest dinosaurs couldn't sit on their eggs",
+   "url": "https://www.cbc.ca/news/science/titanosaur-eggs-9.7336841",
+   "points": 36,
+   "comment_count": 14,
    "input": {
     "url": "https://news.ycombinator.com"
    }

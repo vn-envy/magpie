@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mu2dj3o51r5stwffjk",
+ "snapshot_id": "j_mu2pyh031xt28ddkir",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-09-15T07:52:28.993Z",
+ "captured_at": "2026-09-15T13:40:21.692Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,306 +14,306 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-09-15T07:52:18.920Z",
-  "finished": "2026-09-15T07:52:24.526Z"
+  "started": "2026-09-15T13:40:11.424Z",
+  "finished": "2026-09-15T13:40:13.263Z"
  },
  "rows": [
   {
    "rank": 1,
-   "title": "iOS 27, iPadOS 27, and macOS 27",
-   "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
-   "points": 561,
-   "comment_count": 625,
+   "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+   "url": "https://github.com/arnegiacomo/fugleramme",
+   "points": 89,
+   "comment_count": 24,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 2,
-   "title": "Linux from Scratch",
-   "url": "https://www.linuxfromscratch.org/",
-   "points": 119,
-   "comment_count": 39,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 3,
-   "title": "OpenArm: An open-source 7DOF humanoid arm",
-   "url": "https://github.com/enactic/OpenArm",
-   "points": 56,
-   "comment_count": 12,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 4,
-   "title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
-   "url": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
-   "points": 114,
-   "comment_count": 29,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 5,
-   "title": "Pion, an agent designed to run any company autonomously",
-   "url": "https://andonlabs.com/blog/why-we-built-pion",
-   "points": 381,
-   "comment_count": 446,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 6,
-   "title": "When code is a maze, smart developers make maps (2025)",
-   "url": "https://medium.com/@simonsmartiom/when-code-is-a-maze-smart-developers-make-maps-fbc452a48c1b",
-   "points": 20,
-   "comment_count": 25,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 7,
-   "title": "Charts built for Chat",
-   "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
-   "points": 206,
-   "comment_count": 64,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 8,
-   "title": "Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)",
-   "url": "https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013",
-   "points": 0,
-   "comment_count": 50,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 9,
-   "title": "XCancel service is suspended until further notice",
-   "url": "https://xcancel.com/#",
-   "points": 591,
-   "comment_count": 884,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 10,
-   "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
-   "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
-   "points": 96,
-   "comment_count": 25,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 11,
-   "title": "Show HN: Redis City – Explore how Redis works in an interactive 3D model",
-   "url": "https://poltora.dev/redis",
-   "points": 58,
+   "title": "Java 27 Released",
+   "url": "https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/",
+   "points": 41,
    "comment_count": 9,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 12,
-   "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-   "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-   "points": 436,
-   "comment_count": 346,
+   "rank": 3,
+   "title": "I can't stop thinking about Papua New Guinea",
+   "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
+   "points": 510,
+   "comment_count": 206,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 13,
-   "title": "Distributed Systems Classics (2017)",
-   "url": "https://nvartolomei.com/dist-sys-classics/",
-   "points": 286,
-   "comment_count": 60,
+   "rank": 4,
+   "title": "25 Years of Mass Surveillance Is Enough",
+   "url": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
+   "points": 151,
+   "comment_count": 19,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 14,
-   "title": "A beginning for mathematics",
-   "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
-   "points": 207,
-   "comment_count": 114,
+   "rank": 5,
+   "title": "CSS-Tricks in Limbo",
+   "url": "https://vale.rocks/micros/20260915-0135",
+   "points": 121,
+   "comment_count": 37,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 15,
-   "title": "Compressing a flag to 11 bits",
-   "url": "https://read.vantezzen.io/miniflags",
-   "points": 127,
-   "comment_count": 53,
+   "rank": 6,
+   "title": "Alternatives to MinIO for single-node local S3",
+   "url": "https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/",
+   "points": 106,
+   "comment_count": 56,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 16,
-   "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
-   "url": "https://github.com/JamesRyanATX/fcbnerd",
-   "points": 58,
+   "rank": 7,
+   "title": "A rough guide for going back to the Moon",
+   "url": "https://research.ibm.com/blog/nasa-ibm-lunar-foundation-model",
+   "points": 28,
    "comment_count": 13,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
+   "rank": 8,
+   "title": "iOS 27, iPadOS 27, and macOS 27",
+   "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+   "points": 663,
+   "comment_count": 765,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 9,
+   "title": "The k-server conjecture is true",
+   "url": "https://arxiv.org/abs/2609.15979",
+   "points": 56,
+   "comment_count": 21,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 10,
+   "title": "OpenArm: An open-source 7DOF humanoid arm",
+   "url": "https://github.com/enactic/OpenArm",
+   "points": 146,
+   "comment_count": 28,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 11,
+   "title": "Suspected sabotage causes major Netherlands rail disruption",
+   "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+   "points": 249,
+   "comment_count": 248,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 12,
+   "title": "Inverse-Square Law",
+   "url": "https://blog.coredump.cx/p/inverse-square-law",
+   "points": 11,
+   "comment_count": 2,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 13,
+   "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
+   "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+   "points": 38,
+   "comment_count": 19,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 14,
+   "title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
+   "url": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
+   "points": 180,
+   "comment_count": 54,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 15,
+   "title": "Pion, an agent designed to run any company autonomously",
+   "url": "https://andonlabs.com/blog/why-we-built-pion",
+   "points": 441,
+   "comment_count": 542,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 16,
+   "title": "There are only twelve 4x4 sudokus (and a cool trick for finding minimal subsets)",
+   "url": "https://baldino.dev/blog/there-are-only-twelve-4x4-sudokus/",
+   "points": 18,
+   "comment_count": 8,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
    "rank": 17,
-   "title": "Synthesizing Loop-Free Programs with Rust and Z3 (2020)",
-   "url": "https://fitzgen.com/2020/01/13/synthesizing-loop-free-programs.html",
-   "points": 9,
-   "comment_count": 0,
+   "title": "US confirms for first time it has deployed space weapons",
+   "url": "https://www.bbc.com/news/articles/ck790xg41ygro",
+   "points": 140,
+   "comment_count": 85,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 18,
-   "title": "Principles for Fast Tokio Applications",
-   "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
-   "points": 198,
-   "comment_count": 50,
+   "title": "Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)",
+   "url": "https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013",
+   "points": 0,
+   "comment_count": 6,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 19,
-   "title": "Ask HN: What are you working on? (September 2026)",
-   "url": "https://news.ycombinator.com/item?id=49686380",
-   "points": 326,
-   "comment_count": 998,
+   "title": "Linux from Scratch",
+   "url": "https://www.linuxfromscratch.org/",
+   "points": 273,
+   "comment_count": 83,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 20,
-   "title": "Ubuntu 26.10 completes transition to Rust-based coreutils",
-   "url": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
-   "points": 156,
-   "comment_count": 156,
+   "title": "XCancel service is suspended until further notice",
+   "url": "https://xcancel.com/#",
+   "points": 710,
+   "comment_count": 972,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 21,
-   "title": "People who can't picture anything are rewriting the science of imagination",
-   "url": "https://dailyneuron.com/aphantasia-mental-imagery-brain-network/",
-   "points": 153,
-   "comment_count": 220,
+   "title": "25 Years of Mass Surveillance Is Enough [Auth: Cindy Cohn; Bruce Schneier]",
+   "url": "https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough",
+   "points": 26,
+   "comment_count": 3,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 22,
-   "title": "Steam Frame starts at $1059",
-   "url": "https://store.steampowered.com/hardware/steamframe",
-   "points": 639,
-   "comment_count": 478,
+   "title": "Charts built for Chat",
+   "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
+   "points": 267,
+   "comment_count": 79,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 23,
-   "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%",
-   "url": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
-   "points": 106,
-   "comment_count": 30,
+   "title": "Show HN: Redis City – Explore how Redis works in an interactive 3D model",
+   "url": "https://poltora.dev/redis",
+   "points": 134,
+   "comment_count": 22,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 24,
-   "title": "Backprop Alternative: Augmented Lagrangian Predictive Coding",
-   "url": "https://pub.sakana.ai/pc-alm/",
-   "points": 84,
-   "comment_count": 26,
+   "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+   "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+   "points": 490,
+   "comment_count": 393,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 25,
-   "title": "How my e-reader lost its stripes",
-   "url": "https://www.serpentine.com/posts/2026/x3-stripes/",
-   "points": 193,
-   "comment_count": 35,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 26,
-   "title": "Optimizing a Spin-Lock",
-   "url": "https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/",
-   "points": 62,
+   "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+   "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
+   "points": 141,
    "comment_count": 29,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
+   "rank": 26,
+   "title": "A beginning for mathematics",
+   "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
+   "points": 254,
+   "comment_count": 132,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
    "rank": 27,
-   "title": "Dario, Please",
-   "url": "https://pop.rdi.sh/dario-please/",
-   "points": 477,
-   "comment_count": 231,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 28,
-   "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
-   "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
-   "points": 153,
-   "comment_count": 82,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 29,
-   "title": "Why don't machine learning research agents overfit?",
-   "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-   "points": 124,
+   "title": "Distributed Systems Classics (2017)",
+   "url": "https://nvartolomei.com/dist-sys-classics/",
+   "points": 326,
    "comment_count": 68,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
+   "rank": 28,
+   "title": "Compressing a flag to 11 bits",
+   "url": "https://read.vantezzen.io/miniflags",
+   "points": 174,
+   "comment_count": 66,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 29,
+   "title": "Ubuntu 26.10 completes transition to Rust-based coreutils",
+   "url": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
+   "points": 240,
+   "comment_count": 259,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
    "rank": 30,
-   "title": "The biggest dinosaurs couldn't sit on their eggs",
-   "url": "https://www.cbc.ca/news/science/titanosaur-eggs-9.7336841",
-   "points": 36,
-   "comment_count": 14,
+   "title": "Forgotten Woodlands",
+   "url": "https://storymaps.arcgis.com/stories/9b790daf22ba4e87836f467abb1c7e49",
+   "points": 81,
+   "comment_count": 27,
    "input": {
     "url": "https://news.ycombinator.com"
    }

@@ -1,21 +1,13 @@
 {
- "updatedAt": "2026-09-16T20:14:29.224Z",
+ "updatedAt": "2026-09-16T23:01:49.379Z",
  "sources": {
   "hn_front_page": {
    "label": "Hacker News front page",
    "collector_id": "c_mt5t6oj816r5d7yvfy",
-   "snapshot_id": "j_mu4jhegj1thwrdu3vq",
-   "captured_at": "2026-09-16T20:14:40.167Z",
+   "snapshot_id": "j_mu4pgld0p339ycfty",
+   "captured_at": "2026-09-16T23:01:59.726Z",
    "verdict": "TRUSTED",
    "row_count": 30
-  },
-  "real_competition": {
-   "label": "awesome-selfhosted — the real open-source software market",
-   "collector_id": "c_mt5z86yu2jvo2kv0yf",
-   "snapshot_id": "j_mu4jhmqrxs4gz1eku",
-   "captured_at": "2026-09-16T20:17:55.537Z",
-   "verdict": "TRUSTED",
-   "row_count": 234
   }
  }
 }

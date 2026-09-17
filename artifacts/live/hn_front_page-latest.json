@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mu5koowa1n3dh16oc3",
+ "snapshot_id": "j_mu5uuw2no0iowycpk",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-09-17T13:36:06.005Z",
+ "captured_at": "2026-09-17T18:20:51.058Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,306 +14,306 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-09-17T13:35:55.564Z",
-  "finished": "2026-09-17T13:35:58.425Z"
+  "started": "2026-09-17T18:20:40.966Z",
+  "finished": "2026-09-17T18:20:44.199Z"
  },
  "rows": [
   {
    "rank": 1,
-   "title": "One Year of Sponsored Servo Development",
-   "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
-   "points": 197,
-   "comment_count": 86,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 2,
-   "title": "Show HN: I built a new version of my fun spatial 3D online meeting app",
-   "url": "https://flat.social/",
-   "points": 18,
-   "comment_count": 8,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 3,
-   "title": "Nvidia announces native GPU programming in Rust",
-   "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-   "points": 792,
-   "comment_count": 323,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 4,
-   "title": "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
-   "url": "https://jakeasmith.com/blog/http-build-url/",
-   "points": 197,
-   "comment_count": 50,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 5,
-   "title": "Neovim have a ~$800k Bitcoin donation sitting untouched since 2023",
-   "url": "https://news.ycombinator.com/item?id=49738879",
-   "points": 212,
-   "comment_count": 124,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 6,
-   "title": "Better Vector Search for Long Documents: Chunking Inside Manticore Search",
-   "url": "https://manticoresearch.com/blog/auto-chunking/",
-   "points": 34,
-   "comment_count": 5,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 7,
-   "title": "CCC invites all model citizens to 40C3",
-   "url": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
-   "points": 88,
-   "comment_count": 14,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 8,
-   "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
-   "url": "https://ryan.science/blog/keys-not-included",
-   "points": 217,
-   "comment_count": 85,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 9,
    "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
    "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
-   "points": 7,
-   "comment_count": 0,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 10,
-   "title": "The Relation Between Mathematics and Physics by Paul Dirac",
-   "url": "https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html",
-   "points": 97,
-   "comment_count": 30,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 11,
-   "title": "Training a 4B model to produce 81% faster query plans than Postgres",
-   "url": "https://rohanbansal.com/qorl",
-   "points": 605,
-   "comment_count": 124,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 12,
-   "title": "GLM Built Its Own Inference Infrastructure",
-   "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
-   "points": 164,
-   "comment_count": 129,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 13,
-   "title": "Xiaomi Mimo 2.6 live post-training dashboard",
-   "url": "https://mimo.xiaomi.com/rl/",
-   "points": 482,
+   "points": 363,
    "comment_count": 139,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 14,
-   "title": "Lucasart's Afterlife",
-   "url": "https://togameforlife.wordpress.com/2023/12/09/on-lucasarts-afterlife/",
+   "rank": 2,
+   "title": "Hister: A private search engine for the pages you visit and the files you keep",
+   "url": "https://github.com/asciimoo/hister",
+   "points": 94,
+   "comment_count": 30,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 3,
+   "title": "CrowdSec Source Code Leak",
+   "url": "https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure",
    "points": 53,
-   "comment_count": 24,
+   "comment_count": 22,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 15,
-   "title": "Online Z3 Guide",
-   "url": "https://microsoft.github.io/z3guide/",
-   "points": 29,
-   "comment_count": 8,
+   "rank": 4,
+   "title": "Rate limits on GitLab.com are changing",
+   "url": "https://about.gitlab.com/blog/rate-limit-change-2026/",
+   "points": 89,
+   "comment_count": 79,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
-   "rank": 16,
-   "title": "Small programming tricks",
-   "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
-   "points": 581,
-   "comment_count": 255,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 17,
-   "title": "Cloudflare/Security-Audit-Skill",
-   "url": "https://github.com/cloudflare/security-audit-skill",
-   "points": 117,
-   "comment_count": 20,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 18,
-   "title": "Comparison of Malloc() Algorithms",
-   "url": "https://egbert.net/blog/articles/comparison-of-arena-architecture-in-malloc.html",
-   "points": 95,
-   "comment_count": 27,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 19,
-   "title": "Developing provably correct Rust code with Verus",
-   "url": "https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus",
-   "points": 131,
-   "comment_count": 31,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 20,
-   "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
-   "url": "https://github.com/arnegiacomo/fugleramme",
-   "points": 2206,
-   "comment_count": 246,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 21,
-   "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
-   "url": "https://arxiv.org/abs/2609.16338",
-   "points": 218,
-   "comment_count": 34,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 22,
-   "title": "Backups Aren't Simple",
-   "url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
-   "points": 275,
-   "comment_count": 174,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 23,
-   "title": "An Archive of Colour Gradients",
-   "url": "https://phillips.shef.ac.uk/pub/cpt-city/",
-   "points": 22,
-   "comment_count": 2,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 24,
-   "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
-   "url": "https://harnesstax.github.io/",
-   "points": 168,
-   "comment_count": 64,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 25,
-   "title": "AWS says it can't restore some data from mideast facilities struck by Iran",
-   "url": "https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d",
-   "points": 463,
-   "comment_count": 391,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 26,
-   "title": "The engineering behind the US Strategic Petroleum Reserve",
-   "url": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve",
-   "points": 230,
-   "comment_count": 95,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 27,
-   "title": "A 32-year-old bug walks into a Telnet server",
-   "url": "https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/",
-   "points": 76,
+   "rank": 5,
+   "title": "Whoisinspace.com/",
+   "url": "https://whoisinspace.com/",
+   "points": 91,
    "comment_count": 36,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
+   "rank": 6,
+   "title": "Economic Policy for AGI",
+   "url": "https://institute.deepmind.com/essays/economic-policy-for-agi/",
+   "points": 14,
+   "comment_count": 3,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 7,
+   "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
+   "url": "https://arxiv.org/abs/2609.18842",
+   "points": 15,
+   "comment_count": 3,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 8,
+   "title": "Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI",
+   "url": "https://zscc.ai/careers?job_id=109821",
+   "points": 0,
+   "comment_count": 1,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 9,
+   "title": "Vinix – A modern operating system written in V",
+   "url": "https://vinix-os.org/",
+   "points": 52,
+   "comment_count": 31,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 10,
+   "title": "Show HN: Aclif – Agent CLI framework: one grammar, canonical names across SaaS",
+   "url": "https://www.aclif.ai/",
+   "points": 17,
+   "comment_count": 6,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 11,
+   "title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
+   "url": "https://news.ycombinator.com/item?id=49743049",
+   "points": 16,
+   "comment_count": 12,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 12,
+   "title": "How GLM built its own inference infrastructure",
+   "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+   "points": 275,
+   "comment_count": 221,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 13,
+   "title": "Why I didn’t sign the Fields medallists’ letter",
+   "url": "https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/",
+   "points": 95,
+   "comment_count": 141,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 14,
+   "title": "One Year of Sponsored Servo Development",
+   "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
+   "points": 301,
+   "comment_count": 125,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 15,
+   "title": "Ask HN: How to recover Google auth after phone stolen?",
+   "url": "https://news.ycombinator.com/item?id=49742976",
+   "points": 52,
+   "comment_count": 43,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 16,
+   "title": "Grand MS-DOS Gaming General MIDI Showdown",
+   "url": "https://blog.johnnovak.net/2023/03/05/grand-ms-dos-gaming-general-midi-showdown/",
+   "points": 40,
+   "comment_count": 3,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 17,
+   "title": "Show HN: Share your AI Setup, Learn from others",
+   "url": "https://mysetup.ai/",
+   "points": 97,
+   "comment_count": 60,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 18,
+   "title": "The American Religion of Self-Storage Facilities",
+   "url": "https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities",
+   "points": 91,
+   "comment_count": 145,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 19,
+   "title": "CCC invites all model citizens to 40C3",
+   "url": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
+   "points": 254,
+   "comment_count": 107,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 20,
+   "title": "Towards Self-Driving Codebases",
+   "url": "https://blog.detail.dev/posts/towards-self-driving-codebases/",
+   "points": 10,
+   "comment_count": 2,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 21,
+   "title": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
+   "url": "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/",
+   "points": 130,
+   "comment_count": 98,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 22,
+   "title": "Mastering Layout Engines in Graphviz: Dot vs. Neato vs. Twopi vs. Circo",
+   "url": "https://guides.visual-paradigm.com/mastering-graphviz-layout-engines-dot-neato-twopi-circo/",
+   "points": 24,
+   "comment_count": 5,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 23,
+   "title": "LLM Classification Is Feature Engineering",
+   "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
+   "points": 52,
+   "comment_count": 11,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 24,
+   "title": "Running Ubuntu on the Lenovo IdeaPad Duet",
+   "url": "https://vhaudiquet.fr/blog/duet-ubuntu/",
+   "points": 11,
+   "comment_count": 1,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 25,
+   "title": "Artificial intelligence now beats some of the best human forecasters",
+   "url": "https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters",
+   "points": 83,
+   "comment_count": 69,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 26,
+   "title": "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
+   "url": "https://jakeasmith.com/blog/http-build-url/",
+   "points": 289,
+   "comment_count": 82,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 27,
+   "title": "Show HN: AutoBot – live voice control for long-running AI work",
+   "url": "https://github.com/demeyer1/Autobot",
+   "points": 8,
+   "comment_count": 1,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
    "rank": 28,
-   "title": "OpenSpec – A lightweight and configurable AI spec framework",
-   "url": "https://openspec.dev/",
-   "points": 165,
-   "comment_count": 76,
+   "title": "Show HN: I built a new version of my fun spatial 3D online meeting app",
+   "url": "https://flat.social/",
+   "points": 83,
+   "comment_count": 50,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 29,
-   "title": "Performance Improvements in .NET 11",
-   "url": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/",
-   "points": 322,
-   "comment_count": 87,
+   "title": "The Relation Between Mathematics and Physics by Paul Dirac (1939)",
+   "url": "https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html",
+   "points": 141,
+   "comment_count": 46,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 30,
-   "title": "Iran school bombing: grounds to believe US was behind atrocity, UN finds",
-   "url": "https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack",
-   "points": 117,
-   "comment_count": 46,
+   "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
+   "url": "https://ryan.science/blog/keys-not-included",
+   "points": 265,
+   "comment_count": 137,
    "input": {
     "url": "https://news.ycombinator.com"
    }

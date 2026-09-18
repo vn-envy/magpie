@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mu6vjmdz2gn6mfvojk",
+ "snapshot_id": "j_mu76g4a127bpa9x6pt",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-09-18T11:28:01.121Z",
+ "captured_at": "2026-09-18T16:33:13.412Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,75 +14,75 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-09-18T11:27:40.970Z",
-  "finished": "2026-09-18T11:27:51.859Z"
+  "started": "2026-09-18T16:32:53.310Z",
+  "finished": "2026-09-18T16:33:06.354Z"
  },
  "rows": [
   {
    "rank": 1,
-   "title": "OpenJev",
-   "url": "https://openjev.com/",
-   "points": 125,
-   "comment_count": 65,
+   "title": "Cloudflare Quick Tunnels",
+   "url": "https://try.cloudflare.com/",
+   "points": 132,
+   "comment_count": 72,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 2,
-   "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
-   "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-   "points": 160,
-   "comment_count": 89,
+   "title": "An Empirical Study of Harness Design for Coding Agents",
+   "url": "https://arxiv.org/abs/2609.20804",
+   "points": 149,
+   "comment_count": 32,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 3,
-   "title": "Jemalloc 5.4.0",
-   "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
-   "points": 174,
-   "comment_count": 49,
+   "title": "North Korean nuclear test sets off years of earthquakes",
+   "url": "https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes",
+   "points": 56,
+   "comment_count": 43,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 4,
-   "title": "The scourge of x86 emulation",
-   "url": "https://fex-emu.com/Scourge-of-emulation/",
-   "points": 165,
-   "comment_count": 31,
+   "title": "OpenJev",
+   "url": "https://openjev.com/",
+   "points": 358,
+   "comment_count": 196,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 5,
-   "title": "Astra for Law",
-   "url": "https://openai.com/index/astra-for-law/",
-   "points": 506,
-   "comment_count": 593,
+   "title": "Show HN: Microsoft Office running with Wine on Linux with no virtualization",
+   "url": "https://github.com/Tombert/office365_flake",
+   "points": 13,
+   "comment_count": 5,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 6,
-   "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
-   "url": "https://prismml.com/news/bonsai-2-27b",
-   "points": 467,
-   "comment_count": 138,
+   "title": "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
+   "url": "https://www.miro.vision/index.php/2026/09/17/grasslobbster/",
+   "points": 14,
+   "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 7,
-   "title": "ZCode, the GLM coding agent, silently uploads your Git history",
-   "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
-   "points": 6,
+   "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+   "url": "https://cactuscompute.com/needle",
+   "points": 12,
    "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
@@ -90,230 +90,230 @@
   },
   {
    "rank": 8,
-   "title": "Replacing Pull Requests with Delta",
-   "url": "https://zed.dev/blog/delta-public-beta",
-   "points": 40,
-   "comment_count": 9,
+   "title": "I don't like passkeys",
+   "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
+   "points": 467,
+   "comment_count": 440,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 9,
-   "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
-   "url": "https://bend-lang.com/",
-   "points": 494,
-   "comment_count": 230,
+   "title": "Mathematicians Build Long-Awaited Graph Sandwich",
+   "url": "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/",
+   "points": 17,
+   "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 10,
-   "title": "Qwen 3.8 Omni Flash",
-   "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-   "points": 244,
-   "comment_count": 83,
+   "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+   "url": "https://www.hacktron.ai/blog/hacking-openai",
+   "points": 413,
+   "comment_count": 175,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 11,
-   "title": "Hister: A private search engine for the pages you visit and the files you keep",
-   "url": "https://github.com/asciimoo/hister",
-   "points": 632,
-   "comment_count": 170,
+   "title": "US Treasuries Have Become Unappetizing for Foreign Central Banks and Governments",
+   "url": "https://wolfstreet.com/2026/09/17/treasuries-have-become-badly-unappetizing-for-foreign-central-banks-governments/",
+   "points": 32,
+   "comment_count": 7,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 12,
-   "title": "Wax motor",
-   "url": "https://en.wikipedia.org/wiki/Wax_motor",
-   "points": 430,
-   "comment_count": 72,
+   "title": "The Shadows Lurking in the Equations – Underwater Islands",
+   "url": "https://gods.art/articles/equation_shadows",
+   "points": 42,
+   "comment_count": 8,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 13,
-   "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
-   "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
-   "points": 604,
-   "comment_count": 234,
+   "title": "NATS publishes preliminary report on technical incident of 8 September",
+   "url": "https://www.nats.aero/news/nats-publishes-preliminary-report-on-technical-incident-of-8-september/",
+   "points": 28,
+   "comment_count": 17,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 14,
-   "title": "Pre-Greek: The lost language hidden within Ancient Greek",
-   "url": "https://linguisticdiscovery.com/posts/pre-greek/",
-   "points": 90,
-   "comment_count": 41,
+   "title": "Build Faster Feedback Loops Using Qualitative User Research",
+   "url": "https://blog.nseldeib.com/p/build-faster-feedback-loops-using",
+   "points": 12,
+   "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 15,
-   "title": "When the fractional part of a float fixes your shader",
-   "url": "https://crocidb.com/post/when-the-fractional-part-of-a-float-fixes-your-shader/",
-   "points": 44,
-   "comment_count": 3,
+   "title": "Cekura (YC F24) Is Hiring",
+   "url": "https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us",
+   "points": 0,
+   "comment_count": 4,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 16,
-   "title": "Dr Julius Neubronner's Miniature Pigeon Camera",
-   "url": "https://publicdomainreview.org/collection/dr-julius-neubronner-s-miniature-pigeon-camera/",
-   "points": 10,
-   "comment_count": 0,
+   "title": "Jemalloc 5.4.0",
+   "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+   "points": 279,
+   "comment_count": 69,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 17,
-   "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-   "url": "https://www.hacktron.ai/blog/hacking-openai",
-   "points": 368,
-   "comment_count": 159,
+   "title": "The scourge of x86 emulation",
+   "url": "https://fex-emu.com/Scourge-of-emulation/",
+   "points": 234,
+   "comment_count": 65,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 18,
-   "title": "Shapelearn Qwen 3.8 27B (13.1 GB VRAM)",
-   "url": "https://byteshape.com/blogs/Qwen3.8-27B/",
-   "points": 72,
-   "comment_count": 13,
+   "title": "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",
+   "url": "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html",
+   "points": 206,
+   "comment_count": 135,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 19,
-   "title": "How to Write with an LLM",
-   "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-   "points": 189,
-   "comment_count": 119,
+   "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+   "url": "https://prismml.com/news/bonsai-2-27b",
+   "points": 531,
+   "comment_count": 172,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 20,
-   "title": "Ask A Monk – A digital wilderness for thoughts with no immediate answer",
-   "url": "https://askamonk.online/",
-   "points": 45,
-   "comment_count": 25,
+   "title": "Show HN: Scry, programmable internet search w/ congestion pricing",
+   "url": "https://scry.io/",
+   "points": 4,
+   "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 21,
-   "title": "Flet 1.0 – Build cross-platform apps in Python",
-   "url": "https://flet.dev/",
-   "points": 132,
-   "comment_count": 60,
+   "title": "ZCode, the GLM coding agent, silently uploads your Git history",
+   "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+   "points": 247,
+   "comment_count": 57,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 22,
-   "title": "Telstra outage: The night a network decided the year was 2006",
-   "url": "https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006",
-   "points": 63,
-   "comment_count": 29,
+   "title": "AI is an elite crime spree",
+   "url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
+   "points": 41,
+   "comment_count": 8,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 23,
-   "title": "Speeding up gearhash on ARM64",
-   "url": "https://sam.dev/blog/gearhash-on-arm64",
-   "points": 22,
-   "comment_count": 0,
+   "title": "Second Circuit Allows Government to Search Electronic Devices at the Border",
+   "url": "https://knightcolumbia.org/content/second-circuit-allows-government-to-search-electronic-devices-at-the-border-without-any-suspicion",
+   "points": 52,
+   "comment_count": 29,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 24,
-   "title": "Diplodocus, Long Thought Exclusively American, Turns Up in Spain",
-   "url": "https://www.sci.news/paleontology/spanish-diplodocus-15064.html",
-   "points": 74,
-   "comment_count": 45,
+   "title": "Qwen 3.8 Omni Flash",
+   "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+   "points": 301,
+   "comment_count": 107,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 25,
-   "title": "Why I didn’t sign the Fields medallists’ letter",
-   "url": "https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/",
-   "points": 260,
-   "comment_count": 371,
+   "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+   "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+   "points": 679,
+   "comment_count": 586,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 26,
-   "title": "The most important product decision is what you don't build",
-   "url": "https://liamnugent.me/posts/what-you-dont-build/",
-   "points": 114,
-   "comment_count": 39,
+   "title": "BeanShell3 in Development",
+   "url": "https://beanshell.github.io/home.html",
+   "points": 12,
+   "comment_count": 7,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 27,
-   "title": "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",
-   "url": "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html",
-   "points": 6,
-   "comment_count": 0,
+   "title": "How to Write with an LLM",
+   "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+   "points": 266,
+   "comment_count": 177,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 28,
-   "title": "How do we prevent mathemathics from devolving into the Medieval Era of secrecy?",
-   "url": "https://mathoverflow.net/questions/515260/how-do-we-prevent-mathematics-from-devolving-into-the-medieval-era-of-secrecy",
-   "points": 135,
-   "comment_count": 117,
+   "title": "Pre-Greek: The lost language hidden within Ancient Greek",
+   "url": "https://linguisticdiscovery.com/posts/pre-greek/",
+   "points": 132,
+   "comment_count": 58,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 29,
-   "title": "Apple detectives solved mystery of ancient tree and rewrote the history of fruit",
-   "url": "https://www.scientificamerican.com/article/how-apple-detectives-solved-the-mystery-of-an-ancient-tree-and-rewrote-the-history-of-fruit/",
-   "points": 48,
-   "comment_count": 12,
+   "title": "HEIF Heist: image parser RCE exploit",
+   "url": "https://heif-heist.com/",
+   "points": 8,
+   "comment_count": 3,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 30,
-   "title": "CrowdSec Source Code Leak",
-   "url": "https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure",
-   "points": 153,
-   "comment_count": 49,
+   "title": "When the fractional part of a float fixes your shader",
+   "url": "https://crocidb.com/post/when-the-fractional-part-of-a-float-fixes-your-shader/",
+   "points": 85,
+   "comment_count": 16,
    "input": {
     "url": "https://news.ycombinator.com"
    }

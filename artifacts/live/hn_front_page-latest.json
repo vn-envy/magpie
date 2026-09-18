@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mu61nyth23ny7fi7i7",
+ "snapshot_id": "j_mu67zj5wv0wq8hwg2",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-09-17T21:31:25.682Z",
+ "captured_at": "2026-09-18T00:28:22.991Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,166 +14,166 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-09-17T21:31:15.214Z",
-  "finished": "2026-09-17T21:31:17.517Z"
+  "started": "2026-09-18T00:28:12.495Z",
+  "finished": "2026-09-18T00:28:14.863Z"
  },
  "rows": [
   {
    "rank": 1,
    "title": "Astra for Law",
    "url": "https://openai.com/index/astra-for-law/",
-   "points": 124,
-   "comment_count": 90,
+   "points": 260,
+   "comment_count": 294,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 2,
-   "title": "Hister: A private search engine for the pages you visit and the files you keep",
-   "url": "https://github.com/asciimoo/hister",
-   "points": 340,
-   "comment_count": 110,
+   "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+   "url": "https://prismml.com/news/bonsai-2-27b",
+   "points": 156,
+   "comment_count": 51,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 3,
-   "title": "Bend",
+   "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
    "url": "https://bend-lang.com/",
-   "points": 84,
-   "comment_count": 21,
+   "points": 238,
+   "comment_count": 127,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 4,
-   "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
-   "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
-   "points": 454,
-   "comment_count": 164,
+   "title": "Hister: A private search engine for the pages you visit and the files you keep",
+   "url": "https://github.com/asciimoo/hister",
+   "points": 426,
+   "comment_count": 127,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 5,
-   "title": "Wax motor",
-   "url": "https://en.wikipedia.org/wiki/Wax_motor",
-   "points": 121,
-   "comment_count": 23,
+   "title": "More than 100k people in Japan are now aged 100 or older",
+   "url": "https://www.bbc.com/news/articles/cmzezj5e18xxo",
+   "points": 64,
+   "comment_count": 42,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 6,
-   "title": "Everybody's Lost Their Minds",
-   "url": "https://www.netmeister.org/blog/everybodys-lost-their-minds.html",
-   "points": 148,
-   "comment_count": 59,
+   "title": "Wax motor",
+   "url": "https://en.wikipedia.org/wiki/Wax_motor",
+   "points": 206,
+   "comment_count": 42,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 7,
-   "title": "CrowdSec Source Code Leak",
-   "url": "https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure",
-   "points": 107,
-   "comment_count": 30,
+   "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
+   "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
+   "points": 491,
+   "comment_count": 190,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 8,
-   "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
-   "url": "https://arxiv.org/abs/2609.18842",
-   "points": 78,
-   "comment_count": 23,
+   "title": "Flet 1.0 – Build cross-platform apps in Python",
+   "url": "https://flet.dev/",
+   "points": 42,
+   "comment_count": 15,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 9,
-   "title": "Rate limits on GitLab.com are changing",
-   "url": "https://about.gitlab.com/blog/rate-limit-change-2026/",
-   "points": 123,
-   "comment_count": 98,
+   "title": "Diplodocus, Long Thought Exclusively American, Turns Up in Spain",
+   "url": "https://www.sci.news/paleontology/spanish-diplodocus-15064.html",
+   "points": 18,
+   "comment_count": 13,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 10,
-   "title": "Towards Self-Driving Codebases",
-   "url": "https://blog.detail.dev/posts/towards-self-driving-codebases/",
-   "points": 76,
-   "comment_count": 63,
+   "title": "CrowdSec Source Code Leak",
+   "url": "https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure",
+   "points": 126,
+   "comment_count": 35,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 11,
-   "title": "Why I didn’t sign the Fields medallists’ letter",
-   "url": "https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/",
-   "points": 173,
-   "comment_count": 220,
+   "title": "Rate limits on GitLab.com are changing",
+   "url": "https://about.gitlab.com/blog/rate-limit-change-2026/",
+   "points": 146,
+   "comment_count": 104,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 12,
-   "title": "André Weil and the Hodge Conjecture",
-   "url": "https://jiahao116.github.io/Articles/",
-   "points": 20,
-   "comment_count": 4,
+   "title": "How Uber Protects Against Retry Storms",
+   "url": "https://www.uber.com/us/en/blog/protecting-against-retry-storms/",
+   "points": 26,
+   "comment_count": 15,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 13,
-   "title": "The American Religion of Self-Storage Facilities",
-   "url": "https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities",
-   "points": 150,
-   "comment_count": 263,
+   "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
+   "url": "https://arxiv.org/abs/2609.18842",
+   "points": 102,
+   "comment_count": 29,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 14,
-   "title": "Running Ubuntu on the Lenovo IdeaPad Duet",
-   "url": "https://vhaudiquet.fr/blog/duet-ubuntu/",
-   "points": 52,
-   "comment_count": 14,
+   "title": "Landing the Space Shuttle – A Flying Machine and the Thrill of a Lifetime",
+   "url": "https://inspire.eaa.org/2019/05/16/landing-the-space-shuttle-an-incredible-flying-machine-and-the-thrill-of-a-lifetime/",
+   "points": 9,
+   "comment_count": 2,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 15,
-   "title": "Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI",
-   "url": "https://zscc.ai/careers?job_id=109821",
-   "points": 0,
-   "comment_count": 4,
+   "title": "How GLM built its own inference infrastructure",
+   "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+   "points": 367,
+   "comment_count": 260,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 16,
-   "title": "T. Rex Had a Body Temperature of 97 Degrees",
-   "url": "https://www.nytimes.com/2026/09/16/science/trex-dinosaur-temperature-warm-blooded.html",
-   "points": 42,
-   "comment_count": 60,
+   "title": "Why I didn’t sign the Fields medallists’ letter",
+   "url": "https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/",
+   "points": 194,
+   "comment_count": 268,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -182,18 +182,18 @@
    "rank": 17,
    "title": "TSMC revealing details about next gen A14 node",
    "url": "https://iedm26.mapyourshow.com/8_0/sessions/session-details.cfm?scheduleid=331",
-   "points": 59,
-   "comment_count": 19,
+   "points": 83,
+   "comment_count": 30,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 18,
-   "title": "How GLM built its own inference infrastructure",
-   "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
-   "points": 336,
-   "comment_count": 250,
+   "title": "The American Religion of Self-Storage Facilities",
+   "url": "https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities",
+   "points": 181,
+   "comment_count": 317,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -202,68 +202,68 @@
    "rank": 19,
    "title": "How do we prevent mathemathics from devolving into the Medieval Era of secrecy?",
    "url": "https://mathoverflow.net/questions/515260/how-do-we-prevent-mathematics-from-devolving-into-the-medieval-era-of-secrecy",
-   "points": 38,
-   "comment_count": 14,
+   "points": 65,
+   "comment_count": 43,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 20,
-   "title": "Canto: A speech model built for the real world",
-   "url": "https://wisprflow.ai/canto",
-   "points": 19,
-   "comment_count": 7,
+   "title": "CCC invites all model citizens to 40C3",
+   "url": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
+   "points": 326,
+   "comment_count": 176,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 21,
-   "title": "One year of sponsored Servo development",
-   "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
-   "points": 332,
-   "comment_count": 134,
+   "title": "Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI",
+   "url": "https://zscc.ai/careers?job_id=109821",
+   "points": 0,
+   "comment_count": 7,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 22,
-   "title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
-   "url": "https://news.ycombinator.com/item?id=49743049",
-   "points": 31,
-   "comment_count": 41,
+   "title": "The most important product decision is what you don't build",
+   "url": "https://liamnugent.me/posts/what-you-dont-build/",
+   "points": 27,
+   "comment_count": 13,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 23,
-   "title": "Don't Make Job Referrals Public",
-   "url": "https://blog.melashri.net/micro/public-job-referral/",
-   "points": 24,
-   "comment_count": 12,
+   "title": "Sex, AI, and the Apocalypse",
+   "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
+   "points": 125,
+   "comment_count": 106,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 24,
-   "title": "CCC invites all model citizens to 40C3",
-   "url": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
-   "points": 304,
-   "comment_count": 166,
+   "title": "Running Ubuntu on the Lenovo IdeaPad Duet",
+   "url": "https://vhaudiquet.fr/blog/duet-ubuntu/",
+   "points": 62,
+   "comment_count": 22,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 25,
-   "title": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
-   "url": "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/",
-   "points": 165,
-   "comment_count": 118,
+   "title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
+   "url": "https://news.ycombinator.com/item?id=49743049",
+   "points": 42,
+   "comment_count": 46,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -272,48 +272,48 @@
    "rank": 26,
    "title": "Show HN: Share your AI Setup, Learn from others",
    "url": "https://mysetup.ai/",
-   "points": 150,
-   "comment_count": 78,
+   "points": 173,
+   "comment_count": 88,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 27,
-   "title": "Grand MS-DOS Gaming General MIDI Showdown",
-   "url": "https://blog.johnnovak.net/2023/03/05/grand-ms-dos-gaming-general-midi-showdown/",
-   "points": 70,
-   "comment_count": 8,
+   "title": "André Weil and the Hodge Conjecture",
+   "url": "https://jiahao116.github.io/Articles/",
+   "points": 29,
+   "comment_count": 10,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 28,
-   "title": "Vibe Coding is the new Internet Dating?",
-   "url": "https://joecmarshall.com/posts/vibecoding-is-the-new-internet-dating/",
-   "points": 47,
-   "comment_count": 84,
+   "title": "Show HN: Snapdrop: Instantly share files between devices. No setup, no signup",
+   "url": "https://snapdrop.me/",
+   "points": 13,
+   "comment_count": 11,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 29,
-   "title": "Vinix – A modern operating system written in V",
-   "url": "https://vinix-os.org/",
-   "points": 82,
-   "comment_count": 55,
+   "title": "Towards Self-Driving Codebases",
+   "url": "https://blog.detail.dev/posts/towards-self-driving-codebases/",
+   "points": 97,
+   "comment_count": 80,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 30,
-   "title": "LLM Classification Is Feature Engineering",
-   "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
-   "points": 82,
-   "comment_count": 16,
+   "title": "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
+   "url": "https://jakeasmith.com/blog/http-build-url/",
+   "points": 322,
+   "comment_count": 96,
    "input": {
     "url": "https://news.ycombinator.com"
    }

@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mu7d9lgk2x2g8vgak",
+ "snapshot_id": "j_mu7jjwwq15t3c66s2f",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-09-18T19:43:56.766Z",
+ "captured_at": "2026-09-18T22:39:56.046Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,126 +14,126 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-09-18T19:43:46.311Z",
-  "finished": "2026-09-18T19:43:47.981Z"
+  "started": "2026-09-18T22:39:45.396Z",
+  "finished": "2026-09-18T22:39:51.156Z"
  },
  "rows": [
   {
    "rank": 1,
-   "title": "Cloudflare Quick Tunnels",
-   "url": "https://try.cloudflare.com/",
-   "points": 380,
-   "comment_count": 179,
+   "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+   "url": "https://code.claude.com/docs/en/changelog",
+   "points": 246,
+   "comment_count": 97,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 2,
-   "title": "Saving another 100TB of RAM with math (and Rust)",
-   "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-   "points": 21,
-   "comment_count": 1,
+   "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+   "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+   "points": 374,
+   "comment_count": 172,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 3,
-   "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-   "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-   "points": 20,
-   "comment_count": 1,
+   "title": "Saving another 100TB of RAM",
+   "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+   "points": 149,
+   "comment_count": 32,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 4,
-   "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
-   "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
-   "points": 95,
-   "comment_count": 25,
+   "title": "Cloudflare Quick Tunnels",
+   "url": "https://try.cloudflare.com/",
+   "points": 497,
+   "comment_count": 216,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 5,
-   "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
-   "url": "https://cactuscompute.com/needle",
+   "title": "Xcode 27.1 Beta Release Notes",
+   "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
    "points": 99,
-   "comment_count": 50,
+   "comment_count": 55,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 6,
-   "title": "US Military had close call after using AI for hallucinated intelligence report",
-   "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
-   "points": 207,
-   "comment_count": 131,
+   "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+   "url": "https://arxiv.org/abs/2510.03215",
+   "points": 52,
+   "comment_count": 10,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 7,
-   "title": "OpenJev",
-   "url": "https://openjev.com/",
-   "points": 458,
-   "comment_count": 228,
+   "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+   "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
+   "points": 135,
+   "comment_count": 42,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 8,
-   "title": "North Korean nuclear test sets off years of earthquakes",
-   "url": "https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes",
-   "points": 139,
-   "comment_count": 113,
+   "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+   "url": "https://cactuscompute.com/needle",
+   "points": 144,
+   "comment_count": 71,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 9,
-   "title": "Cache-to-Cache: Direct Semantic Communication Between Large Language Models",
-   "url": "https://arxiv.org/abs/2510.03215",
-   "points": 9,
-   "comment_count": 0,
+   "title": "How to Write with an LLM",
+   "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+   "points": 341,
+   "comment_count": 236,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 10,
-   "title": "Systemd is a suite of basic building blocks",
-   "url": "https://brand.systemd.io/",
-   "points": 26,
-   "comment_count": 33,
+   "title": "OpenJev",
+   "url": "https://openjev.com/",
+   "points": 513,
+   "comment_count": 234,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 11,
-   "title": "C++26: Trivial infinite loops are no longer undefined behaviour",
-   "url": "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops",
-   "points": 97,
-   "comment_count": 131,
+   "title": "Cyclomatic Complexity in C#",
+   "url": "https://blog.ndepend.com/understanding-cyclomatic-complexity/",
+   "points": 14,
+   "comment_count": 7,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 12,
-   "title": "Apple releases iPhone Duo simulator and Xcode 27.1 beta",
-   "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
-   "points": 7,
-   "comment_count": 1,
+   "title": "The first new cat species discovered in 100 years",
+   "url": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
+   "points": 108,
+   "comment_count": 31,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -142,138 +142,138 @@
    "rank": 13,
    "title": "The Implications of Linguistic Illegibility for LLM Security",
    "url": "https://arxiv.org/abs/2609.02852",
-   "points": 9,
-   "comment_count": 3,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 14,
-   "title": "Show HN: Ax-check.com – Can agents use your product?",
-   "url": "https://www.ax-check.com/",
-   "points": 16,
+   "points": 38,
    "comment_count": 14,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
+   "rank": 14,
+   "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+   "url": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
+   "points": 95,
+   "comment_count": 50,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
    "rank": 15,
-   "title": "I vibed a proof of Conway's conjecture",
-   "url": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
-   "points": 149,
-   "comment_count": 141,
+   "title": "A search-and-inference database from scratch in pure Zig",
+   "url": "https://antfly.io/research/antfly-zig",
+   "points": 43,
+   "comment_count": 14,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 16,
-   "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-   "url": "https://www.hacktron.ai/blog/hacking-openai",
-   "points": 444,
-   "comment_count": 189,
+   "title": "From Geometry to Algebra and Back Again: 4000 Years of Papers (2023) [video]",
+   "url": "https://www.youtube.com/watch?v=1cRFfYQYGxE",
+   "points": 21,
+   "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 17,
-   "title": "The first new cat species discovered in 100 years",
-   "url": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
-   "points": 36,
-   "comment_count": 5,
+   "title": "C++26: Trivial infinite loops are no longer undefined behaviour",
+   "url": "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops",
+   "points": 127,
+   "comment_count": 161,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 18,
-   "title": "Our brain evolved from two primitive nervous systems that merged: Study",
-   "url": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
-   "points": 33,
-   "comment_count": 12,
+   "title": "How SpaceX streamlined the Raptor engine",
+   "url": "https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor",
+   "points": 136,
+   "comment_count": 20,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 19,
-   "title": "Inside ZCode: Silently uploading your Git history to the cloud",
-   "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
-   "points": 198,
-   "comment_count": 84,
+   "title": "Minimal Phone 2",
+   "url": "https://minimalcompany.com/",
+   "points": 148,
+   "comment_count": 139,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 20,
-   "title": "A search-and-inference database from scratch in pure Zig",
-   "url": "https://antfly.io/research/antfly-zig",
-   "points": 23,
-   "comment_count": 4,
+   "title": "Inside ZCode: Silently uploading your Git history to the cloud",
+   "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
+   "points": 236,
+   "comment_count": 88,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 21,
-   "title": "Cekura (YC F24) Is Hiring",
-   "url": "https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us",
-   "points": 0,
-   "comment_count": 7,
+   "title": "I vibed a proof of Conway's conjecture",
+   "url": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
+   "points": 196,
+   "comment_count": 173,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 22,
-   "title": "Mathematicians Build Long-Awaited Graph Sandwich",
-   "url": "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/",
-   "points": 48,
-   "comment_count": 11,
+   "title": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
+   "url": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157",
+   "points": 74,
+   "comment_count": 12,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 23,
-   "title": "How SpaceX streamlined the Raptor engine",
-   "url": "https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor",
-   "points": 72,
-   "comment_count": 3,
+   "title": "Size-Specialized Memory Allocation",
+   "url": "https://go.dev/blog/size-specialized-allocations",
+   "points": 7,
+   "comment_count": 2,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 24,
-   "title": "Minimal Phone 2",
-   "url": "https://minimalcompany.com/",
-   "points": 75,
-   "comment_count": 73,
+   "title": "Korea raises data breach fines to 10% of revenue",
+   "url": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
+   "points": 212,
+   "comment_count": 67,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 25,
-   "title": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
-   "url": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157",
-   "points": 37,
-   "comment_count": 4,
+   "title": "US Military had close call after using AI for hallucinated intelligence report",
+   "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+   "points": 335,
+   "comment_count": 266,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 26,
-   "title": "How to Write with an LLM",
-   "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-   "points": 294,
-   "comment_count": 206,
+   "title": "Cekura (YC F24) Is Hiring",
+   "url": "https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us",
+   "points": 0,
+   "comment_count": 10,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -282,38 +282,38 @@
    "rank": 27,
    "title": "Border agents can search cellphones without a warrant or reasonable suspicion",
    "url": "https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/",
-   "points": 51,
-   "comment_count": 28,
+   "points": 164,
+   "comment_count": 124,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 28,
-   "title": "Show HN: Scry, programmable internet search w/ congestion pricing",
-   "url": "https://scry.io/",
-   "points": 27,
-   "comment_count": 11,
+   "title": "Mathematicians Build Long-Awaited Graph Sandwich",
+   "url": "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/",
+   "points": 63,
+   "comment_count": 15,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 29,
-   "title": "Jemalloc 5.4.0",
-   "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
-   "points": 307,
-   "comment_count": 79,
+   "title": "Show HN: Ax-check.com – Can agents use your product?",
+   "url": "https://www.ax-check.com/",
+   "points": 27,
+   "comment_count": 25,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 30,
-   "title": "I don't like passkeys",
-   "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
-   "points": 645,
-   "comment_count": 633,
+   "title": "Show HN: Scry, programmable internet search w/ congestion pricing",
+   "url": "https://scry.io/",
+   "points": 41,
+   "comment_count": 18,
    "input": {
     "url": "https://news.ycombinator.com"
    }

@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mu7p68g4pmemstls2",
+ "snapshot_id": "j_mu7zae3zmcxl9mfh7",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-09-19T01:17:15.302Z",
+ "captured_at": "2026-09-19T06:00:25.463Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,116 +14,116 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-09-19T01:17:04.915Z",
-  "finished": "2026-09-19T01:17:07.029Z"
+  "started": "2026-09-19T06:00:14.974Z",
+  "finished": "2026-09-19T06:00:23.042Z"
  },
  "rows": [
   {
    "rank": 1,
-   "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-   "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-   "points": 501,
-   "comment_count": 244,
+   "title": "San Francisco Onion Futures Company",
+   "url": "https://onionfutures.com/",
+   "points": 107,
+   "comment_count": 33,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 2,
-   "title": "Cloudflare Quick Tunnels",
-   "url": "https://try.cloudflare.com/",
-   "points": 560,
-   "comment_count": 242,
+   "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+   "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+   "points": 723,
+   "comment_count": 353,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 3,
-   "title": "Saving another 100TB of RAM",
-   "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-   "points": 218,
-   "comment_count": 40,
+   "title": "Typesafe-computer-use drives a Mac toward a goal for 1/50th of a cent per step",
+   "url": "https://github.com/awlevin/typesafe-computer-use",
+   "points": 36,
+   "comment_count": 9,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 4,
-   "title": "The Farnese letter",
-   "url": "https://simonklee.dk/farnese-letter",
-   "points": 24,
-   "comment_count": 3,
+   "title": "SDCC – Small Device C Compiler",
+   "url": "https://sdcc.sourceforge.net/",
+   "points": 44,
+   "comment_count": 10,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 5,
-   "title": "Xcode 27.1 Beta Release Notes",
-   "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
-   "points": 111,
-   "comment_count": 65,
+   "title": "Science Is Open Software",
+   "url": "https://jepedersen.dk/blog/202505_research/",
+   "points": 50,
+   "comment_count": 21,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 6,
-   "title": "How to Write with an LLM",
-   "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-   "points": 383,
-   "comment_count": 265,
+   "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+   "url": "https://spectrum.ieee.org/llms-for-chip-design",
+   "points": 98,
+   "comment_count": 73,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 7,
-   "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-   "url": "https://spectrum.ieee.org/llms-for-chip-design",
-   "points": 46,
-   "comment_count": 46,
+   "title": "Cloudflare Quick Tunnels",
+   "url": "https://try.cloudflare.com/",
+   "points": 657,
+   "comment_count": 272,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 8,
-   "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-   "url": "https://arxiv.org/abs/2510.03215",
-   "points": 66,
-   "comment_count": 12,
+   "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+   "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
+   "points": 8,
+   "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 9,
-   "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
-   "url": "https://cactuscompute.com/needle",
-   "points": 162,
-   "comment_count": 77,
+   "title": "Saving another 100TB of RAM",
+   "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+   "points": 304,
+   "comment_count": 59,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 10,
-   "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
-   "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
-   "points": 148,
-   "comment_count": 52,
+   "title": "Why building a Rust LSP is hard",
+   "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
+   "points": 36,
+   "comment_count": 18,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 11,
-   "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
-   "url": "https://code.claude.com/docs/en/changelog",
-   "points": 500,
-   "comment_count": 181,
+   "title": "How to Write with an LLM",
+   "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+   "points": 458,
+   "comment_count": 307,
    "input": {
     "url": "https://news.ycombinator.com"
    }
@@ -132,188 +132,188 @@
    "rank": 12,
    "title": "The first new cat species discovered in 100 years",
    "url": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
-   "points": 162,
-   "comment_count": 52,
+   "points": 235,
+   "comment_count": 88,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 13,
-   "title": "OpenJev",
-   "url": "https://openjev.com/",
-   "points": 551,
-   "comment_count": 245,
+   "title": "Xcode 27.1 Beta Release Notes",
+   "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
+   "points": 134,
+   "comment_count": 81,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 14,
-   "title": "Cyclomatic Complexity in C#",
-   "url": "https://blog.ndepend.com/understanding-cyclomatic-complexity/",
-   "points": 28,
-   "comment_count": 14,
+   "title": "You can run Git on object storage if you re-make packfiles",
+   "url": "https://www.tigrisdata.com/blog/objgit-packfiles/",
+   "points": 8,
+   "comment_count": 1,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 15,
-   "title": "Column built an issuer processor from scratch",
-   "url": "https://column.com/card-issuing/",
-   "points": 22,
-   "comment_count": 5,
+   "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+   "url": "https://cactuscompute.com/needle",
+   "points": 189,
+   "comment_count": 82,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 16,
-   "title": "The Implications of Linguistic Illegibility for LLM Security",
-   "url": "https://arxiv.org/abs/2609.02852",
-   "points": 51,
-   "comment_count": 19,
+   "title": "OpenJev",
+   "url": "https://openjev.com/",
+   "points": 595,
+   "comment_count": 254,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 17,
-   "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
-   "url": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
-   "points": 103,
-   "comment_count": 53,
+   "title": "Goroutine Leak Profiles",
+   "url": "https://go.dev/blog/goroutine-leak-profiles",
+   "points": 15,
+   "comment_count": 2,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 18,
-   "title": "C++26: Trivial infinite loops are no longer undefined behaviour",
-   "url": "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops",
-   "points": 146,
-   "comment_count": 195,
+   "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+   "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
+   "points": 173,
+   "comment_count": 63,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 19,
-   "title": "Minimal Phone 2",
-   "url": "https://minimalcompany.com/",
-   "points": 179,
-   "comment_count": 171,
+   "title": "The Farnese letter",
+   "url": "https://simonklee.dk/farnese-letter",
+   "points": 38,
+   "comment_count": 6,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 20,
-   "title": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
-   "url": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157",
-   "points": 101,
-   "comment_count": 22,
+   "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+   "url": "https://arxiv.org/abs/2510.03215",
+   "points": 78,
+   "comment_count": 12,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 21,
-   "title": "Inside ZCode: Silently uploading your Git history to the cloud",
-   "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
-   "points": 252,
-   "comment_count": 90,
+   "title": "Minimal Phone 2",
+   "url": "https://minimalcompany.com/",
+   "points": 231,
+   "comment_count": 202,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 22,
-   "title": "How SpaceX streamlined the Raptor engine",
-   "url": "https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor",
-   "points": 158,
-   "comment_count": 33,
+   "title": "Cyclomatic Complexity in C#",
+   "url": "https://blog.ndepend.com/understanding-cyclomatic-complexity/",
+   "points": 48,
+   "comment_count": 17,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 23,
-   "title": "I vibed a proof of Conway's conjecture",
-   "url": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
-   "points": 209,
-   "comment_count": 181,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 24,
-   "title": "Size-Specialized Memory Allocation",
-   "url": "https://go.dev/blog/size-specialized-allocations",
-   "points": 14,
+   "title": "LispBM is a concurrent Lisp for microcontrollers with message passing",
+   "url": "https://www.lispbm.com/",
+   "points": 21,
    "comment_count": 3,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
+   "rank": 24,
+   "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+   "url": "https://code.claude.com/docs/en/changelog",
+   "points": 604,
+   "comment_count": 214,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
    "rank": 25,
-   "title": "A search-and-inference database from scratch in pure Zig",
-   "url": "https://antfly.io/research/antfly-zig",
-   "points": 53,
-   "comment_count": 16,
+   "title": "Inside ZCode: Silently uploading your Git history to the cloud",
+   "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
+   "points": 285,
+   "comment_count": 96,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 26,
-   "title": "North Korean nuclear test sets off years of earthquakes",
-   "url": "https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes",
-   "points": 182,
-   "comment_count": 151,
+   "title": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
+   "url": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157",
+   "points": 129,
+   "comment_count": 43,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 27,
-   "title": "From Geometry to Algebra and Back Again: 4000 Years of Papers (2023) [video]",
-   "url": "https://www.youtube.com/watch?v=1cRFfYQYGxE",
-   "points": 27,
-   "comment_count": 0,
+   "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+   "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+   "points": 94,
+   "comment_count": 11,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 28,
-   "title": "Mathematicians Build Long-Awaited Graph Sandwich",
-   "url": "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/",
-   "points": 69,
-   "comment_count": 19,
+   "title": "How SpaceX streamlined the Raptor engine",
+   "url": "https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor",
+   "points": 191,
+   "comment_count": 67,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 29,
-   "title": "US Military had close call after using AI for hallucinated intelligence report",
-   "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
-   "points": 394,
-   "comment_count": 307,
+   "title": "The Implications of Linguistic Illegibility for LLM Security",
+   "url": "https://arxiv.org/abs/2609.02852",
+   "points": 64,
+   "comment_count": 26,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 30,
-   "title": "Cekura (YC F24) Is Hiring",
-   "url": "https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us",
-   "points": 0,
-   "comment_count": 13,
+   "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+   "url": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
+   "points": 112,
+   "comment_count": 60,
    "input": {
     "url": "https://news.ycombinator.com"
    }

